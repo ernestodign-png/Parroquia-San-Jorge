@@ -230,7 +230,7 @@
                 { name: 'Actividades', href: '#actividades' }, 
                 { name: 'Nuestra Fe', href: '#fe' },
                 { name: 'Biblioteca', href: '#biblioteca' },
-                { name: 'Galería', href: '#galeria' }, // Nuevo enlace
+                { name: 'Galería', href: '#galeria' },
                 { name: 'Ubicación', href: '#ubicacion' },
             ];
 
@@ -371,13 +371,11 @@
             );
         };
 
-        // Sección Nuestra Fe (Expandida con San Jorge y Ayuno)
+        // Sección Nuestra Fe
         const Faith = () => {
             const [activeModal, setActiveModal] = useState(null);
-
             const closeModal = () => setActiveModal(null);
 
-            // Función para manejar el "Leer más" principal
             const scrollToLibrary = () => {
                 const element = document.getElementById('biblioteca');
                 if (element) {
@@ -442,20 +440,15 @@
                         </div>
                     </div>
 
-                    {/* Modales Dinámicos */}
                     <InfoModal 
                         isOpen={activeModal === 'orthodoxy'} 
                         onClose={closeModal} 
                         title="¿Qué es la Iglesia Ortodoxa?"
                     >
                         <p><strong className="text-[#761C1C]">La Iglesia de los Apóstoles:</strong> La Iglesia Ortodoxa es la Iglesia Cristiana original fundada por Jesucristo y sus Apóstoles en Pentecostés (año 33 d.C.). No es una "rama" ni una "denominación" surgida siglos después, sino el tronco mismo del cristianismo que ha mantenido la fe inalterada.</p>
-                        
-                        <p><strong className="text-[#761C1C]">Fidelidad a la Verdad:</strong> A diferencia de otras confesiones, la Ortodoxia no ha añadido nuevos dogmas (como el Purgatorio, la Inmaculada Concepción o la Infalibilidad Papal) ni ha quitado elementos esenciales (como los Sacramentos o la veneración a los Santos, como hacen los protestantes). Nos guiamos por las Sagradas Escrituras y la Santa Tradición, tal como fueron interpretadas por los siete Concilios Ecuménicos.</p>
-                        
-                        <p><strong className="text-[#761C1C]">Sucesión Apostólica:</strong> Nuestros obispos y sacerdotes descienden en una línea ininterrumpida de imposición de manos desde los propios Apóstoles hasta el día de hoy, garantizando la validez de nuestros sacramentos.</p>
-                        
-                        <p><strong className="text-[#761C1C]">Vida Espiritual y Adoración:</strong> El objetivo de la vida cristiana es la <em>Theosis</em> (divinización): la sanación del alma y la unión real con Dios por medio de Su Gracia. La Divina Liturgia no es un acto intelectual ni un entretenimiento, sino la participación del cielo en la tierra.</p>
-                        
+                        <p><strong className="text-[#761C1C]">Fidelidad a la Verdad:</strong> A diferencia de otras confesiones, la Ortodoxia no ha añadido nuevos dogmas ni ha quitado elementos esenciales. Nos guiamos por las Sagradas Escrituras y la Santa Tradición.</p>
+                        <p><strong className="text-[#761C1C]">Sucesión Apostólica:</strong> Nuestros obispos y sacerdotes descienden en una línea ininterrumpida de imposición de manos desde los propios Apóstoles.</p>
+                        <p><strong className="text-[#761C1C]">Vida Espiritual y Adoración:</strong> El objetivo de la vida cristiana es la <em>Theosis</em> (divinización): la sanación del alma y la unión real con Dios por medio de Su Gracia.</p>
                         <div className="mt-4 p-4 bg-[#C5A059] bg-opacity-20 border-l-4 border-[#761C1C] rounded italic text-base">
                             "Esta es la Fe de los Apóstoles, esta es la Fe de los Padres, esta es la Fe de los Ortodoxos, esta Fe ha sostenido al Universo." — Synodikon de la Ortodoxia
                         </div>
@@ -466,12 +459,9 @@
                         onClose={closeModal} 
                         title="San Jorge: El Gran Mártir y Trofeo-portador"
                     >
-                        <p><strong className="text-[#761C1C]">Vida Histórica:</strong> Nacido en Capadocia (siglo III) de padres cristianos, Jorge alcanzó el rango de tribuno en el ejército romano. Durante la gran persecución del emperador Diocleciano, renunció a su carrera y riqueza, confesando valientemente su fe en Cristo frente al tribunal pagano.</p>
-                        
-                        <p><strong className="text-[#761C1C]">El Martirio:</strong> Sometido a torturas inhumanas (la rueda, la cal viva, flagelación), Jorge permaneció inquebrantable, atribuyendo su fortaleza únicamente a Cristo. Su testimonio convirtió a muchos, incluida la emperatriz Alejandra. Fue finalmente decapitado en el año 303 d.C.</p>
-                        
-                        <p><strong className="text-[#761C1C]">Significado del Título "Tropaiophoros":</strong> La Iglesia lo llama "Portador del Trofeo" no por victorias militares terrenales, sino porque triunfó sobre el pecado, el miedo y la muerte misma a través de su sacrificio. Es patrono de los soldados, protectores y de quienes luchan contra la injusticia.</p>
-                        
+                        <p><strong className="text-[#761C1C]">Vida Histórica:</strong> Nacido en Capadocia (siglo III), Jorge alcanzó el rango de tribuno en el ejército romano. Renunció a su carrera y riqueza, confesando valientemente su fe en Cristo.</p>
+                        <p><strong className="text-[#761C1C]">El Martirio:</strong> Sometido a torturas inhumanas, permaneció inquebrantable. Fue finalmente decapitado en el año 303 d.C.</p>
+                        <p><strong className="text-[#761C1C]">Significado del Título "Tropaiophoros":</strong> La Iglesia lo llama "Portador del Trofeo" porque triunfó sobre el pecado, el miedo y la muerte misma a través de su sacrificio.</p>
                         <div className="mt-4 p-4 bg-[#C5A059] bg-opacity-20 border-l-4 border-[#761C1C] rounded italic text-base">
                             "Como libertador de los cautivos y defensor de los pobres, médico de los enfermos y paladín de los reyes, oh Trofeo-portador y Gran Mártir Jorge, intercede ante Cristo Dios para que salve nuestras almas." — Tropario de San Jorge
                         </div>
@@ -482,13 +472,10 @@
                         onClose={closeModal} 
                         title="El Ayuno y la Ascética Ortodoxa"
                     >
-                        <p><strong className="text-[#761C1C]">El Propósito del Ayuno:</strong> En la Ortodoxia, el ayuno no es una dieta ni un castigo al cuerpo. Es una herramienta ascética (*askesis* = entrenamiento) diseñada para someter las pasiones de la carne al gobierno del espíritu. Al controlar el hambre (el instinto más básico), aprendemos a controlar la ira, la lujuria y el orgullo.</p>
-                        
-                        <p><strong className="text-[#761C1C]">La Regla Semanal:</strong> Tradicionalmente, los cristianos ortodoxos ayunan (abstención de carne, lácteos y productos animales) los <strong>miércoles</strong> (recordando la traición de Judas) y los <strong>viernes</strong> (recordando la Crucifixión de Cristo). Esto nos mantiene espiritualmente vigilantes durante todo el año.</p>
-                        
-                        <p><strong className="text-[#761C1C]">Ayuno Total vs. Espiritual:</strong> San Juan Crisóstomo advierte: <em>"¿De qué sirve no comer carne si devoras a tu hermano con chismes?"</em>. El ayuno físico debe ir acompañado inseparablemente de la oración, la limosna y la abstención del pecado.</p>
-                        
-                        <p><strong className="text-[#761C1C]">Los Grandes Periodos:</strong> Además del ayuno semanal, observamos la Gran Cuaresma (antes de Pascua), el Ayuno de Navidad, el de los Apóstoles y el de la Dormición de la Virgen. Estos son tiempos de arrepentimiento intensivo (*Metanoia*) y renovación.</p>
+                        <p><strong className="text-[#761C1C]">El Propósito del Ayuno:</strong> En la Ortodoxia, el ayuno no es una dieta, es una herramienta ascética diseñada para someter las pasiones de la carne al gobierno del espíritu.</p>
+                        <p><strong className="text-[#761C1C]">La Regla Semanal:</strong> Tradicionalmente ayunamos los miércoles (traición de Judas) y los viernes (Crucifixión).</p>
+                        <p><strong className="text-[#761C1C]">Ayuno Total vs. Espiritual:</strong> San Juan Crisóstomo advierte: <em>"¿De qué sirve no comer carne si devoras a tu hermano con chismes?"</em>. El ayuno físico debe ir acompañado de oración y limosna.</p>
+                        <p><strong className="text-[#761C1C]">Los Grandes Periodos:</strong> Observamos la Gran Cuaresma, el Ayuno de Navidad, el de los Apóstoles y el de la Dormición de la Virgen.</p>
                     </InfoModal>
                 </section>
             );
@@ -496,11 +483,13 @@
 
         // Sección Biblioteca (Descargas PDF)
         const Library = () => {
+            // NOTA TÁCTICA: Usamos %20 para reemplazar los espacios en las URL.
+            // Las carpetas deben llamarse EXACTAMENTE "Documentos" (con D mayúscula).
             const documents = [
                 { title: "Boletín Dominical", desc: "Lecturas y reflexiones de la semana.", type: "PDF", link: "#" }, 
-                { title: "La Iglesia Ortodoxa", desc: "Introducción esencial a la fe y tradición de la Iglesia Ortodoxa.", type: "PDF", link: "file:///D:/Desktop/Pagina%20Web/Documentos/Iglesia%20Ortodoxa%20-%20Kallistos%20Ware.pdf" },
+                { title: "La Iglesia Ortodoxa", desc: "Introducción esencial a la fe y tradición de la Iglesia Ortodoxa.", type: "PDF", link: "Documentos/Iglesia%20Ortodoxa%20-%20Kallistos%20Ware.pdf" },
                 { title: "Vida de los Santos", desc: "Sinaxario del mes en curso.", type: "PDF", link: "#" },
-                { title: "Libro de oraciones", desc: "Regla de oración diaria para el fiel.", type: "PDF", link: "file:///D:/Desktop/Pagina%20Web/Documentos/Libro%20de%20Oraciones.pdf" },
+                { title: "Libro de oraciones", desc: "Regla de oración diaria para el fiel.", type: "PDF", link: "Documentos/Libro%20de%20Oraciones.pdf" },
             ];
 
             return (
@@ -509,7 +498,6 @@
                         <div className="text-center mb-12">
                             <h2 className="text-3xl font-serif text-[#C5A059] mb-4">Biblioteca Digital</h2>
                             <p className="text-gray-400">Materiales para la formación y la vida espiritual.</p>
-                            <p className="text-xs text-gray-500 mt-2">(Reemplazar los enlaces '#' en el código con las rutas de tus archivos PDF reales)</p>
                         </div>
                         
                         <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
@@ -539,18 +527,15 @@
         const Gallery = () => {
             const [selectedPhoto, setSelectedPhoto] = useState(null);
 
-            // INSTRUCCIONES TÁCTICAS PARA AGREGAR FOTOS:
-            // 1. Crea una carpeta llamada "img" junto a este archivo index.html.
-            // 2. Guarda tus fotos ahí.
-            // 3. Reemplaza los enlaces de abajo por: "img/Foto1.jpg", "img/Foto2.jpg", etc.
-            // 4. Escribe la descripción de lo que sucedió en "desc".
+            // NOTA TÁCTICA: La carpeta debe llamarse "Img" (con I mayúscula).
+            // Asegurate de que los archivos sean .jpg (minúscula) en tu carpeta.
             const photos = [
-                { src: "img/Foto1.jpg", desc: "Nueva Comisión Directiva de la Unión Sirio Libanesa de Salta" },
-                { src: "img/Foto2.jpg", desc: "La Unión de Jóvenes Ortodoxos de Salta participó de un encuentro interconfesional de jóvenes de la provincia." },
-                { src: "img/Foto3.jpg", desc: "Visita Pastoral De S.E.R. Monseñor Santiago El Khoury." },
-                { src: "img/Foto4.jpg", desc: "Divina Liturgia – Parroquia San Elías, Tartagal" },
-                { src: "img/Foto5.jpg", desc: "Solemne Procesión Del Santo Mártir San Jorge." },
-                { src: "img/Foto6.jpg", desc: "Exaltación De La Santa Cruz." }
+                { src: "Img/foto1.jpg", desc: "Nueva Comisión Directiva de la Unión Sirio Libanesa de Salta" },
+                { src: "Img/foto2.jpg", desc: "La Unión de Jóvenes Ortodoxos de Salta participó de un encuentro interconfesional de jóvenes de la provincia." },
+                { src: "Img/foto3.jpg", desc: "Visita Pastoral De S.E.R. Monseñor Santiago El Khoury." },
+                { src: "Img/foto4.jpg", desc: "Divina Liturgia – Parroquia San Elías, Tartagal" },
+                { src: "Img/foto5.jpg", desc: "Solemne Procesión Del Santo Mártir San Jorge." },
+                { src: "Img/foto6.jpg", desc: "Exaltación De La Santa Cruz." }
             ];
 
             return (
@@ -559,7 +544,7 @@
                         <div className="text-center mb-12">
                             <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A1A] mb-4">Vida en Comunidad</h2>
                             <div className="w-24 h-1 bg-[#761C1C] mx-auto"></div>
-                            <p className="mt-4 text-gray-600">Imágenes de nuestra parroquia y servicios divinos. </p>
+                            <p className="mt-4 text-gray-600">Imágenes de nuestra parroquia y servicios divinos. (Click para ampliar)</p>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-6xl mx-auto">
                             {photos.map((photo, idx) => (
