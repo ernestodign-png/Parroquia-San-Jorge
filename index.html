@@ -201,12 +201,12 @@
 
         // --- COMPONENTES ---
 
-        // Modal Genérico
-        const InfoModal = ({ isOpen, onClose, title, children }) => {
+        // Modal Genérico Mejorado (Admite ancho variable)
+        const InfoModal = ({ isOpen, onClose, title, children, maxWidth = "max-w-2xl" }) => {
             if (!isOpen) return null;
             return (
                 <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black bg-opacity-80 backdrop-blur-sm transition-opacity" onClick={onClose}>
-                    <div className="bg-[#F9F7F2] rounded-lg max-w-2xl w-full max-h-[85vh] overflow-y-auto shadow-2xl border-2 border-[#C5A059] animate-modal" onClick={e => e.stopPropagation()}>
+                    <div className={`bg-[#F9F7F2] rounded-lg ${maxWidth} w-full max-h-[85vh] overflow-y-auto shadow-2xl border-2 border-[#C5A059] animate-modal`} onClick={e => e.stopPropagation()}>
                         <div className="sticky top-0 bg-[#F9F7F2] p-4 border-b border-[#C5A059] flex justify-between items-center z-10">
                             <h2 className="text-2xl font-serif font-bold text-[#1A1A1A]">{title}</h2>
                             <button onClick={onClose} className="text-gray-500 hover:text-[#761C1C] transition-colors p-1 rounded hover:bg-gray-200">
@@ -226,7 +226,7 @@
             );
         };
 
-        // Navegación
+        // Navegación (REFACTORIZADA - Estructura Desplegable)
         const Navbar = () => {
             const [isOpen, setIsOpen] = useState(false);
             const [scrolled, setScrolled] = useState(false);
@@ -237,33 +237,60 @@
                 return () => window.removeEventListener('scroll', handleScroll);
             }, []);
 
-            const navLinks = [
+            // Estructura de navegación jerárquica
+            const navigation = [
                 { name: 'Inicio', href: '#inicio' },
                 { name: 'Horarios', href: '#horarios' },
-                { name: 'Patrono', href: '#patrono' }, 
-                { name: 'Santoral', href: '#santoral' }, 
-                { name: 'Noticias', href: '#noticias' }, // Nuevo enlace
-                { name: 'Actividades', href: '#actividades' }, 
-                { name: 'Nuestra Fe', href: '#fe' },
-                { name: 'Biblioteca', href: '#biblioteca' },
-                { name: 'Galería', href: '#galeria' },
+                { 
+                    name: 'Espiritualidad', 
+                    children: [
+                        { name: 'Nuestra Fe', href: '#fe' },
+                        { name: 'Santo Patrono', href: '#patrono' },
+                        { name: 'Santoral', href: '#santoral' },
+                        { name: 'Biblioteca', href: '#biblioteca' }
+                    ]
+                },
+                { 
+                    name: 'Vida Parroquial', 
+                    children: [
+                        { name: 'Noticias', href: '#noticias' },
+                        { name: 'Actividades', href: '#actividades' },
+                        { name: 'Galería', href: '#galeria' }
+                    ]
+                },
                 { name: 'Ubicación', href: '#ubicacion' },
             ];
 
             return (
                 <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-[#1A1A1A] shadow-lg py-2' : 'bg-transparent py-4'}`}>
                     <div className="container mx-auto px-4 flex justify-between items-center">
-                        <div className="flex items-center space-x-2 text-white">
-                            <span className="text-2xl font-serif font-bold text-[#C5A059]">San Jorge</span>
-                            <span className="hidden md:block text-sm uppercase tracking-widest border-l border-[#C5A059] pl-2">Parroquia Ortodoxa | Salta</span>
-                        </div>
+                        {/* Logo Link ahora clickable para volver a inicio */}
+                        <a href="#inicio" className="flex items-center space-x-2 text-white group cursor-pointer">
+                            <span className="text-2xl font-serif font-bold text-[#C5A059] group-hover:text-white transition-colors">San Jorge</span>
+                            <span className="hidden md:block text-sm uppercase tracking-widest border-l border-[#C5A059] pl-2 group-hover:border-white transition-colors">Parroquia Ortodoxa | Salta</span>
+                        </a>
 
-                        {/* Desktop Menu */}
-                        <div className="hidden md:flex space-x-8">
-                            {navLinks.map((link) => (
-                                <a key={link.name} href={link.href} className="text-white hover:text-[#C5A059] transition-colors uppercase text-sm font-bold tracking-wide">
-                                    {link.name}
-                                </a>
+                        {/* Desktop Menu - Con Dropdowns */}
+                        <div className="hidden md:flex space-x-6 items-center">
+                            {navigation.map((item) => (
+                                item.children ? (
+                                    <div key={item.name} className="relative group">
+                                        <button className="text-white hover:text-[#C5A059] transition-colors uppercase text-sm font-bold tracking-wide flex items-center gap-1 py-4">
+                                            {item.name} <ChevronRight size={14} className="rotate-90" />
+                                        </button>
+                                        <div className="absolute left-0 mt-0 w-48 bg-[#1A1A1A] border-t-2 border-[#C5A059] shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-y-2 group-hover:translate-y-0">
+                                            {item.children.map(child => (
+                                                <a key={child.name} href={child.href} className="block px-4 py-3 text-white hover:bg-[#252525] hover:text-[#C5A059] text-sm border-b border-gray-800 last:border-0 font-serif">
+                                                    {child.name}
+                                                </a>
+                                            ))}
+                                        </div>
+                                    </div>
+                                ) : (
+                                    <a key={item.name} href={item.href} className="text-white hover:text-[#C5A059] transition-colors uppercase text-sm font-bold tracking-wide">
+                                        {item.name}
+                                    </a>
+                                )
                             ))}
                         </div>
 
@@ -275,12 +302,25 @@
 
                     {/* Mobile Menu Dropdown */}
                     {isOpen && (
-                        <div className="md:hidden bg-[#1A1A1A] border-t border-gray-800 absolute w-full">
-                            <div className="flex flex-col p-4 space-y-4">
-                                {navLinks.map((link) => (
-                                    <a key={link.name} href={link.href} onClick={() => setIsOpen(false)} className="text-white hover:text-[#C5A059] text-lg font-serif">
-                                        {link.name}
-                                    </a>
+                        <div className="md:hidden bg-[#1A1A1A] border-t border-gray-800 absolute w-full max-h-[80vh] overflow-y-auto shadow-2xl">
+                            <div className="flex flex-col p-4 space-y-2">
+                                {navigation.map((item) => (
+                                    item.children ? (
+                                        <div key={item.name} className="border-b border-gray-800 pb-2">
+                                            <div className="text-[#C5A059] font-bold uppercase text-xs mb-2 mt-2 tracking-widest">{item.name}</div>
+                                            <div className="pl-4 flex flex-col space-y-3">
+                                                {item.children.map(child => (
+                                                    <a key={child.name} href={child.href} onClick={() => setIsOpen(false)} className="text-white hover:text-[#C5A059] text-lg font-serif">
+                                                        {child.name}
+                                                    </a>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    ) : (
+                                        <a key={item.name} href={item.href} onClick={() => setIsOpen(false)} className="text-white hover:text-[#C5A059] text-lg font-serif py-2 border-b border-gray-800">
+                                            {item.name}
+                                        </a>
+                                    )
                                 ))}
                             </div>
                         </div>
@@ -463,20 +503,20 @@ Entregó su vida a los pobres, ayudando en secreto a los necesitados. Perseguida
             );
         };
 
-        // NUEVO COMPONENTE: NOTICIAS PARROQUIALES
+        // NUEVO COMPONENTE: NOTICIAS PARROQUIALES (Modificado para modal grande y ajuste de imagen)
         const ParishNews = () => {
             const [selectedNews, setSelectedNews] = useState(null);
 
             // INSTRUCCIÓN TÁCTICA PARA AGREGAR NOTICIAS:
-            // Agrega objetos al array 'newsItems' con título, fecha, imagen y contenido.
-            // Para el contenido largo (content), usá comillas invertidas `` si hay saltos de línea.
+            // Agrega objetos al array 'newsItems'.
             const newsItems = [
                 {
                     id: 1,
                     title: "Mensaje Pastoral de S.E.R. Metropolita Santiago por la Natividad: «Dos niños en el pesebre»",
                     date: "24 de Diciembre, 2025",
-                    img: "noticia1.webp", // Usando foto existente de la galería como ejemplo
-                    summary: "La ofrenda de sí mismo ante la Encarnación. S.E.R. Monseñor Santiago ilustra el misterio de la Natividad con el relato de un huérfano que, despojado de todo bien terrenal, ofreció su propio calor corporal al Niño Dios. Un recordatorio contundente de que la única dádiva digna ante el Creador es la entrega total de nuestra vida.",
+                    img: "Img/noticia1.webp", 
+                    position: "object-top", // Ejemplo: Enfocar la parte superior
+                    summary: "La ofrenda de sí mismo ante la Encarnación. S.E.R. Monseñor Santiago ilustra el misterio de la Natividad con el relato de un huérfano que, despojado de todo bien terrenal, ofreció su propio calor corporal al Niño Dios.",
                     content: `Hermanos hijos en nuestro Señor Jesucristo, venerable clero y pueblo fiel amante de Dios,
 «Gloria a Dios en las alturas, y en la tierra paz, y entre los hombres benevolencia».
 Mi mensaje para ustedes en la fiesta de la Navidad es esta historia:
@@ -502,13 +542,21 @@ Metropolita de Buenos Aires y toda la Argentina.`
                 },
                 {
                     id: 2,
-                    title: "Campaña de Alimentos",
-                    date: "Permanente",
-                    img: "Img/foto1.jpg", 
-                    summary: "Continuamos recolectando alimentos no perecederos para las familias necesitadas del barrio.",
-                    content: `Recordamos a todos los feligreses que la canasta de caridad se encuentra en el nártex de la iglesia. Estamos recolectando especialmente: arroz, fideos, aceite, azúcar y leche en polvo.
-                    
-                    "Tuve hambre y me disteis de comer". La fe sin obras está muerta; nuestra práctica ortodoxa exige que el ayuno litúrgico vaya acompañado de la limosna efectiva.`
+                    title: "Mensaje de Su Beatitud Juan X: Una invitación a «romper la inmovilidad» y renovar la esperanza",
+                    date: "25 de Diciembre, 2025",
+                    img: "Img/noticia2.webp", 
+                    position: "object-top", 
+                    summary: "La fuerza en la debilidad. Su Beatitud Juan X exhorta a los fieles a no rendirse ante las pruebas y aflicciones del mundo. Un llamado firme a abandonar la soberbia y abrazar la caridad activa.",
+                    content: `Carta de nuestro Padre y Patriarca Juan X, con motivo de la Natividad de nuestro Señor.
+Por la gracia de Dios Juan X Patriarca de Antioquía y de todo Oriente.
+“¡Alégrense, cielos, y regocíjense, montes, por el nacimiento de Cristo!”
+Con estas palabras y en la lengua del himnógrafo, la Iglesia llama a la puerta del corazón de cada uno de nosotros y le habla, para que contemple el nacimiento de aquel Niño que eligió un pesebre, siendo Él dueño de la plenitud del mundo. Con estas palabras, el autor de los himnos no se dirige solo a los seres humanos, sino también a la creación entera. Se dirige a ella pidiéndole que rompa su inmovilidad, que se alegre con los ángeles, que se regocije con los pastores y que se postre ante el pesebre de Belén. Como si la alegría del mundo no bastara para describir el encuentro de la humanidad con Cristo, el himnógrafo recurre a la creación inanimada y le pide que se despoje de su rigidez y se vista de la alegría de la Navidad, de la alegría del encuentro con aquel Niño de cuyos ojos obtenemos toda esperanza y de cuya serenidad aprendemos toda prudencia.
+He aquí una invitación para cada uno de nosotros a desprendernos de las cargas del mundo y arrojarlas ante el pesebre de Belén. He aquí una invitación para que cada uno se alegre a pesar de todas las pruebas que lo rodean. He aquí una invitación para que el ser humano se alegre incluso cuando se encuentra en lo más hondo de la aflicción. Una invitación a no rendirse ante de los desafíos, pase lo que pase. El nacimiento de Cristo es una invitación a quitar el polvo acumulado sobre la chispa de nuestra esperanza, para que su esperanza resplandezca en nosotros como esperanza y su luz como luz.
+Cada año, la humanidad despierta de la distracción de su soberbia para contemplar a este Niño, humilde y luminoso, en la oscuridad de su cueva. Vino en silencio, pero su silencio fue más elocuente que los discursos. Vino débil, pero en Él hay una fuerza capaz de despojar de su debilidad a los débiles. Vino recostado en el seno de la Virgen, siendo Él quien monta los hombros de los querubines. Vino como un niño descansando sobre la paja de un pesebre, siendo el Dios eterno que reposa en la gloria de su alteza. Llego a un pesebre para mover el pesebre del corazón humano y depositar algo de la dulzura de su Evangelio y del néctar de su humildad, mientras el corazón ardía por la amargura de su soberbia.
+En su nacimiento recordamos el nacimiento de la esperanza en nuestros corazones. Recordamos a todo pobre y necesitado, no solo con palabras, sino con el lenguaje de los hechos. Conmemoramos el nacimiento de hoy y ponemos ante nuestros ojos, en la Iglesia de Antioquía, que fuimos la cuna de su anuncio, así como Belén y Jerusalén fueron el lugar de su nacimiento, de su cruz y de su sepulcro. Contemplamos la luz de su rostro dentro de la cueva y oramos para que esa luz se encarne en nuestras vidas, en la vida de su Iglesia y en el ámbito de su mundo.
+En estos días recordamos a nuestros hermanos que durmieron y nos precedieron hacia el encuentro con la luz del rostro de ese Niño nacido. Le pedimos, por la intercesión de la Virgen, que los acoja en su seno y los cubra con sus misericordias.
+Que Dios os la conceda de nuevo a todos, hijos nuestros en la patria y en la diáspora, y a todos los pueblos, como días benditos llenos de bondad, dicha y bendiciones, de parte del Padre de las luces y fuente de los dones, el Niño del pesebre, el Camino, la Verdad y la Vida, el Señor de las misericordias y Dios de toda consolación. Amén.
+Damasco, 20 de diciembre de 2025`
                 }
             ];
 
@@ -526,11 +574,12 @@ Metropolita de Buenos Aires y toda la Argentina.`
                         <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
                             {newsItems.map((item) => (
                                 <div key={item.id} className="bg-white rounded-lg shadow-md overflow-hidden border border-gray-200 flex flex-col h-full hover:shadow-xl transition-shadow">
-                                    <div className="h-48 overflow-hidden bg-gray-200">
+                                    <div className="h-48 overflow-hidden bg-gray-200 relative group">
                                         <img 
                                             src={item.img} 
                                             alt={item.title} 
-                                            className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
+                                            // CLASE AJUSTADA TACTICAMENTE:
+                                            className={`w-full h-full object-cover ${item.position || 'object-center'} transform hover:scale-105 transition-transform duration-500`}
                                             onError={(e) => {e.target.src = 'https://via.placeholder.com/400x200?text=Noticia'}}
                                         />
                                     </div>
@@ -550,22 +599,26 @@ Metropolita de Buenos Aires y toda la Argentina.`
                         </div>
                     </div>
 
-                    {/* Modal de Noticia */}
+                    {/* Modal de Noticia Ancho y Completo */}
                     <InfoModal 
                         isOpen={selectedNews !== null} 
                         onClose={() => setSelectedNews(null)} 
                         title={selectedNews?.title}
+                        maxWidth="max-w-4xl" // Modal ancho
                     >
                         {selectedNews && (
                             <>
                                 <img 
                                     src={selectedNews.img} 
                                     alt={selectedNews.title} 
-                                    className="w-full h-64 object-cover rounded mb-4 shadow-sm"
-                                    onError={(e) => {e.target.src = 'https://via.placeholder.com/400x200?text=Noticia'}}
+                                    // CLASE AJUSTADA TACTICAMENTE: max-h-[50vh] para que no ocupe toda la pantalla
+                                    className="w-auto max-h-[50vh] mx-auto rounded mb-6 shadow-md border border-gray-200"
+                                    onError={(e) => {e.target.src = 'https://via.placeholder.com/800x400?text=Noticia'}}
                                 />
-                                <p className="text-sm text-[#C5A059] font-bold mb-4">{selectedNews.date}</p>
-                                <div className="text-gray-800 leading-relaxed whitespace-pre-line">
+                                <div className="flex items-center space-x-2 mb-6">
+                                    <span className="bg-[#C5A059] text-white text-xs px-2 py-1 rounded font-bold uppercase">{selectedNews.date}</span>
+                                </div>
+                                <div className="text-gray-800 leading-relaxed whitespace-pre-line text-lg">
                                     {selectedNews.content}
                                 </div>
                             </>
@@ -902,7 +955,7 @@ Metropolita de Buenos Aires y toda la Argentina.`
                 <Schedule />
                 <PatronSaint />
                 <DailySaints />
-                <ParishNews /> {/* Sección de Noticias Agregada */}
+                <ParishNews />
                 <ParishLife /> 
                 <Faith />
                 <Gallery /> 
