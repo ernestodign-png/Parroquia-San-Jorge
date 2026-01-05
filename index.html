@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Parroquia San Jorge - Salta</title>
-    <link rel="icon" type="image/png" href="Img/logo.png">
+    <link rel="icon" type="image/png" href="Img/Logo.png">
     
     <!-- React & ReactDOM -->
     <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
@@ -543,13 +543,17 @@ Oh Señor, Dios Uno y Trino, ¡ten piedad de nosotros y sálvanos! A Ti la glori
         };
 
         // Hero
+// Hero (Actualizado con Logo Institucional)
         const Hero = () => (
             <section id="inicio" className="hero-bg h-screen flex items-center justify-center text-center px-4">
                 <div className="max-w-4xl animate-fade-in-up">
-                    <div className="mb-4 flex justify-center">
-                        <svg className="w-24 h-24 text-[#C5A059] drop-shadow-lg" viewBox="0 0 24 24" fill="currentColor">
-                           <path d="M11,2 L11,4 L8,4 L8,6 L11,6 L11,9 L5,9 L5,11 L11,11 L11,16.5 L8,15 L8,17 L11,18.5 L11,22 L13,22 L13,19.5 L16,21 L16,19 L13,17.5 L13,11 L19,11 L19,9 L13,9 L13,6 L16,6 L16,4 L13,4 L13,2 Z" />
-                        </svg>
+                    <div className="mb-6 flex justify-center">
+                        {/* REEMPLAZO TÁCTICO: Logo en lugar de SVG */}
+                        <img 
+                            src="Img/logo.png" 
+                            alt="Escudo Parroquial San Jorge" 
+                            className="w-32 h-32 md:w-40 md:h-40 object-contain drop-shadow-2xl filter brightness-110"
+                        />
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold text-white mb-2 font-serif tracking-tight drop-shadow-lg">
                         Parroquia San Jorge - Salta
