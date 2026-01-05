@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Parroquia San Jorge - Salta</title>
+    <link rel="icon" type="image/png" href="Img/logo.png">
     
     <!-- React & ReactDOM -->
     <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
@@ -310,7 +311,15 @@ Aunque a menudo hay discrepancias en los nombres de los Setenta Apóstoles, el p
 
 Cuadrato, Estéfanas, Parmenas, Silvano, Santiago, Timoteo, Arquipo, Epéneto, Patrobas, Epafrodito, Lucio, Filólogo, Herodión, Olimpas, Tercio, Acaico, Apeles, Amplias, Bernabé, Crescente, Crispo, Terencio, Hermes, Evodio, Rodión, Urbano, Clemente, Hermas, Andrónico, Zenas, Carpo, Asíncrito, Cuarto, Tito, Aquila, Aristarco, Onesíforo, Tíquico, Gayo, César, Pudente, Lucas, Aristóbulo, Cefas, Fortunato, Artemas, Apolos, Ágabos, Ananías, Jasón, Sosípatro, Filemón, Erasto, Matías, Esteban, Estaquio, Trófimo, Marcos, Narciso, Timón, Justo, Silas, Cleofás, Sóstenes, Sóstenes, Lino, Felipe, Rufo, Prócoro, Eubulo.`
 		}
-	    ]
+	    ],
+	    "01-05": [
+		{
+		    name: "Los Santos Hiero-Mártires Teopemptos y Teonás",
+		    tittle: "Hiero-Mártires",
+		    img: "Img/Teopemptos.webp",
+		    desc: `Cuando Diocleciano comenzó la persecución de los cristianos, el obispo de Nicomedia, Teopemptos, fue el primero en sufrir el martirio por el nombre de Jesucristo. Fue llevado ante el emperador quien lo amenazó con la pena de muerte si no negaba a Jesucristo. A esta amenaza, el valiente obispo respondió al emperador: "Está escrito: no teman a los que sólo pueden matar el cuerpo, pero no el alma. Tú, emperador, tienes autoridad sobre mi cuerpo, haz con él lo que quieras". Lo golpearon mucho, sufrió hambre y lo torturaron de varias maneras. Finalmente, el emperador convocó a un mago, Teonás, para que mostrara a Teopemptos su poder a través de la magia. Teonás disolvió en un vaso el más fuerte veneno y se lo dio a Teopemptos para que lo beba. Teopemptos miró al emperador y exclamó: "Yo también soy cristiano y me postro ante el Crucificado". Ambos fueron condenados a muerte: a Teopemptos lo decapitaron con la espada y Teonás fue enterrado vivo, en el año 298 d.C. Sufrieron honorablemente y se convirtieron en ciudadanos del Reino de Jesucristo.`
+		},
+		]
             // --- ESPACIO PARA FUTUROS DÍAS ---
             // Copiá y pegá la estructura aquí abajo cuando sea necesario:
             // ,
@@ -380,6 +389,7 @@ Cuadrato, Estéfanas, Parmenas, Silvano, Santiago, Timoteo, Arquipo, Epéneto, P
         };
 
         // Navegación (Desplegable y Táctica)
+// Navegación (Con Logo Institucional)
         const Navbar = () => {
             const [isOpen, setIsOpen] = useState(false);
             const [scrolled, setScrolled] = useState(false);
@@ -405,7 +415,6 @@ Cuadrato, Estéfanas, Parmenas, Silvano, Santiago, Timoteo, Arquipo, Epéneto, P
                 { 
                     name: 'Vida Parroquial', 
                     children: [
-                        { name: 'Noticias', href: '#noticias' },
                         { name: 'Actividades', href: '#actividades' },
                         { name: 'Galería', href: '#galeria' }
                     ]
@@ -416,9 +425,23 @@ Cuadrato, Estéfanas, Parmenas, Silvano, Santiago, Timoteo, Arquipo, Epéneto, P
             return (
                 <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-[#1A1A1A] shadow-lg py-2' : 'bg-transparent py-4'}`}>
                     <div className="container mx-auto px-4 flex justify-between items-center">
-                        <a href="#inicio" className="flex items-center space-x-2 text-white group cursor-pointer">
-                            <span className="text-2xl font-serif font-bold text-[#C5A059] group-hover:text-white transition-colors">San Jorge</span>
-                            <span className="hidden md:block text-sm uppercase tracking-widest border-l border-[#C5A059] pl-2 group-hover:border-white transition-colors">Parroquia Ortodoxa | Salta</span>
+                        
+                        {/* LOGO E IDENTIDAD */}
+                        <a href="#inicio" className="flex items-center space-x-3 text-white group cursor-pointer">
+                            {/* Imagen del Logo */}
+                            <img 
+                                src="Img/logo.png" 
+                                alt="Escudo Parroquial" 
+                                className="h-12 w-auto transition-transform group-hover:scale-105"
+                                // Si falla la carga del logo, mostramos la Cruz SVG por defecto
+                                onError={(e) => {e.target.style.display='none';}} 
+                            />
+                            
+                            {/* Texto */}
+                            <div className="flex flex-col">
+                                <span className="text-xl md:text-2xl font-serif font-bold text-[#C5A059] leading-none group-hover:text-white transition-colors">San Jorge</span>
+                                <span className="hidden md:block text-[10px] uppercase tracking-[0.2em] text-gray-300 group-hover:text-[#C5A059] transition-colors">Parroquia Ortodoxa | Salta</span>
+                            </div>
                         </a>
 
                         <div className="hidden md:flex space-x-6 items-center">
