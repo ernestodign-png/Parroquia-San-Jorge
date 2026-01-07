@@ -25,7 +25,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     
     <!-- Google Fonts: Cinzel (Títulos) & Lato (Cuerpo) -->
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
 
     <style>
         /* Paleta de Colores Bizantina */
@@ -64,6 +64,13 @@
         .animate-modal {
             animation: fadeIn 0.2s ease-out forwards;
         }
+	/* ESTILOS PARA LA HISTORIA */
+	.font-reading { font-family: 'Merriweather', serif; }
+
+	/* Scrollbar elegante */
+	::-webkit-scrollbar { width: 8px; }
+	::-webkit-scrollbar-track { background: #F9F7F2; }
+	::-webkit-scrollbar-thumb { background-color: #C5A059; border-radius: 4px; }
     </style>
 </head>
 <body>
@@ -635,7 +642,187 @@ SERMÓN: Sobre la sumisión a la voluntad Divina “Hágase tu voluntad así en 
                 </div>
             </section>
         );
+// SECCIÓN HISTORIA (Diseño Zig-Zag Táctico)
+        const ParishHistory = () => {
+            const [showFullHistory, setShowFullHistory] = useState(false);
 
+            return (
+                <section id="historia" className="py-20 bg-[#1A1A1A] text-white border-b-8 border-[#C5A059]">
+                    <div className="container mx-auto px-4 text-center">
+                        <div className="flex justify-center mb-6 text-[#C5A059]">
+                            <BookOpen size={48} />
+                        </div>
+
+                        <h2 className="text-3xl md:text-4xl font-serif font-bold text-[#C5A059] mb-8">
+                            Un Siglo de Fe
+                        </h2>
+
+                        <p className="text-lg md:text-xl font-light italic leading-relaxed max-w-4xl mx-auto mb-10 text-gray-300">
+                            "Huyendo de la opresión otomana y armados únicamente con la Tradición Apostólica, los inmigrantes ortodoxos llegaron a Salta con una misión clara: preservar la Fe de sus padres."
+                        </p>
+
+                        <button 
+                            onClick={() => setShowFullHistory(true)}
+                            className="inline-block bg-transparent hover:bg-[#C5A059] text-[#C5A059] hover:text-[#1A1A1A] font-bold py-3 px-8 rounded border-2 border-[#C5A059] transition-all uppercase tracking-wider"
+                        >
+                            Leer Historia Completa
+                        </button>
+                    </div>
+
+                    {/* OVERLAY PANTALLA COMPLETA */}
+                    {showFullHistory && (
+                        <div className="fixed inset-0 z-[100] bg-[#F9F7F2] overflow-y-auto animate-modal">
+                            
+                            {/* Barra Superior */}
+                            <div className="bg-[#1A1A1A] text-white py-4 px-6 flex justify-between items-center sticky top-0 shadow-md z-50 border-b border-[#C5A059]">
+                                <span className="font-serif font-bold text-lg text-[#C5A059]">Historia Parroquial</span>
+                                <button onClick={() => setShowFullHistory(false)} className="flex items-center text-gray-300 hover:text-white transition-colors uppercase font-bold text-sm">
+                                    <span className="mr-2">Cerrar</span> <X size={24} />
+                                </button>
+                            </div>
+
+                            {/* Contenido Zig-Zag */}
+                            <div className="max-w-6xl mx-auto p-6 md:p-12 pb-24 text-[#1A1A1A]">
+                                
+                                <div className="text-center mb-16">
+                                    <h1 className="text-3xl md:text-5xl font-serif font-bold text-[#761C1C] mb-4">Un Siglo de Fe Ortodoxa en Salta</h1>
+                                    <div className="w-24 h-1 bg-[#C5A059] mx-auto"></div>
+                                </div>
+
+                                {/* PUNTO 1: FOTO IZQUIERDA - TEXTO DERECHA */}
+                                <div className="flex flex-col lg:flex-row gap-12 items-center mb-24">
+<div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -left-4 w-full h-full border-2 border-[#C5A059] z-0"></div>
+                                        <img 
+                                            src="Img/historia1.webp" 
+                                            alt="Inmigrantes" 
+                                            className="relative z-10 w-full shadow-xl sepia filter" 
+                                            onError={(e) => {e.target.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Saint_George_icon_from_Georgia.jpg/440px-Saint_George_icon_from_Georgia.jpg'}} 
+                                        />
+                                        <p className="relative z-10 mt-3 text-left text-sm italic text-gray-600 font-serif">
+                                            Inmigrantes radicados esperando a familiares en el puerto de Buenos Aires, año 1928
+                                        </p>
+                                    </div>                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">1</span>
+                                            El Éxodo y la Esperanza
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            La historia de nuestra comunidad comienza con el doloroso éxodo de cristianos árabes (sirios y libaneses) que huían de la opresión, el reclutamiento forzoso y la persecución religiosa del Imperio Otomano. Buscando paz y libertad de culto, llegaron al norte argentino trayendo consigo su mayor tesoro: la Fe Ortodoxa. A pesar de las barreras del idioma y la cultura, lograron una integración plena, transformando su angustia en esperanza y trabajo.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 2: TEXTO IZQUIERDA - FOTO DERECHA (flex-row-reverse) */}
+                                <div className="flex flex-col lg:flex-row-reverse gap-12 items-center mb-24">
+<div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -right-4 w-full h-full border-2 border-[#1A1A1A] z-0"></div>
+                                        <img 
+                                            src="Img/historia2.webp" 
+                                            alt="Padre Abraham Isa" 
+                                            className="relative z-10 w-full shadow-xl grayscale filter" 
+                                            onError={(e) => {e.target.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eastern_Orthodox_cross.svg/1200px-Eastern_Orthodox_cross.svg.png'}} 
+                                        />
+                                        <p className="relative z-10 mt-3 text-center text-sm italic text-gray-600 font-serif">
+                                            Reverendo Padre Abraham Isa.
+                                        </p>
+                                    </div>                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">2</span>
+                                            La Fundación de la Misión
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            La presencia oficial de la Iglesia se consolida en 1914 con la llegada del Rvdo. Padre Abraham Isa, primer párroco que ofició servicios litúrgicos itinerantes en Salta, Jujuy y Santiago del Estero. Durante esta etapa, sin templo propio, la Divina Liturgia se celebraba en hogares y en la sede de la Unión Sirio-Libanesa (actual Museo Casa de Hernández).
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 3: FOTO IZQUIERDA - TEXTO DERECHA */}
+                                <div className="flex flex-col lg:flex-row gap-12 items-center mb-24">
+<div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -left-4 w-full h-full border-2 border-[#C5A059] z-0"></div>
+                                        <img 
+                                            src="Img/historia3.webp" 
+                                            alt="Piedra Fundamental" 
+                                            className="relative z-10 w-full shadow-xl sepia filter" 
+                                            onError={(e) => {e.target.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Saint_George_icon_from_Georgia.jpg/440px-Saint_George_icon_from_Georgia.jpg'}} 
+                                        />
+                                        <p className="relative z-10 mt-3 text-center text-sm italic text-gray-600 font-serif">
+                                            R.P. Miguel Srur fundador de la Sociedad Pro Templo Ortodoxo.
+                                        </p>
+                                    </div>                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">3</span>
+                                            La Organización Institucional
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            Bajo la guía pastoral del Rvdo. Padre Miguel Srur, el 30 de enero de 1935 se fundó la "Sociedad Pro Templo Ortodoxo". Esta institución, sostenida por el esfuerzo mancomunado de las familias fundadoras (Lávaque, Dagum, Salim, entre otras), adquirió en 1937 el terreno de la calle Carlos Pellegrini 250. El 14 de agosto de 1938 se colocó la Piedra Fundamental con la bendición de Mons. Ignacio Aburrus.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 4: TEXTO IZQUIERDA - FOTO DERECHA */}
+                                <div className="flex flex-col lg:flex-row-reverse gap-12 items-center mb-24">
+<div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -right-4 w-full h-full border-2 border-[#1A1A1A] z-0"></div>
+                                        <img 
+                                            src="Img/historia4.webp" 
+                                            alt="Templo San Jorge" 
+                                            className="relative z-10 w-full shadow-xl" 
+                                            onError={(e) => {e.target.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eastern_Orthodox_cross.svg/1200px-Eastern_Orthodox_cross.svg.png'}} 
+                                        />
+                                        <p className="relative z-10 mt-3 text-center text-sm italic text-gray-600 font-serif">
+                                            Rdo. Padre Efram Kasuf en su escritorio, año 1965.
+                                        </p>
+                                    </div>                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">4</span>
+                                            La Construcción del Templo
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            Esta etapa está marcada por la figura del Archimandrita Efram Kasuf (de eterna memoria), quien arribó en 1950 y dedicó más de 50 años a la comunidad. Su liderazgo fue decisivo para la edificación del Templo San Jorge, inaugurado solemnemente el 7 de julio de 1957 por el Metropolitano Meletios Swaity. El Padre Efram consolidó la vida parroquial, impulsó la juventud (U.J.O.) y extendió la misión al interior.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 5: FOTO IZQUIERDA - TEXTO DERECHA */}
+                                <div className="flex flex-col lg:flex-row gap-12 items-center mb-16">
+<div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -left-4 w-full h-full border-2 border-[#C5A059] z-0"></div>
+                                        <img 
+                                            src="Img/historia5.webp" 
+                                            alt="Actualidad" 
+                                            className="relative z-10 w-full shadow-xl" 
+                                            onError={(e) => {e.target.src = 'https://images.unsplash.com/photo-1544492341-2a6237742d48?auto=format&fit=crop&w=600&q=80'}} 
+                                        />
+                                        <p className="relative z-10 mt-3 text-center text-sm italic text-gray-600 font-serif">
+                                            La familia del R.P. Adolfo Barrionuevo.
+                                        </p>
+                                    </div>                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">5</span>
+                                            Renovación en el Tercer Milenio
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            Tras el fallecimiento del Archimandrita Kasuf, el Arzobispo Kirilos Doumat designó al Rvdo. Padre Adolfo María Barrionuevo como párroco. Su llegada en enero de 2004, junto a su familia, marcó el inicio de una nueva etapa pastoral, caracterizada por la continuidad en la tradición y la revitalización de la comunidad como una gran familia espiritual.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* Botón de Descarga al Final */}
+                                <div className="text-center pt-12 border-t border-gray-300">
+                                    <a href="Documentos/Historia_Parroquia.pdf" target="_blank" className="inline-flex items-center gap-2 bg-[#761C1C] text-white px-8 py-4 rounded hover:bg-[#1A1A1A] transition-colors font-bold uppercase tracking-wide shadow-lg">
+                                        <Download size={24} />
+                                        Descargar Historia Completa (PDF)
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+                    )}
+                </section>
+            );
+        };
         // Horarios
         const Schedule = () => {
             const services = [
@@ -1280,6 +1467,8 @@ Metropolita de Buenos Aires y toda la Argentina.`
             <div>
                 <Navbar />
                 <Hero />
+{/* AGREGÁ ESTA LÍNEA AQUÍ: */}
+                <ParishHistory />
                 <Schedule />
                 <PatronSaint />
                 <DailySaints />
