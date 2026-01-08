@@ -114,6 +114,7 @@
         const X = (props) => ( <IconBase {...props}> <line x1="18" y1="6" x2="6" y2="18"></line> <line x1="6" y1="6" x2="18" y2="18"></line> </IconBase> );
         const Facebook = (props) => ( <IconBase {...props}> <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path> </IconBase> );
         const ChevronRight = (props) => ( <IconBase {...props}> <polyline points="9 18 15 12 9 6"></polyline> </IconBase> );
+	const ChevronDown = (props) => ( <IconBase {...props}> <polyline points="6 9 12 15 18 9"></polyline> </IconBase> );
         const Clock = (props) => ( <IconBase {...props}> <circle cx="12" cy="12" r="10"></circle> <polyline points="12 6 12 12 16 14"></polyline> </IconBase> );
         const Info = (props) => ( <IconBase {...props}> <circle cx="12" cy="12" r="10"></circle> <line x1="12" y1="16" x2="12" y2="12"></line> <line x1="12" y1="8" x2="12.01" y2="8"></line> </IconBase> );
         const Phone = (props) => ( <IconBase {...props}> <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path> </IconBase> );
@@ -153,9 +154,11 @@
 
         // Navegación (Desplegable y Táctica)
 // Navegación (Con Logo Institucional)
-        const Navbar = () => {
+// --- NUEVO NAVBAR INTELIGENTE (REEMPLAZAR EL ANTERIOR) ---
+        const Navbar = ({ currentView, setView }) => {
             const [isOpen, setIsOpen] = useState(false);
             const [scrolled, setScrolled] = useState(false);
+            const [dropdownOpen, setDropdownOpen] = useState(false); 
 
             useEffect(() => {
                 const handleScroll = () => setScrolled(window.scrollY > 50);
@@ -163,98 +166,103 @@
                 return () => window.removeEventListener('scroll', handleScroll);
             }, []);
 
-            const navigation = [
-                { name: 'Inicio', href: '#inicio' },
-                { name: 'Horarios', href: '#horarios' },
-                { 
-                    name: 'Espiritualidad', 
-                    children: [
-                        { name: 'Nuestra Fe', href: '#fe' },
-                        { name: 'Santo Patrono', href: '#patrono' },
-                        { name: 'Santoral', href: '#santoral' },
-                        { name: 'Biblioteca', href: '#biblioteca' }
-                    ]
-                },
-                { 
-                    name: 'Vida Parroquial', 
-                    children: [
-                        { name: 'Actividades', href: '#actividades' },
-                        { name: 'Galería', href: '#galeria' }
-                    ]
-                },
-                { name: 'Ubicación', href: '#ubicacion' },
-            ];
+            // AQUÍ DEFINIMOS LOS MENÚS DISTINTOS QUE PEDISTE
+            const menus = {
+                salta: [
+                    { name: 'Inicio', href: '#inicio' },
+                    { name: 'Horarios', href: '#horarios' },
+                    { name: 'Espiritualidad', children: [{ name: 'Nuestra Fe', href: '#fe' }, { name: 'Santo Patrono', href: '#patrono' }, { name: 'Santoral', href: '#santoral' }, { name: 'Biblioteca', href: '#biblioteca' }] },
+                    { name: 'Vida Parroquial', children: [{ name: 'Actividades', href: '#actividades' }, { name: 'Galería', href: '#galeria' }] },
+                    { name: 'Ubicación', href: '#ubicacion' }
+                ],
+                tartagal: [
+                    { name: 'Inicio', href: '#inicio' },
+                    { name: 'Novedades', href: '#noticias' },
+                    { name: 'Ubicación', href: '#ubicacion' }
+                ]
+            };
+
+            const switchView = (place) => {
+                setView(place);
+                setDropdownOpen(false);
+                setIsOpen(false);
+            };
+
+            const currentMenu = menus[currentView];
 
             return (
-                <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-[#1A1A1A] shadow-lg py-2' : 'bg-transparent py-4'}`}>
-                    <div className="container mx-auto px-4 flex justify-between items-center">
+                <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-[#1A1A1A] shadow-lg py-2' : 'bg-gradient-to-b from-black/80 to-transparent py-4'}`}>
+                    <div className="container mx-auto px-4 flex justify-between items-center relative">
                         
-                        {/* LOGO E IDENTIDAD */}
-                        <a href="#inicio" className="flex items-center space-x-3 text-white group cursor-pointer">
-                            {/* Imagen del Logo */}
-                            <img 
-                                src="Img/logo.png" 
-                                alt="Escudo Parroquial" 
-                                className="h-12 w-auto transition-transform group-hover:scale-105"
-                                // Si falla la carga del logo, mostramos la Cruz SVG por defecto
-                                onError={(e) => {e.target.style.display='none';}} 
-                            />
-                            
-                            {/* Texto */}
-                            <div className="flex flex-col">
-                                <span className="text-xl md:text-2xl font-serif font-bold text-[#C5A059] leading-none group-hover:text-white transition-colors">San Jorge</span>
-                                <span className="hidden md:block text-[10px] uppercase tracking-[0.2em] text-gray-300 group-hover:text-[#C5A059] transition-colors">Parroquia Ortodoxa | Salta</span>
+                        {/* IDENTIDAD + SELECTOR */}
+                        <div className="flex items-center space-x-3 text-white group relative z-50">
+                            <a href="#inicio" className="flex-shrink-0"><img 
+    src={currentView === 'salta' ? "Img/logo.png" : "Img/logo_tartagal.png"} 
+    alt="Escudo Parroquial" 
+    className="h-12 w-auto transition-transform group-hover:scale-105 " 
+    onError={(e) => {e.target.style.display='none';}} 
+/></a>
+                            <div className="flex flex-col relative">
+                                <button onClick={() => setDropdownOpen(!dropdownOpen)} className="flex items-center gap-1 text-xl md:text-2xl font-serif font-bold text-[#C5A059] hover:text-white transition-colors focus:outline-none">
+                                    <span>{currentView === 'salta' ? 'San Jorge' : 'San Elías'}</span>
+                                    <ChevronDown size={18} className={`transform transition-transform ${dropdownOpen ? 'rotate-180' : ''}`} />
+                                </button>
+                                <span className="hidden md:block text-[10px] uppercase tracking-[0.2em] text-gray-300">
+                                    {currentView === 'salta' ? 'Patriarcado de Antioquía | Salta' : 'Patriarcado de Antioquía | Tartagal'}
+                                </span>
+                                
+                                {/* Menú Desplegable de Sede */}
+                                {dropdownOpen && (
+                                    <div className="absolute top-full left-0 mt-2 w-56 bg-[#1A1A1A] border border-[#C5A059] shadow-2xl rounded-md overflow-hidden animate-modal">
+                                        <button onClick={() => switchView('salta')} className="w-full text-left px-4 py-3 hover:bg-[#252525] text-white flex justify-between items-center border-b border-gray-800">
+                                            <span>Parroquia San Jorge</span>{currentView === 'Salta' && <span className="text-[#C5A059] text-xs">●</span>}
+                                        </button>
+                                        <button onClick={() => switchView('tartagal')} className="w-full text-left px-4 py-3 hover:bg-[#252525] text-white flex justify-between items-center">
+                                            <span>Parroquia San Elías</span>{currentView === 'Tartagal' && <span className="text-[#C5A059] text-xs">●</span>}
+                                        </button>
+                                    </div>
+                                )}
                             </div>
-                        </a>
+                        </div>
 
+                        {/* MENÚ DE SECCIONES (PC) */}
                         <div className="hidden md:flex space-x-6 items-center">
-                            {navigation.map((item) => (
+                            {currentMenu.map((item) => (
                                 item.children ? (
                                     <div key={item.name} className="relative group">
-                                        <button className="text-white hover:text-[#C5A059] transition-colors uppercase text-sm font-bold tracking-wide flex items-center gap-1 py-4">
-                                            {item.name} <ChevronRight size={14} className="rotate-90" />
-                                        </button>
+                                        <button className="text-white hover:text-[#C5A059] transition-colors uppercase text-sm font-bold tracking-wide flex items-center gap-1 py-4">{item.name} <ChevronRight size={14} className="rotate-90" /></button>
                                         <div className="absolute left-0 mt-0 w-48 bg-[#1A1A1A] border-t-2 border-[#C5A059] shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-y-2 group-hover:translate-y-0">
-                                            {item.children.map(child => (
-                                                <a key={child.name} href={child.href} className="block px-4 py-3 text-white hover:bg-[#252525] hover:text-[#C5A059] text-sm border-b border-gray-800 last:border-0 font-serif">
-                                                    {child.name}
-                                                </a>
-                                            ))}
+                                            {item.children.map(child => (<a key={child.name} href={child.href} className="block px-4 py-3 text-white hover:bg-[#252525] hover:text-[#C5A059] text-sm border-b border-gray-800 last:border-0 font-serif">{child.name}</a>))}
                                         </div>
                                     </div>
-                                ) : (
-                                    <a key={item.name} href={item.href} className="text-white hover:text-[#C5A059] transition-colors uppercase text-sm font-bold tracking-wide">
-                                        {item.name}
-                                    </a>
-                                )
+                                ) : (<a key={item.name} href={item.href} className="text-white hover:text-[#C5A059] transition-colors uppercase text-sm font-bold tracking-wide">{item.name}</a>)
                             ))}
                         </div>
 
-                        <button onClick={() => setIsOpen(!isOpen)} className="md:hidden text-white">
-                            {isOpen ? <X size={28} /> : <Menu size={28} />}
-                        </button>
+                        {/* BOTÓN MÓVIL */}
+                        <button onClick={() => setIsOpen(!isOpen)} className="md:hidden text-white">{isOpen ? <X size={28} /> : <Menu size={28} />}</button>
                     </div>
 
+                    {/* MENÚ MÓVIL */}
                     {isOpen && (
                         <div className="md:hidden bg-[#1A1A1A] border-t border-gray-800 absolute w-full max-h-[80vh] overflow-y-auto shadow-2xl">
+                            <div className="p-4 border-b border-gray-700 bg-[#252525] text-center">
+                                <p className="text-[#C5A059] text-xs uppercase tracking-widest mb-2">Cambiar Iglesia</p>
+                                <div className="flex justify-center gap-2">
+                                    <button onClick={() => switchView('salta')} className={`px-3 py-1 rounded text-sm ${currentView === 'salta' ? 'bg-[#C5A059] text-black' : 'bg-black text-white border border-gray-600'}`}>San Jorge</button>
+                                    <button onClick={() => switchView('tartagal')} className={`px-3 py-1 rounded text-sm ${currentView === 'tartagal' ? 'bg-[#C5A059] text-black' : 'bg-black text-white border border-gray-600'}`}>San Elías</button>
+                                </div>
+                            </div>
                             <div className="flex flex-col p-4 space-y-2">
-                                {navigation.map((item) => (
+                                {currentMenu.map((item) => (
                                     item.children ? (
                                         <div key={item.name} className="border-b border-gray-800 pb-2">
                                             <div className="text-[#C5A059] font-bold uppercase text-xs mb-2 mt-2 tracking-widest">{item.name}</div>
                                             <div className="pl-4 flex flex-col space-y-3">
-                                                {item.children.map(child => (
-                                                    <a key={child.name} href={child.href} onClick={() => setIsOpen(false)} className="text-white hover:text-[#C5A059] text-lg font-serif">
-                                                        {child.name}
-                                                    </a>
-                                                ))}
+                                                {item.children.map(child => (<a key={child.name} href={child.href} onClick={() => setIsOpen(false)} className="text-white hover:text-[#C5A059] text-lg font-serif">{child.name}</a>))}
                                             </div>
                                         </div>
-                                    ) : (
-                                        <a key={item.name} href={item.href} onClick={() => setIsOpen(false)} className="text-white hover:text-[#C5A059] text-lg font-serif py-2 border-b border-gray-800">
-                                            {item.name}
-                                        </a>
-                                    )
+                                    ) : (<a key={item.name} href={item.href} onClick={() => setIsOpen(false)} className="text-white hover:text-[#C5A059] text-lg font-serif py-2 border-b border-gray-800">{item.name}</a>)
                                 ))}
                             </div>
                         </div>
@@ -1094,87 +1102,394 @@ Metropolita de Buenos Aires y toda la Argentina.`
         };
 
         // Sección Ubicación y Footer
-        const Location = () => (
-            <footer id="ubicacion" className="bg-[#F9F7F2] text-[#1A1A1A] pt-20 border-t border-gray-300">
-                <div className="container mx-auto px-4 grid md:grid-cols-2 gap-12 mb-12">
-                    {/* Info */}
-                    <div>
-                        <h2 className="text-3xl font-serif text-[#761C1C] mb-6">Visítenos</h2>
-                        <div className="space-y-4 text-gray-700">
-                            <div className="flex items-start space-x-3">
-                                <MapPin className="text-[#C5A059] mt-1 flex-shrink-0" />
-                                <div>
-                                    <p className="font-bold text-[#1A1A1A]">Parroquia San Jorge</p>
-                                    <p>Pellegrini 250</p>
-                                    <p>A4400 Salta, Argentina</p>
+const Location = ({ currentView }) => {
+            // BASE DE DATOS DE DIRECCIONES
+            const locationData = {
+                salta: {
+                    city: "Salta Capital",
+                    name: "Parroquia San Jorge",
+                    address: ["Pellegrini 250", "A4400 Salta, Argentina"],
+                    // Mapa real de Salta
+                    mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.247656784323!2d-65.4156653!3d-24.7925286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941bc1a56576ba4b%3A0x2c94294e01416e9c!2sIglesia%20San%20Jorge!5e0!3m2!1ses-419!2sar!4v1709920000000!5m2!1ses-419!2sar",
+                    mapLink: "https://www.google.com/maps/place/Iglesia+San+Jorge/@-24.7925286,-65.4156653,17z/data=!3m1!4b1!4m6!3m5!1s0x941bc1a56576ba4b:0x2c94294e01416e9c!8m2!3d-24.7925286!4d-65.4156653!16s%2Fg%2F11b6y0_2_4?entry=ttu" 
+                },
+                tartagal: {
+                    city: "Tartagal",
+                    name: "Parroquia San Elías",
+                    // EDITAR AQUÍ LA DIRECCIÓN EXACTA
+                    address: ["Cornejo 302, A4560 Tartagal, Salta"], 
+                    // MAPA GENÉRICO DE TARTAGAL (Reemplazar con el embed real de la iglesia)
+                    mapSrc: "https://maps.google.com/maps?q=Parroquia+Ortodoxa+San+El%C3%ADas+Tartagal&z=16&output=embed",
+                    mapLink: "https://www.google.com/maps/search/?api=1&query=Parroquia+Ortodoxa+San+El%C3%ADas+Tartagal"
+                }
+            };
+
+            // Selección de datos según la vista actual
+            const data = locationData[currentView] || locationData.salta;
+
+            return (
+                <footer id="ubicacion" className="bg-[#F9F7F2] text-[#1A1A1A] pt-20 border-t border-gray-300">
+                    <div className="container mx-auto px-4 grid md:grid-cols-2 gap-12 mb-12">
+                        {/* Columna de Información */}
+                        <div>
+                            <h2 className="text-3xl font-serif text-[#761C1C] mb-6">Visítenos en {data.city}</h2>
+                            <div className="space-y-4 text-gray-700">
+                                <div className="flex items-start space-x-3">
+                                    <MapPin className="text-[#C5A059] mt-1 flex-shrink-0" />
+                                    <div>
+                                        <p className="font-bold text-[#1A1A1A]">{data.name}</p>
+                                        {data.address.map((line, i) => <p key={i}>{line}</p>)}
+                                    </div>
                                 </div>
-                            </div>
-                            <div className="flex items-start space-x-3">
-                                <Phone className="text-[#C5A059] mt-1 flex-shrink-0" />
-                                <div>
-                                    <p className="font-bold text-[#1A1A1A]">WhatsApp</p>
-                                    <a href="https://chat.whatsapp.com/FFyncQYjSX54aMyJksOfl1" target="_blank" className="hover:text-[#761C1C] transition-colors font-bold">
-                                        Unirse al Grupo
+                                
+                                {/* Contacto */}
+                                <div className="flex items-start space-x-3">
+                                    <Phone className="text-[#C5A059] mt-1 flex-shrink-0" />
+                                    <div>
+                                        <p className="font-bold text-[#1A1A1A]">WhatsApp Pastoral</p>
+                                        <a href="https://chat.whatsapp.com/FFyncQYjSX54aMyJksOfl1" target="_blank" className="hover:text-[#761C1C] transition-colors font-bold">
+                                            Unirse al Grupo
+                                        </a>
+                                    </div>
+                                </div>
+                                <div className="flex items-center space-x-3">
+                                    <Facebook className="text-[#C5A059] flex-shrink-0" />
+                                    <a href="https://www.facebook.com/parroquia.sanjorgesalta" target="_blank" className="hover:text-[#761C1C] transition-colors break-all">
+                                        facebook.com/parroquia.sanjorgesalta
                                     </a>
                                 </div>
                             </div>
-                            <div className="flex items-center space-x-3">
-                                <Facebook className="text-[#C5A059] flex-shrink-0" />
-                                <a href="https://www.facebook.com/parroquia.sanjorgesalta" target="_blank" className="hover:text-[#761C1C] transition-colors break-all">
-                                    facebook.com/parroquia.sanjorgesalta
-                                </a>
+                            
+                            <div className="mt-8 p-4 bg-white rounded border border-gray-200 shadow-sm">
+                                <p className="text-sm italic text-gray-600">
+                                    "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos." (Mateo 18:20)
+                                </p>
                             </div>
                         </div>
-                        <div className="mt-8 p-4 bg-white rounded border border-gray-200 shadow-sm">
-                            <p className="text-sm italic text-gray-600">
-                                "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos." (Mateo 18:20)
-                            </p>
+
+                        {/* Columna del Mapa Dinámico */}
+                        <div className="h-64 bg-gray-200 rounded-lg overflow-hidden relative group border border-gray-300">
+                            <iframe 
+                                src={data.mapSrc} 
+                                width="100%" 
+                                height="100%" 
+                                style={{border:0}} 
+                                allowFullScreen="" 
+                                loading="lazy"
+                                className="opacity-80 group-hover:opacity-100 transition-opacity"
+                            ></iframe>
+                            <a href={data.mapLink} target="_blank" className="absolute bottom-0 left-0 w-full bg-[#761C1C] text-white text-center py-2 text-sm hover:bg-[#5a1515] transition-colors font-bold cursor-pointer">
+                                Ver ubicación en Google Maps
+                            </a>
                         </div>
                     </div>
 
-                    {/* Mapa Placeholder - En producción reemplazar src con el embed real de Google Maps */}
-                    <div className="h-64 bg-gray-200 rounded-lg overflow-hidden relative group border border-gray-300">
-                        <iframe 
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.146602462214!2d-65.41165568475685!3d-24.79035258408713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941bc3a3a0b5a3b7%3A0x4b8b6b0b0b0b0b0b!2sPellegrini%20250%2C%20A4400%20Salta!5e0!3m2!1ses!2sar!4v1620000000000!5m2!1ses!2sar" 
-                            width="100%" 
-                            height="100%" 
-                            style={{border:0}} 
-                            allowFullScreen="" 
-                            loading="lazy"
-                            className="opacity-80 group-hover:opacity-100 transition-opacity"
-                        ></iframe>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Pellegrini+250+Salta" target="_blank" className="absolute bottom-0 left-0 w-full bg-[#761C1C] text-white text-center py-2 text-sm hover:bg-[#5a1515] transition-colors font-bold cursor-pointer">
-                            Ver en Google Maps
-                        </a>
+                    <div className="border-t border-gray-300 py-6 text-center bg-[#EBE7DD]">
+                        <p className="text-gray-600 text-sm">
+                            &copy; {new Date().getFullYear()} Patriarcado de Antioquía - Arquidiócesis de Buenos Aires. 
+                            <span className="block md:inline mt-2 md:mt-0 md:ml-4">Diseñado con sobriedad y rigor.</span>
+                        </p>
                     </div>
-                </div>
+                </footer>
+            );
+        };
 
-                <div className="border-t border-gray-300 py-6 text-center bg-[#EBE7DD]">
-                    <p className="text-gray-600 text-sm">
-                        &copy; {new Date().getFullYear()} Parroquia San Jorge - Salta. 
-                        <span className="block md:inline mt-2 md:mt-0 md:ml-4">Diseñado con sobriedad y rigor.</span>
-                    </p>
+// --- INICIO BLOQUE TARTAGAL (PEGAR ANTES DE const App) ---
+        const TartagalHero = () => (
+            <section className="hero-bg min-h-screen flex flex-col items-center justify-center text-center px-4 py-20 relative">
+                <div className="absolute inset-0 bg-[#761C1C] bg-opacity-20 pointer-events-none"></div>
+                <div className="max-w-4xl animate-fade-in-up flex flex-col items-center z-10">
+                    <div className="mb-6">
+    <img 
+        src="Img/logo_tartagal.png" 
+        alt="Escudo San Elías" 
+        className="w-32 h-32 md:w-40 md:h-40 object-contain filter brightness-110 " 
+        // Si no encuentra el de Tartagal, usa el de Salta como respaldo táctico
+        onError={(e) => {e.target.src='Img/logo.png';}} 
+    />
+</div>
+                    <h1 className="text-4xl md:text-6xl font-bold text-white mb-2 font-serif tracking-tight drop-shadow-lg">Parroquia San Elías<span className="block mt-2 text-2xl md:text-4xl">Tartagal</span></h1>
+                    <p className="text-xl text-[#C5A059] font-serif italic mb-8 drop-shadow-md">Patriarcado de Antioquía</p>
+                    {/* CONTENEDOR DE LA IMAGEN DE PORTADA (Sin inclinación) */}
+<div className="p-2 bg-[#1A1A1A]/60 backdrop-blur-sm border border-[#C5A059] rounded-lg shadow-2xl mb-8">
+    <img 
+        src="Img/portada_tartagal.jpg" 
+        alt="Iglesia San Elías" 
+        className="w-full max-w-md h-auto rounded shadow-lg" 
+        onError={(e) => {e.target.src='https://via.placeholder.com/600x400?text=Iglesia+San+Elías';}} 
+    />
+</div>
+                    <div className="text-white bg-[#761C1C] bg-opacity-90 p-4 rounded-lg border-l-4 border-[#C5A059] max-w-2xl"><p className="font-bold mb-1">Ministerio Sacerdotal
+:</p><p className="text-sm">El R.P. Adolfo Barrionuevo celebra y asiste periódicamente a la comunidad.</p></div>
                 </div>
-            </footer>
+            </section>
         );
 
-        const App = () => (
-            <div>
-                <Navbar />
-                <Hero />
-{/* AGREGÁ ESTA LÍNEA AQUÍ: */}
-                <ParishHistory />
-                <Schedule />
-                <PatronSaint />
-                <DailySaints />
-                <ParishNews />
-                <ParishLife /> 
-                <Faith />
-                <Gallery /> 
-                <Library /> 
-                <Location />
-            </div>
-        );
+// --- HISTORIA TARTAGAL (DISEÑO ZIG-ZAG IGUAL A SALTA) ---
+        const TartagalHistory = () => {
+            const [showFullHistory, setShowFullHistory] = useState(false);
+
+            return (
+                <section className="py-20 bg-[#1A1A1A] text-white border-b-8 border-[#C5A059]">
+                    {/* --- PORTADA DE LA SECCIÓN (SINOPSIS) --- */}
+                    <div className="container mx-auto px-4 text-center">
+                        <div className="flex justify-center mb-6 text-[#C5A059]">
+                            <BookOpen size={48} />
+                        </div>
+
+                        <h2 className="text-3xl md:text-4xl font-serif font-bold text-[#C5A059] mb-8">
+                            Una Fe que Mueve Montañas
+                        </h2>
+
+                        <p className="text-lg md:text-xl font-light italic leading-relaxed max-w-4xl mx-auto mb-10 text-gray-300">
+                            "Lo que comenzó con reuniones en casas de familia se convirtió, gracias al esfuerzo incansable del Centro de Damas y la colectividad, en el faro espiritual del norte argentino: el Templo de San Elías."
+                        </p>
+
+                        <button 
+                            onClick={() => setShowFullHistory(true)}
+                            className="inline-block bg-transparent hover:bg-[#C5A059] text-[#C5A059] hover:text-[#1A1A1A] font-bold py-3 px-8 rounded border-2 border-[#C5A059] transition-all uppercase tracking-wider"
+                        >
+                            Leer Historia Completa
+                        </button>
+                    </div>
+
+                    {/* --- MODAL DE HISTORIA COMPLETA --- */}
+                    {showFullHistory && (
+                        <div className="fixed inset-0 z-[100] bg-[#F9F7F2] overflow-y-auto animate-modal text-[#1A1A1A]">
+                            
+                            {/* Barra Superior del Modal */}
+                            <div className="bg-[#1A1A1A] text-white py-4 px-6 flex justify-between items-center sticky top-0 shadow-md z-50 border-b border-[#C5A059]">
+                                <span className="font-serif font-bold text-lg text-[#C5A059]">Historia de San Elías</span>
+                                <button onClick={() => setShowFullHistory(false)} className="flex items-center text-gray-300 hover:text-white transition-colors uppercase font-bold text-sm">
+                                    <span className="mr-2">Cerrar</span> <X size={24} />
+                                </button>
+                            </div>
+
+                            {/* Contenido Zig-Zag */}
+                            <div className="max-w-6xl mx-auto p-6 md:p-12 pb-24">
+                                
+                                <div className="text-center mb-16">
+                                    <h1 className="text-3xl md:text-5xl font-serif font-bold text-[#761C1C] mb-4">El Legado Ortodoxo en Tartagal</h1>
+                                    <div className="w-24 h-1 bg-[#C5A059] mx-auto"></div>
+                                </div>
+
+                                {/* PUNTO 1: LOS INICIOS */}
+                                <div className="flex flex-col lg:flex-row gap-12 items-center mb-24">
+                                    <div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -left-4 w-full h-full border-2 border-[#C5A059] z-0"></div>
+                                        <img 
+                                            src="Img/tartagal_historia1.webp" 
+                                            alt="Inicios Tartagal" 
+                                            className="relative z-10 w-full shadow-xl sepia filter" 
+                                            onError={(e) => {e.target.src = 'https://via.placeholder.com/600x400?text=Inmigrantes+Arabes';}} 
+                                        />
+                                        <p className="relative z-10 mt-3 text-left text-sm italic text-gray-600 font-serif">
+                                            Primeros inmigrantes en el Departamento Gral. San Martín.
+                                        </p>
+                                    </div>
+                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">1</span>
+                                            Raíces en el Norte (1938-1959)
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            El Departamento de General San Martín, al igual que Orán, se caracterizó por una fuerte población de la colectividad árabe. Ya en 1938, el Sr. Abraham Adle fue nombrado representante para apoyar la construcción del templo en Salta. La semilla de la organización germinó en 1959 con la creación de una filial de la Unión Juventud Ortodoxa (U.J.O.) de Tartagal, marcando el inicio de la vida institucional.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 2: EL CENTRO DE DAMAS */}
+                                <div className="flex flex-col lg:flex-row-reverse gap-12 items-center mb-24">
+                                    <div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -right-4 w-full h-full border-2 border-[#1A1A1A] z-0"></div>
+                                        <img 
+                                            src="Img/tartagal_historia2.webp" 
+                                            alt="Damas Ortodoxas" 
+                                            className="relative z-10 w-full shadow-xl grayscale filter" 
+                                            onError={(e) => {e.target.src = 'https://via.placeholder.com/600x400?text=Reunion+Damas+Ortodoxas';}} 
+                                        />
+                                    </div>
+                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">2</span>
+                                            El Motor del Proyecto (1977)
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            En 1977 se constituye formalmente el "Centro de Damas Ortodoxas de Tartagal". Su primera reunión histórica se realizó en la casa de su primera presidenta, la Sra. Delfina de Mecle (Alberdi 441). A estas mujeres valientes las unía una meta sagrada: construir el templo "San Elías" para todos los ortodoxos de la región. Ellas organizaron actas, asambleas y un sistema de trabajo ejemplar.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 3: TRABAJO INCANSABLE */}
+                                <div className="flex flex-col lg:flex-row gap-12 items-center mb-24">
+                                    <div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -left-4 w-full h-full border-2 border-[#C5A059] z-0"></div>
+                                        <img 
+                                            src="Img/tartagal_historia3.webp" 
+                                            alt="Construcción" 
+                                            className="relative z-10 w-full shadow-xl" 
+                                            onError={(e) => {e.target.src = 'https://via.placeholder.com/600x400?text=Comunidad+Trabajando';}} 
+                                        />
+                                    </div>
+                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">3</span>
+                                            Una Comunidad Solidaria
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            Para financiar la obra, la comunidad trabajó sin descanso. Se organizaron noches de lotería familiar, funciones de cine benéficas y ventas de rifas. La labor se extendió más allá de Tartagal, llegando a Mosconi, Pichanal, Pocitos e incluso Yacuiba (Bolivia). Abogados, médicos, ingenieros y comerciantes: todos aportaron su don profesional para conseguir la personería jurídica y los materiales.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 4: LA INAUGURACIÓN */}
+                                <div className="flex flex-col lg:flex-row-reverse gap-12 items-center mb-24">
+                                    <div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -right-4 w-full h-full border-2 border-[#1A1A1A] z-0"></div>
+                                        <img 
+                                            src="Img/tartagal_historia4.webp" 
+                                            alt="Inauguración 1978" 
+                                            className="relative z-10 w-full shadow-xl" 
+                                            onError={(e) => {e.target.src = 'https://via.placeholder.com/600x400?text=Inauguracion+1978';}} 
+                                        />
+                                    </div>
+                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">4</span>
+                                            Un Sueño Hecho Realidad
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            El 18 de diciembre de 1978 se concretó el anhelo: la inauguración del Templo "San Elías". Con la presencia del Archimandrita Efram Kasuf y una multitud de fieles, Don Miguel Chehda exhortó a seguir trabajando con el mismo fervor. El Padre Efram se comprometió a realizar viajes periódicos, consolidando el vínculo espiritual que perdura hasta hoy.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {/* PUNTO 5: LEGADO */}
+                                <div className="flex flex-col lg:flex-row gap-12 items-center mb-16">
+                                    <div className="lg:w-1/2 relative group">
+                                        <div className="absolute top-4 -left-4 w-full h-full border-2 border-[#C5A059] z-0"></div>
+                                        <img 
+                                            src="Img/tartagal_historia5.webp" 
+                                            alt="Actualidad" 
+                                            className="relative z-10 w-full shadow-xl" 
+                                            onError={(e) => {e.target.src = 'https://via.placeholder.com/600x400?text=Legado+Vivo';}} 
+                                        />
+                                    </div>
+                                    <div className="lg:w-1/2 font-reading">
+                                        <h3 className="text-2xl font-bold text-[#761C1C] font-serif mb-4 flex items-center">
+                                            <span className="bg-[#C5A059] text-white rounded-full w-8 h-8 flex items-center justify-center text-sm mr-3">5</span>
+                                            Legado Vivo
+                                        </h3>
+                                        <p className="text-lg leading-relaxed text-gray-800 text-justify">
+                                            La obra no se detuvo en el templo. La comunidad avanzó en la construcción de salones, casa parroquial y velatorio. Más importante aún es la "iglesia viva": el acompañamiento en nacimientos, duelos y la incansable tarea social ayudando a los necesitados. Hoy, bajo la atención pastoral de la Arquidiócesis, Tartagal sigue siendo testimonio de fe y perseverancia en el norte argentino.
+                                        </p>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    )}
+                </section>
+            );
+        };
+
+// --- NUEVO COMPONENTE: PATRONO SAN ELÍAS ---
+        const TartagalPatron = () => {
+            const saint = {
+                name: "Santo Profeta Elías",
+                title: "El Tesbita y Celoso",
+                date: "20 de Julio",
+                img: "Img/san_elias.webp", // Asegurate de tener esta imagen o usará el respaldo
+                troparion: "El ángel en la carne, la base de los profetas, el segundo precursor de la venida de Cristo, el glorioso Elías, enviando gracia de lo alto a Eliseo, disipó las enfermedades y purificó a los leprosos. Por lo cual, también a los que le honran, derrama curaciones.",
+                bio: "Vivió en el siglo IX a.C. Fue un profeta de fuego y celo por el Dios verdadero, enfrentándose a la idolatría del rey Acab y Jezabel. No conoció la muerte física, sino que fue arrebatado al cielo en un carro de fuego, prefigurando la Resurrección y Ascensión del Señor."
+            };
+
+            return (
+                <section id="patrono" className="py-16 bg-[#F9F7F2] border-t border-[#C5A059]">
+                    <div className="container mx-auto px-4">
+                        <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-xl overflow-hidden border border-[#C5A059] flex flex-col md:flex-row">
+                            {/* Imagen del Santo */}
+                            <div className="md:w-1/3 bg-[#1A1A1A] flex items-center justify-center p-4 relative">
+                                <div className="absolute inset-0 border-4 border-[#C5A059] m-2 opacity-50 pointer-events-none"></div>
+                                <img 
+                                    src={saint.img} 
+                                    alt={saint.name}
+                                    className="w-full h-auto object-cover border-2 border-[#C5A059] shadow-lg rounded"
+                                    // Si no tenés la foto aún, cargará un icono genérico de respaldo
+                                    onError={(e) => {e.target.src = 'https://via.placeholder.com/400x600?text=Icono+San+Elias';}} 
+                                />
+                            </div>
+                            
+                            {/* Texto y Tropario */}
+                            <div className="md:w-2/3 p-8 flex flex-col justify-center">
+                                <div className="flex items-center space-x-2 text-[#761C1C] mb-2 font-bold uppercase tracking-widest text-xs">
+                                    <Cross size={16} />
+                                    <span>Santo Patrono</span>
+                                </div>
+                                <h3 className="text-2xl md:text-3xl font-serif font-bold text-[#1A1A1A] mb-1">{saint.name}</h3>
+                                <p className="text-[#C5A059] italic font-serif mb-4">{saint.title} — {saint.date}</p>
+                                
+                                <div className="mb-6 text-gray-700 text-sm leading-relaxed">
+                                    {saint.bio}
+                                </div>
+
+                                <div className="bg-[#F3F0E6] p-4 rounded border-l-4 border-[#761C1C]">
+                                    <h4 className="text-[#761C1C] font-bold text-sm mb-2 uppercase">Tropario (Tono 4)</h4>
+                                    <p className="italic text-gray-800 font-serif">"{saint.troparion}"</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            );
+        };
+
+        const TartagalNews = () => {
+            const news = [ { date: "Próxima Visita", title: "Divina Liturgia en Tartagal", desc: "Fecha a confirmar.", img: "Img/noticiatartagal.webp" } ];
+            return (
+                <section id="noticias" className="py-16 bg-white border-t border-[#C5A059]"><div className="container mx-auto px-4"><div className="text-center mb-10"><h2 className="text-3xl font-bold text-[#1A1A1A] flex items-center justify-center gap-2"><Bell size={28} className="text-[#C5A059]" /> Comunicados San Elías</h2></div><div className="grid md:grid-cols-1 gap-8 max-w-2xl mx-auto">{news.map((item, idx) => (<div key={idx} className="flex flex-col md:flex-row bg-gray-50 border border-gray-200 rounded-lg overflow-hidden shadow-sm"><div className="md:w-1/3"><img src={item.img} className="w-full h-full object-cover min-h-[200px]" onError={(e) => e.target.src='https://via.placeholder.com/300'} /></div><div className="p-6 md:w-2/3 flex flex-col justify-center"><span className="text-[#761C1C] font-bold text-xs uppercase tracking-wider mb-2">{item.date}</span><h3 className="text-xl font-bold mb-2">{item.title}</h3><p className="text-gray-600 text-sm">{item.desc}</p></div></div>))}</div></div></section>
+            );
+        };
+        // --- FIN BLOQUE TARTAGAL ---
+
+// --- APP PRINCIPAL (EL CEREBRO) ---
+        const App = () => {
+            const [view, setView] = useState('salta'); // Por defecto abre en Salta
+
+            return (
+                <div>
+                    {/* Le pasamos las funciones al Navbar para que controle todo */}
+                    <Navbar currentView={view} setView={setView} />
+                    
+                    {view === 'salta' ? (
+                        // === VISTA SALTA ===
+                        <>
+                            <Hero />
+                            <ParishHistory />
+                            <Schedule />
+                            <PatronSaint />
+                            <DailySaints />
+                            <ParishNews />
+                            <ParishLife /> 
+                            <Faith />
+                            <Gallery /> 
+                            <Library /> 
+                        </>
+                    ) : (
+                        // === VISTA TARTAGAL ===
+                        <div className="animate-fade">
+                            <TartagalHero />
+                            <TartagalHistory /> 
+			    <TartagalPatron />
+                            <TartagalNews />
+                        </div>
+                    )}
+                    
+                    <Location currentView={view} />
+                </div>
+            );
+        };
 
         const root = ReactDOM.createRoot(document.getElementById('root'));
         root.render(<App />);
