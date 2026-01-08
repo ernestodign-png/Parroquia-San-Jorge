@@ -692,30 +692,64 @@ Oh Señor, que todo lo ve, ayúdanos a levantarnos con tu Espíritu; y cuando no
         // Hero
 // Hero (Actualizado con Logo Institucional)
         const Hero = () => (
-            <section id="inicio" className="hero-bg h-screen flex items-center justify-center text-center px-4">
-                <div className="max-w-4xl animate-fade-in-up">
-                    <div className="mb-6 flex justify-center">
-                        {/* REEMPLAZO TÁCTICO: Logo en lugar de SVG */}
+            <section id="inicio" className="hero-bg min-h-screen flex flex-col items-center justify-center text-center px-4 py-20">
+                {/* APERTURA DEL CONTENEDOR PRINCIPAL */}
+                <div className="max-w-4xl animate-fade-in-up flex flex-col items-center">
+                    
+                    {/* 1. LOGO (Con su contenedor de margen restaurado) */}
+                    <div className="mb-6">
                         <img 
                             src="Img/logo.png" 
                             alt="Escudo Parroquial San Jorge" 
                             className="w-32 h-32 md:w-40 md:h-40 object-contain drop-shadow-2xl filter brightness-110"
+                            onError={(e) => {e.target.style.display='none';}}
                         />
                     </div>
+                    {/* (Aquí borré el </div> que sobraba y cortaba el código) */}
+
+                    {/* 2. TÍTULO */}
                     <h1 className="text-4xl md:text-6xl font-bold text-white mb-2 font-serif tracking-tight drop-shadow-lg">
-                        Parroquia San Jorge - Salta
+                        Parroquia San Jorge
+                        <span className="block mt-2 text-2xl md:text-4xl">
+                            Salta
+                        </span>
                     </h1>
+
+                    {/* 3. SUBTÍTULOS */}
                     <p className="text-xl md:text-2xl text-[#C5A059] font-serif italic mb-8 drop-shadow-md">
                         Patriarcado de Antioquía
                     </p>
-                    <p className="text-gray-200 text-lg mb-10 max-w-2xl mx-auto font-light">
-                        Divina Liturgia y vida sacramental.<br/>
-                        en la Tradición de la Iglesia.
-                    </p>
-                    <a href="#horarios" className="inline-block bg-[#761C1C] hover:bg-[#5a1515] text-white font-bold py-3 px-8 rounded border border-[#C5A059] transition-all transform hover:scale-105 uppercase tracking-wider">
+
+                    {/* 4. RETRATO DEL ARZOBISPO */}
+                    <div className="flex flex-col items-center mb-10 animate-fade bg-[#1A1A1A]/60 backdrop-blur-sm p-6 rounded-xl border border-[#C5A059] shadow-2xl max-w-sm w-full">
+                        <div className="relative mb-4 group">
+                            <div className="absolute -inset-1 bg-gradient-to-b from-[#C5A059] to-[#761C1C] rounded-lg opacity-75 blur-sm"></div>
+                            <img 
+                                src="Img/arzobispo.webp" 
+                                alt="Monseñor Santiago El Khoury" 
+                                className="relative w-48 h-auto md:w-56 aspect-[3/4] object-cover object-top rounded-lg shadow-black/50 shadow-xl border border-[#C5A059]/50"
+                                onError={(e) => {e.target.closest('div').style.display='none';}} 
+                            />
+                        </div>
+                        <div className="text-center">
+                            <p className="text-[#C5A059] font-serif text-xs font-bold uppercase tracking-[0.15em] mb-2 border-b border-[#C5A059]/30 pb-1 inline-block">
+                                Nuestro Arzobispo
+                            </p>
+                            <h3 className="text-white font-serif text-lg md:text-xl font-bold leading-tight mb-1">
+                                S.E.R. Monseñor Santiago El Khoury
+                            </h3>
+                             <p className="text-gray-300 text-xs md:text-sm font-light italic">
+                                Metropolitano de Buenos Aires y toda Argentina
+                            </p>
+                        </div>
+                    </div>
+
+                    {/* 5. BOTÓN DE ACCIÓN */}
+                    <a href="#horarios" className="inline-block bg-[#761C1C] hover:bg-[#5a1515] text-white font-bold py-3 px-10 rounded border border-[#C5A059] transition-all transform hover:scale-105 uppercase tracking-wider text-sm shadow-lg mt-2">
                         Ver Horarios
                     </a>
-                </div>
+
+                </div> {/* CIERRE CORRECTO DEL CONTENEDOR PRINCIPAL */}
             </section>
         );
 // SECCIÓN HISTORIA (Diseño Zig-Zag Táctico)
