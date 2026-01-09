@@ -412,6 +412,58 @@ Pues si la caída aconteció con el apóstol, en la presencia directa del Señor
 
 Oh Señor, que todo lo ve, ayúdanos a levantarnos con tu Espíritu; y cuando nos hayamos levantado, asístenos para que no caigamos nunca más. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
-		] 
+		],
+		"01-09": [
+		{
+		    name: "San Polievcto",
+		    title: "Mártir",
+		    img: "Img/Polievcto.webp",
+		    desc: `La ciudad armenia de Melitina fue bañada con sangre cristiana como así también toda la tierra de Armenia. La primera sangre derramada por Cristo en ésta ciudad fue la de San Polievcto, alrededor del año 259, durante el reinado de Valeriano. Vivían en esta ciudad dos soldados amigos: Nearco y Polievcto. Nearco había sido bautizado pero Polievcto no. 
+Cuando llegó la orden de persecución de los cristianos, Nearco se preparaba para el martirio pero estaba en medio de una gran tristeza porque no lograba convertir a su amigo a la verdadera fe. Cuando Polievcto supo la razón de la tristeza de Nearco, le prometió convertirse a la fe ortodoxa. Al día siguiente le contó a Nearco su sueño: Se le apareció el Señor mismo, en resplandor, le quitó las viejas vestimentas y lo vistió con ropas nuevas y radiantes y lo ensilló en un caballo con alas. Después de esto, Polievcto fue a la ciudad, destruyó el decreto del emperador sobre la persecución de los cristianos como así también muchas estatuas de los ídolos. Fue torturado y condenado a morir. Cuando fue llevado al lugar de la ejecución, vio a Nearco entre la multitud y exclamó con alegría: “¡Sálvate, mi querido amigo! ¡Acuérdate del voto de amistad firmado entre nosotros!” Más adelante, San Nearco terminó su vida como mártir de Cristo en la hoguera. Su fiesta se celebra el 22 de abril.`
+		},
+		{
+		    name: "San Eustaquio",
+		    title: "Venerable (Asceta)",
+		    img: "Img/general.webp",
+		    desc: `Nacido en Tarso. Fue un gran asceta y hombre de oración. Durante los setenta y cinco años que pasó en el monasterio, nunca se acostó para dormir del lado izquierdo sino solamente del lado derecho. Durante el servicio Divino, de principio a fin, repetía para sí mismo: “¡Señor ten piedad!” Murió a los 95 años.`
+		},
+		{
+		    name: "San Felipe",
+		    title: "Metropolita de Moscú",
+		    img: "Img/Felipe.webp",
+		    desc: `Nació el 11 de febrero de 1507. Era joven cuando, una vez, escuchó en la iglesia la lectura del Evangelio: “Nadie puede servir a dos señores” (Mateo 6:24), y se asustó mucho por estas palabras, como si estuvieran dirigidas especialmente a él mismo, y al instante fue iluminado por ellas. 
+Entonces, se fue al monasterio de Solovetsk, donde, después de un largo y difícil período de noviciado, fue tonsurado monje. Con el tiempo, llegó a ser el abad del monasterio y brillaba como el sol, y toda Rusia escuchaba hablar de él. Por eso, el zar Iván el Terrible lo designó para ocupar la sede vacante del metropolita de Moscú en el año 1566. Pero el santo hombre no podía ser indiferente a las atrocidades del terrible zar, por ello, le aconsejaba y lo reprendía sin temor. 
+El zar halló algunos falsos testigos contra Felipe, lo destituyó de su trono episcopal y mandó a que lo vistieran con una simple y andrajosa sotana y lo encarcelaran en Tver el 23 de diciembre de 1569. Maliuta Skhutarov, uno de los verdugos del emperador, fue a la celda de Felipe y lo asfixió con la almohada. Pero, muy pronto, todos los que actuaron contra Felipe terminaron sus días con una terrible muerte. Después de algunos años, al descubrir el cuerpo del santo intacto, incorrupto y fragante, lo trasladaron al Monasterio de Solovetsk.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+Cuando la Iglesia Ortodoxa enseña a la gente sobre el amor perfecto, les enseña también la perfecta obediencia, de la que emana el orden y la armonía entre los fieles. Los obispos deben obedecer al Señor, los sacerdotes a los obispos, y los fieles tanto a los obispos como a los sacerdotes. Sobre esto escribió San Ignacio: “Ustedes deben ser obedientes sin hipocresía: aquel que engaña a su obispo visible, se burla del Invisible... Los exhorto de hacer todo unidos en la santidad bajo la presidencia del obispo, quien ocupa el lugar de Dios, y de los presbíteros quienes constituyen la asamblea de los apóstoles... sin pensar que todo aquello que harían solos y lejos de ellos sería correcto”.
 
+CONTEMPLACIÓN:
+Contemplar todas las virtudes en la Persona del Señor Jesucristo:
+
+1.Cómo cada virtud en Él es completa y perfecta, como en ningún otro en la historia del mundo;
+
+2.Cómo todas las virtudes se complementan maravillosamente, una se desarrolla en la otra, y una en la otra se hace más brillante.
+
+
+SERMÓN:
+Sobre la preocupación por la salvación de nuestro prójimo
+
+“La conciencia, digo, no tuya, sino del otro” (I Corintios 10:29)
+
+Este es el principio de los Santos de Dios, ahora y antes, desde siempre y para siempre. Este es el principio sobre el que se construye la sociedad. Sobre este principio se puede establecer la más perfecta, agradable a Dios y próspera sociedad humana.
+
+Este es el principio de salvación para toda clase de dificultad, con la que lucha el hombre contemporáneo, una lucha sin victoria ni esperanza. El alma santa se preocupa de su prójimo, cercano o lejano; se preocupa dónde pasarán la noche las personas sin hogar, cómo se alimentarán los hambrientos, cómo se vestirán los desnudos. Se preocupa y ruega a Dios que sea salvado su prójimo; que su corazón se llene con el amor de Dios; que su mente sea dirigida hacia Dios; que los impíos se aparten del camino de la maldad; que sean consolidados en la fe los que vacilan; que sean sustentados los fortalecidos; que los que han fallecido vean el rostro de Dios; que los vivientes sean inscriptos en el Libro de la Vida en el Reino de la luz.
+
+Pero tengan cuidado hermanos, que, de la misma manera, puede expresarse palabra por palabra el principio destructivo y antisocial del diablo. Este principio diabólico dice: nadie tiene que mirar a su propio cuerpo para guardarlo del pecado, en la pureza, sino que todos tienen que mirar al cuerpo de los demás en vista de arruinarlo y destruirlo. Nadie tiene que mirar a su propia alma para salvarla, sino que todos tienen que mirar a las almas de los demás con el fin de oscurecerlas, maldecirlas, empobrecerlas y destruirlas. Nadie tiene que mirar a su propia casa para construirla y renovarla, sino que todos tienen que mirar a la casa de los demás en vista de quemarla y demolerla. Nadie tiene que mirar a sus graneros para llenarlos, sino que todos tienen que mirar a los graneros de los demás en vista de robarlos y vaciarlos. Miren, hermanos, cómo este principio puede ser tomado como principio del bien o principio del mal; es una espada de doble filo; un ángel o Satanás. ¡Miren cómo este principio, satánico en forma y en espíritu, hoy ha ganado terreno en todas partes!
+
+Oh Señor, Espíritu Santo, quien nos ha dado a conocer estas santas palabras en el mundo a través de la boca del Enviado de Dios, palabras que nos iluminan como los rayos del sol y no nos quemen, ayúdanos, pues, ahora para que las cumplamos en el verdadero sentido celestial, para la gloria de Dios trino y para la salvación de nuestras almas.
+
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		]
 };
