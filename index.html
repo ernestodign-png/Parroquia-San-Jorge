@@ -565,6 +565,171 @@
                 </section>
             );
         };
+// --- REGLAS, ETIQUETA Y CATEQUESIS (COMPONENTE COMPLETO) ---
+        const TempleEtiquette = () => {
+            const [showGuide, setShowGuide] = useState(false); // Estado para el modal de catequesis
+
+            const rules = [
+                { 
+                    title: "Vestimenta Decorosa", 
+                    text: "Se exige pudor y respeto. Mujeres: prohibido el uso de shorts, faldas sobre la rodilla, escotes, hombros o espalda descubiertos, transparencias y ojotas. Hombres: prohibido el uso de bermudas, ropa deportiva, gorras y ojotas.",
+                    icon: (<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M20.38 3.4a1.6 1.6 0 0 1 .4 3.9l-1.45 2.85a9.5 9.5 0 0 1-1.35 1.95V22H6v-9.9a9.5 9.5 0 0 1-1.36-1.95L3.19 7.3A1.6 1.6 0 0 1 3.6 3.4C4.8 2.67 6.4 2 12 2s7.2.67 8.38 1.4z"/></svg>)
+                },
+                { 
+                    title: "Alimentos y Bebidas", 
+                    text: "Está terminantemente prohibido consumir alimentos o bebidas dentro del Templo. Esto aplica rigurosamente al uso de chicles, caramelos o cualquier ingesta durante los oficios.",
+                    icon: (<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>)
+                },
+                { 
+                    title: "Silencio y Celulares", 
+                    text: "Al cruzar el umbral, se abandona el mundo. Los celulares deben estar apagados. Se guarda silencio absoluto y reverente antes, durante y después de los oficios.",
+                    icon: (<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="1" y1="1" x2="23" y2="23"/></svg>)
+                },
+                { 
+                    title: "Postura Corporal", 
+                    text: "En la presencia de Dios permanecemos de pie. Si por debilidad física debe sentarse, hágalo sin cruzar las piernas ni los brazos. Las manos deben estar fuera de los bolsillos. No apoyar los pies en los reclinatorios.",
+                    icon: (<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z"/><path d="m8.5 8.5 7 7"/></svg>)
+                },
+                {
+                    title: "Cuidado de las Instalaciones",
+                    text: "Es deber cuidar el mobiliario y las instalaciones del predio (jardines, templo, salones, baños, mesas, sillas, etc.). Quien cause deterioro o pérdida será responsable de su reparación o reintegro inmediato.",
+                    icon: (<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M3 21h18"/><path d="M5 21V7l8-4 8 4v14"/><path d="M17 21v-8.5a1.5 1.5 0 0 0-1.5-1.5h-5a1.5 1.5 0 0 0-1.5 1.5V21"/></svg>)
+                }
+            ];
+
+            return (
+                <section className="py-16 bg-[#252525] border-t border-[#C5A059] text-white">
+                    <div className="container mx-auto px-4">
+                        
+                        {/* ENCABEZADO */}
+                        <div className="text-center mb-12">
+                            <h2 className="text-2xl md:text-3xl font-serif font-bold text-[#C5A059] mb-2">
+                                Normas de Conducta en el Templo
+                            </h2>
+                            <p className="text-[#f7f5f0] text-base italic font-serif mt-3 tracking-wide opacity-90">
+                                "Guarda tu pie cuando vayas a la casa de Dios, y acércate más para oír." (Eclesiastés 5:1)
+                            </p>
+                        </div>
+
+                        {/* GRILLA DE REGLAS (RESUMEN) */}
+                        <div className="grid md:grid-cols-2 gap-6 max-w-5xl mx-auto mb-12">
+                            {rules.map((rule, idx) => (
+                                <div 
+                                    key={idx} 
+                                    className={`flex items-start space-x-4 bg-[#1A1A1A] p-6 rounded border border-gray-700 hover:border-[#C5A059] transition-colors ${idx === 4 ? 'md:col-span-2 md:w-3/4 md:mx-auto shadow-lg shadow-black/40' : ''}`}
+                                >
+                                    <div className="text-[#C5A059] shrink-0 mt-1">
+                                        {rule.icon}
+                                    </div>
+                                    <div>
+                                        <h3 className="font-bold text-lg mb-2 text-white">{rule.title}</h3>
+                                        <p className="text-gray-400 text-sm leading-relaxed">{rule.text}</p>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+
+                        {/* BOTÓN PARA GUÍA COMPLETA */}
+                        <div className="text-center mb-8">
+                            <button 
+                                onClick={() => setShowGuide(true)}
+                                className="inline-flex items-center gap-2 bg-transparent hover:bg-[#C5A059] text-[#C5A059] hover:text-[#1A1A1A] border border-[#C5A059] px-6 py-3 rounded font-bold uppercase text-sm tracking-wider transition-all"
+                            >
+                                <BookOpen size={18} />
+                                Leer Guía Completa de Comportamiento y Simbología
+                            </button>
+                        </div>
+                        
+                        {/* ACLARACIÓN FINAL */}
+                        <div className="text-center border-t border-gray-700 pt-6 max-w-3xl mx-auto">
+                            <p className="text-[#C5A059] font-bold uppercase tracking-wider text-sm flex items-center justify-center gap-2">
+                                <span className="text-xl">⚠</span>
+                                Aclaración: Estas normas rigen sin excepción para todos, niños y adultos.
+                            </p>
+                        </div>
+                    </div>
+
+                    {/* --- MODAL DE CATEQUESIS (TEXTO COMPLETO) --- */}
+                    <InfoModal 
+                        isOpen={showGuide} 
+                        onClose={() => setShowGuide(false)} 
+                        title="El Comportamiento en el Templo Ortodoxo"
+                        maxWidth="max-w-4xl"
+                    >
+                        <div className="space-y-6 text-[#1A1A1A]">
+                            
+                            <div className="bg-[#F3F0E6] p-4 rounded border-l-4 border-[#761C1C]">
+                                <p className="italic font-serif text-lg">
+                                    "El templo ortodoxo es un lugar especial con la presencia de Dios aquí en la tierra. Se debe comportar en el templo humildemente, para no ofender la grandeza del Santuario."
+                                </p>
+                            </div>
+
+                            <div>
+                                <h3 className="text-xl font-bold text-[#761C1C] font-serif mb-2 border-b border-gray-300 pb-1">Ingreso y Conducta General</h3>
+                                <ul className="list-disc pl-5 space-y-2 text-base">
+                                    <li><strong>Llegada:</strong> Se debe llegar al servicio unos 5-10 minutos antes del comienzo.</li>
+                                    <li><strong>Al entrar:</strong> Se debe persignar y hacer una inclinación de cintura. Los hombres deben quitarse el sombrero inmediatamente.</li>
+                                    <li><strong>Silencio:</strong> No se debe conversar, se deben mantener las manos fuera de los bolsillos y jamás masticar goma de mascar.</li>
+                                    <li><strong>Movimiento:</strong> No se debe caminar por el templo sin una razón importante. Colocar las velas y besar los iconos debe hacerse sin estorbar a los demás.</li>
+                                    <li><strong>Niños:</strong> No se les debe permitir correr, jugar o reír. Si un niño llora, se lo debe tranquilizar o salir con él afuera.</li>
+                                </ul>
+                            </div>
+
+                            <div>
+                                <h3 className="text-xl font-bold text-[#761C1C] font-serif mb-2 border-b border-gray-300 pb-1">Participación Litúrgica</h3>
+                                <p className="mb-2">Acompañe al coro con los cánticos durante el canto general de los feligreses. Cuando todos los feligreses se ponen de rodillas, debe unirse a ellos.</p>
+                                <div className="bg-red-50 p-3 rounded border border-red-200">
+                                    <strong className="text-[#761C1C] uppercase text-sm block mb-1">Momentos de Inmovilidad Absoluta:</strong>
+                                    <p className="text-sm">Es inadmisible caminar o conversar durante:</p>
+                                    <ul className="list-disc pl-5 text-sm mt-1">
+                                        <li>La lectura del Santo Evangelio.</li>
+                                        <li>El canto del Himno Querúbico (La Gran Entrada).</li>
+                                        <li>El Canon Eucarístico (desde El Credo hasta el Padre Nuestro).</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div>
+                                <h3 className="text-xl font-bold text-[#761C1C] font-serif mb-2 border-b border-gray-300 pb-1">Permanencia</h3>
+                                <p>Se debe permanecer en el templo hasta la conclusión completa de la liturgia. Abandonar el templo antes de finalizar el oficio sólo se permite en casos de malestar o extrema necesidad. <br/>
+                                <strong>Cuando venimos a la casa del Señor, debemos hacerlo sabiendo que no hay otra actividad que nos apure. Nuestro tiempo de Oración debe ser sagrado.</strong></p>
+                            </div>
+
+                            <div className="grid md:grid-cols-2 gap-6 mt-6">
+                                <div className="bg-white p-4 rounded shadow-sm border border-[#C5A059]">
+                                    <h4 className="text-lg font-bold text-[#C5A059] font-serif mb-2">Simbolismo de la Vela</h4>
+                                    <p className="text-sm leading-relaxed">
+                                        Lo primero que se hace al traspasar el umbral es acercarse al candelabro. Según San Simeón de Solón (s. XV):
+                                    </p>
+                                    <ul className="list-disc pl-4 text-sm mt-2 space-y-1">
+                                        <li><strong>Cera Pura:</strong> Significa la pureza y pulcritud de quien la trae.</li>
+                                        <li><strong>Suavidad:</strong> Señal de arrepentimiento y disposición a ser obedientes a Dios.</li>
+                                        <li><strong>Llama:</strong> El calor de nuestro amor a Dios.</li>
+                                    </ul>
+                                    <p className="text-sm mt-2 italic text-gray-600">
+                                        "A Dios le agrada la vela de cera, pero la llama que nace del corazón le agrada más."
+                                    </p>
+                                </div>
+
+                                <div className="bg-white p-4 rounded shadow-sm border border-[#C5A059]">
+                                    <h4 className="text-lg font-bold text-[#C5A059] font-serif mb-2">La Ofrenda</h4>
+                                    <p className="text-sm leading-relaxed mb-3">
+                                        Es importante participar con la ofrenda, porque de esta manera colaboramos con el sostenimiento material de la Iglesia. Los fieles dejan una ofrenda voluntaria como muestra concreta de Amor a Dios y corresponsabilidad.
+                                    </p>
+                                    <h4 className="text-lg font-bold text-[#C5A059] font-serif mb-2">Ubicación de Velas</h4>
+                                    <ul className="list-disc pl-4 text-sm space-y-1">
+                                        <li><strong>Centro:</strong> Al santo del día.</li>
+                                        <li><strong>Iconos de Cristo y la Virgen:</strong> Por la salud de los vivos.</li>
+                                        <li><strong>Mesa de difuntos (Crucifijo):</strong> Por el descanso de los fallecidos.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </InfoModal>
+                </section>
+            );
+        };
 
         // PatronSaint
         const PatronSaint = () => {
@@ -1201,7 +1366,7 @@ const Location = ({ currentView }) => {
                 <div className="max-w-4xl animate-fade-in-up flex flex-col items-center z-10">
                     <div className="mb-6">
     <img 
-        src="Img/logo_tartagal.png" 
+        src="Img/logo_tartagal.webp" 
         alt="Escudo San Elías" 
         className="w-32 h-32 md:w-40 md:h-40 object-contain filter brightness-110 " 
         // Si no encuentra el de Tartagal, usa el de Salta como respaldo táctico
@@ -1455,19 +1620,40 @@ const Location = ({ currentView }) => {
 
 // --- APP PRINCIPAL (EL CEREBRO) ---
         const App = () => {
-            const [view, setView] = useState('salta'); // Por defecto abre en Salta
+const getInitialView = () => {
+                const hash = window.location.hash.replace('#', '');
+                return hash === 'tartagal' ? 'tartagal' : 'salta';
+            };
+            const [view, setView] = useState(getInitialView());
 
+useEffect(() => {
+                const handleHashChange = () => {
+                    const hash = window.location.hash.replace('#', '');
+                    if (hash === 'tartagal' || hash === 'salta') {
+                        setView(hash);
+                    } else {
+                        setView('salta'); // Por defecto si el hash es raro
+                    }
+                };
+window.addEventListener('hashchange', handleHashChange);
+                return () => window.removeEventListener('hashchange', handleHashChange);
+            }, []);
+const changeView = (newView) => {
+                window.location.hash = newView;
+                setView(newView);
+            };
             return (
                 <div>
                     {/* Le pasamos las funciones al Navbar para que controle todo */}
-                    <Navbar currentView={view} setView={setView} />
+                    <Navbar currentView={view} setView={changeView} />
                     
                     {view === 'salta' ? (
                         // === VISTA SALTA ===
                         <>
-                            <Hero />
+                            <Hero setView={changeView} />
                             <ParishHistory />
                             <Schedule />
+                            <TempleEtiquette />
                             <PatronSaint />
                             <DailySaints />
                             <ParishNews />
@@ -1479,8 +1665,10 @@ const Location = ({ currentView }) => {
                     ) : (
                         // === VISTA TARTAGAL ===
                         <div className="animate-fade">
-                            <TartagalHero />
+                            <TartagalHero setView={changeView} />
                             <TartagalHistory /> 
+			    <Schedule />
+                            <TempleEtiquette />
 			    <TartagalPatron />
                             <TartagalNews />
                         </div>
