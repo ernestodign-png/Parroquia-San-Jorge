@@ -415,11 +415,26 @@ Oh Señor, que todo lo ve, ayúdanos a levantarnos con tu Espíritu; y cuando no
 		],
 		"01-09": [
 		{
-		    name: "San Polievcto",
+		    name: "San Polieucto",
 		    title: "Mártir",
-		    img: "Img/Polievcto.webp",
-		    desc: `La ciudad armenia de Melitina fue bañada con sangre cristiana como así también toda la tierra de Armenia. La primera sangre derramada por Cristo en ésta ciudad fue la de San Polievcto, alrededor del año 259, durante el reinado de Valeriano. Vivían en esta ciudad dos soldados amigos: Nearco y Polievcto. Nearco había sido bautizado pero Polievcto no. 
-Cuando llegó la orden de persecución de los cristianos, Nearco se preparaba para el martirio pero estaba en medio de una gran tristeza porque no lograba convertir a su amigo a la verdadera fe. Cuando Polievcto supo la razón de la tristeza de Nearco, le prometió convertirse a la fe ortodoxa. Al día siguiente le contó a Nearco su sueño: Se le apareció el Señor mismo, en resplandor, le quitó las viejas vestimentas y lo vistió con ropas nuevas y radiantes y lo ensilló en un caballo con alas. Después de esto, Polievcto fue a la ciudad, destruyó el decreto del emperador sobre la persecución de los cristianos como así también muchas estatuas de los ídolos. Fue torturado y condenado a morir. Cuando fue llevado al lugar de la ejecución, vio a Nearco entre la multitud y exclamó con alegría: “¡Sálvate, mi querido amigo! ¡Acuérdate del voto de amistad firmado entre nosotros!” Más adelante, San Nearco terminó su vida como mártir de Cristo en la hoguera. Su fiesta se celebra el 22 de abril.`
+		    img: "Img/Polieucto.webp",
+		    desc: `Hoy conmemoramos al Santo Mártir Polieucto de Melitene en Armenia (hoy Malatya, Turquía). Fue soldado bajo el emperador Decio (249-251), y más tarde sufrió por Cristo bajo el emperador Valeriano (253-259).
+
+El Santo era amigo de Nearco, un compañero soldado y firme cristiano, pero Polieucto, aunque llevaba una vida virtuosa, permanecía pagano. Cuando comenzó la persecución contra los cristianos, Nearco dijo a Polieucto: "Amigo, pronto seremos separados, pues me llevarán a la tortura, y tú, ¡ay!, renunciarás a tu amistad conmigo".
+
+Polieucto le contó a Nearco que había visto a Cristo en un sueño, Quien le quitó su manto militar y lo vistió con una vestidura radiante. "Ahora", dijo, "estoy preparado para servir al Señor Jesucristo".
+
+Inflamado de celo, Polieucto fue a la plaza de la ciudad y rompió el edicto de Decio que exigía a todos adorar a los ídolos. Poco después, encontró una procesión que llevaba 12 ídolos por la ciudad, arrojó los ídolos al suelo y los pisoteó.
+
+Su suegro, el magistrado Félix, quien era responsable de hacer cumplir el edicto imperial, estaba horrorizado por lo que Polieucto había hecho y declaró que debía morir por esto. "Ve, despídete de tu esposa e hijos", dijo Félix.
+
+Paulina, la esposa* de Polieucto, vino y entre lágrimas suplicó a su esposo que renunciara a Cristo, al igual que su suegro Félix. Pero Polieucto permaneció firme en su resolución de sufrir por Cristo.
+
+Con alegría inclinó su cabeza bajo la espada del verdugo y fue bautizado en su propia sangre. Pronto, cuando el cristianismo triunfó en todo el Imperio Romano durante el reinado de Constantino el Grande, se construyó una iglesia en Melitene en honor al santo Mártir Polieucto.
+
+Muchos milagros se obraron a través de la intercesión de San Polieucto. En esta iglesia, los padres de San Eutimio el Grande oraron fervientemente por un hijo. El nacimiento de esta gran luminaria de la Ortodoxia en 376 ocurrió mediante la ayuda del santo Mártir Polieucto.
+
+San Polieucto también fue venerado por San Acacio, Obispo de Melitene, participante en el Tercer Sínodo Ecuménico, y un gran defensor de la Ortodoxia.`
 		},
 		{
 		    name: "San Eustaquio",
