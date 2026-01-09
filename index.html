@@ -19,9 +19,12 @@
     <meta property="og:title" content="Parroquia San Jorge - Iglesia Ortodoxa en Salta">
     <meta property="og:description" content="Vení y conocé la fe de los Apóstoles. Horarios de culto y actividades en Salta Capital.">
     <meta property="og:image" content="https://www.iglesiaortodoxasalta.com.ar/Img/logo.png">
-    <link rel="canonical" href="https://www.iglesiaortodoxasalta.com.ar/" />
-    <link rel="icon" type="image/png" href="Img/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="Img/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="Img/favicon.png">
+
+    <link rel="icon" type="image/png" sizes="192x192" href="Img/favicon.png">
     
+    <link rel="apple-touch-icon" sizes="180x180" href="Img/favicon.png">    
     <!-- React & ReactDOM -->
     <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
@@ -197,9 +200,9 @@
                         {/* IDENTIDAD + SELECTOR */}
                         <div className="flex items-center space-x-3 text-white group relative z-50">
                             <a href="#inicio" className="flex-shrink-0"><img 
-    src={currentView === 'salta' ? "Img/logo.png" : "Img/logo_tartagal.png"} 
+    src={currentView === 'salta' ? "Img/sanjorgelogo.png" : "Img/saneliaslogo.png"} 
     alt="Escudo Parroquial" 
-    className="h-12 w-auto transition-transform group-hover:scale-105 " 
+    className="h-24 w-auto transition-transform group-hover:scale-105 " 
     onError={(e) => {e.target.style.display='none';}} 
 /></a>
                             <div className="flex flex-col relative">
@@ -1362,7 +1365,6 @@ const Location = ({ currentView }) => {
 // --- INICIO BLOQUE TARTAGAL (PEGAR ANTES DE const App) ---
         const TartagalHero = () => (
             <section className="hero-bg min-h-screen flex flex-col items-center justify-center text-center px-4 py-20 relative">
-                <div className="absolute inset-0 bg-[#761C1C] bg-opacity-20 pointer-events-none"></div>
                 <div className="max-w-4xl animate-fade-in-up flex flex-col items-center z-10">
                     <div className="mb-6">
     <img 
@@ -1384,7 +1386,7 @@ const Location = ({ currentView }) => {
         onError={(e) => {e.target.src='https://via.placeholder.com/600x400?text=Iglesia+San+Elías';}} 
     />
 </div>
-                    <div className="text-white bg-[#761C1C] bg-opacity-90 p-4 rounded-lg border-l-4 border-[#C5A059] max-w-2xl"><p className="font-bold mb-1">Ministerio Sacerdotal
+                    <div className="text-white bg-[#360508] bg-opacity-90 p-4 rounded-lg border-l-4 border-[#C5A059] max-w-2xl"><p className="font-bold mb-1">Ministerio Sacerdotal
 :</p><p className="text-sm">El R.P. Adolfo Barrionuevo celebra y asiste periódicamente a la comunidad.</p></div>
                 </div>
             </section>
