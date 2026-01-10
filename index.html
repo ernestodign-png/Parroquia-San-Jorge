@@ -34,9 +34,15 @@
     
     <!-- Google Fonts: Cinzel (Títulos) & Lato (Cuerpo) -->
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
-    <script src="datosSantoral.js?v=1.1"></script>
+<script>
+        var fecha = new Date();
+        // Genera codigo por fecha
+        var versionDiaria = fecha.getFullYear() + "-" + (fecha.getMonth() + 1) + "-" + fecha.getDate();
+        document.write('<script src="datosSantoral.js?v=' + versionDiaria + '"><\/script>');
+    </script>
+
     <style>
-        /* Paleta de Colores Bizantina */
+        /* Paleta de Colores */
         :root {
             --byz-red: #761C1C;
             --byz-gold: #C5A059;
@@ -75,7 +81,7 @@
 	/* ESTILOS PARA LA HISTORIA */
 	.font-reading { font-family: 'Merriweather', serif; }
 
-	/* Scrollbar elegante */
+	/* Scrollbar */
 	::-webkit-scrollbar { width: 8px; }
 	::-webkit-scrollbar-track { background: #F9F7F2; }
 	::-webkit-scrollbar-thumb { background-color: #C5A059; border-radius: 4px; }
@@ -127,7 +133,7 @@
 
         // --- COMPONENTES ---
 
-        // Modal Genérico Mejorado
+        // Modal
         const InfoModal = ({ isOpen, onClose, title, children, maxWidth = "max-w-2xl" }) => {
             if (!isOpen) return null;
             return (
@@ -152,9 +158,9 @@
             );
         };
 
-        // Navegación (Desplegable y Táctica)
-// Navegación (Con Logo Institucional)
-// --- NUEVO NAVBAR INTELIGENTE (REEMPLAZAR EL ANTERIOR) ---
+        // Navegación 
+// Navegación (Con Logo)
+// --- NUEVO NAVBAR INTELIGENTE ---
         const Navbar = ({ currentView, setView }) => {
             const [isOpen, setIsOpen] = useState(false);
             const [scrolled, setScrolled] = useState(false);
@@ -166,7 +172,7 @@
                 return () => window.removeEventListener('scroll', handleScroll);
             }, []);
 
-            // AQUÍ DEFINIMOS LOS MENÚS DISTINTOS QUE PEDISTE
+            //  MENÚS DISTINTOS
             const menus = {
                 salta: [
                     { name: 'Inicio', href: '#inicio' },
@@ -271,7 +277,6 @@
             );
         };
 
-        // Hero
 // Hero (Actualizado con Logo Institucional)
         const Hero = () => (
             <section id="inicio" className="hero-bg min-h-screen flex flex-col items-center justify-center text-center px-4 py-20">
@@ -287,7 +292,6 @@
                             onError={(e) => {e.target.style.display='none';}}
                         />
                     </div>
-                    {/* (Aquí borré el </div> que sobraba y cortaba el código) */}
 
                     {/* 2. TÍTULO */}
                     <h1 className="text-4xl md:text-6xl font-bold text-white mb-2 font-serif tracking-tight drop-shadow-lg">
@@ -342,10 +346,10 @@
                         </a>
                     </div>
 
-                </div> {/* CIERRE CORRECTO DEL CONTENEDOR */}
+                </div> 
             </section>
         );
-// SECCIÓN HISTORIA (Diseño Zig-Zag Táctico)
+// SECCIÓN HISTORIA (Diseño Zig-Zag)
         const ParishHistory = () => {
             const [showFullHistory, setShowFullHistory] = useState(false);
 
@@ -779,7 +783,6 @@
             );
         };
 
-        // SANTORAL DIARIO AUTOMÁTICO
         // SANTORAL DIARIO AUTOMÁTICO (Estilo Tarjeta Vertical + Modal)
         const DailySaints = () => {
             const [todaySaints, setTodaySaints] = useState([]);
@@ -1056,7 +1059,7 @@ Metropolita de Buenos Aires y toda la Argentina.`
                 }
             };
 
-            // Función táctica para ir al Patrono
+            // Función para ir al Patrono
             const scrollToPatron = () => {
                 const element = document.getElementById('patrono');
                 if (element) {
@@ -1162,13 +1165,22 @@ Metropolita de Buenos Aires y toda la Argentina.`
             );
         };
 
-        // Sección Biblioteca (Descargas PDF)
+// Sección Biblioteca (Descargas PDF + Calendario Interactivo)
         const Library = () => {
+            const [showCalendar, setShowCalendar] = useState(false); // Estado para el calendario
+
             const documents = [
-                { title: "Boletín Dominical (Proximamente)", desc: "Lecturas y reflexiones de la semana.", type: "PDF", link: "#" }, 
-                { title: "La Iglesia Ortodoxa", desc: "Introducción esencial a la fe y tradición de la Iglesia Ortodoxa.", type: "PDF", link: "Documentos/Iglesia%20Ortodoxa%20-%20Kallistos%20Ware.pdf" },
-                { title: "La Theosis (θέωσις):Finalidad de la vida del hombre", desc: `El Archimandrita Giorgios (Monte Athos) expone la doctrina central de la Ortodoxia: el propósito de la vida no es la simple moralidad, sino la Theosis, la unión real y transformadora del hombre con Dios. Traducción: Χρῆστος Χρυσούλας (Jristos Jrisulas).`, type: "PDF", link: "Documentos/Theosis.pdf" },
-                { title: "Libro de oraciones", desc: "Regla de oración diaria para el fiel.", type: "PDF", link: "Documentos/Libro%20de%20Oraciones.pdf" },
+                // Nuevo ítem: El Calendario Interactivo
+                { 
+                    title: "Calendario Ortodoxo 2026", 
+                    desc: "Aplicación interactiva con ayunos, lecturas y festividades del año.", 
+                    icon: <Calendar />, // Reutilizamos el icono de calendario
+                    isApp: true, // Marcador para diferenciar de PDF
+                    action: () => setShowCalendar(true)
+                },
+                { title: "Boletín Dominical (Próximamente)", desc: "Lecturas y reflexiones de la semana.", icon: <FileText />, type: "PDF", link: "#" }, 
+                { title: "La Iglesia Ortodoxa", desc: "Introducción esencial a la fe y tradición de la Iglesia Ortodoxa.", icon: <FileText />, type: "PDF", link: "Documentos/Iglesia%20Ortodoxa%20-%20Kallistos%20Ware.pdf" },
+
             ];
 
             return (
@@ -1177,7 +1189,6 @@ Metropolita de Buenos Aires y toda la Argentina.`
                         <div className="text-center mb-12">
                             <h2 className="text-3xl font-serif text-[#C5A059] mb-4">Biblioteca Digital</h2>
                             <p className="text-gray-400">Materiales para la formación y la vida espiritual.</p>
-                            <p className="text-xs text-gray-500 mt-2"></p>
                         </div>
                         
                         <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
@@ -1185,20 +1196,58 @@ Metropolita de Buenos Aires y toda la Argentina.`
                                 <div key={idx} className="flex items-center justify-between bg-[#252525] p-6 rounded border border-gray-700 hover:border-[#C5A059] transition-colors group">
                                     <div className="flex items-center space-x-4">
                                         <div className="p-3 bg-[#1A1A1A] rounded text-[#C5A059]">
-                                            <FileText />
+                                            {doc.icon}
                                         </div>
                                         <div>
                                             <h3 className="font-bold text-lg text-white group-hover:text-[#C5A059] transition-colors">{doc.title}</h3>
                                             <p className="text-sm text-gray-500">{doc.desc}</p>
                                         </div>
                                     </div>
-                                    <a href={doc.link} target="_blank" className="p-2 text-gray-400 hover:text-white hover:bg-[#761C1C] rounded transition-all" title="Descargar PDF">
-                                        <Download />
-                                    </a>
+                                    
+                                    {/* LÓGICA: Si es App usa botón, si es PDF usa link */}
+                                    {doc.isApp ? (
+                                        <button 
+                                            onClick={doc.action}
+                                            className="p-2 text-[#C5A059] hover:text-white hover:bg-[#761C1C] rounded transition-all" 
+                                            title="Abrir Calendario"
+                                        >
+                                            <ChevronRight size={24} />
+                                        </button>
+                                    ) : (
+                                        <a href={doc.link} target="_blank" className="p-2 text-gray-400 hover:text-white hover:bg-[#761C1C] rounded transition-all" title="Descargar PDF">
+                                            <Download />
+                                        </a>
+                                    )}
                                 </div>
                             ))}
                         </div>
                     </div>
+
+                    {/* --- MODAL DEL CALENDARIO (IFRAME) --- */}
+                    {showCalendar && (
+                        <div className="fixed inset-0 z-[100] flex items-center justify-center p-0 md:p-4 bg-black bg-opacity-90 animate-modal" onClick={() => setShowCalendar(false)}>
+                            <div className="bg-[#1A1A1A] w-full h-full md:h-[90vh] md:w-[90vw] max-w-6xl md:rounded-lg overflow-hidden flex flex-col border border-[#C5A059]" onClick={e => e.stopPropagation()}>
+                                
+                                {/* Header del Modal */}
+                                <div className="bg-[#252525] p-4 flex justify-between items-center border-b border-[#C5A059]">
+                                    <h3 className="text-[#C5A059] font-serif font-bold text-lg">Calendario Litúrgico</h3>
+                                    <button onClick={() => setShowCalendar(false)} className="text-white hover:text-red-500 transition-colors">
+                                        <X size={28} />
+                                    </button>
+                                </div>
+
+                                {/* Iframe (La App Externa) */}
+                                <div className="flex-grow bg-white">
+                                    <iframe 
+                                        src="https://calendarioortodoxo2026.lovable.app/" 
+                                        title="Calendario Ortodoxo"
+                                        className="w-full h-full border-0"
+                                        loading="lazy"
+                                    ></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    )}
                 </section>
             );
         };
