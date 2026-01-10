@@ -1817,7 +1817,6 @@ const Location = ({ currentView }) => {
                         isPWA ? (
                             // MODO APP (Fieles Diarios): Solo lo esencial
                             <>
-                                <Hero setView={changeView} />
                                 <DailySaints />
                                 <ParishNews />
                                 <Library />
@@ -1837,7 +1836,9 @@ const Location = ({ currentView }) => {
                                 <ParishLife /> 
                                 <Faith />
                                 <Gallery /> 
-                                <Library /> 
+                                <Library />
+                   	        <Location currentView={view} />
+ 
                             </>
                         )
                     ) : (
@@ -1849,10 +1850,11 @@ const Location = ({ currentView }) => {
                             <TempleEtiquette />
                             <TartagalPatron />
                             <TartagalNews />
+                    <Location currentView={view} />
+
                         </div>
                     )}
                     
-                    <Location currentView={view} />
                 </div>
             );
         };
