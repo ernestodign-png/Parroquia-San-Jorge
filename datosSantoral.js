@@ -545,5 +545,101 @@ Los apóstoles de Dios enseñaban a otros sobre aquello que ellos mismos cumplí
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-11": [
+		{
+		    name: "San Teodosio el Grande",
+		    title: "Venerable",
+		    img: "Img/Teodosio.webp",
+		    desc: `Es el primer fundador y organizador de la vida cenobítica. Nació, de padres devotos, en la región de Capadocia en la villa de Mogarises. En su juventud visitó a Simeón el Estilita, quien lo bendijo y predijo la gran gloria espiritual que iba a tener. Con el incensario en que puso carbón no encendido e incienso, buscaba Teodosio un lugar donde podría establecerse y fundar su monasterio y se detuvo en donde el carbón se encendió por sí mismo. Allí habitó y empezó a vivir la vida ascética. Pronto juntó a su alrededor a muchos monjes de distintas nacionalidades. Por eso, construyó una iglesia para cada nacionalidad para que, al mismo tiempo, se celebraran oficios y se cantara a Dios en griego, armenio, georgiano etc. Pero, el día de la Santa Comunión, toda la hermandad se reunía en la gran iglesia, donde se oficiaba en griego. Había una mesa común para todos, común era también todas las propiedades, la labor, la paciencia, y a veces, el hambre. Teodosio era un ejemplo de vida para todos los monjes, ejemplo en la labor, la oración, el ayuno, la vigilia y en todas las virtudes cristianas. Y Dios le otorgó la gracia de hacer milagros, pues podía curar a los enfermos, hacer aparecer a la gente a distancia, domesticar a los animales salvajes, predecir el futuro y multiplicar el pan y el trigo. La oración estaba en sus labios día y noche. Descansó en paz al cumplir 105 años de edad, en el año 589.`
+		},
+		{
+		    name: "San Miguel",
+		    title: "El Bienaventurado",
+		    img: "Img/Miguel.webp",
+		    desc: `Era un "loco en Cristo", ruso de origen, de familia principesca. Se hacía pasar por loco para esconder su virtud y evitar que la gente lo alabara. Así se preparó para la alabanza ante Dios. Murió en el año 1453 en el monasterio Klopski, cerca de Novgorod, donde reposan sus reliquias.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+Ser sobornable significa no ser cristiano. Los Padres Ortodoxos de la Iglesia nunca permitieron que lo sobornaran ni que los intimidaran. El soborno en materia de fe es igual a la traición de Judas a Cristo por el dinero. Tal soborno caracterizaba solamente a algunos heréticos. Cuando el emperador Anastasio cayó en la herejía de Eustaquio, se levantó contra las decisiones del cuarto Concilio Ecuménico de Calcedonia y quiso declararlas fuera de la ley. Para ganar a los más distinguidos representantes de la Iglesia, para sí mismo, empezó a enviarles distintos regalos. San Teodosio, por su fama, era el primero en toda Palestina. A él le envió el emperador 30 kilos de oro como regalo, supuestamente para cubrir las necesidades del monasterio. Teodosio entendió inmediatamente que el emperador quería sobornarlo con esto. ¡Y con qué sabiduría actuó el santo! No quiso guardar el dinero para el monasterio, pese a la gran necesidad que tenía, tampoco devolverlo al emperador, para que el emperador no atormentara más la Ortodoxia, sino inmediatamente repartió todo ese oro entre los pobres en nombre del emperador. Esta caridad fortaleció su oración a Dios para que corrija al emperador y que vuelva al camino verdadero.
 
+CONTEMPLACIÓN:
+Contemplar el llanto del Señor:
+
+1. El llanto y la tristeza sobre la muerte de Lázaro;
+
+2. El llanto y la tristeza en el jardín de Getsemaní por la esclavitud del hombre al pecado, al demonio y a la muerte.
+
+
+
+SERMÓN:
+Sobre el crecimiento progresivo en la vida espiritual
+
+"Mas la vianda firme es para los perfectos, para los que por la costumbre tienen los sentidos ejercitados en el discernimiento del bien y del mal" (Hebreos 5:14)
+
+"Todo aquel que participa de la leche es experto en la palabra de justicia" (Hebreos 5:13), y estos no tienen los sentidos ejercitados en el discernimiento del bien y del mal". Ellos normalmente llegan a la conclusión de que todas las creencias tienen el mismo valor, que el pecado es la sombra indispensable de la virtud, que el mal es, en general, el compañero inseparable del bien. El verdadero cristiano no puede llegar a tantas conclusiones erróneas. Porque el verdadero cristiano es una persona madura, quien no se alimenta de leche, el que desconfía de los sentidos, quien es más criterioso y hace una distinción más sutil entre los valores de todo lo que es y todo lo que era. En efecto, al cristiano se le ha dado el poder de distinguir claramente la Revelación de Dios a fin de discernir entre el bien y el mal; sin embargo, necesita un largo y laborioso camino de aprendizaje para que él, como ser perfecto, pueda, en cada asunto, saber lo que es bueno y lo que es malo. Este conocimiento debe pasar al sentimiento, para que sea creíble e infalible. Tanto el bien como el mal quieren llegar al corazón del hombre. Por eso el hombre tiene que ser entrenado, con la intui- ción del corazón, para distinguir inmediatamente la naturaleza de todo pensamiento que se acerca a él (si es un buen pensamiento o no), de la misma manera que el puede distinguir con la lengua lo salado del no salado, el dulce del amargo.
+
+Esforcémonos, hermanos, cada día y a cada hora, en purificar nuestro corazón a fin de que pueda distinguir siempre lo bueno de lo malo. De todo aquello que nos sucede, nos preguntamos: ¿qué es lo bueno y qué es lo malo? Justamente, todo lo que nos sucede, nos sucede solamente por eso, para que podamos tomar cuenta de lo que es bueno y seguirlo. Nos exponemos a nosotros mismos a tantas tentaciones, aún cien veces por día. ¡Aquel que tiene ojos, que mire!
+
+Oh Señor que amas a la humanidad, calienta nuestros corazones con lo bueno que proviene de Ti. Y haznos capaces de ser sabios, para distinguir lo bueno de lo malo. Oh Maestro, fortalécenos para que podamos siempre abrazar el bien y rechazar el mal, por Tu gloria, Tú que amas a la humanidad, y para nuestra salvación. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+		"01-12": [
+		{
+		    name: "Santa Tatiana de Roma",
+		    title: "Mártir",
+		    img: "Img/Tatiana.webp",
+		    desc: `Hija de padres nobles, era cristiana y diaconisa en la iglesia. Después de la muerte del emperador Heliogábalo, el emperador Alejandro, cuya madre Mamea era cristiana, reinó en Roma. El emperador era vacilante e indeciso en la fe, porque tenía en su palacio estatuas de Cristo y de Apolo, de Abraham y de Orfeo. Sus principales asistentes perseguían a los cristianos sin su orden. Cuando llevaron a la virgen Tatiana a la tortura, ella oraba a Dios por sus torturadores y he aquí que se abrieron sus ojos y vieron a cuatro ángeles alrededor de la mártir. Ocho de ellos creyeron en Cristo, por lo que también fueron sometidos a la tortura y muerte. A santa Tatiana continuaron torturándola: la azotaron, le cortaron partes del cuerpo y la rascaron con hierro. Así, toda desfigurada y ensangrentada, la tiraron al calabozo, para que continuaran al día siguiente con nuevos suplicios. Pero Dios enviaba a sus ángeles al calabozo, para animarla y curarla de sus heridas, de manera que, cada mañana, Tatiana aparecía completamente sana delante de sus verdugos. La tiraron a los pies del león, pero este se hizo querer por ella, y no le hizo daño. Le cortaron el pelo pensando, acorde a su mentalidad pagana, que escondía en su cabellera algunas hechicerías o alguna fuerza mágica. Por último, la llevaron junto a su padre y los decapitaron a ambos. Así terminó su vida terrenal alrededor del año 225 d.C., esta virgen heroica, que tenía el cuerpo frágil de una mujer, pero el espíritu valiente y robusto de un hombre y fue coronada con la corona inmortal de gloria.`
+		},
+		{
+		    name: "San Pedro Abesalamo",
+		    title: "Mártir",
+		    img: "Img/general.webp",
+		    desc: `Nació en Elefteriopolis en Palestina. En su juventud, sufrió por la fe en Cristo, durante el tiempo del emperador Maximino, en el año 311 d.C. Después de muchas torturas, fue condenado a muerte. Al escuchar su sentencia exclamó alegremente: "¡Este es el único deseo mío, morir por mi Dios!". Fue crucificado y expiró sobre la cruz, tal como el Señor.`
+		},
+		{
+		    name: "La fiesta del ícono de la Santa Madre de Dios",
+		    title: "que amamanta a su Hijo",
+		    img: "Img/amamanta.webp",
+		    desc: `Así se llama el ícono de la Santísima Virgen que san Saba de Serbia había tomado del monasterio de San Saba el Santificado cerca de Jerusalén, y había colocado en su ermita en Kariés en Monte Athos. Y así se realizó la profecía de san Saba el Santificado, que había sido hecha 800 años antes, que vendría un sacerdote serbio de nombre Saba al monasterio y que a él se le debería dar ese ícono y su bastón. Cuando Saba el serbio visitó el monasterio de san Saba el Santificado, los monjes se acordaron de la profecía de su fundador y le dieron a Saba el ícono y el bastón. Ese ícono fue colocado al lado derecho de la Puerta Real en la ermita y el bastón en una celda llamada "Panderiza" en Kariés.`
+		},
+		{
+		    name: "Santa Teodora",
+		    title: "La venerable madre",
+		    img: "Img/Teodora.webp",
+		    desc: `Fue una monja famosa y maestra de las monjas de Alejandría. "Como los árboles necesitan del invierno y de la nieve para llevar fruto, así también son necesarias las penas y las tentaciones para nuestra vida", decía esta santa mujer. Descansó en paz a principios del siglo V.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+No hay mayor honor ni vocación en la tierra que ser cristiano. Cuando el juez torturador Severos preguntó al joven Pedro Abesalamo: "¿De qué raza eres?", respondió Pedro: "Soy cristiano". Y otra vez le preguntó el juez: "¿De qué rango eres?". A esto respondió Pedro: "No hay ni más grande ni mejor rango que el de un cristiano". El Padre Juan de Kronstadt escribió: "El mundo entero no es más que una tela de araña en comparación con el alma cristiana". Cristiano es un vaso terrenal, en el que se derrama la fuerza divina y la luz. ¿Acaso se colocará ese vaso sobre el trono real dorado, o será bajado a la oscura cabaña del mendigo? En ambos casos, su valor no padece ni aumento ni disminución. ¿Acaso el oro no tiene el mismo valor, si fuera envuelto en un pañuelo de seda o en la hoja de un repollo?
+
+CONTEMPLACIÓN:
+Contemplar la mansedumbre de Jesucristo:
+
+1. Su mansedumbre con respecto a su vida no pública en Nazaret hasta los treinta años;
+
+2. Su mansedumbre en el trato con los enfermos y pecadores;
+
+3. Su mansedumbre en el trato con Judas el traidor y los injustos jueces.
+
+
+SERMÓN:
+Sobre cómo el hombre es el más querido por Dios, y Dios por el hombre
+
+"Porque no busco sus cosas, sino a ustedes" (II Corintios 12:14)
+
+Con estas palabras, las que solo el ardiente amor apostólico puede expresar a su prójimo, es dicha toda la esencia en cuanto a la relación de un cristiano con Dios y de Dios con el cristiano. El amor de Dios podría decir: "Tú, cristiano, ayunas por Mí; por Mí ofreces limosnas; por Mí elevas las oraciones sinceras; por Mí construyes las iglesias; por Mí ofreces los sacrificios y haces muchas obras buenas. Todo eso está bien y todo eso es de Mí agrado, pero tú eres más precioso para Mí que todo eso; en fin, yo no busco nada sino a ti, y solamente a ti”.
+
+El amor de cristiano, entonces, podría decir: "Tú, Señor, me das salud y eso es bueno. Tú enciendes la luz; dejas caer la lluvia; refrescas el aire con el rayo y esto es bueno. Tú das riqueza, sabiduría, larga vida, y progenitura además de otras innumerables cosas buenas, que pones abundantemente sobre la mesa de esta vida. Y todo eso es bueno y valioso, recibo todo con gratitud. Pero, al final, no es más que el dobladillo de Tu faldón; y por último, no busco nada de todo esto sino te busco a Ti, Señor, solamente a Ti”.
+
+Oh, hermanos míos, Dios no puede ser visto con los ojos físicos, tampoco el hombre. Aquello que se ve en toda la naturaleza es solamente parte de Dios; y aquello que se ve en la prenda física es solamente parte del hombre. Dios es amor, hermanos, que baja el cielo a la tierra y el hombre es el amor que eleva la tierra al cielo.
+
+Señor que amas a la humanidad, Creador y Omnipotente, haz Tu morada, más y más, en nosotros con Tu Espíritu vivificador, para que podamos vivir en Tu reino inmortal. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
