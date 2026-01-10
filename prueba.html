@@ -1772,10 +1772,10 @@ const Location = ({ currentView }) => {
 
 // --- APP PRINCIPAL (EL CEREBRO) ---
         const App = () => {
-// 1. Detección de Modo App
+            // 1. Detección de Modo App (Celular instalado)
             const [isPWA, setIsPWA] = useState(false);
             
-            // 2. Estado de Navegación (Salta/Tartagal)
+            // 2. Estado de Navegación Inicial
             const getInitialView = () => {
                 const hash = window.location.hash.replace('#', '');
                 return hash === 'tartagal' ? 'tartagal' : 'salta';
@@ -1783,19 +1783,24 @@ const Location = ({ currentView }) => {
             const [view, setView] = useState(getInitialView());
 
             useEffect(() => {
-                // Detectar si se abrió desde el ícono (Standalone)
+                // Detectar si es PWA
                 const checkPWA = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
                 setIsPWA(checkPWA);
 
-                // Manejo del Hash
+                // --- CORRECCIÓN DEL BUG DE UBICACIÓN ---
                 const handleHashChange = () => {
                     const hash = window.location.hash.replace('#', '');
-                    if (hash === 'tartagal' || hash === 'salta') {
-                        setView(hash);
-                    } else {
+                    
+                    // Solo cambiamos de vista si el hash es explícitamente una ciudad.
+                    // Si el hash es 'ubicacion', 'horarios', etc., MANTENEMOS la vista actual.
+                    if (hash === 'tartagal') {
+                        setView('tartagal');
+                    } else if (hash === 'salta') {
                         setView('salta');
                     }
+                    // Si no es ninguno (ej: #ubicacion), no hacemos nada (se queda donde estaba).
                 };
+
                 window.addEventListener('hashchange', handleHashChange);
                 return () => window.removeEventListener('hashchange', handleHashChange);
             }, []);
@@ -1805,26 +1810,37 @@ const Location = ({ currentView }) => {
                 setView(newView);
             };
 
-            // Lógica de Renderizado
             return (
                 <div>
-{/* AVISO DE INSTALACIÓN (Solo aparece si no es App) */}
-                    {!isPWA && <InstallPrompt />}
+                    {/* El aviso de instalación solo sale en modo Web */}
+                    {!isPWA && <InstallPrompt />} 
+
                     <Navbar currentView={view} setView={changeView} />
                     
-                    {view === 'salta' ? (
-                        // === LÓGICA SALTA ===
-                        isPWA ? (
-                            // MODO APP (Fieles Diarios): Solo lo esencial
-                            <>
-                                <DailySaints />
-                                <ParishNews />
-                                <Library />
-                                {/* Dejamos ubicación al final siempre */}
-                            </>
-                        ) : (
+                    {/* === LÓGICA DE VISTAS === */}
+                    
+                    {isPWA ? (
+                        // =============================================
+                        // VISTA PWA (APP INSTALADA) - ÚNICAMENTE LO ESENCIAL
+                        // =============================================
+                        <div className="pt-24 bg-[#F9F7F2] min-h-screen"> 
+                            {/* pt-24 da espacio para que la barra de arriba no tape el santo */}
+                            
+                            <DailySaints />  {/* 1. Sinasario (Lo primero que se ve) */}
+                            <ParishNews />   {/* 2. Novedades */}
+                            <Library />      {/* 3. Biblioteca */}
+                            
+                            {/* FIN DE LA APP (Sin footer, sin ubicación, sin Tartagal) */}
+                            <div className="text-center py-6 text-gray-400 text-xs uppercase tracking-widest border-t border-gray-200 mt-8">
+                                Parroquia San Jorge | Salta
+                            </div>
+                        </div>
 
-// MODO WEB (Visitantes): Sitio Completo
+                    ) : (
+                        // =============================================
+                        // VISTA WEB (NORMAL) - SITIO COMPLETO
+                        // =============================================
+                        view === 'salta' ? (
                             <>
                                 <Hero setView={changeView} />
                                 <ParishHistory />
@@ -1836,25 +1852,21 @@ const Location = ({ currentView }) => {
                                 <ParishLife /> 
                                 <Faith />
                                 <Gallery /> 
-                                <Library />
-                   	        <Location currentView={view} />
- 
+                                <Library /> 
+                                <Location currentView='salta' />
                             </>
+                        ) : (
+                            // VISTA TARTAGAL
+                            <div className="animate-fade">
+                                <TartagalHero setView={changeView} />
+                                <TartagalHistory />
+                                <TempleEtiquette />
+                                <TartagalPatron />
+                                <TartagalNews />
+                                <Location currentView='tartagal' />
+                            </div>
                         )
-                    ) : (
-                        // === LÓGICA TARTAGAL ===
-                        // (Aquí podrías aplicar la misma lógica si quisieras, por ahora lo dejo completo)
-                        <div className="animate-fade">
-                            <TartagalHero setView={changeView} />
-                            <TartagalHistory />
-                            <TempleEtiquette />
-                            <TartagalPatron />
-                            <TartagalNews />
-                    <Location currentView={view} />
-
-                        </div>
                     )}
-                    
                 </div>
             );
         };
