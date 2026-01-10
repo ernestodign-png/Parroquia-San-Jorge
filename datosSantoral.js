@@ -480,5 +480,70 @@ Oh Señor, Espíritu Santo, quien nos ha dado a conocer estas santas palabras en
 
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
-		]
+		],
+		"01-10": [
+		{
+		    name: "San Gregorio",
+		    title: "Obispo de Nisa",
+		    img: "Img/Gregorio.webp",
+		    desc: `Hoy conmemoramos a nuestro Santo Padre San Gregorio, Obispo de Nisa. Es venerado como uno de los Tres Padres Capadocios junto con su hermano mayor San Basilio el Grande y San Gregorio el Teólogo.
+
+San Gregorio nació en 335 en una familia piadosa que produjo muchos santos, incluidos su padre San Basilio el Viejo, su madre Santa Emmelia, sus hermanas Santa Macrina la Joven y Santa Teosebia, y sus hermanos San Basilio el Grande, San Pedro de Sebaste y San Naucracio.
+
+Gregorio fue criado en una época en que la herejía arriana arrasaba por todo el imperio. Recibió una excelente educación y más tarde fue maestro de retórica. En 372, fue consagrado por su hermano Basilio como obispo de la ciudad de Nisa en Capadocia (hoy Harmandalı en Ortaköy, Turquía).
+
+Mientras atendía las necesidades de su rebaño espiritual, Gregorio luchó con celo contra la herejía arriana junto con su hermano mayor. Fue depuesto dos veces de su sede por los herejes; una vez después de que lo acusaran falsamente de uso indebido de la propiedad de la Iglesia, y una segunda por un concilio de obispos arrianos.
+
+A pesar de esto, Gregorio siguió animando a su rebaño en la Ortodoxia. Tras la muerte del emperador arriano Valente, Gregorio fue restaurado en su sede en 378. En 379, San Basilio reposó, y el profundamente afligido Gregorio pronunció un cálido sermón fúnebre por su amado hermano.
+
+Más tarde ese mismo año, Gregorio asistió al Concilio de Antioquía donde reprendió a los herejes que se negaban a reconocer la virginidad perpetua de la Madre de Dios.
+
+En 381 asistió al Segundo Concilio Ecuménico en Constantinopla contra la herejía de Macedonio, quien negaba la divinidad del Espíritu Santo. En este concilio, por iniciativa de Gregorio, se completó el Credo Niceno-Constantinopolitano.
+
+Durante el resto de su vida, San Gregorio asistió a concilios de la Iglesia, trató asuntos doctrinales y viajó por Asia Menor, Armenia, Arabia y Jerusalén combatiendo varias herejías.
+
+San Gregorio reposó a edad avanzada alrededor del año 394. Dejó atrás muchas obras teológicas brillantes, discursos y sermones, y fue incluso descrito en el Séptimo Concilio Ecuménico en 787 como “el Padre de los Padres”.`
+		},
+		{
+		    name: "San Amón",
+		    title: "Venerable",
+		    img: "Img/general.webp",
+		    desc: `Era asceta en Egipto. Durante catorce años se entregó a Dios y rezaba sólo para vencer su propia ira. Logró perfeccionarse tanto en la bondad que ya no tenía conciencia que existía la maldad en el mundo. Fue un gran tenedor de la Sagrada Escritura. Descansó en paz a principios del siglo V.`
+ 		},
+		{
+		    name: "San Marciano",
+		    title: "Presbítero de Constantinopla",
+		    img: "Img/Marciano.webp",
+		    desc: `Nació en Roma. Como presbítero, vivió hasta el final de su vida en Constantinopla, durante gran parte del reinado de Marciano y Pulquería. Heredó muchas riquezas de sus padres, y las gastó generosamente para dos fines: primero, la construcción y la renovación de los templos y segundo, la limosna a los pobres. Construyó dos nuevas iglesias en Constantinopla, famosas por su belleza y objetos sacro sagrados: una dedicada a santa Anastasia y otra a santa Irene. Cuando le preguntaron, por qué gastaba tanto en las iglesias, respondió: “Si yo tuviera una hija, y si quisiera casarla con un noble, ¿no hubiera gastado mucho oro para adornarla como una digna novia? Pues yo adorno la iglesia, la novia de Cristo”. Este santo hombre era muy generoso con las iglesias y con los pobres; en cuanto a su vida interior era muy duro consigo mismo, siguiendo el consejo de los apóstoles: “Y cuando tengamos la comida y el vestido, estemos satisfechos” (I Timoteo 6:8). Escribieron sobre él: “Él estaba por completo con Dios y Dios en él”. Se despidió ante Dios en avanzada edad y lleno de buenas obras, en el año 471.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+La vanidad por la vestimenta prevalece particularmente en nuestro tiempo. Quien no tiene otra cosa para enorgullecerse, se enorgullece de su vestimenta. Y aquel que tiene algo mas valioso que la ropa para estar orgulloso, este no se enorgullece. Tal como el oro no sale a la superficie de la tierra, tampoco los valores espirituales de un hombre se muestran afuera. Cuentan que un famoso filósofo vio a un joven que se enorgullecía por su vestimenta, se acercó a él y le susurró al oído: “El mismo vellón llevaba antes de ti el carnero, pero sin embargo era sólo un carnero”. Ser cristiano y enorgullecerse de la vestimenta es una locura mayor que ser emperador y enorgullecerse del polvo debajo de sus pies. Mientras San Arsenio usaba vestimentas de oro en la corte del rey, nadie lo llamaba “el Grande”. Fue llamado “Arsenio el Grande” cuando se puso completamente al servicio de Dios y cuando se vistió con harapos.
+
+CONTEMPLACIÓN:
+Contemplar todas las virtudes en la Persona del Señor Jesucristo:
+
+1. La humildad del Rey que nació en una cueva;
+
+2. La humildad del más Rico que tuvo hambre y sed;
+
+3. La humildad del Omnipotente en relación con los humildes de la tierra. 
+
+
+SERMÓN:
+Sobre contentarse con aquello que más necesitamos
+
+“Así que, si tenemos ropa y comida, contentémonos con eso” (I Timoteo 6:8)
+
+Los apóstoles de Dios enseñaban a otros sobre aquello que ellos mismos cumplían en sus vidas. Cuando tenían comida y ropa, estaban satisfechos. Y cuando no lo tenían estaban igualmente contentos. Porque su satisfacción no provenía de afuera, sino nacía de adentro. Su satisfacción no era tan barata como la de los animales, sino más preciosa, mucho más cara y más rara. La satisfacción interior, la que provenía de la paz y del amor a Dios en el corazón, pertenece a la gente más noble, ésa fue la satisfacción apostólica. En los grandes combates, los generales se visten y comen como simples soldados y no piden la satisfacción en la comida y en la vestimenta, sino en la victoria. La victoria es la satisfacción principal de aquellos que luchan. Y los cristianos, hermanos, están en lucha constante, en lucha para la victoria del espíritu sobre la materia, en la lucha por la conquista de lo alto sobre lo bajo, del hombre sobre la bestia. ¿No es extraño luchar y no preocuparse de la victoria sino de los adornos y de las joyas externas? ¿No es absurdo dar signos de identidad al enemigo? Nuestro enemigo invisible (Satanás) se alegra por nuestra vanidad, y nos apoya en todo pensamiento soberbio y nos deja ocupados con todas sus pequeñeces y holgazanerías irrazonables, con el solo fin de imponer a nuestra mente olvidarse de la razón por la que estamos en la tierra. El enemigo nos presenta las cosas inútiles como importantes, lo secundario como primordial, lo destructor como útil, con el solo fin de triunfar sobre nosotros y llegar a destruirnos para siempre.
+
+¡Oh Señor santo, poderoso e inmortal, que nos creaste del barro y que soplaste en el barro el alma de vida, no permitas, Señor, que el barro nos supere! Ayuda a nuestro espíritu para que siempre sea más fuerte que la tierra.
+
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+
 };
