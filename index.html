@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1A1A1A">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MX95482GY3"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -1669,55 +1673,80 @@ const Location = ({ currentView }) => {
 
 // --- APP PRINCIPAL (EL CEREBRO) ---
         const App = () => {
-const getInitialView = () => {
+// 1. Detección de Modo App
+            const [isPWA, setIsPWA] = useState(false);
+            
+            // 2. Estado de Navegación (Salta/Tartagal)
+            const getInitialView = () => {
                 const hash = window.location.hash.replace('#', '');
                 return hash === 'tartagal' ? 'tartagal' : 'salta';
             };
             const [view, setView] = useState(getInitialView());
 
-useEffect(() => {
+            useEffect(() => {
+                // Detectar si se abrió desde el ícono (Standalone)
+                const checkPWA = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+                setIsPWA(checkPWA);
+
+                // Manejo del Hash
                 const handleHashChange = () => {
                     const hash = window.location.hash.replace('#', '');
                     if (hash === 'tartagal' || hash === 'salta') {
                         setView(hash);
                     } else {
-                        setView('salta'); // Por defecto si el hash es raro
+                        setView('salta');
                     }
                 };
-window.addEventListener('hashchange', handleHashChange);
+                window.addEventListener('hashchange', handleHashChange);
                 return () => window.removeEventListener('hashchange', handleHashChange);
             }, []);
-const changeView = (newView) => {
+
+            const changeView = (newView) => {
                 window.location.hash = newView;
                 setView(newView);
             };
+
+            // Lógica de Renderizado
             return (
                 <div>
-                    {/* Le pasamos las funciones al Navbar para que controle todo */}
                     <Navbar currentView={view} setView={changeView} />
                     
                     {view === 'salta' ? (
-                        // === VISTA SALTA ===
-                        <>
-                            <Hero setView={changeView} />
-                            <ParishHistory />
-                            <Schedule />
-                            <TempleEtiquette />
-                            <PatronSaint />
-                            <DailySaints />
-                            <ParishNews />
-                            <ParishLife /> 
-                            <Faith />
-                            <Gallery /> 
-                            <Library /> 
-                        </>
+                        // === LÓGICA SALTA ===
+                        isPWA ? (
+                            // MODO APP (Fieles Diarios): Solo lo esencial
+                            <>
+                                <Hero setView={changeView} />
+                                <DailySaints />
+                                <ParishNews />
+                                <Library />
+                                {/* Dejamos ubicación al final siempre */}
+                            </>
+                        ) : (
+
+// MODO WEB (Visitantes): Sitio Completo
+                            <>
+                                <Hero setView={changeView} />
+                                <ParishHistory />
+                                <Schedule /> 
+                                <TempleEtiquette />
+                                <PatronSaint />
+                                <DailySaints />
+                                <ParishNews />
+                                <ParishLife /> 
+                                <Faith />
+                                <Gallery /> 
+                                <Library /> 
+                            </>
+                        )
                     ) : (
-                        // === VISTA TARTAGAL ===
+                        // === LÓGICA TARTAGAL ===
+                        // (Aquí podrías aplicar la misma lógica si quisieras, por ahora lo dejo completo)
                         <div className="animate-fade">
                             <TartagalHero setView={changeView} />
-                            <TartagalHistory /> 
+                            <TartagalHistory />
                             <TempleEtiquette />
-			    <TartagalPatron />
+                            <TartagalPatron />
                             <TartagalNews />
                         </div>
                     )}
