@@ -1,0 +1,21 @@
+{
+  "name": "Iglesia Ortodoxa Salta",
+  "short_name": "San Jorge",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1A1A1A",
+  "theme_color": "#1A1A1A",
+  "description": "Santoral, Liturgia y Vida de la Parroquia San Jorge (Patriarcado de Antioquía).",
+  "icons": [
+    {
+      "src": "Img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
