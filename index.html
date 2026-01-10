@@ -12,27 +12,16 @@
     <meta name="google-site-verification" content="rMSO51EGmti5fbXD8NUfNGWgDvMvj-G5rQKAHpqWPZc" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Iglesia Ortodoxa en Salta | San Jorge (Capital) y San Elías (Tartagal)</title>
-    <meta name="description" content="Sitio oficial de la Iglesia Ortodoxa del Patriarcado de Antioquía en la provincia de Salta. Horarios de Liturgia y vida parroquial de la Iglesia San Jorge (Salta Capital) y la Parroquia San Elías (Tartagal). Fe Apostólica y Tradición.">
-    <meta name="keywords" content="Iglesia Ortodoxa Salta, Parroquia San Jorge, Parroquia San Elías Tartagal, Iglesia Ortodoxa Tartagal, Patriarcado de Antioquía Argentina, Misa Ortodoxa, Cristianismo Ortodoxo Norte Argentino, Liturgia Divina, General Mosconi, Salta Capital, Fe Ortodoxa">
+    <title>Parroquia San Jorge - Salta</title>
+    <meta name="description" content="Sitio oficial de la Parroquia San Jorge en Salta. Única Iglesia Ortodoxa del Patriarcado de Antioquía en la provincia. Horarios de Divina Liturgia, ubicación y vida parroquial.">
+    <meta name="keywords" content="Iglesia Ortodoxa Salta, Parroquia San Jorge, Patriarcado de Antioquía, Misa Ortodoxa, Cristianismo Ortodoxo Argentina, Liturgia Divina, Salta">
     <meta name="robots" content="index, follow">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.iglesiaortodoxasalta.com.ar/">
-    <meta property="og:title" content="Iglesia Ortodoxa en Salta | Patriarcado de Antioquía">
-    <meta property="og:description" content="Vení y conocé la fe de los Apóstoles. Información oficial de las Parroquias San Jorge (Capital) y San Elías (Tartagal).">
+    <meta property="og:title" content="Parroquia San Jorge - Iglesia Ortodoxa en Salta">
+    <meta property="og:description" content="Vení y conocé la fe de los Apóstoles. Horarios de culto y actividades en Salta Capital.">
+    <meta property="og:image" content="https://www.iglesiaortodoxasalta.com.ar/Img/logo.png">
+    <link rel="canonical" href="https://www.iglesiaortodoxasalta.com.ar/" />
+    <link rel="icon" type="image/png" href="Img/logo.png">
     
-    <meta property="og:image" content="https://www.iglesiaortodoxasalta.com.ar/Img/preview.jpeg">
-    
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    
-    <meta property="og:image:type" content="image/jpeg">
-    <link rel="icon" type="image/png" sizes="32x32" href="Img/favicon.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="Img/favicon.png">
-
-    <link rel="icon" type="image/png" sizes="192x192" href="Img/favicon.png">
-    
-    <link rel="apple-touch-icon" sizes="180x180" href="Img/favicon.png">    
     <!-- React & ReactDOM -->
     <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
@@ -45,42 +34,7 @@
     
     <!-- Google Fonts: Cinzel (Títulos) & Lato (Cuerpo) -->
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
-    <script src="datosSantoral.js"></script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Church",
-          "name": "Parroquia San Jorge",
-          "image": "https://www.iglesiaortodoxasalta.com.ar/Img/logo.png",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Pellegrini 250",
-            "addressLocality": "Salta",
-            "addressRegion": "Salta",
-            "postalCode": "A4400",
-            "addressCountry": "AR"
-          },
-          "url": "https://www.iglesiaortodoxasalta.com.ar/#salta"
-        },
-        {
-          "@type": "Church",
-          "name": "Parroquia San Elías",
-          "image": "https://www.iglesiaortodoxasalta.com.ar/Img/logo_tartagal.jpg",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Cornejo 302",
-            "addressLocality": "Tartagal",
-            "addressRegion": "Salta",
-            "postalCode": "A4560",
-            "addressCountry": "AR"
-          },
-          "url": "https://www.iglesiaortodoxasalta.com.ar/#tartagal"
-        }
-      ]
-    }
-    </script>
+    <script src="datosSantoral.js?v=1.1"></script>
     <style>
         /* Paleta de Colores Bizantina */
         :root {
@@ -243,7 +197,7 @@
                         {/* IDENTIDAD + SELECTOR */}
                         <div className="flex items-center space-x-3 text-white group relative z-50">
                             <a href="#inicio" className="flex-shrink-0"><img 
-    src={currentView === 'salta' ? "Img/sanjorgelogo.png" : "Img/saneliaslogo.png"} 
+    src={currentView === 'salta' ? "Img/logo.png" : "Img/logo_tartagal.png"} 
     alt="Escudo Parroquial" 
     className="h-12 w-auto transition-transform group-hover:scale-105 " 
     onError={(e) => {e.target.style.display='none';}} 
@@ -1408,10 +1362,11 @@ const Location = ({ currentView }) => {
 // --- INICIO BLOQUE TARTAGAL (PEGAR ANTES DE const App) ---
         const TartagalHero = () => (
             <section className="hero-bg min-h-screen flex flex-col items-center justify-center text-center px-4 py-20 relative">
+                <div className="absolute inset-0 bg-[#761C1C] bg-opacity-20 pointer-events-none"></div>
                 <div className="max-w-4xl animate-fade-in-up flex flex-col items-center z-10">
                     <div className="mb-6">
     <img 
-        src="Img/logo_tartagal.png" 
+        src="Img/logo_tartagal.webp" 
         alt="Escudo San Elías" 
         className="w-32 h-32 md:w-40 md:h-40 object-contain filter brightness-110 " 
         // Si no encuentra el de Tartagal, usa el de Salta como respaldo táctico
@@ -1429,7 +1384,7 @@ const Location = ({ currentView }) => {
         onError={(e) => {e.target.src='https://via.placeholder.com/600x400?text=Iglesia+San+Elías';}} 
     />
 </div>
-                    <div className="text-white bg-[#360508] bg-opacity-90 p-4 rounded-lg border-l-4 border-[#C5A059] max-w-2xl"><p className="font-bold mb-1">Ministerio Sacerdotal
+                    <div className="text-white bg-[#761C1C] bg-opacity-90 p-4 rounded-lg border-l-4 border-[#C5A059] max-w-2xl"><p className="font-bold mb-1">Ministerio Sacerdotal
 :</p><p className="text-sm">El R.P. Adolfo Barrionuevo celebra y asiste periódicamente a la comunidad.</p></div>
                 </div>
             </section>
@@ -1712,6 +1667,7 @@ const changeView = (newView) => {
                         <div className="animate-fade">
                             <TartagalHero setView={changeView} />
                             <TartagalHistory /> 
+			    <Schedule />
                             <TempleEtiquette />
 			    <TartagalPatron />
                             <TartagalNews />
