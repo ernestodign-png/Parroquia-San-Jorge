@@ -1414,7 +1414,7 @@ const Location = ({ currentView }) => {
 
 // --- INICIO BLOQUE TARTAGAL (PEGAR ANTES DE const App) ---
         const TartagalHero = () => (
-            <section className="hero-bg min-h-screen flex flex-col items-center justify-center text-center px-4 py-20 relative">
+            <section id="inicio" className="hero-bg min-h-screen flex flex-col items-center justify-center text-center px-4 py-20 relative">
                 <div className="absolute inset-0 bg-[#761C1C] bg-opacity-20 pointer-events-none"></div>
                 <div className="max-w-4xl animate-fade-in-up flex flex-col items-center z-10">
                     <div className="mb-6">
@@ -1770,12 +1770,11 @@ const Location = ({ currentView }) => {
             );
         };
 
-// --- APP PRINCIPAL (EL CEREBRO) ---
-        const App = () => {
-            // 1. Detección de Modo App (Celular instalado)
+const App = () => {
+            // 1. Detección de Modo App
             const [isPWA, setIsPWA] = useState(false);
             
-            // 2. Estado de Navegación Inicial
+            // 2. Navegación
             const getInitialView = () => {
                 const hash = window.location.hash.replace('#', '');
                 return hash === 'tartagal' ? 'tartagal' : 'salta';
@@ -1783,22 +1782,15 @@ const Location = ({ currentView }) => {
             const [view, setView] = useState(getInitialView());
 
             useEffect(() => {
-                // Detectar si es PWA
+                // Check PWA
                 const checkPWA = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
                 setIsPWA(checkPWA);
 
-                // --- CORRECCIÓN DEL BUG DE UBICACIÓN ---
+                // Check Hash (Corregido para no recargar en anclas internas)
                 const handleHashChange = () => {
                     const hash = window.location.hash.replace('#', '');
-                    
-                    // Solo cambiamos de vista si el hash es explícitamente una ciudad.
-                    // Si el hash es 'ubicacion', 'horarios', etc., MANTENEMOS la vista actual.
-                    if (hash === 'tartagal') {
-                        setView('tartagal');
-                    } else if (hash === 'salta') {
-                        setView('salta');
-                    }
-                    // Si no es ninguno (ej: #ubicacion), no hacemos nada (se queda donde estaba).
+                    if (hash === 'tartagal') setView('tartagal');
+                    else if (hash === 'salta') setView('salta');
                 };
 
                 window.addEventListener('hashchange', handleHashChange);
@@ -1810,62 +1802,69 @@ const Location = ({ currentView }) => {
                 setView(newView);
             };
 
-            return (
-                <div>
-                    {/* El aviso de instalación solo sale en modo Web */}
-                    {!isPWA && <InstallPrompt />} 
-
-                    <Navbar currentView={view} setView={changeView} />
-                    
-                    {/* === LÓGICA DE VISTAS === */}
-                    
-                    {isPWA ? (
-                        // =============================================
-                        // VISTA PWA (APP INSTALADA) - ÚNICAMENTE LO ESENCIAL
-                        // =============================================
-                        <div className="pt-24 bg-[#F9F7F2] min-h-screen"> 
-                            {/* pt-24 da espacio para que la barra de arriba no tape el santo */}
-                            
-                            <DailySaints />  {/* 1. Sinasario (Lo primero que se ve) */}
-                            <ParishNews />   {/* 2. Novedades */}
-                            <Library />      {/* 3. Biblioteca */}
-                            
-                            {/* FIN DE LA APP (Sin footer, sin ubicación, sin Tartagal) */}
-                            <div className="text-center py-6 text-gray-400 text-xs uppercase tracking-widest border-t border-gray-200 mt-8">
-                                Parroquia San Jorge | Salta
-                            </div>
+            // --- RENDERIZADO ---
+            if (isPWA) {
+                // ============================================================
+                // MODO APP (INSTALADO EN CELULAR) - SOLO LO ESENCIAL
+                // ============================================================
+                return (
+                    <div className="bg-[#F9F7F2] min-h-screen pb-12">
+                        {/* Cabecera Minimalista (Solo Marca, Sin Menú) */}
+                        <div className="bg-[#1A1A1A] py-4 text-center border-b border-[#C5A059] shadow-md sticky top-0 z-50">
+                            <h1 className="text-[#C5A059] font-serif font-bold text-lg tracking-widest uppercase">
+                                Parroquia San Jorge
+                            </h1>
                         </div>
 
+                        {/* Contenido Diario */}
+                        <div className="pt-4">
+                            <DailySaints />
+                            <ParishNews />
+                            <Library />
+                        </div>
+
+                        {/* Pie Simple */}
+                        <div className="text-center mt-8 text-gray-400 text-[10px] uppercase tracking-widest">
+                            Patriarcado de Antioquía
+                        </div>
+                    </div>
+                );
+            }
+
+            // ============================================================
+            // MODO WEB (NAVEGADOR) - SITIO COMPLETO
+            // ============================================================
+            return (
+                <div>
+                    <InstallPrompt />
+                    
+                    {/* El Navbar SOLO se carga aquí, en modo Web */}
+                    <Navbar currentView={view} setView={changeView} />
+                    
+                    {view === 'salta' ? (
+                        <>
+                            <Hero setView={changeView} />
+                            <ParishHistory />
+                            <Schedule /> 
+                            <TempleEtiquette />
+                            <PatronSaint />
+                            <DailySaints />
+                            <ParishNews />
+                            <ParishLife /> 
+                            <Faith />
+                            <Gallery /> 
+                            <Library /> 
+                            <Location currentView='salta' />
+                        </>
                     ) : (
-                        // =============================================
-                        // VISTA WEB (NORMAL) - SITIO COMPLETO
-                        // =============================================
-                        view === 'salta' ? (
-                            <>
-                                <Hero setView={changeView} />
-                                <ParishHistory />
-                                <Schedule /> 
-                                <TempleEtiquette />
-                                <PatronSaint />
-                                <DailySaints />
-                                <ParishNews />
-                                <ParishLife /> 
-                                <Faith />
-                                <Gallery /> 
-                                <Library /> 
-                                <Location currentView='salta' />
-                            </>
-                        ) : (
-                            // VISTA TARTAGAL
-                            <div className="animate-fade">
-                                <TartagalHero setView={changeView} />
-                                <TartagalHistory />
-                                <TempleEtiquette />
-                                <TartagalPatron />
-                                <TartagalNews />
-                                <Location currentView='tartagal' />
-                            </div>
-                        )
+                        <div className="animate-fade">
+                            <TartagalHero setView={changeView} />
+                            <TartagalHistory />
+                            <TempleEtiquette />
+                            <TartagalPatron />
+                            <TartagalNews />
+                            <Location currentView='tartagal' />
+                        </div>
                     )}
                 </div>
             );
