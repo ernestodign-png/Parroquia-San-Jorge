@@ -71,7 +71,7 @@
 
     <script>
         var fecha = new Date();
-        var versionDiaria = fecha.getFullYear() + "-" + (fecha.getMonth() + 1) + "-" + fecha.getDate();
+	var versionForzada = fecha.getTime();
         document.write('<script src="datosSantoral.js?v=' + versionDiaria + '"><\/script>');
     </script>
 
