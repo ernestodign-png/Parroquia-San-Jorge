@@ -591,32 +591,44 @@ Oh Señor que amas a la humanidad, calienta nuestros corazones con lo bueno que 
 		    name: "Santa Tatiana de Roma",
 		    title: "Mártir",
 		    img: "Img/Tatiana.webp",
-		    desc: `Hija de padres nobles, era cristiana y diaconisa en la iglesia. Después de la muerte del emperador Heliogábalo, el emperador Alejandro, cuya madre Mamea era cristiana, reinó en Roma. El emperador era vacilante e indeciso en la fe, porque tenía en su palacio estatuas de Cristo y de Apolo, de Abraham y de Orfeo. Sus principales asistentes perseguían a los cristianos sin su orden. Cuando llevaron a la virgen Tatiana a la tortura, ella oraba a Dios por sus torturadores y he aquí que se abrieron sus ojos y vieron a cuatro ángeles alrededor de la mártir. Ocho de ellos creyeron en Cristo, por lo que también fueron sometidos a la tortura y muerte. A santa Tatiana continuaron torturándola: la azotaron, le cortaron partes del cuerpo y la rascaron con hierro. Así, toda desfigurada y ensangrentada, la tiraron al calabozo, para que continuaran al día siguiente con nuevos suplicios. Pero Dios enviaba a sus ángeles al calabozo, para animarla y curarla de sus heridas, de manera que, cada mañana, Tatiana aparecía completamente sana delante de sus verdugos. La tiraron a los pies del león, pero este se hizo querer por ella, y no le hizo daño. Le cortaron el pelo pensando, acorde a su mentalidad pagana, que escondía en su cabellera algunas hechicerías o alguna fuerza mágica. Por último, la llevaron junto a su padre y los decapitaron a ambos. Así terminó su vida terrenal alrededor del año 225 d.C., esta virgen heroica, que tenía el cuerpo frágil de una mujer, pero el espíritu valiente y robusto de un hombre y fue coronada con la corona inmortal de gloria.`
+		    desc: `Hija de padres nobles, Tatiana nació en Roma a comienzos del siglo III. Su padre, cristiano y funcionario del gobierno imperial, la educó en secreto en la fe en Cristo cuando aún la Iglesia vivía en persecución. Desde joven se dedicó al ayuno, la oración y al servicio misericordioso, asistiendo a los enfermos y pobres con gran celo. Por su virtud y devoción fue ordenada diaconisa en la Iglesia local de Roma.
+
+Tras la muerte de Heliogábalo, ascendió al trono el emperador Alejandro Severo, cuya madre Mamea era cristiana. Sin embargo, el emperador vacilaba en su fe y mantenía imágenes de Cristo y de Apolo, de Abraham y de Orfeo juntas en su palacio. Sus ministros y altos funcionarios, hostiles al cristianismo, perseguían a los fieles sin necesidad de orden imperial.
+
+Tatiana fue arrestada por el célebre jurista Ulpiano, quien intentó obligarla a sacrificar a los ídolos paganos. Primero fue llevada ante el altar del dios Apolo. Pero cuando ella elevó oración, un terremoto sacudió el templo y destruyó la estatua del ídolo. En otra ocasión, al ser forzada a ofrecer incienso a la diosa Diana, Tatiana hizo la señal de la Cruz y un rayo cayó sobre la imagen derribándola.
+
+Entonces comenzó para Tatiana una cadena incesante de suplicios. Fue azotada sin misericordia, rasgada con ganchos y cuchillas, le cortaron partes del cuerpo, incluso los ojos con garfios y los pechos con hierro. Según los testigos, su cuerpo quedó totalmente desfigurado y ensangrentado, pero ella perseveraba sin renegar del Señor.
+
+Por la noche era arrojada al calabozo, pero los ángeles descendían a curar sus heridas. Por eso cada mañana aparecía ante los verdugos completamente sana e incluso más radiante y bella que antes. Los torturadores, desesperados y supersticiosos, le cortaron el pelo creyendo que ocultaba hechicerías o poderes mágicos. Pero cuando siguieron golpeándola, sintieron que una fuerza invisible les golpeaba a ellos con varas de hierro. Nueve de ellos cayeron muertos. Otros, viendo con sus propios ojos a los ángeles rodear a la mártir, creyeron en Cristo; varios soldados se convirtieron, pidieron perdón a Tatiana y murieron también confesando la fe.
+
+Tatiana fue arrojada al circo para ser devorada por los leones, pero los animales se volvieron mansos, se postraron y lamieron sus pies. Luego la arrojaron al fuego y salió de él ilesa. Así los verdugos intentaron agotarla con tormentos sucesivos, pero Dios la preservaba.
+
+Por último, fue llevada junto a su padre, quien también confesaba a Cristo. Ambos fueron decapitados alrededor del año 225 d. C. Así entregó su alma Tatiana, virgen y mártir, de cuerpo frágil pero espíritu invencible, coronada con la gloria inmortal reservada a los santos.`
 		},
 		{
 		    name: "San Pedro Abesalamo",
 		    title: "Mártir",
 		    img: "Img/general.webp",
-		    desc: `Nació en Elefteriopolis en Palestina. En su juventud, sufrió por la fe en Cristo, durante el tiempo del emperador Maximino, en el año 311 d.C. Después de muchas torturas, fue condenado a muerte. Al escuchar su sentencia exclamó alegremente: "¡Este es el único deseo mío, morir por mi Dios!". Fue crucificado y expiró sobre la cruz, tal como el Señor.`
+		    desc: `Nació en Elefteriópolis, en Palestina. En su juventud sufrió por la fe en Cristo, durante el tiempo del emperador Maximino, en el año 311 d. C. Después de muchas torturas, fue condenado a muerte. Al escuchar su sentencia exclamó alegremente: "¡Este es el único deseo mío, morir por mi Dios!". Fue crucificado y expiró sobre la cruz, tal como el Señor.`
 		},
 		{
 		    name: "La fiesta del ícono de la Santa Madre de Dios",
 		    title: "que amamanta a su Hijo",
 		    img: "Img/amamanta.webp",
-		    desc: `Así se llama el ícono de la Santísima Virgen que san Saba de Serbia había tomado del monasterio de San Saba el Santificado cerca de Jerusalén, y había colocado en su ermita en Kariés en Monte Athos. Y así se realizó la profecía de san Saba el Santificado, que había sido hecha 800 años antes, que vendría un sacerdote serbio de nombre Saba al monasterio y que a él se le debería dar ese ícono y su bastón. Cuando Saba el serbio visitó el monasterio de san Saba el Santificado, los monjes se acordaron de la profecía de su fundador y le dieron a Saba el ícono y el bastón. Ese ícono fue colocado al lado derecho de la Puerta Real en la ermita y el bastón en una celda llamada "Panderiza" en Kariés.`
+		    desc: `Así se llama el ícono de la Santísima Virgen que san Saba de Serbia había tomado del monasterio de san Saba el Santificado cerca de Jerusalén, y había colocado en su ermita en Kariés, en el Monte Athos. Y así se realizó la profecía de san Saba el Santificado, que había sido hecha 800 años antes, según la cual vendría un sacerdote serbio de nombre Saba al monasterio y que a él se le debería dar ese ícono y su bastón. Cuando Saba el serbio visitó el monasterio de san Saba el Santificado, los monjes se acordaron de la profecía de su fundador y le dieron a Saba el ícono y el bastón. Ese ícono fue colocado al lado derecho de la Puerta Real en la ermita, y el bastón en una celda llamada "Panderiza" en Kariés.`
 		},
 		{
 		    name: "Santa Teodora",
 		    title: "La venerable madre",
 		    img: "Img/Teodora.webp",
-		    desc: `Fue una monja famosa y maestra de las monjas de Alejandría. "Como los árboles necesitan del invierno y de la nieve para llevar fruto, así también son necesarias las penas y las tentaciones para nuestra vida", decía esta santa mujer. Descansó en paz a principios del siglo V.`
+		    desc: `Fue una monja famosa y maestra de las monjas de Alejandría. "Como los árboles necesitan del invierno y de la nieve para llevar fruto, así también son necesarias las penas y las tentaciones para nuestra vida", decía esta santa mujer. Descansó en paz a comienzos del siglo V.`
 		},
 		{
 		    name: "Reflexión, Contemplación y Sermón",
 		    title: "Por San Nicolai de Ohrid y de toda America",
 		    img: "Img/Nicolai.webp",
 		    desc: ` REFLEXIÓN: 
-No hay mayor honor ni vocación en la tierra que ser cristiano. Cuando el juez torturador Severos preguntó al joven Pedro Abesalamo: "¿De qué raza eres?", respondió Pedro: "Soy cristiano". Y otra vez le preguntó el juez: "¿De qué rango eres?". A esto respondió Pedro: "No hay ni más grande ni mejor rango que el de un cristiano". El Padre Juan de Kronstadt escribió: "El mundo entero no es más que una tela de araña en comparación con el alma cristiana". Cristiano es un vaso terrenal, en el que se derrama la fuerza divina y la luz. ¿Acaso se colocará ese vaso sobre el trono real dorado, o será bajado a la oscura cabaña del mendigo? En ambos casos, su valor no padece ni aumento ni disminución. ¿Acaso el oro no tiene el mismo valor, si fuera envuelto en un pañuelo de seda o en la hoja de un repollo?
+No hay mayor honor ni vocación en la tierra que ser cristiano. Cuando el juez torturador Severo preguntó al joven Pedro Abesalamo: "¿De qué raza eres?", respondió Pedro: "Soy cristiano". Y otra vez le preguntó el juez: "¿De qué rango eres?". A esto respondió Pedro: "No hay ni más grande ni mejor rango que el de un cristiano". El Padre Juan de Kronstadt escribió: "El mundo entero no es más que una tela de araña en comparación con el alma cristiana". Cristiano es un vaso terrenal, en el que se derrama la fuerza divina y la luz. ¿Acaso se colocará ese vaso sobre el trono real dorado, o será bajado a la oscura cabaña del mendigo? En ambos casos, su valor no padece ni aumento ni disminución. ¿Acaso el oro no tiene el mismo valor, si fuera envuelto en un pañuelo de seda o en la hoja de un repollo?
 
 CONTEMPLACIÓN:
 Contemplar la mansedumbre de Jesucristo:
@@ -633,13 +645,12 @@ Sobre cómo el hombre es el más querido por Dios, y Dios por el hombre
 
 "Porque no busco sus cosas, sino a ustedes" (II Corintios 12:14)
 
-Con estas palabras, las que solo el ardiente amor apostólico puede expresar a su prójimo, es dicha toda la esencia en cuanto a la relación de un cristiano con Dios y de Dios con el cristiano. El amor de Dios podría decir: "Tú, cristiano, ayunas por Mí; por Mí ofreces limosnas; por Mí elevas las oraciones sinceras; por Mí construyes las iglesias; por Mí ofreces los sacrificios y haces muchas obras buenas. Todo eso está bien y todo eso es de Mí agrado, pero tú eres más precioso para Mí que todo eso; en fin, yo no busco nada sino a ti, y solamente a ti”.
+Con estas palabras, las que solo el ardiente amor apostólico puede expresar a su prójimo, es dicha toda la esencia en cuanto a la relación de un cristiano con Dios y de Dios con el cristiano. El amor de Dios podría decir: "Tú, cristiano, ayunas por Mí; por Mí ofreces limosnas; por Mí elevas las oraciones sinceras; por Mí construyes las iglesias; por Mí ofreces los sacrificios y haces muchas obras buenas. Todo eso está bien y todo eso es de Mi agrado, pero tú eres más precioso para Mí que todo eso; en fin, yo no busco nada sino a ti, y solamente a ti”.
 
-El amor de cristiano, entonces, podría decir: "Tú, Señor, me das salud y eso es bueno. Tú enciendes la luz; dejas caer la lluvia; refrescas el aire con el rayo y esto es bueno. Tú das riqueza, sabiduría, larga vida, y progenitura además de otras innumerables cosas buenas, que pones abundantemente sobre la mesa de esta vida. Y todo eso es bueno y valioso, recibo todo con gratitud. Pero, al final, no es más que el dobladillo de Tu faldón; y por último, no busco nada de todo esto sino te busco a Ti, Señor, solamente a Ti”.
+El amor del cristiano, entonces, podría decir: "Tú, Señor, me das salud y eso es bueno. Tú enciendes la luz; dejas caer la lluvia; refrescas el aire con el rayo y esto es bueno. Tú das riqueza, sabiduría, larga vida y progenitura, además de otras innumerables cosas buenas, que pones abundantemente sobre la mesa de esta vida. Y todo eso es bueno y valioso, recibo todo con gratitud. Pero, al final, no es más que el dobladillo de Tu faldón; y por último, no busco nada de todo esto sino que te busco a Ti, Señor, solamente a Ti”.
 
-Oh, hermanos míos, Dios no puede ser visto con los ojos físicos, tampoco el hombre. Aquello que se ve en toda la naturaleza es solamente parte de Dios; y aquello que se ve en la prenda física es solamente parte del hombre. Dios es amor, hermanos, que baja el cielo a la tierra y el hombre es el amor que eleva la tierra al cielo.
+Oh, hermanos míos, Dios no puede ser visto con los ojos físicos, tampoco el hombre. Aquello que se ve en toda la naturaleza es solamente parte de Dios; y aquello que se ve en la prenda física es solamente parte del hombre. Dios es amor, hermanos, que baja el cielo a la tierra, y el hombre es el amor que eleva la tierra al cielo.
 
-Señor que amas a la humanidad, Creador y Omnipotente, haz Tu morada, más y más, en nosotros con Tu Espíritu vivificador, para que podamos vivir en Tu reino inmortal. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
-		}
+Señor que amas a la humanidad, Creador y Omnipotente, haz Tu morada, más y más, en nosotros con Tu Espíritu vivificador, para que podamos vivir en Tu reino inmortal. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.		}
 		],
 };
