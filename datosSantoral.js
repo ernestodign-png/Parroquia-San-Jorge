@@ -651,6 +651,6 @@ El amor del cristiano, entonces, podría decir: "Tú, Señor, me das salud y eso
 
 Oh, hermanos míos, Dios no puede ser visto con los ojos físicos, tampoco el hombre. Aquello que se ve en toda la naturaleza es solamente parte de Dios; y aquello que se ve en la prenda física es solamente parte del hombre. Dios es amor, hermanos, que baja el cielo a la tierra, y el hombre es el amor que eleva la tierra al cielo.
 
-Señor que amas a la humanidad, Creador y Omnipotente, haz Tu morada, más y más, en nosotros con Tu Espíritu vivificador, para que podamos vivir en Tu reino inmortal. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.		}
+Señor que amas a la humanidad, Creador y Omnipotente, haz Tu morada, más y más, en nosotros con Tu Espíritu vivificador, para que podamos vivir en Tu reino inmortal. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.			}
 		],
 };
