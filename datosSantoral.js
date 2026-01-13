@@ -653,4 +653,59 @@ Oh, hermanos míos, Dios no puede ser visto con los ojos físicos, tampoco el ho
 
 Señor que amas a la humanidad, Creador y Omnipotente, haz Tu morada, más y más, en nosotros con Tu Espíritu vivificador, para que podamos vivir en Tu reino inmortal. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`		}
 		],
+		"01-13": [
+		{
+		    name: "Los santos Ermilo y Estratónico",
+		    title: "Mártires",
+		    img: "Img/Emilio.webp",
+		    desc: `El emperador Licinio levantó una gran persecución contra los cristianos. San Ermilio, cristiano y diácono en la Iglesia, fue detenido y llevado ante el tribunal. Cuando le dijeron que lo iban a torturar, se alegró mucho. En vano lo amenazaba el emperador. Ermilio confesó públicamente su fe en Cristo y respondió a las amenazas del emperador: “El Señor es mi auxilio, no temo, ¿qué me puede hacer el hombre?” (Salmo 117:6). Después de insoportables torturas, fue arrojado en la cárcel. El carcelero era Estratónico, un cristiano en secreto, quien se compadecía con todo su corazón de los sufrimientos de Ermilio. Cuando Estratónico fue denunciado al emperador como cristiano, este decretó que ambos fueran arrojados al Danubio. Entonces ataron a Ermilio y a Estratónico a una red y los hundieron en el río. Después de tres días, el agua echó sus cuerpos a la costa y los cristianos los encontraron y los enterraron a dieciocho millas de Belgrado. Estos gloriosos mártires sufrieron por Cristo y entraron en Su gloria en el año 315 d. C.`
+		},
+		{
+		    name: "San Jacobo",
+		    title: "Obispo de Nisibia",
+		    img: "Img/Jacobo.webp",
+		    desc: `Como ermitaño vivía durante el verano en un campo abierto y en el invierno en una cueva. Una vez, bajó a la ciudad de Nisibia para ver cómo prosperaba la fe cristiana y cómo vivían los cristianos, y allí lo eligieron obispo. Participó en el Primer Concilio Ecuménico y defendió la fe ortodoxa frente a la herejía de Arrio. Sucedió una vez que los paganos persas atacaron con el ejército a Nisibia. San Jacobo, en una procesión con la Cruz, salió hasta el bastión de la ciudad. Solo, subió a la muralla y caminó sobre ella, sin temor a las flechas que el enemigo le lanzaba. Caminando así, el santo rezaba a Dios para que salvara la ciudad y a los fieles, enviando moscas y mosquitos a los persas y obligándolos a alejarse de las murallas de la ciudad de Nisibia. No pidió, pues, ni la muerte de los enemigos ni ningún tipo de catástrofe o derrota, sino solamente una pequeña frustración que los obligara a dejar el lugar. Y Dios oyó la oración de su elegido y envió una plaga de moscas y mosquitos a los persas, llevándolos lejos y salvando la ciudad de Nisibia. San Jacobo vivió muchos años honrosamente y terminó su vida en paz, en avanzada edad, en el año 350 d. C.`
+		},
+		{
+		    name: "San Máximo de Kavsokalivia",
+		    title: "Venerable",
+		    img: "Img/Maximo.webp",
+		    desc: `Vivió en el siglo XIV llevando una vida ascética muy particular como monje en el Monte Athos: se hacía pasar por loco y siempre cambiaba su lugar de residencia. Este era siempre una cabaña hecha de ramas. Quemaba una y construía otra, para quemarla nuevamente y construir otra, etc. Por ello lo llamaron “Kavsokalivia”, es decir, “el que quema las cabañas”. Lo consideraban loco, hasta que san Gregorio de Sinaí llegó a Monte Athos y descubrió en Máximo un asceta único, intercesor milagroso, y “un ángel en el cuerpo”. Entregó su alma al Señor en el año 1320 d. C.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+Una buena obra realizada en silencio vale más que una buena obra realizada con explicación, e infinitamente más que una explicación sin ninguna buena obra. De san Nicolás, obispo de Mirra en Licia, ni una sola palabra se ha preservado, pero sus obras sí. Sin ninguna explicación, en tres distintas oportunidades él iba por la noche a la casa de un pobre y dejaba discretamente una bolsa de oro a través de la ventana.
+Un anciano en una pequeña comunidad de monjes en Egipto se enfermó gravemente y deseó comer un poco de pan fresco (porque el pan que los monjes comían entonces era secado al sol y duraba meses). Al oír eso uno de los monjes no dijo nada, sino salió y se fue lejos a una ciudad, de donde trajo pan fresco para el anciano enfermo. Al tomar conocimiento de la labor de este monje, el anciano no quiso comer el pan, diciendo: “¡Esta es la sangre de mi hermano!” (Es decir, el hermano trajo el pan con mucho esfuerzo, con mucha dificultad). Entonces el resto de los monjes le rogaron al anciano para que comiera diciéndole: “No desprecie el sacrificio del hermano”.
+¿Qué explicaciones o qué palabras sobre el amor fraterno podrán reemplazar esta simple y silenciosa obra de amor fraterno?
+
+CONTEMPLACIÓN:
+Contemplar el hambre y la sed de nuestro Señor por la justicia:
+
+1. Cómo Él viene al mundo para restaurar la justicia pisada;
+
+2. Cómo Él revela la justicia de Dios y desenmascara la injusticia;
+
+3. Cómo Él se apresura para realizar innumerables obras de justicia, para dejarnos un ejemplo.
+
+
+SERMÓN:
+Sobre el reino de Dios que está adentro
+
+“El reino de Dios está entre vosotros” (Lucas 17:21)
+
+Todo lo que es de Dios lleva el sello de la inmortalidad. Y el reino de Dios es el reino inmortal. Si queremos entonces respirar el aire de la inmortalidad, tenemos que entrar dentro de nosotros mismos, en nuestro corazón, en el reino de Dios.
+Fuera de nosotros está el aire del tiempo, el aire de paso y la podredumbre, en el que el alma respira difícilmente. El reino de la naturaleza es el reino de los sentidos; por eso es el reino de lo ajeno en comparación con nuestra alma, que representa el reino interno. ¿Por qué la gente quiere permanecer mucho tiempo en tierra ajena? ¿Por qué la gente muy raramente y de mala gana entra en su propia casa?
+
+Cada vez que pensamos acerca del mundo con los sentidos humanos, pensamos sobre lo que es la tierra ajena. Vivir por los sentidos nos hace semejantes al hombre que va todo el día de casa en casa para volver a su hogar solamente de noche para dormir. ¡Así dedicamos nuestro tiempo de vigilancia a la muerte, y nuestro tiempo de dormir a la inmortalidad!
+Volvemos a nosotros mismos solamente cuando dormimos. Pero aun así soñamos sobre nuestra realidad; es decir, aun cuando estamos en nuestra propia casa, en un estado inconsciente, soñamos sobre las casas ajenas. Nuestros sueños son sensuales porque nuestra conciencia es sensual. Y así nosotros estamos en tierra ajena, tanto en la realidad como en sueño. Estamos constantemente fuera de nosotros mismos. Pero el Señor quiere que volvamos adentro, a nuestra casa y patria.
+El Reino de Dios está dentro de nosotros; fuera de nosotros es tierra ajena. Para escapar de la tierra ajena y encontrar nuestra verdadera casa, en la que encontramos directamente a Dios, tenemos que entrar en nuestro corazón. Ahí está el Rey; ahí está también el reino.
+
+Oh Señor y Rey de los ángeles y de los santos, muéstranos la riqueza y la luz de Tu reino dentro de nosotros, para que amemos Tu reino más que el reino lejano de lo sensual, más que el reino del cambio y lo transitorio.
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+
 };
