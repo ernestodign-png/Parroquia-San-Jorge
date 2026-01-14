@@ -707,5 +707,91 @@ Oh Señor y Rey de los ángeles y de los santos, muéstranos la riqueza y la luz
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-14": [
+		{
+		    name: "Santos Padres del Monte Sinaí y de Raitho",
+		    title: "Ascetas que entregaron su vida por Cristo",
+		    img: "Img/Monte.webp",
+		    desc: `Mucho antes de que el emperador Justiniano construyera en el año 527 el gran monasterio fortificado —la futura Santa Catalina del Sinaí— muchos monjes y eremitas vivían dispersos por los desiertos del Sinaí y Raitho, anhelando alcanzar la unión con Dios en completa hesychía, el silencio divino del corazón.
 
+Durante el reinado del emperador Diocleciano (284-305), cuando San Pedro era patriarca de Alejandría (300-311), los santos anacoretas del Sinaí padecieron un cruel martirio.
+Cerca de la iglesia donde celebraban la Divina Liturgia, murió un jefe sarraceno. Sus hombres, enfurecidos, atacaron el asentamiento de los monjes.
+Masacraron al abad Doulas y a todos los padres que habitaban en sus celdas, dejando sus cuerpos terriblemente mutilados. Algunos fueron decapitados, otros cortados por la mitad o colgados de pedazos de piel, reduciendo a ruinas aquel florecimiento espiritual en el desierto.
+
+Otros monjes lograron refugiarse en una torre y una fortificación vecina. Entonces, al caer la noche, por divina providencia, una inmensa llama brotó desde la cima del Monte Sinaí, iluminando el desierto como una columna de fuego hasta el cielo.
+Los bárbaros, aterrorizados por el espectáculo, huyeron inmediatamente.
+
+El número de mártires fue treinta y ocho. Sólo dos —Sabas y Esaías— sobrevivieron el momento inicial, enterraron a los santos padres y relataron la tragedia, pero murieron poco después, consumidos por el dolor y las heridas.
+
+Años después, bajo el reinado del emperador Teodosio el Grande (379-395), otra matanza ocurrió en la región.
+En esta ocasión, en Raitho, en la costa del Mar Rojo, monjes y peregrinos fueron asesinados por los blemios —otro pueblo nómada del desierto— como relata la tradición.
+Entre los santos sobrevivientes que vivieron aquellos días se encontraba San Nilo del Sinaí, junto con su hijo San Teódulo. Nilo logró escapar y dejó por escrito la historia. Teódulo, capturado, fue vendido como esclavo a un obispo cercano, quien lo liberó y reunió nuevamente al padre y al hijo. Ambos regresaron al monasterio y vivieron como ascetas hasta su muerte.
+
+Así, tanto en Sinaí como en Raitho, en los siglos IV y V,
+una multitud de monjes santos derramó su sangre por Cristo,
+testimonio eterno del combate espiritual del desierto
+y fundamento del monacato ortodoxo.`
+		},
+		{
+		    name: "San Saba",
+		    title: "Arzobispo de Serbia",
+		    img: "Img/Saba.webp",
+		    desc: `Nació en 1169, hijo de Esteban Nemania, gran noble serbio. De joven anhelaba la vida espiritual, por eso huyó al Monte Athos, donde fue tonsurado monje y con gran celo vivió todo el rigor de la vida ascética. Esteban Nemania, siguiendo el ejemplo de su hijo, fue también al Monte Athos, donde fue tonsurado y murió como monje con el nombre de Simeón.
+Saba obtuvo del emperador bizantino y del Patriarca de Constantinopla la independencia de la Iglesia de Serbia, y fue ordenado como el primer arzobispo de los serbios. Junto con su padre construyó el monasterio de Hilandar en el Monte Athos y luego fundó otros monasterios más, además de iglesias y escuelas en toda la tierra serbia.
+Viajó dos veces en peregrinación a los santos lugares de Tierra Santa. Reconcilió a sus hermanos, quienes se peleaban por el poder, y restauró la paz entre los serbios y sus vecinos. Al crear la Iglesia serbia, puso las bases para la creación del Estado serbio y su cultura. Estableció la paz entre todos los pueblos de los Balcanes y trabajó en beneficio de todos, recibiendo de ellos respeto y amor. Al pueblo serbio le dio un alma cristiana que sobrevivió a la caída del Estado.
+Falleció en Trnovo, Bulgaria, durante el reinado del emperador Asen, al enfermarse después de haber celebrado la Divina Liturgia de la Epifanía, el 12 de enero de 1236. Su cuerpo fue trasladado por el rey Vladislav al monasterio Mileševo, de donde el pachá Sinan (el gobernador turco) lo retiró para luego quemarlo en Vračar, en Belgrado, el 27 de abril de 1595.`
+		},
+		{
+		    name: "San Hilario",
+		    title: "Obispo de Poitiers",
+		    img: "Img/Hilario.webp",
+		    desc: `Era un ardiente luchador contra la herejía de Arrio en Occidente. Padeció mucho por defender la fe ortodoxa. Dejó muchos escritos, entre los cuales el más importante es sobre la Santísima Trinidad. Murió en paz en el año 362.`
+		},
+		{
+		    name: "Santa Nina",
+		    title: "Iluminadora de Georgia",
+		    img: "Img/Nina.webp",
+		    desc: `Era pariente del Gran Mártir San Jorge y del Patriarca de Jerusalén Juvenal. Fue educada bajo la vigilancia del Patriarca Juvenal, porque sus padres, nobles de Capadocia, tomaron los hábitos monásticos.
+Al escuchar sobre el pueblo de Georgia, la virgen Nina deseaba desde su niñez ir allí y bautizar a los georgianos. La Santísima Virgen se le apareció y le prometió llevarla. Cuando el Señor le abrió el camino, la joven Nina viajó efectivamente a Georgia y después de poco tiempo pudo ganar el gran amor del pueblo.
+Logró bautizar al rey georgiano Mirian, a su esposa Nana y a su hijo Bagar, quienes la ayudaron con gran celo en su trabajo misionero. Nina logró durante su vida viajar por toda Georgia y convertir a casi todo el pueblo a la fe de Cristo, justamente en el tiempo de la terrible persecución de los cristianos por parte del emperador Diocleciano.
+Reposó de su mucha labor, entregando su alma al Señor en el año 335. Su tumba se encuentra en el templo del lugar Samtavro. Hizo muchos milagros, tanto en vida como después de su muerte.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+Si a veces los dogmas de fe te parecen como si fueran una comida dura, esfuérzate primero en cumplir los dogmas de la moral cristiana, pues esto te abrirá el entendimiento para los dogmas de la fe.
+La curiosidad y la investigación de las cosas divinas no son de ningún provecho cuando no están acompañadas por una mejora de nuestra vida moral.
+Una vez, los monjes de Egipto reflexionaban acerca de Melquisedec, y al no poder llegar a tener una idea clara acerca de esta misteriosa persona, antiguo rey y sumo sacerdote, invitaron al abad Coprio a su reunión y le preguntaron sobre Melquisedec.
+Al escuchar eso, Coprio se golpeó tres veces la boca y dijo: “¡Ay de mí, pobre Coprio! Dejaste de hacer aquello que Dios te mandó hacer y ahora examinas aquello que Dios no necesita de ti”.
+Oyendo esto, los monjes se avergonzaron y se retiraron.
+San Juan Crisóstomo escribe: “Si adherimos a los verdaderos dogmas, sin preocuparnos por nuestro comportamiento, no tendremos ningún provecho; lo mismo ocurre si nos preocupamos por nuestro comportamiento y descuidamos los verdaderos dogmas, pues nada útil recibiremos para nuestra salvación.
+Si queremos salvarnos del infierno y conseguir el Reino, tenemos que estar adornados de ambos lados: de la verdad de los dogmas y de la pureza de la vida”.
+
+CONTEMPLACIÓN:
+Contemplar la misericordia del Señor Jesucristo:
+
+1. Hacia los pecadores y enfermos;
+
+2. Hacia el pueblo que estaba confuso por ser un rebaño sin pastor;
+
+3. Hacia el género humano en general, por quienes se entregó para ser crucificado.
+
+
+SERMÓN:
+Sobre la visión del mundo invisible
+
+“No mirando nosotros a las cosas que se ven, sino a las que no se ven” (II Corintios 4:18)
+
+Si bien observamos este mundo material y transitorio, miramos hacia el mundo espiritual e inmortal. Por un lado vemos la alegría terrenal, muy a menudo interrumpida con llantos y lágrimas y concluyendo final e inevitablemente con la muerte; pero por otro lado buscamos la alegría espiritual entre los ángeles y los santos de Dios en el cielo, aquella alegría ininterrumpida y eterna.
+Vemos los sufrimientos y los fracasos de los justos en esta vida, pero contemplamos su gloria y celebración en aquel mundo.
+Vemos mucho éxito, gloria y honor de los injustos en esta vida, pero nos damos cuenta de su fracaso, condena y tormento indescriptible en la eternidad.
+Vemos la Iglesia de Dios a menudo humillada y perseguida en este mundo, pero contemplamos su victoria final sobre todos sus enemigos y adversarios, visibles e invisibles.
+Hermanos, a menudo vemos a tiranos y usurpadores como gobernantes y ricos de este siglo, mientras vemos a los santos como pobres, abatidos y olvidados; sin embargo, miramos hacia el otro reino, el Reino de Dios, sin pecado, eterno e inmortal, en el cual los santos reinarán sin la presencia de ningún tirano o usurpador.
+
+Oh Señor, el más paciente y el más piadoso, ábrenos nuestros ojos espirituales para que miremos hacia aquello que nos espera después de esta vida breve y para que nos esforcemos en cumplir Tu ley.
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
