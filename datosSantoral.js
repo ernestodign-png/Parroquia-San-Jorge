@@ -794,4 +794,108 @@ Oh Señor, el más paciente y el más piadoso, ábrenos nuestros ojos espiritual
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-15": [
+		{
+		    name: "San Juan",
+		    title: "El Ermitaño (El Habitante de la Cabaña)",
+		    img: "Img/Juanhabitante.webp",
+		    desc: `Hoy conmemoramos a san Juan el Habitante de la Cabaña,
+uno de los ascetas más humildes y extraordinarios de la Iglesia antigua.
+
+San Juan nació en Constantinopla, hijo único de padres ricos, nobles y piadosos, a comienzos del siglo V, durante el reinado del emperador León I. Recibió una educación excelente, y ya a la edad de doce años había dominado la retórica y la filosofía.
+A pesar de poseer todas las ventajas materiales de su tiempo, Juan percibió pronto la vanidad de la vida del mundo y deseó secretamente entregarse a Cristo en la vida monástica.
+
+En ese tiempo conoció a un monje que viajaba hacia Tierra Santa, y le confió su deseo profundo de hacerse monje. Le pidió que, a su regreso, lo llevara consigo al monasterio donde vivía. Mientras esperaba, Juan rogó a sus padres que le regalaran un Evangelio. Sus padres mandaron a un calígrafo a copiarlo con esmero, encuadernado con oro y gemas.
+Juan encontraba su mayor alegría leyendo y memorizando las palabras del Salvador.
+
+El monje cumplió su promesa: al volver de Tierra Santa tomó a Juan secretamente y lo condujo al célebre monasterio de los “Insones” (o “Vigilantes”) en Bitinia, donde los monjes mantenían su oración continua día y noche. Allí Juan recibió la tonsura monástica y, para asombro de la comunidad, vivió seis años de estricta ascética, obediencia total al abad san Marcellos y gran celo espiritual.
+
+Sin embargo, después de esos seis años, Juan comenzó a pensar en el dolor de sus padres y sintió remordimiento por haberlos dejado sin consuelo. Con la bendición de su abad, fue liberado del monasterio para visitar Constantinopla, con la condición de que permaneciera en humildad.
+
+Juan regresó a la ciudad, pero tomando la forma de un mendigo, y se estableció junto a las puertas de la casa familiar. Sus padres, sin reconocerlo, ordenaron que se le entregaran limosnas “por amor de Cristo”.
+Allí Juan construyó una pequeña choza —su “cabaña”— y vivió como desconocido durante tres años: comiendo migajas, soportando la burla de los sirvientes, padeciendo frío y miseria, y elevando sin cesar su oración para que Dios salvara las almas de sus padres.
+
+Finalmente enfermó y supo por revelación que su vida terrenal llegaba a su fin. Llamó al mayordomo y pidió ver a su madre. Ella, a regañadientes, fue a encontrarse con aquel mendigo desconocido.
+Juan la bendijo, le agradeció por su caridad y le aseguró que Dios la recompensaría abundantemente. Luego le entregó el Evangelio que había guardado como su único tesoro diciendo:
+“Que este Evangelio te consuele en esta vida y te guíe a la venidera.”
+
+La mujer reconoció de inmediato que era el mismo Evangelio adornado que ellos habían mandado hacer para su hijo muchos años antes. Corrió a avisar a su esposo.
+Cuando ambos regresaron a la cabaña y preguntaron al mendigo quién era y de dónde había obtenido ese Evangelio, Juan les reveló que era su hijo:
+el niño noble que habían creído perdido.
+Sus padres lo abrazaron llorando de alegría, mientras Juan entregaba su alma al Señor a la edad de veinticinco años.
+
+Así este joven, aunque muy rico, venció al diablo, salvó su alma y, con sus plegarias, ganó para Cristo las almas de sus padres.
+Por eso la Iglesia lo honra con el nombre de Juan el Habitante de la Cabaña, ejemplo de humildad, obediencia, valentía espiritual y amor filial llevado hasta lo extremo.`
+		},
+		{
+		    name: "San Pablo de Tebas",
+		    title: "Venerable",
+		    img: "Img/Tebas.webp",
+		    desc: `Hijo de padres ricos, nació en Baja Tebas en Egipto en tiempo del emperador Decio. Junto a su hermana heredaron toda la hacienda de sus padres. Pero su cuñado, un idólatra, quiso confiscar la parte de la hacienda correspondiente a Pablo; por ello lo amenazó con entregarlo a la corte como cristiano, en caso de que no le cediera su propiedad.
+A raíz de esa desgracia, y al contemplar con sus propios ojos los heroicos ejemplos de sacrificio de los mártires cristianos, Pablo decidió dejar su parte de la herencia a su hermana, y él, como pobre, se retiró al desierto donde vivió como asceta hasta su muerte.
+¡Hasta qué altura espiritual llegó este gigante monje! De esto dio testimonio san Antonio el Grande, quien visitó a Pablo y vio cómo las bestias y los pájaros del cielo lo servían.
+Al volver de esa visita, Antonio dijo a sus monjes: “¡Ay de mí, hijos míos, pecador y falso monje que soy, monje solamente de nombre; vi a Elías, vi a Juan en el desierto y, de verdad, vi a Pablo en el Paraíso!”.
+San Pablo vivió hasta los 113 años y descansó en el Señor en el año 342.`
+		},
+		{
+		    name: "San Gabriel de Lesnov",
+		    title: "Venerable",
+		    img: "Img/Gabriel.webp",
+		    desc: `Era eslavo y amigo de san Prójoro de Pchiña y de san Juan de Rila. Vivió una vida ascética en el siglo X cerca de Kratovo, en el monte de Lesnov, donde construyó el templo dedicado al Arcángel san Miguel. Fue milagroso en vida y después de la muerte.
+El actual templo que se encuentra allí fue levantado por Juan Oliver, un duque del emperador Dušan.
+San Gabriel descansó en el Señor al final del siglo X.`
+		},
+		{
+		    name: "San Pansofio",
+		    title: "Mártir",
+		    img: "Img/general.webp",
+		    desc: `Era hijo del procónsul Nilus de Alejandría. Abandonó honores y riquezas mundanas y se hizo monje siendo todavía joven. Vivió una vida ascética durante 27 años y elevó su alma hacia lo alto. En tiempo de Decio fue detenido y llevado ante la corte, donde fue azotado y, después de grandes torturas, entregó su alma a Dios.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+No pienses nunca que Dios no te escucha cuando oras. Él oye todo lo que pensamos, de la misma manera como nosotros oímos las voces y las palabras cuando hablamos entre nosotros.
+Pero si no te concede inmediatamente lo que pides en tu oración, es porque eres indigno, o porque le estás pidiendo algo que no te conviene, o porque Él posterga el cumplimiento de tu oración hasta cuando llegue el momento adecuado, según Su sabiduría y providencia.
+San Juan de Kronstadt escribe: “Tal como nosotros nos comunicamos rápidamente con las personas alejadas de nosotros por medio del telégrafo eléctrico, del mismo modo hemos de tener fe que, por medio de la fe viva, nos comunicamos rápidamente con Dios, los ángeles y los santos. Envía, pues, por medio del telégrafo de la fe, tu oración a Dios o a los santos, e inmediatamente recibirás la respuesta”.
+También escribió en otro lugar: “Dios, los espíritus creados y las almas, tanto de los fallecidos como de los vivos, son seres razonables, y sus pensamientos son rápidos y en cierta forma omnipresentes. Piensa en ellos con todo tu corazón y ellos estarán presentes para ti. Dios estará siempre contigo y, necesariamente, por la gracia y el poder de Dios, los demás también lo estarán”.
+
+CONTEMPLACIÓN:
+Contemplar la pureza del Señor Jesucristo:
+
+1. La pureza de Su mente;
+
+2. La pureza de Su corazón;
+
+3. La pureza de Su voluntad;
+
+4. La pureza de Su lengua;
+
+5. La pureza de Su apariencia y de todos Sus sentidos.;
+
+
+SERMÓN:
+Sobre la fe victoriosa
+
+“Esta es la victoria que ha vencido al mundo, nuestra fe” (I Juan 5:4)
+
+El Señor Jesucristo venció al mundo; esta es, hermanos, también nuestra victoria.
+Los apóstoles, los santos, las vírgenes y los mártires vencieron al mundo, y esta es también nuestra victoria.
+Hermanos, nada es más poderoso en el mundo que la fe cristiana. Las espadas que enfrentaron a esta fe se rompieron, pero la fe quedó; los emperadores que lucharon contra la fe se ahogaron bajo la anatema de su crimen; los reinos que se levantaron en guerra contra esta fe están destruidos; las ciudades que abandonaron esta fe yacen demolidas en sus ruinas; los herejes que corrompieron esta fe perecieron en alma y cuerpo y, bajo la sentencia de la anatema, se fueron de este mundo; pero esta fe quedó.
+
+Cuando el mundo nos persigue, hermanos, con sus ilusiones —la ilusión de la belleza externa, la ilusión de la riqueza, la ilusión del placer, la ilusión de la gloria transitoria—, ¿con qué resistiremos y venceremos, sino con esta fe?
+De verdad, con nada más que con esta invencible fe, que conoce algo mejor que todos los tesoros del mundo.
+
+Cuando las tentaciones muestran su lado opuesto —cuando la belleza se convierte en fealdad, la salud en enfermedad, la riqueza en pobreza, la gloria en deshonra, la autoridad en humillación, y toda la floreciente vida física en mugre y corrupción—, ¿con qué superaríamos este dolor y nos guardaríamos de la desesperación, sino con esta fe?
+De verdad, con nada más que con esta invencible fe, que nos enseña sobre los constantes e invariables valores del Reino de Cristo.
+
+Cuando la muerte muestra su poder destructivo sobre nuestro prójimo, parientes y amigos, sobre nuestras flores, cultivos y obras, y cuando se vuelve con sus irresistibles dientes contra nosotros también, ¿con qué venceríamos el miedo a la muerte y abriríamos la puerta de la vida más fuerte que la muerte, sino con esta fe?
+De verdad, con nada más que con esta invencible fe, que sabe sobre la resurrección y la vida sin muerte.
+
+Oh Señor Jesús, vencedor del mundo, ayúdanos también a nosotros, para que venzamos al mundo con la fe en Ti.
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+
 };
