@@ -897,5 +897,23 @@ Oh Señor Jesús, vencedor del mundo, ayúdanos también a nosotros, para que ve
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-16": [
+		{
+		    name: "La Honorable Cadena del Apóstol Pedro.",
+		    title: "Fiesta de la Veneración",
+		    img: "Img/pedrocadena.webp",
+		    desc: `Alrededor del año 42, por orden del rey Herodes Agripa I, el apóstol Pedro fue encarcelado en Jerusalén por predicar acerca de Cristo el Salvador. En la prisión, fue custodiado con dos cadenas de hierro.
+La noche antes de su juicio, un ángel del Señor se le apareció, retiró las cadenas del apóstol y lo condujo fuera de la cárcel (Hechos 12:1-11).
+
+Los cristianos que supieron de este milagro tomaron las cadenas y las conservaban como reliquias preciosas. Durante tres siglos, las cadenas fueron guardadas en Jerusalén, y quienes padecían enfermedades y se acercaban a ellas con fe recibían curación.
+
+En el siglo V, el patriarca Juvenal de Jerusalén presentó las cadenas a Eudokia, la esposa del emperador romano Teodosio el Joven. Ella a su vez las trasladó de Jerusalén a Constantinopla en el año 437.
+
+Eudokia envió una de las cadenas a Roma a su hija Eudoxia (esposa de Valentiniano III, emperador romano de Occidente), quien construyó una iglesia en la colina Esquilino dedicada al apóstol Pedro y colocó allí la cadena.
+
+Esta iglesia es conocida hoy como la Basílica de San Pietro in Vincoli en Roma, Italia, y las preciosas cadenas del apóstol Pedro son veneradas allí hasta el día de hoy.
+También puede visitarse en Jerusalén la celda de la prisión donde el apóstol Pedro fue retenido y liberado por el ángel.`
+		}
+		],
 
 };
