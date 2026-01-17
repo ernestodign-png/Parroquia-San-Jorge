@@ -924,11 +924,17 @@
             const newsItems = [
                 {
 		    id: 1,
-                    title: "Bendición de los Hogares en la Festividad de la Teofanía",
+                    title: "ENCUENTRO NACIONAL DE LA UNION DE LA JUVENTUD ORTODOXA",
                     date: "05 de Enero, 2026",
-                    img: "Img/noticia4.webp", 
+                    img: "Img/jo1.jpeg", 
                     position: "object-top", 
-                    summary: `En ocasión de la Epifanía de Nuestro Señor Jesucristo, se invita a los fieles a recibir la santificación de sus hogares. Aquellos interesados en coordinar la visita pastoral para la bendición, deben hablar personalmente con el sacerdote o comunicarse directamente con el Padre Adolfo María al celular 3875375896.`
+                    summary: `Con la gracia de Dios y la bendición de S.E.R. Metropolita Santiago, se llevó a cabo exitosamente el Encuentro Nacional de la Unión de la Juventud Ortodoxa (UJO) 2026 en la provincia de Tucumán.
+
+Jóvenes de todas las parroquias de la Arquidiócesis se congregaron para fortalecer los lazos fraternos y profundizar en la Santa Tradición. Las jornadas estuvieron marcadas por la participación unánime en los oficios divinos, conferencias de formación teológica y el compartir en un espíritu de verdadera koinonía cristiana.
+
+Este evento reafirma que la juventud no es el futuro, sino el presente vivo de la Iglesia.
+
+Invitamos a todos los fieles a visitar la sección "Galería" de este sitio web`
 
                 },
 		{
@@ -1285,70 +1291,236 @@ Metropolita de Buenos Aires y toda la Argentina.`
                 </section>
             );
         };
+// --- COMPONENTE CARRUSEL PARA GALERÍA ---
+        const ImageCarousel = ({ images, alt, onClickImage }) => {
+            const [currentIndex, setCurrentIndex] = useState(0);
 
-        // Sección Galería
+            const prevSlide = (e) => {
+                e.stopPropagation(); // Evita que se abra el modal al tocar la flecha
+                const isFirstSlide = currentIndex === 0;
+                const newIndex = isFirstSlide ? images.length - 1 : currentIndex - 1;
+                setCurrentIndex(newIndex);
+            };
+
+            const nextSlide = (e) => {
+                e.stopPropagation(); // Evita que se abra el modal al tocar la flecha
+                const isLastSlide = currentIndex === images.length - 1;
+                const newIndex = isLastSlide ? 0 : currentIndex + 1;
+                setCurrentIndex(newIndex);
+            };
+
+            return (
+                <div className="relative w-full h-full group">
+                    {/* Imagen Actual */}
+                    <img 
+                        src={images[currentIndex]} 
+                        alt={alt} 
+                        className="w-full h-full object-cover transition-transform duration-500"
+                        onClick={() => onClickImage(images[currentIndex])} // Abre el modal con la foto actual
+                    />
+                    
+                    {/* Flecha Izquierda */}
+                    <button 
+                        onClick={prevSlide} 
+                        className="absolute top-1/2 left-2 -translate-y-1/2 bg-black/50 text-white p-1 rounded-full hover:bg-[#C5A059] transition-colors opacity-0 group-hover:opacity-100"
+                    >
+                        <ChevronRight size={20} className="rotate-180" />
+                    </button>
+
+                    {/* Flecha Derecha */}
+                    <button 
+                        onClick={nextSlide} 
+                        className="absolute top-1/2 right-2 -translate-y-1/2 bg-black/50 text-white p-1 rounded-full hover:bg-[#C5A059] transition-colors opacity-0 group-hover:opacity-100"
+                    >
+                        <ChevronRight size={20} />
+                    </button>
+
+                    {/* Indicadores (Puntos) */}
+                    <div className="absolute bottom-2 left-1/2 -translate-x-1/2 flex space-x-1">
+                        {images.map((_, idx) => (
+                            <div 
+                                key={idx} 
+                                className={`h-1.5 w-1.5 rounded-full shadow-sm ${currentIndex === idx ? 'bg-[#C5A059]' : 'bg-white/70'}`}
+                            />
+                        ))}
+                    </div>
+                    
+                    {/* Icono de capas (Visual para indicar que hay más fotos) */}
+                    <div className="absolute top-2 right-2 text-white bg-black/40 p-1 rounded">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M3 6h18"/><path d="M3 12h18"/><path d="M3 18h18"/></svg>
+                    </div>
+                </div>
+            );
+        };
+       
+// --- SECCIÓN GALERÍA (Álbum en Modal) ---
         const Gallery = () => {
             const [selectedPhoto, setSelectedPhoto] = useState(null);
+            const [currentIndex, setCurrentIndex] = useState(0); // Controla qué foto del álbum se ve en el modal
 
-            // NOTA TÁCTICA: La carpeta debe llamarse "Img" (con I mayúscula).
-            // Asegurate de que los archivos sean .jpg (minúscula) en tu carpeta.
+            // Función para abrir el modal
+            const openModal = (photo) => {
+                setSelectedPhoto(photo);
+                setCurrentIndex(0); // Siempre empezar desde la primera foto
+            };
+
+            // Funciones de Navegación del Modal
+            const nextSlide = (e) => {
+                e.stopPropagation();
+                if (selectedPhoto.images) {
+                    setCurrentIndex((prev) => (prev === selectedPhoto.images.length - 1 ? 0 : prev + 1));
+                }
+            };
+
+            const prevSlide = (e) => {
+                e.stopPropagation();
+                if (selectedPhoto.images) {
+                    setCurrentIndex((prev) => (prev === 0 ? selectedPhoto.images.length - 1 : prev - 1));
+                }
+            };
+
+            // BASE DE DATOS DE FOTOS
             const photos = [
+                { 
+                    images: [
+                        "Img/jo1.jpeg", // Foto principal (Portada)
+                        "Img/jo2.jpeg", 
+                        "Img/jo3.jpeg",  
+                        "Img/jo4.jpeg", 
+                        "Img/jo5.jpeg", 
+                        "Img/jo6.jpeg", 
+                        "Img/jo7.jpeg",
+                        "Img/jo8.jpeg", 
+                        "Img/jo9.jpeg",  
+                        "Img/jo10.jpeg",  
+                        "Img/jo11.jpeg",  
+
+                    ], 
+                    desc: "ENCUENTRO NACIONAL DE LA UNION DE LA JUVENTUD ORTODOXA 2026 TUCUMÁN." 
+                },
                 { src: "Img/foto1.jpg", desc: "Nueva Comisión Directiva de la Unión Sirio Libanesa de Salta" },
-                { src: "Img/foto2.jpg", desc: "La Unión de Jóvenes Ortodoxos de Salta participó de un encuentro interconfesional de jóvenes de la provincia." },
+                { src: "Img/foto2.jpg", desc: "La Unión de Jóvenes Ortodoxos de Salta en encuentro interconfesional." },
                 { src: "Img/foto3.jpg", desc: "Visita Pastoral De S.E.R. Monseñor Santiago El Khoury." },
                 { src: "Img/foto4.jpg", desc: "Divina Liturgia – Parroquia San Elías, Tartagal" },
-                { src: "Img/foto5.jpg", desc: "Solemne Procesión Del Santo Mártir San Jorge." },
+               
                 { src: "Img/foto6.jpg", desc: "Exaltación De La Santa Cruz." }
             ];
 
             return (
                 <section id="galeria" className="py-20 bg-white">
-                    <div className="container mx-auto px-4">
-                        <div className="text-center mb-12">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A1A] mb-4">Vida en Comunidad</h2>
-                            <div className="w-24 h-1 bg-[#761C1C] mx-auto"></div>
-                            <p className="mt-4 text-gray-600">Imágenes de nuestra parroquia y servicios divinos.</p>
-                        </div>
+                    <div className="container mx-auto px-4 text-center">
+                        <h2 className="text-3xl md:text-4xl font-bold text-[#1A1A1A] mb-12">Galería</h2>
+                        
+                        {/* GRILLA DE MINIATURAS */}
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-6xl mx-auto">
-                            {photos.map((photo, idx) => (
-                                <div 
-                                    key={idx} 
-                                    className="relative group overflow-hidden rounded-lg shadow-md aspect-[4/3] cursor-pointer"
-                                    onClick={() => setSelectedPhoto(photo)}
-                                >
-                                    <img 
-                                        src={photo.src} 
-                                        alt={`Foto ${idx + 1}`} 
-                                        className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
-                                    />
-                                    <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-20 transition-opacity flex items-center justify-center">
-                                        <div className="opacity-0 group-hover:opacity-100 text-white transition-opacity">
-                                            <Camera size={32} />
+                            {photos.map((photo, idx) => {
+                                // Determinamos cuál es la imagen a mostrar en la miniatura
+                                const thumbnail = photo.images ? photo.images[0] : photo.src;
+                                const isAlbum = !!photo.images; // Doble negación para booleano
+
+                                return (
+                                    <div 
+                                        key={idx} 
+                                        className="relative group overflow-hidden rounded-lg shadow-md aspect-[4/3] cursor-pointer border border-gray-200"
+                                        onClick={() => openModal(photo)}
+                                    >
+                                        <img 
+                                            src={thumbnail} 
+                                            alt={photo.desc} 
+                                            className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" 
+                                            onError={(e) => {e.target.src='https://via.placeholder.com/400?text=Foto';}}
+                                        />
+                                        
+                                        {/* Overlay oscuro al pasar el mouse */}
+                                        <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-20 transition-opacity flex items-center justify-center">
+                                            <div className="opacity-0 group-hover:opacity-100 text-white transition-opacity">
+                                                <Camera size={32} />
+                                            </div>
                                         </div>
+
+                                        {/* Indicador de Álbum (Icono de capas si tiene varias fotos) */}
+                                        {isAlbum && (
+                                            <div className="absolute top-2 right-2 bg-black/60 text-white p-1.5 rounded flex items-center gap-1 backdrop-blur-sm">
+                                                <div className="flex -space-x-2">
+                                                    <div className="w-3 h-3 border border-white bg-gray-400"></div>
+                                                    <div className="w-3 h-3 border border-white bg-gray-400 mt-1"></div>
+                                                </div>
+                                                <span className="text-[10px] font-bold ml-1">ÁLBUM</span>
+                                            </div>
+                                        )}
                                     </div>
-                                </div>
-                            ))}
+                                );
+                            })}
                         </div>
                     </div>
-
-                    {/* Modal de Imagen */}
+                    
+                    {/* MODAL DE PANTALLA COMPLETA (LIGHTBOX) */}
                     {selectedPhoto && (
-                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black bg-opacity-90 backdrop-blur-sm transition-opacity animate-modal" onClick={() => setSelectedPhoto(null)}>
-                            <div className="relative max-w-4xl w-full max-h-[90vh] flex flex-col items-center" onClick={e => e.stopPropagation()}>
-                                <button onClick={() => setSelectedPhoto(null)} className="absolute -top-10 right-0 text-white hover:text-[#C5A059] transition-colors">
+                        <div className="fixed inset-0 z-50 flex items-center justify-center p-0 md:p-4 bg-black bg-opacity-95 animate-modal" onClick={() => setSelectedPhoto(null)}>
+                            
+                            <div className="relative w-full h-full md:max-w-5xl md:max-h-[90vh] flex flex-col items-center justify-center" onClick={e => e.stopPropagation()}>
+                                
+                                {/* Botón Cerrar */}
+                                <button onClick={() => setSelectedPhoto(null)} className="absolute top-4 right-4 z-50 text-white/70 hover:text-[#C5A059] transition-colors p-2 bg-black/20 rounded-full">
                                     <X size={32} />
                                 </button>
-                                <img src={selectedPhoto.src} alt="Foto ampliada" className="max-h-[70vh] w-auto rounded border-2 border-[#C5A059] shadow-2xl" />
-                                <div className="mt-4 bg-[#1A1A1A] text-white p-4 rounded border-l-4 border-[#C5A059] max-w-2xl text-center shadow-lg">
-                                    <p className="text-lg font-light">{selectedPhoto.desc}</p>
+
+                                {/* LÓGICA DE VISUALIZACIÓN */}
+                                <div className="relative w-full h-full flex items-center justify-center">
+                                    
+                                    {/* Flecha Izquierda (Solo si es álbum) */}
+                                    {selectedPhoto.images && (
+                                        <button 
+                                            onClick={prevSlide}
+                                            className="absolute left-2 md:left-4 z-40 bg-black/50 hover:bg-[#C5A059] text-white p-2 rounded-full transition-colors"
+                                        >
+                                            <ChevronRight size={32} className="rotate-180" />
+                                        </button>
+                                    )}
+
+                                    {/* La Imagen */}
+                                    <img 
+                                        src={selectedPhoto.images ? selectedPhoto.images[currentIndex] : selectedPhoto.src} 
+                                        alt="Ampliada" 
+                                        className="max-w-full max-h-[80vh] object-contain shadow-2xl rounded" 
+                                    />
+
+                                    {/* Flecha Derecha (Solo si es álbum) */}
+                                    {selectedPhoto.images && (
+                                        <button 
+                                            onClick={nextSlide}
+                                            className="absolute right-2 md:right-4 z-40 bg-black/50 hover:bg-[#C5A059] text-white p-2 rounded-full transition-colors"
+                                        >
+                                            <ChevronRight size={32} />
+                                        </button>
+                                    )}
                                 </div>
+
+                                {/* Descripción e Indicadores */}
+                                <div className="absolute bottom-4 left-0 w-full text-center pointer-events-none">
+                                    <div className="inline-block bg-black/70 backdrop-blur-md px-6 py-3 rounded-xl border-b-2 border-[#C5A059]">
+                                        <p className="text-white text-sm md:text-base font-light">{selectedPhoto.desc}</p>
+                                        
+                                        {/* Puntos indicadores si es álbum */}
+                                        {selectedPhoto.images && (
+                                            <div className="flex justify-center gap-2 mt-2">
+                                                {selectedPhoto.images.map((_, idx) => (
+                                                    <div 
+                                                        key={idx} 
+                                                        className={`h-1.5 w-1.5 rounded-full transition-all ${idx === currentIndex ? 'bg-[#C5A059] w-3' : 'bg-gray-500'}`}
+                                                    />
+                                                ))}
+                                            </div>
+                                        )}
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                     )}
                 </section>
             );
         };
-
         // Sección Ubicación y Footer
 const Location = ({ currentView }) => {
             // BASE DE DATOS DE DIRECCIONES
