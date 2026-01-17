@@ -915,5 +915,103 @@ Esta iglesia es conocida hoy como la Basílica de San Pietro in Vincoli en Roma,
 También puede visitarse en Jerusalén la celda de la prisión donde el apóstol Pedro fue retenido y liberado por el ángel.`
 		}
 		],
+		"01-17": [
+		{
+		    name: "San Antonio el Grande",
+		    title: "Venerable",
+		    img: "Img/Antonio.webp",
+		    desc: `Hoy conmemoramos a san Antonio el Grande, uno de los primeros Padres del Desierto de Egipto y reconocido por la Iglesia como el Padre del monacato cristiano.
+
+San Antonio nació en Egipto alrededor del año 251, en la región de la Tebaida, y fue instruido desde niño en la fe cristiana por sus padres, quienes eran ricos y piadosos. Tras la muerte de ellos, heredó una gran propiedad junto con su hermana menor. Al escuchar un día en la iglesia las palabras del Evangelio:
+“Si quieres ser perfecto, ve, vende lo que tienes y dalo a los pobres”,
+Antonio obedeció sin vacilar. Repartió su herencia entre los pobres, confió el cuidado de su hermana a parientes fieles y, con apenas veinte años, se consagró por completo a la vida ascética que había anhelado desde su juventud.
+
+Al principio vivió como asceta cerca de su pueblo, en una humilde choza. Allí comenzó su combate espiritual, siendo duramente atacado por el demonio con tentaciones, pensamientos impuros, pasiones carnales y dudas sobre el camino elegido. Antonio vencía estas pruebas mediante la meditación constante en Cristo, el recuerdo del juicio eterno, el ayuno riguroso y la oración incesante.
+
+Comprendiendo que el enemigo volvería a atacarlo, intensificó aún más su ascesis: ayunaba por largos períodos y oraba desde la noche hasta el amanecer. Buscando el silencio absoluto, se retiró al desierto oriental de Egipto y se estableció en una fortaleza abandonada junto al Nilo, donde permaneció veinte años en completa soledad, sin tratar con nadie más que con Dios, soportando indecibles combates espirituales.
+
+Después de esos veinte años, Antonio alcanzó un alto grado de paz interior y dominio espiritual. Su fama comenzó a extenderse y muchos acudían a él en busca de consejo y salvación. Pronto, alrededor de su celda surgieron comunidades monásticas, y Antonio se convirtió en padre espiritual de innumerables monjes, a quienes guiaba más con el ejemplo que con la palabra.
+
+Durante los ochenta y cinco años que pasó en la vida ascética, solamente dos veces salió del desierto hacia Alejandría. La primera fue durante la persecución contra los cristianos, en el año 311, bajo el emperador Maximino, cuando Antonio deseaba sufrir junto a los santos mártires. Visitaba a los encarcelados, los asistía y los exhortaba a permanecer firmes en la fe. La segunda vez fue invitado por san Atanasio para refutar la calumnia de los arrianos, quienes afirmaban falsamente que Antonio simpatizaba con su herejía. Con su sola presencia y su confesión sencilla de la fe, fortaleció a los ortodoxos y avergonzó a los herejes.
+
+Tras el cese de las persecuciones por obra del emperador Constantino, Antonio regresó al desierto. Dios le concedió entonces el don de hacer milagros: expulsaba demonios y sanaba enfermos mediante la oración. Su fama llegó a tal punto que incluso el emperador Constantino le escribió cartas, y fue invitado al Concilio de Nicea en el año 325, donde defendió con claridad la fe ortodoxa contra el arrianismo.
+
+Aunque no era un erudito, san Antonio fue maestro y consejero de los más sabios de su tiempo, incluido san Atanasio el Grande. Cuando algunos filósofos paganos intentaron provocarlo con argumentos literarios, los desarmó con una sola pregunta:
+“¿Qué es anterior: la comprensión o el libro? ¿Cuál de los dos es causa del otro?”.
+Así quedó manifiesto que ellos poseían solo erudición vacía, mientras Antonio tenía la verdadera sabiduría.
+
+San Antonio el Grande murió en paz a la edad de ciento cinco años, alrededor del año 356, dejando tras de sí un verdadero ejército de discípulos e imitadores. Su vida, escrita por san Atanasio de Alejandría, se convirtió en la primera gran biografía de un santo no mártir y marcó profundamente la espiritualidad cristiana. Hasta el día de hoy, la Iglesia lo honra como modelo de vida ascética, discernimiento espiritual y combate victorioso contra el mal.`
+		},
+		{
+		    name: "San Teodosio el Grande",
+		    title: "",
+		    img: "Img/Teodosio2.webp",
+		    desc: `Fue un emperador glorioso y celoso en la fe, que gobernó desde el año 379 hasta el año 395. Constantino el Grande prohibió la persecución de los cristianos, pero Teodosio el Grande dio un paso más: prohibió el sacrificio idolátrico durante su reinado. Trabajó incansablemente por el fortalecimiento y la propagación de la fe cristiana en todo el Imperio.`
+		},
+		{
+		    name: "San Jorge de Ioánina",
+		    title: "El Nuevo Martír",
+		    img: "Img/JorgeIoánina.webp",
+		    desc: `Hoy conmemoramos también a san Jorge, el Nuevo Mártir de Ioánina, testigo fiel de Cristo en tiempos de opresión y violencia contra los cristianos bajo el dominio otomano.
+
+San Jorge nació en el año 1808 de padres pobres y humildes en el pueblo de Tsourchli, hoy llamado Agios Georgios, en la región de Grevena. Quedó huérfano a temprana edad y no recibió educación formal. Tras la muerte de sus padres, se trasladó a la ciudad de Ioánina en busca de sustento.
+
+Fue una de las últimas víctimas del reclutamiento forzoso de jóvenes cristianos por parte de los otomanos. Obligado a servir en el ejército turco como cuidador de caballos y mozo de establo, fue registrado bajo el nombre musulmán de “Hasan el Infiel” (Giaour Hasan). A pesar de esta imposición, san Jorge conservó intacta su fe cristiana, sin contaminarla ni renegar jamás de Cristo.
+
+De carácter humilde y conducta modesta, vestía la foustanela tradicional de su aldea y un chaleco bordado, manteniendo visiblemente su identidad cristiana. En el año 1836 contrajo matrimonio con una joven cristiana de Ioánina llamada Eleni. De su unión nació un hijo, a quien, conforme a la tradición cristiana, bautizaron en la fiesta de san Juan el Bautista, poniéndole el nombre del Santo Precursor.
+
+Este hecho despertó las sospechas de las autoridades turcas, que lo consideraban musulmán y, por tanto, culpable de apostasía, delito castigado con la muerte según la ley otomana. Llevado ante los jueces, san Jorge se negó firmemente a negar su fe. Durante los interrogatorios y torturas repetía con valentía:
+“Nunca fui turco; siempre fui cristiano.”
+
+Finalmente fue condenado a morir en la horca. Ante la última pregunta de los verdugos: “¿Qué eres?”, san Jorge respondió con voz firme y triunfal:
+“Soy cristiano y moriré como cristiano. Me inclino ante mi Cristo y ante mi Señora, la Theotokos.”
+
+Así recibió su corona eterna al ser colgado el 17 de enero del año 1838.
+
+Mientras su cuerpo permanecía colgado, una mujer turca, reconociendo su santidad, tomó una de sus medias y la colocó sobre una mujer turca enferma, quien fue sanada inmediatamente. El cuerpo del santo quedó expuesto durante tres días, pero al ser bajado no mostraba signos de corrupción, lo que llevó incluso a muchos turcos a reconocer su santidad y permitir que fuera sepultado con honor.
+
+Hasta el día de hoy, san Jorge es venerado como gran hacedor de milagros y sanador. Sus santas reliquias se conservan en la iglesia dedicada a san Jorge en Ioánina, donde los fieles acuden con fe para pedir su intercesión.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+San Antonio enseña:
+“Aprende a amar la humildad, porque ella cubre todos tus pecados. Todos los pecados son repugnantes delante de Dios, pero el pecado más repugnante de todos es la soberbia del corazón. No te consideres erudito y sabio; de lo contrario, tu labor será destruida y tu barca llegará vacía al puerto. Si tienes una gran autoridad, no amenaces a nadie con la muerte: recuerda que, por tu naturaleza, eres susceptible a la muerte, y que toda alma se despoja de su propio cuerpo como de su último vestido”.
+
+En Bizancio existía una costumbre extraña e instructiva a la vez durante la coronación de los emperadores en la iglesia de Santa Sofía: cuando el Patriarca colocaba la corona sobre la cabeza del emperador, al mismo tiempo le entregaba una bolsa de seda llena de tierra de una tumba. Esto servía para que el emperador recordara la muerte, evitara toda soberbia y permaneciera humilde.
+
+
+CONTEMPLACIÓN:
+Contemplar la persecución del Señor Jesucristo:
+
+1. Su persecución como niño por parte de Herodes;
+
+2. Su persecución como hombre y Mesías por parte de los escribas y ancianos judíos;
+
+3. Su persecución como Dios por parte de muchos contemporáneos nuestros, escribas y ancianos, judíos y cristianos a la vez.
+
+
+SERMÓN:
+Sobre los dos tipos de sabiduría
+	
+“Porque la sabiduría de este mundo es insensatez para Dios” (I Corintios 3:19)
+
+Incluso este concepto bíblico es una gran noticia que el cristianismo anuncia al mundo. Una es la sabiduría según Dios y otra es la sabiduría según el mundo. La sabiduría según Dios proviene del Espíritu Santo. Los apóstoles se llenaron de esa sabiduría cuando descendió sobre ellos el Espíritu Santo.
+
+La sabiduría según el mundo proviene de los sentidos y de la materia, y representa verdadera locura delante de Dios si no está sellada e inspirada por el Espíritu Santo.
+
+Toda sabiduría mundana que se guía solamente por los sentidos corporales, sin tener en cuenta al Espíritu Santo, es locura delante de Dios y de Sus ángeles, porque no percibe ni el espíritu ni el sentido de este mundo, sino que conoce la realidad como cenizas por fuera y por dentro, como cenizas que el viento amontona y dispersa.
+
+Toda sabiduría humana que se rige solo por los sentidos, concepciones materiales y fantasías, es locura delante de Dios y de los ángeles y santos de Dios, porque no conoce al hombre como ser espiritual, imagen y semejanza de Dios, sino únicamente como cuerpo exterior e interior. Es como si un mono, mirando un tren, lo describiera diciendo:
+“Esto es hierro por fuera y por dentro; hierro que se calienta, hierro que se mueve, hierro que dirige y hierro que detiene”.
+
+Hermanos, ¿quién puede llenarse de la sabiduría de Dios, sino aquel que primero se despoja de la locura del mundo? Con la ayuda de Dios, cada uno de nosotros puede hacerlo, pues cuando nuestro deseo y esfuerzo se unen, la ayuda divina sale inevitablemente a nuestro encuentro. Porque solo Dios es mansedumbre, sabiduría y santidad.
+
+Oh Señor, Tú que eres manso, sabio y santo, llénanos con Tu sabiduría vivificadora.
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 
 };
