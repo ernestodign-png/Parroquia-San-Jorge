@@ -1013,5 +1013,226 @@ Oh Señor, Tú que eres manso, sabio y santo, llénanos con Tu sabiduría vivifi
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-18": [
+		{
+		    name: "San Atanasio y San Cirilo de Alejandría",
+		    title: "Patriarcas de Alejandría",
+		    img: "Img/Patriarcas.webp",
+		    desc: `San Atanasio floreció durante el reinado de Constantino el Grande (306–337). Siendo diácono del arzobispo Alejandro de Alejandría, fue una de las figuras más destacadas del Primer Concilio Ecuménico de Nicea en el año 325. Allí dejó en evidencia al hereje Arrio, quien negaba la divinidad de Cristo, y defendió el término Homoousios (“de la misma esencia”) en el Credo niceno, para afirmar que Cristo es coeterno y consustancial con el Padre.
 
+San Atanasio fue también uno de los principales Padres responsables de la fijación del canon del Nuevo Testamento. En su carta pascual del año 367, fue la primera persona en enumerar exactamente los 27 libros del canon del Nuevo Testamento, tal como se encuentran en la Biblia hasta el día de hoy.
+
+San Atanasio sucedió a san Alejandro como arzobispo de Alejandría. Posteriormente fue exiliado durante el reinado del emperador Constancio, partidario del arrianismo (337–361), hijo de Constantino el Grande. Permaneciendo firme en su confesión de la fe ortodoxa durante cuarenta años de persecuciones, descansó en el Señor en el año 373.
+
+San Cirilo floreció durante el reinado de Teodosio el Joven (408–450) y era sobrino del arzobispo Teófilo de Alejandría. Al suceder a Teófilo en el trono patriarcal, Cirilo se convirtió en un gran defensor de la Ortodoxia en el Tercer Concilio Ecuménico celebrado en Éfeso en el año 431.
+
+Fue el principal oponente del hereje Nestorio, quien rechazaba la unión hipostática de las naturalezas divina y humana de Cristo. Los nestorianos rechazaban expresiones como “Dios sufrió” o “Dios fue crucificado”, argumentando que solo el hombre Cristo había sufrido, y no el Señor mismo. Nestorio también rechazaba el término Theotokos (“Portadora de Dios”) para la Virgen María, prefiriendo el término Christotokos (“Portadora de Cristo”), ya que afirmaba que Dios mismo no podía haber nacido.
+
+Así, recordamos a estos grandes Padres, que fueron fundamentales en la derrota de dos de las mayores herejías de la historia de la Iglesia: san Atanasio contra el arrianismo y san Cirilo contra el nestorianismo.`
+		}
+		],
+		"01-19": [
+		{
+		    name: "San Macario el Grande",
+		    title: "Padre del Desierto de Egipto.",
+		    img: "Img/Macario.webp",
+		    desc: `San Macario nació en el año 295 en el pueblo de Shabsheer, en Egipto. Por deseo de sus padres aceptó contraer matrimonio, pero su futura esposa murió repentinamente. Poco después fallecieron también sus padres.
+
+Después de orar para que el Señor le enviara un sabio guía espiritual, Macario conoció en la iglesia a un anciano que vivía en el desierto cerca de su aldea. Este anciano instruyó al joven en la ciencia espiritual de la vigilancia, el ayuno y la oración, y le enseñó a tejer canastas. Entregando sus posesiones a los necesitados, Macario vivió como asceta en una pequeña celda.
+
+En cierta ocasión, Macario fue golpeado por los aldeanos después de que una joven soltera y embarazada lo acusara falsamente de haberla dejado encinta. Aceptando mansamente la falsa acusación, Macario sostuvo a la mujer con el dinero obtenido de la venta de sus canastas. Cuando llegó el momento del parto, la joven sufrió durante días terribles dolores. Comprendiendo que aquello era un castigo por su calumnia, confesó la inocencia de Macario. Cuando los aldeanos acudieron a su celda para pedirle perdón, el humilde santo ya había huido de sus alabanzas internándose más profundamente en el desierto.
+
+Hacia el año 330, Macario vivía una vida ascética en el centro monástico de Escete (hoy Wadi El Natrun) y se convirtió en discípulo de san Antonio el Grande. Fundó un monasterio para el creciente número de monjes y era venerado por la profundidad de su sabiduría, que superaba con mucho su edad.
+
+Mientras predicaba que la humildad es el fundamento de todas las demás virtudes, san Macario se hizo también célebre por sanar a enfermos y a personas poseídas por demonios. Fue padre espiritual de miles de monjes durante su vida y un gran defensor de la Ortodoxia frente a los herejes, razón por la cual fue exiliado por el emperador arriano Valente en el año 374.
+
+Durante su exilio, Macario curó a la hija de un sacerdote pagano que estaba poseída por un espíritu maligno y sufría terribles convulsiones. En agradecimiento, el pueblo sustituyó su templo pagano por una iglesia. Cuando el emperador Valente tuvo conocimiento de esto, permitió que el santo regresara del exilio.
+
+De vuelta en el desierto, Macario fue recibido con alegría por decenas de miles de monjes. Padre fundador del monacato, san Macario descansó en el Señor en el año 390.`
+		},
+		{
+		    name: "San Marcos de Éfeso",
+		    title: "Nuevos Tres Jerarcas de la Iglesia",
+		    img: "Img/Marcos.webp",
+		    desc: `San Marcos nació en Constantinopla en el año 1392. Criado por padres piadosos, recibió una excelente educación tanto en la sabiduría secular como en la espiritual. Vivió durante un tiempo como asceta en las Islas de los Príncipes y posteriormente en el Monasterio de San Jorge Mangana, en Constantinopla.
+
+Mostrando gran piedad y celo por la vida monástica, san Marcos recorrió todos los grados del sacerdocio y fue consagrado arzobispo de Éfeso (en la actual Turquía).
+
+En el año 1439, por insistencia del emperador bizantino Juan Paleólogo, san Marcos fue enviado al Concilio de Florencia. Este concilio fue convocado por el papa Eugenio IV con el propósito de reunificar las Iglesias de Oriente y Occidente, separadas desde el Gran Cisma del año 1054.
+
+En ese tiempo, los otomanos avanzaban sobre la ciudad de Constantinopla (que conquistarían apenas catorce años después del concilio). Por esta razón, el emperador bizantino se hallaba desesperado por reunificar Constantinopla con la Iglesia latina y obtener mayor apoyo militar de Occidente para defender la ciudad.
+
+San Marcos se encontró, por lo tanto, bajo una enorme presión por parte del emperador para aceptar los términos del concilio en nombre de la reunificación con los latinos, aun si ello implicaba ceder en la teología ortodoxa para alcanzar un compromiso.
+
+Sin embargo, san Marcos no dudó en confesar la herejía de los latinos en el concilio. Consideraba a Roma en estado de cisma y herejía por su aceptación de la cláusula Filioque añadida al Credo niceno-constantinopolitano y por las pretensiones del papado de ejercer jurisdicción universal sobre la Iglesia.
+
+Con la sabiduría divina de sus palabras dejó atónitos a los maestros papales. Mientras todos los demás obispos orientales aceptaron los decretos del concilio —unos por presión política del emperador y otros por convicción sincera— san Marcos fue el único que se negó a firmar el decreto blasfemo.
+
+Tras el concilio, san Marcos regresó a Constantinopla, donde descansó en el Señor en el año 1444. Por su firme defensa de la Ortodoxia, es honrado como Pilar de la Ortodoxia y como uno de los Nuevos Tres Jerarcas de la Iglesia, junto a san Gregorio Palamás y san Focio el Grande.`
+		},
+		],
+		"01-20": [
+		{
+		    name: "San Eutimio el Grande",
+		    title: "Gran defensor de la Ortodoxia",
+		    img: "Img/Eutimio.webp",
+		    desc: `San Eutimio nació en el año 377 de padres piadosos en Melitene, en Armenia (hoy Makatya, Turquía). Su madre, que era estéril, tuvo una visión de un ángel que le dijo que se alegrara, anunciándole que daría a luz un hijo bendito. Por esta razón, el niño recibió el nombre de Eutimio, que significa “buen ánimo” o “alegría espiritual”.
+
+Cuando el padre del santo falleció, su madre lo confió al cuidado de Eutroio, obispo de Melitene, quien lo guió en la práctica ferviente de la oración, el silencio y la humildad. Superando a otros hombres en virtud y ascesis, Eutimio fue ordenado sacerdote y se le encomendó la supervisión de todos los monasterios de la ciudad.
+
+A la edad de veintinueve años realizó una peregrinación a Jerusalén y vivió en ascesis cerca de la Lavra de Farán. Tejiendo canastas con sus propias manos, Eutimio se sostenía a sí mismo y además daba limosna a los pobres. En el año 411 se retiró junto con san Teoctisto a una cueva en la cima de una montaña cerca de Jericó, donde vivían alimentándose únicamente de hierbas crudas.
+
+Con el tiempo, Eutimio comenzó a atraer a numerosos discípulos. Para dar cabida a la creciente comunidad monástica, fundó varios monasterios, entre ellos el Monasterio de San Eutimio en el año 420, cuyas ruinas aún pueden verse hoy en el desierto de Judea.
+
+Mientras brindaba guía espiritual a muchos monjes e instruía en el orden monástico, san Eutimio recibió también la gracia de obrar milagros: hacía concebir a mujeres estériles, hacía brotar agua en tiempos de sequía, sanaba a muchos que padecían enfermedades graves y, con el don de clarividencia, podía ver la condición espiritual de las almas que se acercaban a él.
+
+San Eutimio fue asimismo un gran defensor de la Ortodoxia frente a los herejes. Participó en el Concilio de Éfeso en el año 431, donde se condenó el nestorianismo. Tras la condena del monofisismo en el Cuarto Concilio Ecuménico de Calcedonia en el año 451, fue en gran medida gracias a la autoridad de Eutimio que las decisiones del concilio fueron aceptadas en Jerusalén, aun cuando muchos monjes se oponían inicialmente a ellas.
+
+Uno de sus últimos discípulos fue el joven san Sabas el Santificado, cuyo camino santo Eutimio profetizó. San Eutimio descansó en el Señor en el año 473, a la edad de noventa y cinco años.`
+		}
+		],
+		"01-21": [
+		{
+		    name: "San Máximo el Confesor",
+		    title: "Padre del Desierto de Egipto.",
+		    img: "Img/MáximoConfesor.webp",
+		    desc: `San Máximo nació en Constantinopla en el año 580, de padres cristianos piadosos. Tras recibir una excelente educación, llegó a ser Secretario Imperial del emperador Heraclio. Más tarde ingresó en el monasterio de Crisópolis, en Escútari (hoy Üsküdar, Turquía). Amado por los hermanos por su humildad y sabiduría, fue nombrado abad en el año 614.
+
+En ese tiempo, la herejía del monotelismo —que enseñaba que en Cristo existía una sola voluntad divina— se propagaba rápidamente por Oriente. Esta herejía era una derivación del monofisismo anterior, que sostenía que en Cristo había una sola naturaleza divina.
+
+Los monofisitas fueron condenados en el Cuarto Concilio Ecuménico de Calcedonia en el año 451, que afirmó la posición ortodoxa del diofisismo, es decir, que en Cristo existen dos naturalezas distintas, una humana y otra divina.
+
+Buscando unir a las facciones cristianas del Imperio (calcedonianos y no calcedonianos), el emperador Heraclio comenzó a promover el monotelismo como una posición de compromiso, ya que reconocía las dos naturalezas de Cristo, pero afirmaba una sola voluntad divina.
+
+Encendido por un celo divino, Máximo abandonó su monasterio y dedicó su vida a combatir esta herejía. En Roma persuadió al papa Martín para que convocara el Concilio de Letrán, el cual anatematizó a los monotelitas. Asimismo, escribió numerosos tratados refutando a los herejes y proclamando la posición ortodoxa del diotelismo: que en Cristo existen dos voluntades, la humana y la divina.
+
+El emperador siguiente, Constante II, promulgó en el año 648 un edicto severo que prohibía toda oposición al monotelismo. Mientras muchos obispos cedieron ante este decreto, Máximo se negó y fue arrestado en el año 654.
+
+Por continuar denunciando a los herejes durante su exilio en Tracia, fue llevado de nuevo a Constantinopla en el año 661, donde el emperador ordenó que le cortaran la lengua y la mano derecha, para impedirle predicar o escribir. Su mano derecha cercenada se conserva hasta hoy en el Monasterio de San Pablo, en el Monte Athos.
+
+San Máximo murió en el exilio, en el Cáucaso, en el año 662. Fue rehabilitado en el Sexto Concilio Ecuménico en el año 681, el cual consagró su doctrina del diotelismo y condenó definitivamente el monotelismo.`
+		},
+		{
+		    name: "Panagía Paramythía",
+		    title: "La Madre de Consolación de Vatopedi",
+		    img: "Img/Panagía.webp",
+		    desc: `Hoy conmemoramos el icono milagroso de la Panagía Paramythía, también conocido como la Madre de Consolación de Vatopedi. El icono original se conserva bajo un revestimiento de plata en el Monasterio de Vatopedi, en el Monte Athos.
+
+El monasterio recibió su nombre después de que el hijo del emperador Teodosio el Grande cayera desde un barco al mar. Por la intercesión milagrosa de la Theotokos, el niño fue llevado sano y salvo hasta la orilla y fue hallado durmiendo en un arbusto cerca del monasterio. Por este motivo, el monasterio fue llamado Vatopedi, que significa “el arbusto del niño”.
+
+Según la tradición, en el monasterio había un icono de la Theotokos que sostenía a su Hijo. Las expresiones faciales originales y la posición de los cuerpos de Cristo y de la Madre de Dios en el icono cambiaron después de que ocurriera el siguiente milagro:
+
+En el año 807, piratas bárbaros habían desembarcado secretamente en la costa del monasterio y se ocultaban, esperando que por la mañana se abrieran las puertas para lanzar un ataque contra el monasterio. El abad, que había permanecido en el templo después del final de los Maitines para continuar en oración, oyó estas palabras provenientes del icono de la Santísima Virgen:
+“No abras hoy las puertas del monasterio, sino sube a las murallas y ahuyenta a los piratas.”
+
+Cuando el abad se volvió para mirar, vio que la Theotokos giraba su rostro hacia el hombro derecho y lo miraba, mientras Cristo extendía su mano para cubrir la boca de su Madre, diciendo:
+“No, Madre, no protejas a este rebaño pecador; deja que caigan bajo la espada de los piratas y reciban el castigo que merecen.”
+
+Sin embargo, la Santísima Virgen tomó la mano de su Hijo entre las suyas y giró ligeramente la cabeza para liberar su boca, permitiéndole repetir las mismas palabras al abad. Gracias a su advertencia, los monjes fueron salvados milagrosamente del ataque de los piratas.
+
+En acción de gracias, los monjes dieron gloria a la Theotokos y llamaron al icono “Paramythía”, término que significa “consuelo”, “calmar” o “contener”, expresiones que transmiten fielmente el sentido del milagro.`
+		},
+		{
+		    name: "San Máximo el Griego",
+		    title: "Confesor y Padre de la Iglesia Rusa",
+		    img: "Img/MáximoGriego.webp",
+		    desc: `Hoy conmemoramos también a san Máximo el Griego.
+
+San Máximo nació con el nombre de Miguel Trivolis en el año 1475 en Arta, Grecia. Tras completar sus estudios en los principales centros del Renacimiento en Italia, abrazó la vida monástica en la Santa Montaña y fue tonsurado con el nombre de Máximo en el Monasterio de Vatopedi.
+
+En el año 1515, el gran príncipe Basilio III de Moscú solicitó al abad del monasterio que le enviara a un monje llamado Savva para traducir diversos textos religiosos. Sin embargo, Savva era anciano y de salud frágil, por lo que el abad envió en su lugar al bien educado y enérgico Máximo.
+
+Al llegar a Moscú en el año 1518, la primera tarea de Máximo fue la traducción del Salterio. Como todavía no dominaba bien el eslavo eclesiástico, el zar le proporcionó dos traductores para asistirlo en su trabajo.
+
+El metropolitano Barlaam y el zar quedaron profundamente impresionados con la traducción terminada y comprendieron que el pueblo ruso podía beneficiarse enormemente de la labor de Máximo. Por este motivo, su solicitud de regresar a la Santa Montaña fue rechazada.
+
+Máximo mostró un gran celo por la iluminación espiritual del pueblo ruso mediante sus escritos y sermones. Escribió cartas contra los musulmanes, los católicos y los paganos, y tradujo los Comentarios de san Juan Crisóstomo sobre los Evangelios de Mateo y Juan.
+
+Cuando el nuevo metropolitano Daniel ordenó a Máximo traducir al eslavo la Historia Eclesiástica de Teodoreto de Ciro, Máximo se negó, ya que esta obra incluía cartas del hereje Arrio.
+
+Máximo también reprendió al gran príncipe cuando este intentó divorciarse de su esposa Solomonia debido a su infertilidad. Por esta razón, así como por sus conflictos con el metropolitano Daniel y por pequeños errores en sus traducciones —considerados intencionales— Máximo fue encarcelado por orden del príncipe.
+
+En el año 1531, un concilio convocado por el metropolitano Daniel excomulgó a san Máximo y lo desterró al Monasterio de Otroch, en Tver, donde permaneció encarcelado durante veinte años. Finalmente, fue liberado en 1551 durante el reinado de Iván el Terrible. San Máximo pasó sus últimos años en la Lavra de la Santa Trinidad–San Sergio, donde, agotado por su injusto cautiverio, descansó en el Señor en el año 1556.`
+		}
+		],
+		"01-22": [
+		{
+		    name: "San Anastasio el Persa",
+		    title: "Mártir.",
+		    img: "Img/AnastasioPersa.webp",
+		    desc: `Hoy conmemoramos al santo mártir Anastasio el Persa.
+
+Nacido con el nombre de Magundates, san Anastasio provenía de una familia pagana de la ciudad persa de Ray (actual Teherán, Irán). Su padre era un hechicero persa llamado Bavi. Magundates sirvió en el ejército del rey persa Cosroes II (590–628) durante la invasión de Jerusalén en el año 614 y la captura de la Santa Cruz.
+
+Mientras la Cruz Honorable se hallaba en manos de los persas, obró numerosos milagros. El corazón de Magundates se inflamó con el deseo de conocer más acerca de este objeto sagrado. Al preguntar a los cristianos, el joven aprendió que sobre ella el mismo Señor había sido crucificado para la salvación del género humano.
+
+Aceptando la verdad del cristianismo, Magundates abandonó el ejército y se dirigió a Jerusalén, donde recibió el santo Bautismo de manos del patriarca Modesto. Luego se hizo monje y pasó siete años en un monasterio, destacándose en la ascesis y en la adquisición de las virtudes.
+
+En cierta ocasión, Anastasio tuvo una visión en la que ascendía a la cima de una montaña, donde un hombre le ofrecía vino en un cáliz de oro. Al experimentar una dulzura celestial en su alma, comprendió que el Señor lo llamaba al martirio.
+
+Así, se dirigió en secreto a Cesarea de Palestina, sede de las autoridades persas, y allí enfrentó a un mago persa, reprochándole la práctica del arte ilícito que él mismo había ejercido anteriormente, y le anunció su conversión a Cristo. Al ver esto, los soldados persas arrestaron a Anastasio.
+
+Con halagos y amenazas, las autoridades persas intentaron en vano obligarlo a renegar de Cristo. Entonces lo azotaron con varas, le laceraron las rodillas, lo colgaron de las manos atándole una pesada piedra a los pies, lo agotaron con el encierro y lo quebrantaron con duros trabajos en la cantera de piedra junto con otros prisioneros.
+
+Tras responder al gobernador:
+“Jamás negaré a mi Señor delante de ti ni de nadie, ni públicamente ni siquiera en sueños. Nadie puede obligarme a hacer esto mientras esté en pleno uso de mi razón”,
+san Anastasio fue estrangulado y decapitado en el año 628 por orden del rey Cosroes.
+Su santa calavera se conserva hoy en la catedral de Aquisgrán, en Alemania.`
+		},
+		{
+		    name: "San Timoteo",
+		    title: "Apóstol de los Setenta, Jerarca y Mártir",
+		    img: "Img/Timoteo.webp",
+		    desc: `Hoy conmemoramos también a san Timoteo, Apóstol de los Setenta y primer obispo de Éfeso. Fue un estrecho discípulo del apóstol Pablo y es el destinatario de la Primera y Segunda Epístolas a Timoteo del Nuevo Testamento.
+
+San Timoteo, cuyo nombre significa “el que honra a Dios”, era originario de la ciudad de Listra, en Asia Menor (cerca de la actual Hatunsaray, Turquía). Cuando el apóstol Pablo visitó la ciudad, sanó a un hombre que era cojo de nacimiento (Hechos 14:6–12).
+
+Al presenciar este milagro, muchos habitantes de Listra creyeron en Cristo, entre ellos Timoteo, su madre Eunice y su abuela Loida. Desde entonces, Timoteo se convirtió en un cercano discípulo de san Pablo y predicó el Evangelio junto a él en Jerusalén, Acaya, Macedonia, Italia y España.
+
+El apóstol Pablo amaba profundamente a san Timoteo y en sus epístolas lo llama su hijo amado (2 Timoteo 1:2). Recordando con gratitud su entrega y fidelidad, Pablo le escribió:
+“Tú has seguido mi doctrina, conducta, propósito, fe, longanimidad, amor y paciencia” (2 Timoteo 3:10–11).
+
+El apóstol Pablo designó a san Timoteo como primer obispo de Éfeso, donde el santo permaneció durante quince años. Finalmente, cuando san Pablo se hallaba prisionero en Roma a la espera de su martirio, llamó a su fiel amigo Timoteo para un último encuentro (2 Timoteo 4:9).
+
+Cuando los paganos de Éfeso celebraban una festividad, sacaban sus ídolos en procesión por la ciudad, acompañados de ceremonias impías y cantos. El celoso san Timoteo intentó detener la procesión y razonar con el pueblo espiritualmente ciego, adorador de ídolos, predicándoles la verdadera fe en Cristo.
+
+Los paganos, enfurecidos, se lanzaron contra el santo apóstol, lo golpearon, lo arrastraron por el suelo y finalmente lo apedrearon hasta darle muerte. El martirio de san Timoteo ocurrió en el año 93. Su santa calavera se conserva en la catedral de Termoli, en Italia.
+
+En la práctica rusa, el reverso de la cruz sacerdotal suele llevar inscritas las palabras del apóstol Pablo dirigidas a san Timoteo:
+“Sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza” (1 Timoteo 4:12).`
+		},
+		{
+		    name: "San Besarión de Agathonos",
+		    title: "Venerable Anciano y Confesor",
+		    img: "Img/Besarión.webp",
+		    desc: `Hoy conmemoramos también a san Besarión de Agathonos. Fue un monje contemporáneo del Monasterio de Agathonos, en el centro de Grecia, y fue canonizado recientemente, en el año 2022.
+
+San Besarión nació en 1908 con el nombre de Andrés, en Petalidi de Mesenia, Grecia. A los dieciocho años se trasladó a Kalamata, donde entró en contacto con personas espirituales y recibió la tonsura monástica con el nombre de Besarión. Nutriéndose constantemente del estudio de los textos sagrados, pronto fue ordenado diácono y sacerdote, y posteriormente recibió el rango de archimandrita.
+
+En el año 1935, san Besarión se trasladó a Karditsa por invitación del metropolitano Ezequiel. Allí sirvió al Señor mediante una intensa labor filantrópica. Durante la ocupación alemana de Grecia en la Segunda Guerra Mundial, asumió la peligrosa misión de intervenir personalmente para salvar a muchos patriotas y niños capturados por los alemanes.
+
+Tras la Guerra Civil Griega, san Besarión dejó Karditsa en 1955 y se estableció en el Monasterio de Agathonos, en Ftiotis, en el centro de Grecia. Todos los lunes y martes acudía a los hospitales de la cercana ciudad de Lamia para consolar a los enfermos y confesarles. Con su humildad, sencillez y carisma, aliviaba las almas afligidas de los pacientes.
+
+Los demás días se sentaba frente al monasterio y saludaba a las personas con una sonrisa amable. Quienes llegaban cargados de dolor, sufrimiento y ansiedad, se marchaban aliviados tras encontrarse con el santo anciano. Ayudaba también a muchos de ellos económicamente, distribuyendo entre los pobres y necesitados todo el dinero que le llevaban las numerosas personas que confiaban en él.
+
+Especialmente durante la Gran Cuaresma, san Besarión salía del monasterio llevando un icono de la Panagía y recorría las aldeas circundantes, donde los fieles lo esperaban con ansias en las calles. Visitaba todas las casas, escuchaba confesiones y ofrecía orientación espiritual a la gente.
+
+A pesar de que en su vejez apenas podía hablar debido al debilitamiento de su voz, san Besarión no se retiró del Santo Altar.
+
+Después de haber dedicado su vida al servicio del rebaño de Dios con gran cuidado y amor, san Besarión, agotado por la vejez, descansó en el Señor en el Hospital Sotiría de Atenas en este día del año 1991.`
+		}
+		],
+		"01-23": [
+		{
+		    name: "El hieromártir san Clemente",
+		    title: "Obispo de Ancira.",
+		    img: "Img/Clemente.webp",
+		    desc: `Nació en el año 258 en la ciudad de Ancira, de padre pagano y madre cristiana. Su piadosa madre Efrosinia predijo que su hijo iba a morir como mártir y luego partió de este mundo cuando Clemente tenía todavía doce años. Su amiga Sofía recibió a Clemente en su casa como a un hijo y lo crió en el espíritu cristiano. Clemente era tan famoso por su vida virtuosa que lo eligieron obispo de Ancira a los veinte años de edad. Siendo todavía joven, llegó a tener la sabiduría de los ancianos, además de vencer las pasiones del cuerpo con una vida estrictamente ascética. Comía solamente pan y legumbres, nada de carne sacrificada ni con sangre.
+
+Durante el reinado de Diocleciano fue torturado tan terriblemente “como nadie nunca lo había sido desde el origen del mundo”. Pasó veintiocho años entre torturas y cárceles. Once verdugos lo atormentaban y torturaban. Una vez, mientras le golpeaban la cara, lo escupían y le rompían los dientes, él gritó al torturador Domeciano:
+“Me estás haciendo un gran honor, oh Domeciano, porque no me estás torturando, pues aun los labios de mi Señor Jesucristo fueron igualmente golpeados y su rostro herido y, he aquí, yo, indigno, me hago digno de esto ahora”.
+
+Cuando Clemente fue llevado a Roma para comparecer ante el emperador Diocleciano, el emperador puso de un lado varias herramientas de tortura y, del otro lado, regalos, distinciones, vestidos y dinero —todo lo que el emperador pudiera regalarle— y le dijo a Clemente que eligiera. Con desprecio, el mártir de Cristo miró todos los tesoros del emperador y eligió las herramientas de tortura. Clemente fue torturado indescriptiblemente: le cortaron el cuerpo en pedazos hasta que sus huesos blancos se veían debajo de la carne. Finalmente fue decapitado en el año 312 por los soldados en la iglesia de Ancira, donde, como arzobispo, celebraba la Divina Liturgia. Los milagros de san Clemente son innumerables.`
+		}
+		],
 };
