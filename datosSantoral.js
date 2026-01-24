@@ -1222,7 +1222,7 @@ A pesar de que en su vejez apenas podía hablar debido al debilitamiento de su v
 Después de haber dedicado su vida al servicio del rebaño de Dios con gran cuidado y amor, san Besarión, agotado por la vejez, descansó en el Señor en el Hospital Sotiría de Atenas en este día del año 1991.`
 		}
 		],
-		"01-24": [
+		"01-23": [
 		{
 		    name: "El hieromártir san Clemente",
 		    title: "Obispo de Ancira.",
@@ -1235,7 +1235,7 @@ Durante el reinado de Diocleciano fue torturado tan terriblemente “como nadie 
 Cuando Clemente fue llevado a Roma para comparecer ante el emperador Diocleciano, el emperador puso de un lado varias herramientas de tortura y, del otro lado, regalos, distinciones, vestidos y dinero —todo lo que el emperador pudiera regalarle— y le dijo a Clemente que eligiera. Con desprecio, el mártir de Cristo miró todos los tesoros del emperador y eligió las herramientas de tortura. Clemente fue torturado indescriptiblemente: le cortaron el cuerpo en pedazos hasta que sus huesos blancos se veían debajo de la carne. Finalmente fue decapitado en el año 312 por los soldados en la iglesia de Ancira, donde, como arzobispo, celebraba la Divina Liturgia. Los milagros de san Clemente son innumerables.`
 		}
 		],
-		"01-23": [
+		"01-24": [
 		{
 		    name: "Santa Madre Xenia de Roma",
 		    title: "Venerable Asceta y Diaconisa.",
