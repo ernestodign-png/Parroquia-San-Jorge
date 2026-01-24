@@ -1222,7 +1222,7 @@ A pesar de que en su vejez apenas podía hablar debido al debilitamiento de su v
 Después de haber dedicado su vida al servicio del rebaño de Dios con gran cuidado y amor, san Besarión, agotado por la vejez, descansó en el Señor en el Hospital Sotiría de Atenas en este día del año 1991.`
 		}
 		],
-		"01-23": [
+		"01-24": [
 		{
 		    name: "El hieromártir san Clemente",
 		    title: "Obispo de Ancira.",
