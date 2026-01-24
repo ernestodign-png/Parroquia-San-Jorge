@@ -1235,4 +1235,60 @@ Durante el reinado de Diocleciano fue torturado tan terriblemente “como nadie 
 Cuando Clemente fue llevado a Roma para comparecer ante el emperador Diocleciano, el emperador puso de un lado varias herramientas de tortura y, del otro lado, regalos, distinciones, vestidos y dinero —todo lo que el emperador pudiera regalarle— y le dijo a Clemente que eligiera. Con desprecio, el mártir de Cristo miró todos los tesoros del emperador y eligió las herramientas de tortura. Clemente fue torturado indescriptiblemente: le cortaron el cuerpo en pedazos hasta que sus huesos blancos se veían debajo de la carne. Finalmente fue decapitado en el año 312 por los soldados en la iglesia de Ancira, donde, como arzobispo, celebraba la Divina Liturgia. Los milagros de san Clemente son innumerables.`
 		}
 		],
+		"01-23": [
+		{
+		    name: "Santa Madre Xenia de Roma",
+		    title: "Venerable Asceta y Diaconisa.",
+		    img: "Img/Xenia.webp",
+		    desc: `Hoy conmemoramos a Santa Xenia, la santa asceta de Roma.
+
+Santa Xenia, bautizada con el nombre de Eusebia, nació en Roma a comienzos del siglo V en una familia cristiana noble. Aunque había crecido con el deseo de consagrar su virginidad al Señor Jesucristo, sus padres hicieron preparativos para que se casara.
+
+La noche de su boda, Eusebia huyó con dos de sus sirvientas y embarcó en un barco con destino a Alejandría. Al llegar a la isla de Kos, cambió su nombre a Xenia o Xeni (“la Extranjera”) para no ser conocida por nadie ni descubierta por sus padres.
+
+Así como el Señor envió al Apóstol Pablo a Santa Tecla, Xenia también oró para que Él le enviara un segundo Pablo que la guiara en el camino de la salvación. Esta oración fue escuchada, y se le apareció un anciano que, en efecto, se llamaba Pablo.
+
+El anciano llevó a Xenia y a sus dos compañeras a la ciudad de Mylasa en Caria (hoy Milas, Turquía), al monasterio del cual él era abad, y les ofreció una celda cercana. Allí, Santa Xenia vivió una vida celestial de ascetismo.
+
+Comía solo un poco de pan cada dos o tres días, oraba durante la noche y servía humildemente a los pobres y a las discípulas que se reunían a su alrededor en número cada vez mayor. Cuando su padre espiritual Pablo fue ordenado obispo de Mylasa, Xenia fue hecha diaconisa.
+
+Santa Xenia inició la construcción de una iglesia cerca de su celda dedicada a San Esteban el Protomártir, y este lugar pronto se convirtió en un monasterio femenino bien organizado. Santa Xenia fue un faro de piedad y humildad; fue benefactora de los necesitados, consuelo de los afligidos y guía de los arrepentidos.
+
+Habiendo vivido una vida de gran pureza, Santa Xenia durmió en paz en el año 450 mientras oraba por sus hermanas. Sus santas reliquias se conservan en la Iglesia de Santa Xenia en Nicea del Pireo, en Grecia, y su cráneo en la Iglesia Metropolitana de San Juan el Precursor en Kavala.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+Hoy en día, escuchamos los padres diciendo: “¡Queremos asegurar la vida de nuestros hijos!”. Por eso, se esfuerzan trabajando demasiado, acumulan riquezas, a menudo injustas, para educar a sus hijos en una carrera que tenga la más grande seguridad física y utilidad material. ¡Eso lo hacen los llamados “cristianos”!. Lo hacen porque su visión de la verdadera vida y seguridad es falsa. He aquí como una verdadera madre cristiana cría a su hijo en el sendero de la vida verdadera: antes que muera, la bienaventurada Efrosinia decía a su hijo, Clemente de Ancira: “¡Hazme el honor, hijo mío, de pararte valientemente ante Cristo y confiésalo con firmeza sin hesitación! Espero, oh corazón mío, que lleve la corona del martirio, en mi honor y para la salvación de muchos. No temas las amenazas, las espadas, las heridas, ni el fuego. Que nada te aparte de Cristo, sino que mirando al cielo, espera de allí la gran retribución, eterna y generosa de Dios. Teme la majestad de Dios, Su Juicio, tiembla ante Sus ojos clarividentes, porque aquellos que Lo niegan a Él, recibirán el castigo del fuego eterno que no se apaga y del gusano que no duerme. Que sea ésta mi recompensa de ti, querido hijo mío, el honor de ser llamada madre de un mártir, por las fatigas del parto y los esfuerzos para educarte. La sangre que recibió de mí, no la guardes, sino que derrámela, para que yo reciba el honor correspondiente. Ofrece tu cuerpo a las torturas para que me alegra ante nuestro Señor, como si yo misma sufriera por Él”.
+
+CONTEMPLACIÓN:
+Contemplar al Señor Jesucristo como Maestro:
+
+1. como Maestro que enseña cómo el hombre tiene que pensar para ser a salvo;
+
+2. como Maestro que enseña, cómo el hombre tiene que hablar para ser a salvo;
+
+3. como Maestro que enseña, cómo el hombre tiene que hacer para ser a salvo.
+
+
+SERMÓN:
+Sobre el Profeta más clarividente
+	
+“¿Por qué piensan mal en sus corazones?” (Mateo 9:4)
+
+Cuando el Señor se dignó dirigir un reproche a los fariseos y a los escribas, éstos no habían matado, ni engañado, ni robado a nadie. Y no solamente eso, sino que hasta aquel momento, no habían ofendido a nadie en palabras. ¿Por qué, pues, el Señor los reprende, cuando ellos no habían cometido ningún pecado, ni en hechos, ni en palabras? Porque tenían malos pensamientos.
+
+Y un pensamiento malo es pecado. Ésta es la buena noticia que Cristo trajo al mundo. En verdad, el pensamiento malo es la fuente de todos los pecados, porque antes de que el hombre dijera o cometiera algún pecado, ya piensa pecaminosamente. El pensamiento es la causa del pecado; todo otro pecado es nada más que pecado en consecuencia. Aquel que quiere exterminar los actos pecaminosos, ha de exterminar primero los pensamientos malos.
+
+Aquel que quiere parar el curso del agua, ha de secar la fuente. Que nadie, pues, se justifique: no soy pecador, porque no maté a nadie, ni robé, ni profané, ni mentí. Mira: ¡nosotros estamos llenos de pensamientos asesinos, saqueadores, profanadores y engañadores! Si no cometimos el pecado de hecho, eso es solamente debido a la misericordia de Dios y a ocasiones externas. Pero, si Dios había aflojado y las circunstancias fueran propicias, hubiéramos cometido todos estos pecados a los que habíamos pensado. La serpiente no sólo es venenosa cuando muerde, sino que también cuando no muerde, porque lleva el veneno en sí misma.
+
+Por ello, no solamente el hecho de pensar mal es pecado, sino que también es la fuente del pecado: el principio, la semilla y la raíz del pecado. He aquí la razón por la que el Señor, clarividente y omnisciente, reprende a aquellos que pensaban mal: “¿Por qué piensan mal en sus corazones?”.
+
+¡Oh Señor, clarividente y omnisciente, ayúdanos a purificar nuestro corazón y nuestra mente de los pensamientos malos, para que todo sea limpio, tanto nuestras palabras como nuestras acciones!.
+
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
