@@ -1291,4 +1291,78 @@ Por ello, no solamente el hecho de pensar mal es pecado, sino que también es la
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-25": [
+		{
+		    name: "Santo Padre Gregorio el Teólogo",
+		    title: "Arzobispo de Constantinopla.",
+		    img: "Img/GregorioelTeólogo.webp",
+		    desc: `Hoy conmemoramos a San Gregorio el Teólogo, uno de los Tres Grandes Jerarcas de la Iglesia junto con San Basilio el Grande y San Juan Crisóstomo.
+
+San Gregorio nació en el año 329 en la aldea capadocia de Arianzo, cerca de Nacianzo (hoy Aksaray, Turquía). Fue educado en Palestina, Alejandría y Atenas. Mientras navegaba hacia Atenas, una violenta tormenta puso en peligro la nave. Gregorio oró para que Dios lo salvara, prometiendo dedicarle su vida, y la tormenta se calmó.
+
+En Atenas formó una amistad fraterna con San Basilio, y tras completar sus estudios vivieron por un tiempo en ascetismo en las ermitas del Ponto. Al regresar a Capadocia, el padre de Gregorio, obispo de Nacianzo, lo ordenó sacerdote en el año 361.
+
+En 372, San Basilio, ya obispo de Cesarea, ordenó a Gregorio obispo de Sásima en Capadocia. Juntos combatieron la furiosa herejía del arrianismo y triunfaron en debates públicos contra los herejes. Tras la muerte de San Basilio en 379, Gregorio pronunció una oración fúnebre por su amado amigo.
+
+Luego San Gregorio fue a Constantinopla. Obligado a servir en una pequeña capilla doméstica, ya que los arrianos habían tomado la mayoría de las iglesias, predicó sus cinco famosos sermones sobre la Santísima Trinidad. En la vigilia de la Santa Pascua del año 379, una turba arriana irrumpió en la iglesia, hiriendo a San Gregorio y matando a otro obispo.
+
+Fue consagrado Arzobispo de Constantinopla por decisión del Segundo Concilio Ecuménico en el año 381. San Gregorio trabajó incansablemente por la fe ortodoxa y, por sus palabras inspiradas por Dios y sus muchos esfuerzos, ayudó a liberar la ciudad de la corrupción de la herejía.
+
+En 382 pronunció su discurso de despedida ante 150 obispos y el emperador Teodosio el Grande, en el cual demostró la divinidad del Hijo. También pidió permiso para retirarse de su sede. Al final de su breve ministerio, no quedaba ni una sola iglesia arriana en Constantinopla.
+
+San Gregorio regresó a Nacianzo, donde reposó en el año 391. Debido a sus profundas obras sobre la teología trinitaria, es uno de solo tres santos distinguidos con el título de “Teólogo”, junto con San Juan el Teólogo y San Simeón el Nuevo Teólogo.`
+		},
+		{
+		    name: "Santa Madre Margarita la Nueva Mártir",
+		    title: "Abadesa",
+		    img: "Img/Margarita.webp",
+		    desc: `Hoy también conmemoramos a la Santa Nueva Mártir Margarita, que sufrió en 1918 bajo el yugo bolchevique.
+
+Santa Margarita nació con el nombre de María alrededor de 1865, y era de origen griego. Poco después de recibir la tonsura monástica con el nombre de Margarita, fue a vivir a la comunidad monástica “Gozo y Consuelo” de los Orlov-Davydov, cerca de Moscú.
+
+Distinguida por su humildad y compromiso con las virtudes ascéticas, en enero de 1917 Margarita fue nombrada abadesa del monasterio femenino de Menzelinsk del Profeta Elías, en la provincia de Ufá. Su ordenación tuvo lugar en presencia de la Gran Princesa Isabel Fiódorovna, quien tenía un afecto especial por la abadesa Margarita.
+
+La inteligente y educada abadesa Margarita era conocida por su estricta vida ascética y el buen orden que introdujo en el monasterio. Fue una guía inspiradora para su rebaño y, bajo su cuidado, las iglesias y escuelas del monasterio prosperaron. Incluso los jardines del monasterio florecieron con frutas, verduras y colmenas.
+
+En septiembre de 1918, durante la sangrienta Revolución Rusa, las monjas huyeron del monasterio por temor a los bolcheviques comunistas que avanzaban. Mientras Margarita se encontraba en el embarcadero preparándose también para partir, tuvo una visión de San Nicolás, quien le preguntó: “¿Por qué estás dejando la corona que te espera?”.
+
+Conmovida por esta visión, la abadesa Margarita regresó al monasterio y contó al sacerdote lo sucedido. Sintiendo que pronto tendría que sufrir por su fe para alcanzar su corona eterna, pidió que prepararan su ataúd con anticipación.
+
+Cuando los bolcheviques irrumpieron en la ciudad de Menzelinsk, la abadesa Margarita fue arrestada como “contrarrevolucionaria” y arrastrada al pórtico de la iglesia durante un oficio. Después de que su petición de comulgar de los Santos Misterios por última vez fuera rechazada, fue fusilada por los bolcheviques.
+
+Inmediatamente después de su servicio fúnebre, las hermanas del monasterio la enterraron detrás del altar de la iglesia donde había sido ejecutada.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN:
+Se engañan a sí mismos aquellos que hablan, confiando en sí mismos, considerando que conocen bien a la gente y que no pueden ser engañados por nadie.
+
+¿Quién otro que Dios, que conoce los secretos del corazón, puede saber qué espíritu está en alguien?. Aún los santos fueron engañados por la gente. Por ejemplo, San Basilio consideraba por mucho tiempo como santo a un herético (hipocrático: no se entiende la palabra) y le defendía contra muchos oponentes, hasta que se convenció al final de la falsedad del herético y se desilusionó amargamente. San Gregorio Teólogo había bautizado a un filósofo, llamado Máximo, y lo amó tanto que le albergaba en su casa y compartía con él su mesa. Pero ese Máximo era malo y astuto como la serpiente. Después de un tiempo, con intrigas y coimas llegó a que alguna gente de Constantinopla le reconociera a él como patriarca en lugar de San Gregorio. Cuando se acabó esa tentación, después de haber causado una gran confusión, algunos reprendieron a Gregorio por su actitud de albergar a su más grande enemigo. El santo respondió: “Nosotros no somos culpables si no discernimos la malicia de una persona. Sólo Dios conoce los secretos del fuero interno del hombre. A nosotros nos ha sido mandado con ley de abrir, con amor paterno, nuestro corazón a cada uno que se acerque a nosotros”. El hombre no malicioso no puede entender fácilmente la malicia del malicioso.
+
+CONTEMPLACIÓN:
+
+Contemplar el Señor Jesucristo como Soberano:
+
+1. como Soberano sobre toda la naturaleza, que Él sujeta y pone a Su servicio;
+
+2. como Soberano sobre los demonios, la enfermedad y la muerte;
+
+3. como Soberano sobre el reino inmortal de los ángeles y los santos.
+
+
+SERMÓN:
+
+“¿Quién dicen los hombres que soy yo?” (Marcos 8:27)	
+
+Hermanos, ya pasaron casi 2000 años de aquel día en el que el Señor Jesucristo hizo esa pregunta a Sus discípulos. Desde entonces hasta hoy se plantea la pregunta a cada generación humana, día y noche, para que todos la respondan. Dicha pregunta es un asunto de vida o muerte; responderla conlleva analógicamente vida o muerte. “Tú eres Cristos, el Hijo de Dios vivo”, respondió el apóstol Pedro. Y esa respuesta fue aprobada y alabada por nuestro Señor Jesucristo.
+
+“¿Quién es Cristo?”, se pregunta la gente hoy. Algunos dicen, junto con los hebreos, que Él era destructor de la Ley y Mesías a su manera. Otros dicen, junto con Pilatos, que ellos no puedan tener la certeza sobre la identidad de aquel hombre. Terceros dicen, junto con los apóstoles, que Él es el Cristo, el Hijo de Dios vivo, el Salvador y el Redentor del género humano del pecado y la muerte, el Resucitado y quien resucita, el Vivo y el Vivificador. Nosotros, que hemos sido bautizados en el nombre de la Santa Trinidad, todos estamos de acuerdo con los apóstoles y con la Santa Iglesia Apostólica, la que al unísono, así confiesa al Señor Jesucristo.
+
+Oh Señor, Hijo unigénito de Dios, ayúdanos cada día de nuestra vida a creer en Ti en nuestros corazones y confesarte con nuestra boca como Dios y Salvador nuestro, “como el poder Divino y la sabiduría Divina” (I Corintios 1:24).
+
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
