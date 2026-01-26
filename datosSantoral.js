@@ -1365,4 +1365,62 @@ Oh Señor, Hijo unigénito de Dios, ayúdanos cada día de nuestra vida a creer 
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-26": [
+		{
+		    name: "Santos Venerables Xenofón y María con sus hijos Juan y Arcadio",
+		    title: "Justos y Monjes.",
+		    img: "Img/XenofónMaría.webp",
+		    desc: `Eran distinguidos y ricos ciudadanos de Constantinopla. Xenofón y María vivían una vida agradable a Dios y dedicaban toda su energía a la educación cristiana de sus hijos. Cuando sus hijos llegaron a la mayoría de edad, fueron enviados a estudiar a Beirut, pero una tormenta hundió su barco. Por la providencia divina, Juan y Arcadio se salvaron. Las olas arrojaron a ambos a la costa, pero en lugares distintos, por lo que cada uno pensaba que su hermano había muerto. Debido a la tristeza que sentían por la pérdida del otro, fueron tonsurados como monjes en dos monasterios distintos.
+
+Después de dos años, sus afligidos padres fueron a Jerusalén para peregrinar a los santos lugares. Allí, gracias a la clarividencia de un padre espiritual, se encontraron primero los hermanos entre sí, y luego los padres con sus hijos. Por gratitud a Dios, Xenofón y María repartieron todos sus bienes a los pobres y ambos abrazaron la vida monástica.
+
+La historia conmovedora de estas santas almas muestra claramente cómo el Señor dirige maravillosamente el destino de aquellos que creen en Él; cómo permite en sus vidas el dolor y la tristeza para que después, fortalecidos en la fe, los conduzca a una mayor alegría. Vivieron y reposaron en la paz del Señor en el siglo V.`
+		},
+		{
+		    name: "San Simeón el Anciano",
+		    title: "Venerable Padre del Desierto",
+		    img: "Img/	.webp",
+		    desc: `Era compañero y amigo de san Paladio. Desde temprana edad y hasta su muerte, vivió en ascesis en una cueva. Fundó dos monasterios y reposó en la paz del Señor en el año 390. Es llamado “el Anciano” para distinguirlo de san Simeón el Estilita, que vivió una vida ascética un poco más tarde.`
+		},
+		{
+		    name: "San David Rey de Georgia",
+		    title: "Piadoso Gobernante y Defensor de la Ortodoxia",
+		    img: "Img/DavidGeorgia.webp",
+		    desc: `Restauró y fortaleció a Georgia como Estado. Con gran celo por la fe cristiana construyó muchos templos nuevos en Georgia y restauró otros antiguos. Es considerado como el regenerador de la fe ortodoxa en Georgia.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN:
+El tesoro más grande de un Estado es la gente santa y buena que vive en él. En comparación con esta riqueza, toda otra riqueza es como nada. Los devotos gobernantes cristianos consideraban a la gente santa en su Estado como la bendición más grande de Dios. El emperador san Constantino el Grande decía: “Doy gracias a nuestro Señor Jesucristo porque en mis días existen tres luces divinas: el venerable Antonio abad, el abad Helías y el abad Eugenio”.
+
+Antes de la batalla en Kulikovo, crucial para Rusia, el príncipe san Demetrio Donskói, junto a sus principales asistentes y duques, fue al monasterio de la Trinidad en Radonezh para encontrar al venerable san Sergio y pedirle sus oraciones. Aunque el príncipe había preparado a su ejército para la batalla libertadora contra los tártaros, de alguna manera tuvo mayor esperanza en la oración de un santo hombre que en un gran ejército con muchas armas.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como Profeta:
+
+1. Como Profeta que predijo claramente a algunos de Sus discípulos lo que les pasaría en el futuro;
+
+2. Como Profeta que predijo el futuro de Jerusalén y de otras ciudades, así como el destino del pueblo hebreo y de la Iglesia de Dios;
+
+3. Como Profeta que predijo claramente el fin del mundo y Su segunda venida.
+
+
+SERMÓN: Sobre la confusión de los oscurecidos por el pecado
+
+“¿Quién es éste, que también perdona pecados?” (Lucas 7:49)
+
+Así preguntaban los pecadores no arrepentidos: “¿Quién es éste?”. Éste es Quien más siente el aguijón de los pecados humanos, sobre Quien caen como golpes todos los pecados humanos. Éste es Quien, una vez en el paraíso, miró al hombre como ser humano sin pecado. Éste es Quien creó al hombre sin pecado y Él mismo está libre de pecado desde siempre y para siempre.
+
+Sólo Él puede perdonar los pecados de los hombres. El hombre fuerte busca venganza por represalia, mientras que el hombre débil busca venganza por odio. Si puedes devolver el golpe recibido de otro y no lo haces, eso no significa que hayas perdonado hasta arrancar la raíz de la ira de tu corazón. Grande es el único Señor, que puede castigar y perdonar. Grande es Aquel en Su justicia porque castiga al pecador no arrepentido. Grande es Aquel en Su misericordia porque perdona al pecador arrepentido.
+
+¡Si la gente conociera el poder de la absolución de los pecados! He aquí que cuando los pecados del ciego fueron perdonados, se abrieron sus ojos; en cuanto al sordo, se abrieron sus oídos; el paralítico se puso de pie; la mujer con flujo de sangre fue curada; el endemoniado recobró el juicio; el poseído por los demonios se libró de ellos; la prostituta quedó purificada; y el muerto volvió a la vida.
+
+¡Cuán terrible es la cadena del pecado! ¡Cuán graves son las cadenas de muchos pecados! Estas cadenas no se pueden soltar con manos pecadoras. Pero se deshacen y se sueltan por sí solas cuando las tocan las manos del purísimo Señor, cuando las alcanza la voz del Puro, cuando las mira incluso con sólo Su pensamiento.
+
+“¿Quién es éste que perdona los pecados?”. Oh pecadores, éste es el Señor purísimo, y debido a esta pureza, es el Todopoderoso. Oh Señor purísimo y todopoderoso, líbranos de las cadenas del pecado. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
