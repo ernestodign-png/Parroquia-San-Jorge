@@ -1423,4 +1423,71 @@ Sólo Él puede perdonar los pecados de los hombres. El hombre fuerte busca veng
 “¿Quién es éste que perdona los pecados?”. Oh pecadores, éste es el Señor purísimo, y debido a esta pureza, es el Todopoderoso. Oh Señor purísimo y todopoderoso, líbranos de las cadenas del pecado. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-26": [
+		{
+		    name: "San Juan Crisóstomo",
+		    title: "Patriarca Confesor en el Traslado de sus Reliquias.",
+		    img: "Img/CrisóstomoTraslado.webp",
+		    desc: `La memoria de esta gran lumbrera de la Iglesia se celebra el 13 de noviembre (su reposo) y el 30 de enero (con los Tres Jerarcas), pero hoy conmemoramos el traslado de sus honorables reliquias desde Comana, donde murió en el exilio, a Constantinopla, donde había servido como Patriarca.
+
+Treinta años después de su muerte, el patriarca Próculo pronunció una homilía en honor de su padre espiritual y maestro. Esta encendió tanto el amor del pueblo y del emperador Teodosio II hacia el santo, que todos desearon que sus reliquias fueran traídas de vuelta a la capital imperial.
+
+Se relata que el sarcófago con sus reliquias no podía moverse, hasta que el emperador escribió una carta pidiendo perdón al santo por la injusticia cometida contra él, ya que la emperatriz Eudoxia había sido responsable de su destierro. Cuando la carta fue colocada sobre el sarcófago, éste se volvió ligero. Durante el traslado, muchos enfermos que tocaron el féretro recibieron sanación.
+
+Al llegar a Constantinopla, el emperador pidió nuevamente perdón en nombre de su madre. Cuando las reliquias fueron llevadas a la Iglesia de los Santos Apóstoles y colocadas en el trono patriarcal, el pueblo oyó una voz proveniente del santo que decía: «¡Paz a todos!»
+
+El traslado de las reliquias de San Juan Crisóstomo ocurrió en el año 438.`
+		},
+		{
+		    name: "San Tito de las Cuevas de Kiev",
+		    title: "Guerrero Arrepentido y Monje de Lágrimas",
+		    img: "Img/TitoKiev.webp",
+		    desc: `San Tito fue soldado. Tras recibir una herida grave en la cabeza durante una batalla, abandonó el mundo y se retiró al Monasterio de las Cuevas de Kiev, donde recibió curación y fue tonsurado monje.
+
+Vivió el resto de su vida en profundo arrepentimiento por sus pecados pasados, en constante oración y lágrimas. Antes de su muerte, recibió por revelación celestial la certeza de que sus pecados habían sido perdonados.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: El Amor Está por Encima del Ayuno
+
+El ayuno es grande, pero el amor es mayor. Por el ayuno se expulsan demonios, se dominan las pasiones, se pacifica el cuerpo y se humilla el espíritu; pero por el amor, Dios habita en el hombre. El Señor enseñó que el ayuno es necesario, pero proclamó el amor como el mandamiento supremo.
+
+En el siglo XIX gobernaba en Ohrid Jeladin Bey, un renegado del sultán que actuaba como gobernador independiente. En ese tiempo, el metropolita Calínico guiaba la Iglesia local. Aunque pertenecían a religiones distintas, ambos mantenían una relación de respeto.
+
+En cierta ocasión, Jeladin Bey condenó a 25 cristianos a ser ahorcados, y la ejecución estaba fijada para el Viernes Santo. El metropolita, profundamente afligido, fue a suplicarle clemencia. Mientras conversaban, llegó la hora de la comida y el Bey lo invitó a su mesa, donde se servía carne de cordero. El metropolita se excusó por el ayuno. Entonces el Bey le dijo:
+
+«Elige: o comes conmigo y estos 25 hombres quedan libres, o mantienes tu ayuno y ellos serán ahorcados».
+
+El metropolita se persignó, se sentó a la mesa y comió. Y los 25 hombres fueron liberados.
+
+Así, el amor cumplió la ley más alta.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como Sumo Sacerdote:
+
+1. Que ofrece a Dios como sacrificio toda Su vida en la tierra;
+
+2. Que ofrece como sacrificio cada palabra, cada pensamiento, cada obra y cada lágrima;
+
+3. Que finalmente se ofrece a Sí mismo como Hombre a Dios por la salvación del hombre.
+
+
+SERMÓN: Sobre la confusión de los de poca fe
+
+«¿Qué hombre es éste, que aun los vientos y el mar le obedecen?» (Mateo 8:27)
+
+Así se preguntaban los apóstoles, sin conocer aún plenamente al Señor, al verlo calmar el mar y los vientos. ¿Quién es Él? Es Aquel que creó los vientos y el mar. ¿Qué tiene de extraño que la creación obedezca a su Creador?
+
+Hermanos, Éste es el mismo que levantó los vientos y luego los calmó; agitó el mar y luego lo serenó. Como hombre, se puso ante los hombres y reprendió a la tempestad, para librarlos del error de creer que la naturaleza actúa por casualidad o por poderes ciegos. Mostró que todo está bajo la providencia sabia y buena del Creador.
+
+«¿Quién es Éste?», preguntaban. Éste es el Hijo de Dios sin pecado, cuyo Nombre sería predicado por todo el mundo, y por el cual los apóstoles serían perseguidos y martirizados.
+
+Oh santos apóstoles, que preguntaron y luego conocieron la Verdad, rogad por nosotros para que también seamos iluminados.
+
+Oh Señor omnisciente y todopoderoso, calma los vientos del pecado y somete la tormenta de nuestras pasiones. A Ti sea la gloria por los siglos de los siglos. Amén.`
+		}
+		],
 };
