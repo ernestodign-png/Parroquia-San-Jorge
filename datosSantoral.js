@@ -1423,7 +1423,7 @@ Sólo Él puede perdonar los pecados de los hombres. El hombre fuerte busca veng
 “¿Quién es éste que perdona los pecados?”. Oh pecadores, éste es el Señor purísimo, y debido a esta pureza, es el Todopoderoso. Oh Señor purísimo y todopoderoso, líbranos de las cadenas del pecado. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
-		"01-26": [
+		"01-27": [
 		{
 		    name: "San Juan Crisóstomo",
 		    title: "Patriarca Confesor en el Traslado de sus Reliquias.",
