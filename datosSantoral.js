@@ -1490,4 +1490,80 @@ Oh santos apóstoles, que preguntaron y luego conocieron la Verdad, rogad por no
 Oh Señor omnisciente y todopoderoso, calma los vientos del pecado y somete la tormenta de nuestras pasiones. A Ti sea la gloria por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-28": [
+		{
+		    name: "San Efrén el Sirio",
+		    title: "Diácono, Padre de la Iglesia y Arpa del Espíritu Santo.",
+		    img: "Img/EfrénSirio.webp",
+		    desc: `Nació en Siria, en la ciudad de Nisibis, alrededor del año 306, en tiempos del emperador Constantino el Grande. En su juventud fue impetuoso, colérico e inestable, dudando incluso de la providencia de Dios. Pero la gracia divina tocó su corazón y en él comenzó a arder el amor por nuestro Señor Jesucristo, iniciando un profundo camino de arrepentimiento.
+
+Ingresó en la vida monástica y se convirtió en discípulo de San Jacobo de Nisibis. Bajo su dirección espiritual fue transformado en un monje lleno de obediencia, humildad y sumisión a la voluntad de Dios. San Jacobo lo ordenó diácono y le encomendó la predicación. También lo llevó al Primer Concilio Ecuménico de Nicea en el año 325.
+
+Cuando los persas tomaron Nisibis en 363, San Efrén se trasladó a Edesa, en Mesopotamia. Allí vivió ascéticamente en una celda y dirigió la Escuela de Edesa. Dotado de una palabra ardiente y profunda sabiduría, enseñaba al pueblo, exhortaba al arrepentimiento, defendía la fe ortodoxa y combatía la herejía arriana.
+
+De su lengua fluía la sabiduría como un arroyo de miel, y de sus ojos corrían incesantemente lágrimas de compunción. Trabajador como una abeja, escribía sin cesar y también instruía oralmente a los monjes y a los fieles. Se conservan más de cuatrocientos himnos suyos. Entre sus obras más conocidas están los Himnos sobre el Paraíso, comentarios a los libros de Moisés y, sobre todo, la oración penitencial que la Iglesia reza durante la Gran Cuaresma:
+“Señor y Soberano de mi vida, líbrame del espíritu de ociosidad, desaliento, afán de dominio y palabras vanas. Y concédeme, a mí, tu siervo pecador, espíritu de castidad, humildad, paciencia y amor. Sí, Señor y Rey, concédeme ver mis pecados y no juzgar a mi hermano, porque Tú eres bendito por los siglos de los siglos. Amén.”
+
+Visitó a los grandes ascetas de Egipto y también a San Basilio el Grande en Cesarea. San Basilio quiso ordenarlo sacerdote e incluso elevarlo al episcopado, pero por humildad se consideró indigno. En otra ocasión, cuando quisieron ordenarlo obispo por la fuerza, fingió locura y huyó por la ciudad de Edesa, y así lo dejaron en paz.
+
+Durante una gran hambruna en Edesa, movió a los ricos a socorrer a los necesitados y con las limosnas organizó asistencia para pobres y enfermos. Finalmente se retiró a una cueva, donde descansó en paz alrededor del año 373. La Iglesia lo venera como maestro del arrepentimiento y arpa del Espíritu Santo, porque sus himnos siguen ablandando corazones endurecidos por el pecado.`
+		},
+		{
+		    name: "San Isaac el Sirio",
+		    title: "Obispo de Nínive y Padre de la Oración del Corazón",
+		    img: "Img/IsaacSirio.webp",
+		    desc: `Nació en la región de Nínive. Desde joven abrazó la vida ascética en el monasterio de San Mateo, cerca de Nínive. Alcanzó gran fama por su santidad y sabiduría espiritual, y fue elegido obispo de Nínive. Sin embargo, después de apenas cinco meses de ministerio episcopal, se retiró discretamente al desierto, al monasterio de Rabban Sabur, buscando el silencio y la oración pura.
+
+Es autor de numerosas homilías sobre la vida espiritual y ascética, de las cuales se conservan cerca de cien. Su enseñanza brota de la experiencia directa de la oración profunda, la compunción y la misericordia. Fue un guía incomparable de las almas y un profundo conocedor del corazón humano. Incluso grandes santos de su tiempo, como San Simeón del Monte Admirable, acudían a él en busca de consejo. Descansó en paz a fines del siglo VII.`
+		},
+		{
+		    name: "San Paladio el Ermitaño",
+		    title: "Venerable Asceta y Taumaturgo",
+		    img: "Img/general.webp",
+		    desc: `Fue un gran asceta y obrador de milagros. En cierta ocasión hallaron el cadáver de un hombre rico frente a su celda; unos bandidos lo habían robado y asesinado. Paladio fue acusado injustamente y llevado ante el juez. Para demostrar su inocencia, oró con fe a Dios y el muerto volvió a la vida, revelando la verdad. Después de este milagro, su santidad fue aún más reconocida. Descansó en el Señor en el siglo IV.`
+		},
+		{
+		    name: "San Efrén de las Grutas de Kiev",
+		    title: "Venerable Monje y Celador de las Reliquias de San Nicolás",
+		    img: "Img/EfrénKiev.webp",
+		    desc: `Monje de las Grutas de Kiev, reposó en el año 1096. Instituyó la conmemoración del traslado de las reliquias de San Nicolás desde Mira de Licia hasta Bari, en Italia, fiesta que se celebra el 9 de mayo. Con esto afirmó la veneración ortodoxa a los santos y a sus reliquias como testimonio vivo de la gracia de Dios que actúa en los cuerpos santificados.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+La ausencia de envidia entre los santos es un fenómeno asombroso y maravilloso. Los santos no solo no permitían que la envidia entrara en sus corazones, sino que se esforzaban con todas sus fuerzas por elogiar a sus hermanos y menospreciarse a sí mismos. Se cuenta que cuando San Hilarión de Palestina visitó a San Antonio en Egipto, San Antonio exclamó: “¡Bienvenido, estrella de la mañana!”. Entonces San Hilarión le respondió: “Paz para ti, columna luminosa que sostienes el universo”.
+
+También, cuando elogiaron a San Macario por ser un monje ejemplar, respondió: “Perdónenme, hermanos, no soy monje, pero he visto a monjes”. Asimismo, cuando algunos alababan a San Siseo diciendo que había alcanzado la medida de San Antonio, él contestó: “Si yo tuviera aunque fuera uno de los pensamientos que tiene Antonio, me habría convertido enteramente en fuego”.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como Siervo:
+
+1. como Siervo que voluntariamente descendió entre los hombres para servir a todos;
+
+2. como Siervo que jamás rechazó a nadie que le pidiera ayuda;
+
+3. como Siervo que, invisible y silenciosamente, sirve al mundo entero, hoy como siempre.
+
+
+SERMÓN: Sobre el Hombre a quien nadie conoce
+
+“¿Tú quién eres? Entonces Jesús les dijo: Lo que desde el principio os he dicho” (Juan 8:25)
+
+El Señor Jesucristo es el principio de la creación, el principio de la renovación, el principio de la salvación, el principio de la resurrección y de la gloria inmortal. Dondequiera que el mal deba ser destruido, Él es el principio. Sin Él, es imposible. Dondequiera que el bien deba ser sembrado, Él es el principio. Sin Él, es imposible.
+
+Si alguien quiere erradicar la discordia y la malicia en la familia, en el pueblo, en la ciudad o en el mundo entero, sin Él no se puede. Con Él se debe comenzar. Si alguien quiere sembrar la buena voluntad, la paz, el amor y la concordia, sin Él no se puede. Él es el principio.
+
+¿Por qué sin Cristo no se puede destruir el mal ni sembrar el bien? Porque todo mal proviene del pecado, y nadie excepto Él puede perdonar los pecados. Cuando Él, y solo Él, perdona el pecado, entonces el mal es arrancado de raíz. Además, nada verdaderamente bueno puede sembrarse sin Él, porque en Él está el tesoro de todo bien, la semilla de todo bien. Él es el único Sembrador del bien en el campo del mundo.
+
+El apóstol Pablo, que comprendió esto mejor que nosotros, dice: “Todo lo puedo en Aquel que me fortalece” (Filipenses 4:13). Sin Jesucristo, ¿quién puede empezar a curarse a sí mismo y a los demás del mal, o sembrar el bien en sí mismo y en los demás? Nadie. Absolutamente nadie.
+
+Por eso, hermanos, si estamos decididos a destruir el mal en nosotros y en los demás, y en lugar del mal sembrar el bien, debemos comenzar por el Principio, es decir, por el Vencedor del mal y el Sembrador del bien: nuestro Señor Jesucristo.
+
+Oh Señor Jesucristo, sé para nosotros el principio en toda lucha contra el mal y en el inicio de toda buena obra. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
