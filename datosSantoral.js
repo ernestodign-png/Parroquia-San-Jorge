@@ -1566,4 +1566,59 @@ Por eso, hermanos, si estamos decididos a destruir el mal en nosotros y en los d
 Oh Señor Jesucristo, sé para nosotros el principio en toda lucha contra el mal y en el inicio de toda buena obra. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-30": [
+		{
+		    name: "Conmemoración de los Tres Santos Jerarcas",
+		    title: "Luminares de la Trinidad y Maestros Ecuménicos.",
+		    img: "Img/TresSantosJerarcas.webp",
+		    desc: `Hoy celebramos la Sinaxis de los Tres Santos Padres, Grandes Jerarcas y Maestros Ecuménicos: San Gregorio el Teólogo (25 de enero), San Juan Crisóstomo (27 de enero) y San Basilio el Grande (1 de enero). Son venerados como patronos de los maestros, ya que se encuentran entre los más grandes educadores y teólogos de la historia de la Iglesia.
+
+Esta festividad, que constituye una celebración conjunta de los Tres Santos Padres, fue establecida en el siglo XI durante el reinado del emperador Alejo Comneno. En ese tiempo surgieron disputas en Constantinopla acerca de cuál de los tres padres era el mayor. Sus partidarios se dividieron en basilianos, gregorianos y juanistas.
+
+Los basilianos sostenían que Basilio era el más grande por su defensa de la fe nicena contra los herejes y por su ejemplo monástico. Los juanistas respondían que Juan Crisóstomo, el “Boca de Oro”, era incomparable tanto por la elocuencia de sus sermones como por su capacidad para llevar a los pecadores al arrepentimiento. Un tercer grupo, los gregorianos, afirmaba que Gregorio, íntimo amigo de Basilio, era superior por su profunda influencia en la teología trinitaria.
+
+Pero para provecho de la Iglesia y gloria de estos tres grandes santos, el debate fue resuelto por la Providencia divina.
+
+Durante este tiempo de división, el obispo San Juan de Evjaita tuvo una visión en sueños. Primero se le aparecieron cada uno de los tres santos por separado, llenos de gloria y alegría. Luego se le aparecieron los tres juntos en perfecta unidad y le dijeron:
+
+«Como ves, somos uno en Dios y no hay ninguna contradicción entre nosotros; no hay ni un primero ni un segundo entre nosotros. Levántate, pues, y di a los que disputan que no se dividan en partidos por causa nuestra. Porque tanto en vida como después de la muerte no tuvimos otro deseo que llevar paz y unidad a todos».
+
+Como signo y expresión de su unidad, le pidieron que estableciera una fiesta común para los tres. También le indicaron que compusiera un oficio conjunto en su honor y que fijara la fecha de su celebración. Después de esta maravillosa visión, la disputa cesó, los grupos enfrentados se reconciliaron, y se estableció el 30 de enero como el día de la conmemoración de los Tres Jerarcas.
+
+El pueblo griego no sólo considera esta fecha como una gran fiesta eclesiástica, sino también como la principal fiesta escolar nacional, honrando así a los Tres Jerarcas como lumbreras del saber y maestros universales de la fe ortodoxa.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+He aquí el ejemplo de los emperadores que pedían consejos a los santos, y el ejemplo de los santos que evitaban la soberbia y la riqueza y aconsejaban a los emperadores. El emperador ortodoxo Pedro de Bulgaria subió al monte Rilo, conducido por un insaciable deseo de ver a San Juan de Rila y beneficiarse de su consejo. Y el emperador envió gente para que le anunciaran al santo su venida, sin embargo, el santo no quiso encontrarse con el emperador. Triste por ello, el emperador reenvió gente con algunos comestibles y mucho oro, con el ruego de que el santo le escribiera algunos consejos. San Juan aceptó los comestibles pero devolvió el oro, absteniéndose de tocarlo, y le respondió al emperador: “Si quieres el reino celestial, sé benévolo como el Padre celestial. No confíes en la injusticia y no seas codicioso; sé manso, silencioso y accesible a todos. No recibas alabanzas de tus nobles. Que tu túnica púrpura brille con virtudes. Que el recuerdo de la muerte no se aleje de tu alma. Sé humilde ante los pies de la madre Iglesia; inclina tu cabeza ante sus primeros jerarcas para que el Rey de los reyes, al ver tu sinceridad, te retribuya con bienes que nunca entraron en el corazón de un hombre”. Al recibir esta carta, el emperador la besó y no cesó de leerla.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como Amigo de los niños:
+
+1. como Amigo de los ángeles en el cielo, que como los niños, son inocentes, obedientes y sin pasiones;
+
+2. como Amigo de los niños pequeños en la tierra, que simple y fácilmente creen en Dios;
+
+3. como Amigo de los santos, que con el trabajo y la gracia, se purifican del pecado y llegan a ser inocentes como los niños.
+
+
+SERMÓN: Sobre cómo la gente ha de ser como los niños para que sean hijos de Dios
+
+“De cierto les digo, que si no se vuelven y se hacen como niños, no entrarán en el reino de los cielos” (Mateo 18:3)
+
+Así habla el Señor y Su palabra es santa y verdadera. ¿Cuáles son las ventajas que tienen los niños sobre los adultos? Tienen tres ventajas: en la fe, en la obediencia, y en el perdón. El niño pregunta a sus padres de todo, y cualquiera que sean las respuestas de los padres, él cree todo. El niño es obediente a sus padres y fácilmente somete su voluntad a la voluntad de ellos. El niño no es malicioso, aunque se enoja pronto, pero también perdona rápidamente. Estas tres cosas pide el Señor a toda la gente, es decir: la fe, la obediencia y el perdón. Él pide que la gente crea incondicionalmente en Él, tal como el niño cree en sus padres; que sean incondicionalmente obedientes a Él, tal como el niño es obediente a sus padres; y que sean tolerantes con el otro; que no recuerden el mal y que no devuelvan el mal con el mal.
+
+La fe, la obediencia y el perdón, son las virtudes mayores del alma de un niño. A eso se agregan la pureza y la alegría. El niño no es codicioso; ni lujurioso; ni busca la vanagloria. Posee un corazón no contaminado por el vicio y una alegría intacta por las preocupaciones.
+
+Oh hermanos, ¿quién nos puede convertir otra vez en niños? Nadie, excepto nuestro Señor Jesucristo. Él puede convertirnos para que volvamos a ser niños nuevamente y ayudarnos a renacer, y eso con Su ejemplo, como así también con Su enseñanza y el poder de Su Espíritu Santo.
+
+Oh Señor Jesucristo, perfecto en la obediencia y en la mansedumbre, el eterno Niño del Padre celestial, ayúdanos a ser como niños en la fe en Ti, la obediencia a Ti y el perdón al prójimo.
+
+A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
