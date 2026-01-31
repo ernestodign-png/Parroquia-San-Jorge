@@ -1621,4 +1621,61 @@ Oh Señor Jesucristo, perfecto en la obediencia y en la mansedumbre, el eterno N
 A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"01-31": [
+		{
+		    name: "Santos Ciro y Juan",
+		    title: "Santos Mártires, Médicos Anárgiros y Grandes Taumaturgos.",
+		    img: "Img/CiroJuan.webp",
+		    desc: `Hoy la Iglesia conmemora a los santos taumaturgos y anárgiros Ciro y Juan, que no eran hermanos según la carne, sino según el espíritu.
+
+San Ciro era cristiano y un médico muy conocido de la ciudad de Alejandría, en Egipto. Atendía a los enfermos sin cobrar nada y sanaba no solo sus dolencias corporales, sino también sus enfermedades espirituales. Solía decir: «Quien quiera evitar la enfermedad, que se aparte del pecado, porque el pecado es muchas veces la causa de las dolencias del cuerpo». Mientras predicaba el Evangelio, convirtió a muchos paganos a Cristo.
+
+Durante la persecución del emperador Diocleciano, Ciro fue denunciado como cristiano ante el gobernador. Entonces se retiró a Arabia, donde recibió la tonsura monástica. Allí continuó sanando a las personas por medio de la oración, y Dios le concedió la gracia de curar toda enfermedad con solo hacer la señal de la Cruz.
+
+En ese tiempo vivía en Edesa, en Mesopotamia, San Juan, que era soldado y cristiano piadoso. Cuando estalló la persecución, abandonó su rango militar y partió en peregrinación a Jerusalén. Al oír hablar de los milagros de San Ciro, fue primero a Alejandría y luego a Arabia para buscarlo. Al encontrar al santo médico, permaneció con él como su fiel compañero, y juntos llevaron una vida ascética y espiritual.
+
+Supieron entonces del arresto de una cristiana llamada Atanasia y de sus tres jóvenes hijas, Teoctiste, Teodota y Eudoxia. Temiendo que, bajo las torturas, pudieran ser obligadas a renegar de Cristo, Ciro y Juan se apresuraron a la prisión en Canopo, cerca de Alejandría, para fortalecerlas y animarlas a permanecer firmes en la confesión de la fe.
+
+Con sus sabias palabras, dieron gran valentía a la madre y a las hijas para soportar los tormentos. Al enterarse de esto, el gobernador mandó arrestar también a Ciro y Juan. Viendo su valentía y firmeza en la fe, hizo traer a Atanasia y a sus hijas para que presenciaran las torturas de los dos santos.
+
+El tirano no escatimó ningún tipo de tormento contra los santos mártires. Sin embargo, las mujeres no se atemorizaron al ver los sufrimientos de Ciro y Juan, sino que continuaron confesando a Cristo con valentía. Finalmente, después de crueles tormentos, tanto los santos Ciro y Juan como la santa Atanasia y sus hijas fueron decapitados por su fe en el año 292.
+
+Desde entonces, innumerables milagros se han obrado por la intercesión de estos santos anárgiros, que son invocados especialmente por los enfermos y por quienes buscan sanación del alma y del cuerpo.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+Es cierto que los santos padres alaban la vida monástica como vida angelical, y que muchos grandes santos alcanzaron la perfección en desiertos inhóspitos. Sin embargo, la Iglesia Ortodoxa no recomienda la tonsura monástica a todos los fieles.
+
+«No todos los que estuvieron en el desierto se salvaron, ni todos los que vivieron en el mundo se perdieron», dijo un santo. A un hombre de ciudad que deseaba ir al monasterio sin verdadera vocación monástica, San Nífon le dijo:
+
+«Hijo mío, el lugar no salva ni condena al hombre, sino sus obras. Quien no cumple los mandamientos del Señor no se beneficia por estar en un lugar sagrado ni por tener un rango sagrado. El rey Saúl vivía en lujo real y pereció; el rey David vivía en el mismo lujo y recibió la corona. Lot vivía entre los sodomitas y se salvó; Judas estuvo entre los apóstoles y se perdió. Quien dice que no es posible salvarse con esposa e hijos se engaña. Abraham tenía esposa, hijos, siervos, oro y plata, y sin embargo fue llamado amigo de Dios. ¡Cuántos en el desierto se salvaron, y cuántos en el mundo también! Sé piadoso y amante de los hombres, y te salvarás».
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como el Anfitrión en Su casa:
+
+1. cómo camina por el mundo con autoridad, dominando la naturaleza y expulsando demonios;
+
+2. cómo trata con cada persona como un dueño atento con los de su casa;
+
+3. cómo se comporta en el templo como Dueño de Su casa, purificándolo de los mercaderes.
+
+
+SERMÓN: Contra la mediocridad y sobre el cumplimiento de toda la ley de Dios
+
+«Esto era necesario hacer, sin dejar de hacer aquello» (Lucas 11:42)
+
+Aquí se habla de la ley y de la misericordia. En el alma de los fariseos y de los sectarios no hay lugar para ambas cosas. Discuten cuál es más importante y descuidan la otra. Los fariseos cumplían rigurosamente la ley, pero abandonaban la misericordia y el amor al prójimo. Los sectarios se jactaban de la justicia de Dios, pero despreciaban las prescripciones de la Iglesia.
+
+La Ortodoxia representa la plenitud de la fe. Manda hacer una cosa sin dejar la otra. La Iglesia cuida las prescripciones externas como quien camina entre vasijas frágiles. Pero cuida aún más la justicia y la misericordia de Dios, como quien valora las vasijas por el tesoro que contienen. Los recipientes vacíos son como los formalismos sin espíritu. Pero derramar la bebida fuera del recipiente también la desperdicia.
+
+En la Ortodoxia no hay unilateralidad, como tampoco la hubo en Cristo. A Juan Bautista, lleno de justicia y misericordia, el Señor habla del cumplimiento de la ley. A los fariseos, vacíos de misericordia, les dice: «Misericordia quiero y no sacrificios» (Oseas 6:6). Lo más importante debe hacerse, pero lo menos importante no es inútil. En el cuerpo humano hay órganos más y menos importantes, pero todos son necesarios.
+
+Oh Señor que todo lo abarcas, no permitas que seamos unilaterales, sino ayúdanos a cumplir Tu voluntad. A Ti sea la gloria por los siglos de los siglos. Amén.`
+		}
+		],
 };
