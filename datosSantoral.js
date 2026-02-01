@@ -1678,4 +1678,75 @@ En la Ortodoxia no hay unilateralidad, como tampoco la hubo en Cristo. A Juan Ba
 Oh Señor que todo lo abarcas, no permitas que seamos unilaterales, sino ayúdanos a cumplir Tu voluntad. A Ti sea la gloria por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-01": [
+		{
+		    name: "San Trifón",
+		    title: "El Mártir Anárgiro y Protector de los Campos.",
+		    img: "Img/Trifón.webp",
+		    desc: `Hoy conmemoramos al Santo Mártir San Trifón. Es venerado como el santo patrono de los viticultores y viñadores, y es invocado por agricultores y jardineros para proteger sus cultivos de las plagas.
+
+San Trifón era originario de la aldea de Lampsakos en Frigia (actual Lapseki, Turquía). Desde su juventud trabajó como cuidador de gansos para ganarse la vida. Mientras atendía diligentemente esta humilde ocupación, también estudiaba las Sagradas Escrituras y cumplía sus deberes religiosos con gran celo.
+
+Desde temprana edad, el Señor le concedió el don de obrar milagros. Mediante sus oraciones, una vez salvó a los habitantes de la ciudad de la inanición al repeler una plaga de langostas que devoraba el grano y devastaba los campos y viñedos locales.
+
+También tenía la capacidad de expulsar demonios y sanar enfermedades corporales y espirituales. Como Sanador Anárgiro (que no acepta pago), San Trifón no buscaba retribución alguna de aquellos a quienes sanaba, pidiendo únicamente que depositaran su fe en nuestro Señor Jesucristo, por Cuyo poder eran sanados.
+
+La hija del emperador romano Gordiano (238-244) fue una vez poseída por un demonio feroz, al cual ninguno de los sacerdotes paganos o magos pudo expulsar. Al enterarse de los milagros realizados por Trifón, Gordiano lo buscó por todo el imperio y finalmente encontró al joven de 17 años mientras cuidaba pacíficamente a sus gansos.
+
+Gordiano llevó a Trifón a Roma y, por las oraciones del Santo, su hija fue purificada del espíritu maligno. Aunque Gordiano deseaba recompensarlo con honores y regalos, San Trifón los rechazó todos y regresó humildemente a su hogar.
+
+Cuando el emperador Decio (249–251) asumió el trono imperial y comenzó su persecución contra los cristianos, San Trifón fue arrestado y llevado ante Aquilino, el Prefecto de Oriente en Nicea. Por confesar audazmente su fe en Cristo y negarse a ofrecer sacrificios a los ídolos, fue sometido a torturas despiadadas.
+
+Fue golpeado con garrotes, desgarrado con garfios de hierro, arrastrado por la ciudad atado a un caballo, quemado con fuego y le clavaron clavos de hierro en los pies. Soportando cada tormento con valentía y fe inquebrantable, San Trifón recibió finalmente su corona eterna mediante la decapitación en el año 250 d.C.`
+		},
+		{
+		    name: "Domingo del Publicano y el Fariseo",
+		    title: "El Umbral de la Humildad",
+		    img: "Img/PublicanoFariseo.webp",
+		    desc: `La lectura de hoy del Evangelio de Lucas recuerda la parábola del Publicano y el Fariseo narrada por nuestro Señor Jesucristo. Esta parábola nos presenta el camino del arrepentimiento y la humildad al entrar en el período de tres semanas de preparación previo a la Gran Cuaresma:
+
+«Dos hombres subieron al templo a orar: uno era fariseo, y el otro publicano (cobrador de impuestos). El fariseo, puesto en pie, oraba consigo mismo de esta manera: “Dios, te doy gracias porque no soy como los otros hombres: extorsionadores, injustos, adúlteros, ni aun como este publicano; ayuno dos veces a la semana, doy diezmos de todo lo que gano”. Mas el publicano, estando lejos, no quería ni aun alzar los ojos al cielo, sino que se golpeaba el pecho, diciendo: “Dios, sé propicio a mí, pecador”. Os digo que este descendió a su casa justificado antes que el otro; porque cualquiera que se enaltece, será humillado; y el que se humilla será enaltecido». (Lucas 18:9-14).
+
+Mientras que los fariseos eran muy estimados entre los judíos por su diligente observancia de los aspectos externos de la Ley, los publicanos eran generalmente despreciados y considerados pecadores, ya que servían al poder ocupante y a menudo eran culpables de explotar a aquellos de quienes recaudaban impuestos.
+
+El icono muestra al Publicano (representado con vestimenta verde) entrando al Templo desde un lugar bajo. Con ambas manos levantadas, manifiesta su humildad, su genuina petición de perdón y su apertura a ser transformado por Dios. El Fariseo, por otro lado (mostrado con vestimenta roja), entra desde un lugar alto mientras se exalta a sí mismo en la oración.
+
+Sin embargo, al salir del Templo, las posiciones se invierten: el Publicano sale del Templo desde un lugar alto con un nimbo alrededor de su cabeza, habiendo sido exaltado por Dios por su humildad. El Fariseo orgulloso, por el contrario, sale del Templo desde un lugar bajo, todavía necesitado de arrepentimiento y del perdón de Dios.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+He aquí la oración que pronunció San Trifón antes de su muerte: «Oh Señor, Dios de los dioses y Rey de los reyes, el más Santo de todos los santos, Te alabo porque me has hecho digno de llegar al final de las torturas sin vacilar. Y ahora Te ruego que la mano del demonio invisible no me toque ni me arroje en el abismo de la corrupción; más bien, que Tus santos ángeles me guíen a la morada de los justos y me hagan heredero de Tu reino anhelado. Recibe mi alma y acepta la oración de todos aquellos que Te ofrecen sacrificios en mi memoria; míralos desde Tu santo lugar y otórgales Tus abundantes e incorruptibles dones. Porque Tú eres el único bueno y misericordioso Benefactor por los siglos de los siglos. Amén».
+
+Como San Trifón fue martirizado en Nicea y su cuerpo era fuente de muchas curaciones milagrosas, los ciudadanos de Nicea pensaban enterrarlo en su cementerio. Sin embargo, el santo se apareció a una persona en una visión y le manifestó su deseo de que sus reliquias fueran trasladadas a su pueblo, Lampsaco, donde antes cuidaba gansos, para ser sepultadas allí.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor como el aire fresco y sano de nuestra alma:
+
+1. como el aire fresco y sano que el alma respira y así se libra de la corrupción;
+
+2. como el aire fresco y sano que los profetas, apóstoles y santos respiraron, recibiendo salud para su alma;
+
+3. como el aire fresco y sano de mi alma, que destierra la espina del pecado en mí y da vida y salud a mi alma.
+
+
+SERMÓN: Sobre la palabra de Dios que purifica como el fuego
+
+«Ustedes están limpios por la palabra que les he hablado» (Juan 15:3)
+
+Con Su palabra, el Señor creó el mundo; con Su palabra renovó el mundo; con Su palabra perdonó los pecados; con Su palabra curó enfermedades; con Su palabra expulsó a los malos espíritus; con Su palabra calmó tormentas y vientos. Y con Su palabra santa todavía purifica a las personas, para que, al ser purificadas, den muchos y abundantes frutos. Así como el sarmiento se poda y queda mejor, de igual modo la Palabra de Dios es poderosa, porque proviene del Todopoderoso y limpia los corazones de aquellos que la reciben con fe. «La palabra del Señor hizo el cielo» (Salmos 33:6).
+
+La palabra del Señor brilla como el sol, pero cuando es necesario también quema, como el sol, todo cuanto se opone a Él. La palabra del Señor es dulce como la miel, pero cuando es necesario es amarga como el medicamento. La palabra de Dios es bienvenida como el amigo que golpea a la puerta en el momento más necesario, pero cuando es necesario es como el juez que nos encuentra en el pecado y nos condena sin permitir excusas.
+
+La palabra del Señor es verdadera, justa, sabia y benévola; por eso es todopoderosa. Nadie ni nada puede oponerse a ella, ni en el cielo ni en la tierra. La palabra del hombre también es poderosa cuando es verdadera, justa, sabia y benévola. Pero así como la enfermedad puede debilitar a un gigante hasta volverlo más débil que un niño, del mismo modo la mentira, la injusticia, la locura y la falta de misericordia hacen que la palabra del hombre se vuelva débil y vana, como cuando la zorra muestra sus dientes contra la luna.
+
+Quien es cauteloso en sus palabras las forja como si fueran plata pura. Y quien las disipa sin misericordia mezcla tierra con la plata. Tu palabra, Señor, es vida y verdad. Límpianos con Tu palabra todopoderosa, como limpiaste a los apóstoles, para que demos muchos frutos y lleguemos a ser dignos de Tu reino.
+
+A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
