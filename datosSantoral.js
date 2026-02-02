@@ -1749,4 +1749,57 @@ Quien es cauteloso en sus palabras las forja como si fueran plata pura. Y quien 
 A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-02": [
+		{
+		    name: "La Fiesta del Encuentro del Señor.",
+		    title: "La presentación del Mesías y el cumplimiento de la Ley.",
+		    img: "Img/PresentaciónTemplo.webp",
+		    desc: `Hoy conmemoramos la Recepción de Cristo en el Templo (Lucas 2:22-29). Esta Gran Fiesta también es conocida como el Encuentro del Señor, porque los himnos enfatizan al Dios encarnado, nuestro Señor Jesucristo, encontrándose con su pueblo, Israel, en las personas del Profeta Simeón y la Profetisa Ana.
+
+40 días después de la Natividad de Cristo, Su Madre purísima y el justo José Lo llevaron al Templo para dedicarlo al Señor y ofrecer sacrificio. Aunque la Theotokos no tenía necesidad de observar el período de purificación de 40 días —habiendo dado a luz a la Fuente de la pureza sin mancha—, ella sin embargo cumplió humildemente los requisitos de la Ley Mosaica (Levítico 12:2–8).
+
+Era costumbre que los padres adinerados llevaran un cordero y una paloma o tórtola para ofrecer como sacrificio en el Templo. Dado que José y María no eran ricos, trajeron en su lugar dos tórtolas.
+
+En ese momento, le había sido revelado al justo Anciano Simeón por el Espíritu Santo que no moriría hasta contemplar al Mesías prometido. Movido por el Espíritu, San Simeón vino al Templo en el momento mismo en que la Santísima Theotokos y San José traían al Niño para cumplir la Ley.
+
+Tomando al divino Niño en sus brazos y dando gracias a Dios, San Simeón proclamó las palabras repetidas por la Iglesia cada tarde en las Vísperas: “Ahora, Señor, despides a tu siervo en paz, Conforme a tu palabra; Porque han visto mis ojos tu salvación, La cual has preparado en presencia de todos los pueblos; Luz para revelación a los gentiles, Y gloria de tu pueblo Israel”.
+
+San Simeón dijo entonces a la Santísima Virgen: “He aquí, este Niño está puesto para caída y para levantamiento de muchos en Israel, y para señal que será contradicha (sí, una espada traspasará tu propia alma también), para que sean revelados los pensamientos de muchos corazones”.
+
+También estaba presente en el Templo la viuda de 84 años, Santa Ana la Profetisa, “que no se apartaba del templo, sirviendo de noche y de día con ayunos y oraciones”. Ella asimismo “daba gracias a Dios, y hablaba de Él a todos los que esperaban la redención en Jerusalén”.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+Hablando de la difusión y celebración gradual de la Navidad, San Juan Crisóstomo dijo: “Esplendidos y bienaventurados son los árboles que cuando están plantadas en la tierra y pronto alcanzan una gran altura y se vuelven cargados con muchos frutos; de igual manera es este día que celebramos”. Consideramos que estas palabras son válidas también para el día del Encuentro (Presentación) del Señor. Al inicio, se mencionaba a este día había entre los cristianos, pero su solemne celebración empezó en el tiempo del gran emperador Justiniano. Durante el reinado de este emperador, una gran epidemia castigó al pueblo en Constantinopla y sus alrededores. Cada día morían más de cinco mil hombres. Al mismo tiempo, un gran terremoto ocurrió en Antioquia. Al darse cuenta de la impotencia en prevenir estas desgracias, el emperador, después de haber convenido con el patriarca, ordenó a todos en el reino ayunar y orar. Y el día de la Presentación del Señor, organizaron procesiones grandes a través de las ciudades y los pueblos, para que Dios se apiade del Su pueblo. De hecho, Dios se compadeció: epidemia y terremotos de repente cesaron. Eso sucedió en el año 544. Por ello, y desde ese tiempo, la fiesta de la Presentación del Señor empezó celebrarse como una fiesta mayor. El árbol, con el tiempo, había crecido y empezó a dar abundantes frutos.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como salud:
+
+1. como salud de nuestra mente, porque con Él pensemos en forma sana;
+
+2. como la salud de nuestro corazón, porque con Él estamos sanas;
+
+3. como la salud de nuestra voluntad, porque con Él actuamos en forma sana;
+
+4. como la salud de la familia, de la iglesia, de la escuela, del pueblo y en cada situación.
+
+
+SERMÓN: Sobre la guía del Espíritu de Dios
+
+“Jesús, lleno del Espíritu Santo, regresó de las orillas del Jordán y fue conducido por el Espíritu al desierto” (Lucas 4:1)
+
+Miren, hermanos, lo que significa ser lleno del Espíritu Santo de Dios. Sin el Espíritu de Dios el hombre está lleno de ocupaciones: ¿A dónde irse? ¿Cómo andar?. Pero con el Espíritu de Dios, el hombre está sin dichas preocupaciones. Pues el Espíritu Santo dirige al hombre adónde irse y cómo hacer, y el hombre llega a ser infalible en sus movimientos y acciones, porque es el infalible Espíritu quien lo conduce y lo dirige. No puede el hombre vivir en forma justa y actuar en forma virtuosa sin la guía del omnipotente y omnisciente Espíritu de Dios.
+
+Todo aquel que el Espíritu Santo de Dios no lo orienta, es guiado o por su propio espíritu, o por el espíritu maléfico del demonio. En consecuencia, se vuelve impotente, malicioso, triste, rabioso y desesperado. Nosotros no podemos “soportar” la plenitud del Espíritu Santo como es el caso del Señor Cristo, pero Lo podemos recibir en cuanto Lo necesitamos para saber dónde, qué y cómo hacer. Según la pureza del corazón, el Espíritu mora en este, y de ahí orienta al hombre.
+
+Por eso, la Iglesia dirige a menudo esta oración al Espíritu Santo: “¡Oh rey celestial, Consolador, Espíritu de la Verdad… ven y mora en en nosotros!”.
+
+Dios, Espíritu Santo, a Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
