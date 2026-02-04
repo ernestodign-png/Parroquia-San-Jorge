@@ -1802,4 +1802,60 @@ Por eso, la Iglesia dirige a menudo esta oración al Espíritu Santo: “¡Oh re
 Dios, Espíritu Santo, a Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-04": [
+		{
+		    name: "San Isidoro de Pelusio.",
+		    title: "Modelo de Ascetismo y Defensor de la Ortodoxia.",
+		    img: "Img/IsidoroPelusio.webp",
+		    desc: `Hoy conmemoramos a San Isidoro de Pelusio.
+
+San Isidoro era natural de Alejandría, Egipto, y descendía de una familia prominente. Era pariente de Teófilo, arzobispo de Alejandría, y de su sucesor, San Cirilo.
+
+En su juventud, Isidoro estudió todas las disciplinas seculares, pero anhelaba dedicarse por completo a la vida espiritual. Renunciando a sus riquezas y a la gloria terrenal, abandonó el mundo y se retiró a Pelusio, en Egipto, estableciéndose en una montaña que se convirtió en el lugar de sus esfuerzos monásticos.
+
+La sabiduría espiritual de San Isidoro y su estricto ascetismo, combinados con su conocimiento innato del alma humana, le ganaron en poco tiempo el respeto y el amor de sus compañeros monjes. Lo eligieron como su superior y fue ordenado sacerdote.
+
+Siguiendo el ejemplo de San Juan Crisóstomo, a quien había visto y oído durante un viaje a Constantinopla, San Isidoro se dedicó a la predicación del Evangelio. Sin embargo, escribe en una carta: «Es más importante ser proficiente en las buenas obras que en la predicación de lengua de oro».
+
+El humilde maestro brindaba consejo de buen grado a cualquiera que acudiera a él en busca de guía espiritual, ya fuera un hombre sencillo, un dignatario, un obispo, el Patriarca de Alejandría o incluso el emperador.
+
+Dejó tras de sí cerca de 10,000 cartas, de las cuales han sobrevivido 2,090. Muchas de estas misivas revelan un profundo pensamiento teológico y contienen interpretaciones edificantes de las Sagradas Escrituras. San Focio llama a Isidoro un modelo de la vida sacerdotal y ascética.
+
+San Isidoro fue un gran defensor de San Juan Crisóstomo cuando este fue perseguido por la emperatriz Eudoxia y el arzobispo Teófilo. Tras la muerte de San Juan, San Isidoro persuadió al sucesor de Teófilo, San Cirilo, para que inscribiera el nombre de San Juan Crisóstomo en los dípticos de la Iglesia como confesor.
+
+Por iniciativa de San Isidoro, se convocó el Tercer Concilio Ecuménico en Éfeso en el año 431, en el cual se condenó la falsa enseñanza de Nestorio sobre la persona de Jesucristo.
+
+San Isidoro vivió hasta una edad avanzada y murió alrededor del año 436. El historiador eclesiástico del siglo VI, Evagrio, escribe sobre San Isidoro: «su vida parecía a todos la vida de un ángel sobre la tierra».`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+Imponte a ti mismo alguna forma de penitencia por los pecados de los demás. Si has condenado o castigado a alguien, imponte a ti mismo algún castigo. Has de sufrir también voluntariamente por los pecados de los pecadores. Esto es agradable a Dios. Este misterio era conocido por los santos, quienes ellos mismos se condenaban por los pecados de los demás. Aún, pueblos paganos percibieron este misterio. Existe en China una costumbre: luego de que el verdugo decapita a un delincuente condenado a muerte, éste se acerca al juez y le avisa que el veredicto fue llevado a cabo. Entonces el juez le da una moneda de plata por haber matado al delincuente, pero también lo manda a ser azotado con cuarenta latigazos por la misma razón. Los santos cristianos entendían profundamente el misterio del pecado y de la injusticia humana. Para los santos, todo pecado humano tiene una larga historia, igual en distancia a la que nos separa de Adán.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesús como alegría:
+
+1. Como alegría que refresca enteramente el alma del hombre;
+
+2. Como alegría que vivifica y refuerza en el hombre todas las fuerzas hacia el bien;
+
+3. Como alegría por Su nombre, palabras, hechos y Espíritu.
+
+
+SERMÓN: Sobre la alegría de Zaqueo de pequeña estatura
+
+“Hoy, ha venido la salvación a esta casa” (Lucas 19:9)
+
+Eso es lo que dijo Aquel, cuya palabra es vida, alegría y restauración de los justos. Tal como un bosque inhóspito se viste de verde y de flores con la llegada de la primavera, del mismo modo, cada hombre, se vuelve joven y se renueva por la cercanía de Cristo, sin importar cuán manchado está por el pecado. Porque la cercanía de Cristo es como la cercanía de un bálsamo fragante y vivificador que restaura la salud, aumenta la vida, anima al alma, ilumina los pensamientos e inspira las palabras. En otras palabras: alejarse de Cristo significa corrupción y muerte, mientras que acercarse a Él significa salvación y vida.
+
+“Hoy ha venido la salvación a esta casa”, dijo el Señor entrando a la casa del pecador Zaqueo. Cristo era la salvación que venía y Zaqueo era la casa en la que Él entró. Cada uno de nosotros, hermanos, es la casa en la que vive el pecado mientras Cristo se encuentra lejos, pero a la que viene la salvación cuando Cristo se acerca. ¿Acaso, Cristo se acercará a mi casa y a la tuya? Eso depende de nosotros mismos. ¡Mira! He aquí que Él no entró a la fuerza a la casa del pecador Zaqueo, sino como el huésped más deseado. Zaqueo, de pequeña estatura, subió al árbol solamente para ver con sus ojos a nuestro Señor Jesucristo. Pues, Lo buscaba y Lo quería. Hemos de buscarlo, para encontrarlo y quererlo, en vista de que Él se acerque a nosotros y que nosotros, en espíritu, tengamos que subir para encontrar Su mirada. Entonces, Él visitará nuestra casa como visitó la casa de Zaqueo, y con Él vendrá la salvación.
+
+Acércanos, Señor, acércanos y llévanos Tu eterna salvación. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+
 };
