@@ -1857,5 +1857,63 @@ Eso es lo que dijo Aquel, cuya palabra es vida, alegría y restauración de los 
 Acércanos, Señor, acércanos y llévanos Tu eterna salvación. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-05": [
+		{
+		    name: "Santa Agatha de Palermo.",
+		    title: "Santa Virgen y Mártir.",
+		    img: "Img/AgathaPalermo.webp",
+		    desc: `Hoy conmemoramos a la Santa Virgen y Mártir Agatha de Palermo.
+
+Santa Agatha nació de padres ricos y nobles de Panormos (hoy Palermo, Sicilia). Desde su juventud, se consagró al Señor y adornó su belleza con la verdadera Fe y las santas virtudes.
+
+Durante las persecuciones del emperador Decio (249-251), Agatha, de 15 años, fue arrestada y llevada ante el prefecto de la ciudad, Quinciano. Cautivado por su belleza y deseando poseer sus riquezas, Quinciano le ofreció matrimonio.
+
+Cuando Agatha se negó, Quinciano la envió a vivir durante un mes con Afrodisia, una mujer de vida corrupta, quien utilizó todas sus artimañas para persuadir a Agatha de que lo aceptara. Afrodisia intentó apartar a la joven Agatha de Cristo, tentándola con placeres mundanos y glamour, pero la joven permaneció inconmovible.
+
+Cuando Agatha fue llevada nuevamente al tribunal ante Quinciano, rechazó sus amenazas que exigían ofrecer sacrificios a los dioses paganos. Fue estirada en un potro y azotada, lacerada con garfios de hierro, acostada sobre un lecho de ladrillos ardientes y sus heridas fueron cauterizadas con antorchas en llamas.
+
+Quinciano ordenó a los torturadores que le cortaran los senos y la arrojaran, sangrando, al calabozo. Pero por la noche, su Ángel de la Guarda trajo al Apóstol Pedro en medio de una luz brillante, y él sanó todas sus heridas.
+
+Enfurecido al ver a la mártir restaurada en su salud, Quinciano reanudó las torturas. Entonces, repentinamente, la ciudad fue sacudida por un terremoto devastador. Los habitantes aterrorizados corrieron hacia Quinciano, exigiendo el fin de las torturas de Agatha. Temiendo una revuelta del pueblo, Quinciano envió a Santa Agatha de regreso a la prisión.
+
+Allí, Santa Agatha entregó su alma al Señor. En su entierro, ángeles colocaron una tabla de piedra sobre su tumba inscrita con las palabras: "Una mente justa, autodeterminada, honor de Dios, la liberación de su patria".
+
+En cuanto al malvado Quinciano, sus crímenes recibieron un rápido castigo. Mientras partía hacia Palermo para usurpar el patrimonio de Santa Agatha, su caballo y los caballos de sus soldados se volvieron salvajes de furia. Fue mordido en el rostro, arrojado al suelo y pisoteado hasta la muerte.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+Los monjes le preguntaron al gran abad Ischirion: “¿Qué hemos hecho?”. “Hemos cumplido los mandamientos del Señor”, respondió Ishirion. “¿Y qué harán aquellos que van a venir después de nosotros?”, replicaron. Y él les respondió: “Aquellos harán lo que hacemos nosotros, pero nada más que la mitad”. “¿Y aquellos después de ellos?”, lo interrogaron. Y él contestó: “Antes del final de los tiempos no mantendrán la regla monástica, pero caerán sobre ellos tantas tentaciones y desgracias que, por su paciencia en medio de ellos, mostrarán que son mejores que nosotros y que nuestros padres en el Reino de Dios”.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como el único y verdadero Iluminador:
+
+1. Como iluminador de cada hombre;
+
+2. Como iluminador, por consiguiente, de la sociedad y de toda la humanidad;
+
+3. Como iluminador, que ilumina, con la luz eterna, la mente, el corazón y la voluntad del hombre.
+
+
+SERMÓN: Sobre la muerte como sueño
+
+“Nuestro amigo Lázaro duerme, más voy para despertarlo” (Juan 11:11)
+
+El dueño de la vida llama a la muerte como sueño. ¡He aquí, tanto consuelo inexpresable que es para nosotros! ¡Cuán dulce noticia para el mundo! La muerte física, pues, no significa destrucción del hombre sino que es sólo un sueño, del cual Él sólo puede hacer despertar, Aquel que dio vida al primer polvo con Su palabra.
+
+Y cuando el Señor exclamó: “¡Lázaro!” (Juan 11:43), el hombre se despertó y resucitó. El Señor sabe el nombre de cada uno de nosotros. Si Adán sabía los nombres de cada criatura de Dios, cuánto más el Señor sabe el nombre de cada uno de nosotros. No solamente lo sabe, sino que Él nos llama por nuestro nombre. ¡Oh dulce y vivificadora Voz del Único que ama a la humanidad! ¡Esta voz puede crear hijos de Dios de las piedras! Entonces, ¿por qué no nos levantamos del sueño del pecado?.
+
+Se habla que un hombre levantó una piedra para matara a su hermano. Pero, en aquel momento, parece que oía la voz de su madre que lo llamaba por su nombre. Sólo por haber oído la voz de su madre, empezó a temblar su mano. Dejó la piedra y se avergonzó del pecado que quiso cometer. La voz de su madre lo levantó del pecado mortal. Si la voz de una madre salva y despierta de la muerte, ¡cuánto más, pues, la voz del Creador y Dador de Vida!.
+
+Cada vez que el Señor clamaba a alguien muerto físicamente, todos ellos se despertaban y se levantaban. Sin embargo, cuando el Señor clamaba a aquellos que estaban muertos espiritualmente, no se despertaban ni se levantaban. Porque, para éste despertar, para ésta resurrección, se necesita la conformidad de la voluntad del muerto. “¡Judas! ¿Con un beso me entregas?” (Lc 22:48), exclamó la Voz vivificadora, pero el hombre muerto (Judas) quedó muerto y el pecador no se despertó. “Saulo, Saulo, ¿porque me persigues?” (Hechos 9:4), clamó la misma Voz vivificadora y el adormecido en el pecado se despertó y el muerto fue vivificado. En verdad, más profundo es el sueño del pecado de la muerte que el sueño de la muerte, y aquel que duerme en el pecado, difícilmente se despierta.
+
+¡Oh Señor bondadoso, despiértanos del sueño del pecado! ¡Despiértanos, Señor!. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+
 
 };
