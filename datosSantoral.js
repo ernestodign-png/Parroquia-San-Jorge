@@ -1914,6 +1914,60 @@ Cada vez que el Señor clamaba a alguien muerto físicamente, todos ellos se des
 ¡Oh Señor bondadoso, despiértanos del sueño del pecado! ¡Despiértanos, Señor!. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-06": [
+		{
+		    name: "San Focio el Grande.",
+		    title: "Defensor de la Ortodoxia y la Autonomía Eclesial.",
+		    img: "Img/FocioGrande.webp",
+		    desc: `Hoy conmemoramos a San Focio el Grande, Patriarca de Constantinopla.
 
+San Focio nació en Constantinopla en el año 810. Sus piadosos padres cristianos fueron exiliados y murieron como confesores por su defensa de los santos iconos durante la Segunda Iconoclasia Bizantina (814-843).
+
+Tras recibir la mejor educación, Focio se convirtió en profesor de teología y filosofía. En 855, fue nombrado embajador ante el califa en Bagdad, con la responsabilidad de negociar el fin de la persecución de los cristianos en los territorios musulmanes.
+
+Cuando el patriarca Ignacio fue depuesto en 857 por Bardas, tío del emperador Miguel III, Focio fue investido en el sacerdocio y nombrado obispo en un plazo de seis días. Inmediatamente después, fue instalado como Patriarca. Su reinado, sin embargo, se vio acosado por problemas desde el principio, ya que muchos rechazaron la repentina deposición de Ignacio.
+
+El arrogante Papa Nicolás I aprovechó la controversia para afirmar abiertamente, por primera vez, la pretensión del Papa de tener jurisdicción «sobre toda la tierra y sobre la Iglesia universal». Convocó un concilio en Roma en 863 que excomulgó a Focio basándose en que su nombramiento no era canónico, lo que desencadenó el cisma fociano (863-867).
+
+A medida que el conflicto entre Roma y Constantinopla alcanzaba su clímax, Focio defendió la autonomía de la Iglesia Oriental. En 867, convocó un concilio en Constantinopla que excomulgó al Papa Nicolás, condenó sus pretensiones de supremacía papal y rechazó sus reclamaciones jurisdiccionales sobre la recién convertida Bulgaria.
+
+En su Mistagogía del Espíritu Santo, San Focio condena la blasfema innovación del filioque añadida por los latinos al Credo Niceno-Constantinopolitano.
+
+La aceptación del cristianismo por parte de Bulgaria en 864 fue, en gran medida, resultado de las misiones de San Focio. En 863, envió a los santos Cirilo y Metodio a predicar a los búlgaros en lengua eslava. En 864, bautizó personalmente al príncipe búlgaro Boris.
+
+Durante los altercados entre el emperador Basilio I y su heredero León VI el Sabio, Focio se puso de parte del emperador. En consecuencia, cuando Basilio murió en 886 y León se convirtió en emperador, Focio fue exiliado a Armenia. Reposó allí en el año 893.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+San Barsanufio, que vivió durante cincuenta años recluido en una celda sin permitirse ver a ningún ser humano, alcanzó, a través de la meditación de Dios y la oración, un gran estado de pureza y clarividencia. He aquí algunos de sus pensamientos de su “Libro de las Respuestas”: “Todo pensamiento que no está precedido por el silencio y la humildad, no proviene de Dios. Todo lo que es del diablo es confusión y molestia”. “Cuando oras y Dios demora en cumplir tus oraciones, eso lo hace para beneficiarte y enseñarte la tolerancia”. “Los ladrones visibles son los sirvientes de los ladrones invisibles, los pensamientos imaginarios”. “El Señor Jesucristo sufrió todo y al final subió a la santa cruz, lo que significa amortiguar el cuerpo y las pasiones y entrar en un santo y perfecto descanso”. “Nuestro Señor quiere que respetes a todo hombre más que a ti mismo”. Cuando preguntaron al anciano, si debían contratar a un abogado para defenderlos en un conflicto entre el monasterio y algunas personas, él respondió: “Si compran la defensa que proviene de los hombres, Dios no los defenderá”.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como un obrero:
+
+1. Como un obrero que trabaja con sus manos a lo largo de muchos años;
+
+2. Como un obrero espiritual, que constantemente enseña a la gente, consuela y cura dando una nueva ley al mundo;
+
+3. Como un obrero incansable que deja el mandamiento: “Mientras es de día, tenemos que hacer el trabajo del que me envió” (Jn 9:4).
+
+
+SERMÓN: Sobre el mutuo conocimiento del Padre y del Hijo
+
+“Yo lo conozco porque vengo de Él, y Él me ha enviado.” (Juan 7, 29)
+
+Nunca nadie se atrevió a decir que conocía a Dios. Muchos dijeron solamente que creían en Dios. Sólo el Señor Jesucristo dijo la palabra: “Yo Lo conozco.” E inmediatamente explicó cómo Lo conoce, diciendo: “Porque vengo de Él y Él me ha enviado”. La primera razón – “procede de Él” – da testimonio de la existencia eterna del Hijo; y la segunda razón – “Me ha enviado” – da testimonio de la manifestación del Hijo en el tiempo y el espacio de nuestro mundo como enviado de la Santísima Trinidad.
+
+A nosotros que creemos en Cristo, no nos está dado conocer al Padre como Lo conoce Su Hijo unigénito, sino que nos está dado y hemos sido encomendados de creer en Él. Nuestro mérito se encuentra en creer y no en conocer. Si todos nosotros conociéramos a Dios por la vista, nadie tendría ningún mérito. Pues, ¿qué mérito hay en mirar y conocer? Sin embargo, en “no ver y creer”, en esto está el mérito, en esto está la virtud, en esto está nuestra salvación. Nosotros no somos dignos de ver a Dios y por verlo, conocerlo, porque estamos debilitados por el pecado y nos encontramos alejados de Dios. Sin embargo, Su misericordia nos ha dado la fe en esta vida, que es capaz de acercarnos a Dios y guiarnos al reino eterno para poder ver y conocer en la otra vida. ¡Hermanos míos!, creamos en el Señor Jesucristo, porque Él sabe. Él no habla por la fe sino por el conocimiento.
+
+Señor misericordioso, afírmanos en la fe. Déjanos tocar Tu vestimenta para que podamos aferrarnos a ella hasta el final de nuestras vidas.
+
+A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 
 };
