@@ -1969,5 +1969,60 @@ Señor misericordioso, afírmanos en la fe. Déjanos tocar Tu vestimenta para qu
 A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-07": [
+		{
+		    name: "San Partenio.",
+		    title: "Obispo de Lampsaco y Taumaturgo contra los Espíritus Malignos.",
+		    img: "Img/Partenio.webp",
+		    desc: `Era el hijo de un diácono de la ciudad de Melitopolis. Ya como niño, recordaba muy bien las palabras del Evangelio y trataba de cumplirlas. Se instaló cerca de un lago donde pescaba para luego vender el pescado y distribuir el dinero entre los pobres. Según la providencia de Dios fue elegido como obispo de Lampsaco. Purificó la ciudad del paganismo, cerró los templos idólatras, construyó muchas iglesias y fortaleció a los fieles en la fe. Por medio de la oración curaba toda enfermedad y era particularmente poderoso contra los malos espíritus. En una ocasión, cuando quiso expulsar un mal espíritu de un hombre endemoniado, el espíritu maligno le rogó que no lo hiciera. “Te daré otro hombre en el que podrás entrar y morar en él”, le dijo Partenio. El espíritu maligno preguntó: “¿Quién es ese hombre?”. “Yo soy ese hombre”, le dijo el santo, “entra y mora en mí“. Oyendo esto, el espíritu maligno huyó como quemado por el fuego gritando: “¿Cómo podría entrar en la casa de Dios?”. San Partenio vivió muchos años y a través de su obra manifestó su gran amor a Dios y a la gente. Entró en la paz eterna de Cristo en el siglo IV.`
+		},
+		{
+		    name: "San Lucas de Grecia.",
+		    title: "Venerable Asceta y Sembrador de la Misericordia.",
+		    img: "Img/LucasGrecia.webp",
+		    desc: `Nació en Castoria. Aún siendo niño, nunca quiso probar la carne y siempre llevó una vida de pureza y oración. Una vez, fue a un campo para sembrar semillas de trigo. Pero, en el camino, distribuyó a los pobres la mayor parte de las semillas por lo que sembró nada más que una pequeña cantidad. Dios le dio una cosecha mayor a la que habría tenido si hubiera sembrado todas las semillas. Después de eso, Lucas se separó de su viuda madre y se fue al monasterio. Su afligida madre rezaba fervientemente a Dios para que le revelara donde estaba su hijo. Y Dios escuchó las oraciones de la madre. El abad de aquel monasterio, a donde Lucas había huido, soñó tres días consecutivos que una mujer lo reprendía fuertemente por haberle llevado a su hijo único. Entonces el abad ordenó a Lucas regresar de inmediato a su madre. Lucas fue, se encontró con su madre, y una vez más se alejó de ella, pero ésta vez sin regresar. Vivió una vida ascética en el monte de Ioanitsa, cerca de Corintios. Por la noche oraba a Dios y de día trabajaba en el jardín y en el campo, no para él, sino para los pobres y peregrinos. Se alimentaba solamente con pan de cebada. Dios le dio el don de hacer milagros. Reposó tranquilamente en el año 946 d.C.. De vez en cuando, de sus reliquias emana bálsamo perfumado.`
+		},
+		{
+		    name: "Santa Mastridia.",
+		    title: "Venerable Eremita que Huyó de la Tentación.",
+		    img: "Img/Mastridia.webp",
+		    desc: `Vivió en Jerusalén una vida austera. Un hombre joven se enamoró de ella y comenzó a asediarla. Para salvarse a sí misma y a este joven del pecado, Mastridia tomó una canasta con un poco de habas remojadas y se alejó al desierto. En el desierto pasó diecisiete años y durante todo ese tiempo, gracias al poder de Dios, no le faltó ni el alimento que ella trajo ni se deterioraron sus vestimentas. Murió pacíficamente alrededor del año 580 d.C.`
+		},
+		{
+		    name: "Los mil tres mártires en Nicomedia.",
+		    title: "Santos Mártires.",
+		    img: "Img/miltresmártires.webp",
+		    desc: `Sufrieron por Cristo durante el reinado del emperador Diocleciano.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+San Isidoro de Pelusio interpretaba ciertas palabras de la Santa Escritura de esta manera: “Dos mujeres estarán moliendo en un molino, la una será tomada, la otra será dejada” (Mateo 24:41). Eso significa que muchos se dedican a la vida espiritual pero con pensamientos distintos: algunos son sinceros y constantes, otros son negligentes y vanos. Los primeros serán tomados en el reino de Dios y los otros quedarán fuera de él. ¿Qué significa la oración relacionada con la copa?: “Padre mío, si no es posible evitar que yo sufra esta prueba, hágase tu voluntad.” (Mateo 26:42). ¿Y por qué el Señor rezó para que esta copa de sufrimiento se alejara de Él? Eso significa que nadie tiene que buscar la adversidad, sino que el cristiano tiene que aceptarla cuando venga, y soportarla valientemente. En cuanto a las cinco vírgenes insensatas (Mateo 25) san Isidro dice: “Cada una de ellas poseía en verdad la virginidad, pero no tenían las demás virtudes, particularmente la caridad. La virginidad sola no es suficiente para entrar al reino de Dios. La virginidad no ayuda si la virgen es orgullosa y egoísta”.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como sembrador:
+
+1. Como sembrador cuya semilla crece lentamente pero con seguridad;
+
+2. Como sembrador de una nueva enseñanza, nuevo poder y nuevo orden;
+
+3. Como sembrador del nuevo alimento espiritual, con que el género humano se alimentará hasta el fin de los tiempos.
+
+
+SERMÓN: Sobre los que tienen la mente cerrada, a quienes el crimen está más cerca que el amor de Dios
+
+“Pero procuráis matarme, porque mi palabra no halla cabida en vosotros” (Juan 8:37)
+
+¿Por qué la palabra de Cristo no pudo prevalecer entre los superiores judíos? Porque ellos estaban tan llenos de maldad que no había lugar para la semilla divina, para la Buena Nueva. Todo lo que crecía en sus almas era la siembra de Satanás, el Anticristo. Por eso, ellos trataban de matar a Cristo. A través del Profeta David, el Señor dice: “¡Ríndanse! ¡Reconozcan que yo soy Dios!” (Salmo 45(46),11). Por ello, es necesario despojarse de todo lo que se opone a Dios, es decir, de todo lo que impide que la luz del conocimiento divino more en nosotros. Cuando el hombre se despoja de eso, entonces, y solamente entonces, puede entender que Dios es Dios. Y Mientras que el alma esté llena de pensamientos, sentimientos y deseos contra Dios, el hombre no podrá escuchar ni recibir Su palabra. El que no tiene a Dios en su interior, actúa movido por una fuerza infernal para arrancar a Dios del alma del que lo tenga. “...pero procuráis matarme”. ¿Por qué? Porque ni una sola palabra divina de Cristo pudo encontrar un lugar o aceptación en sus corazones impíos. Al no tener nada en común con el Señor, los superiores judíos, desde el principio, no fueron capaces de tener ninguna relación amistosa con Él.
+
+Señor Jesucristo y Salvador nuestro, ayúdanos a despojarnos de toda semilla pecaminosa que tengamos, para que Tu divina palabra pueda morar en nosotros, iluminarnos, fortalecernos y resucitarnos.
+
+A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 
 };
