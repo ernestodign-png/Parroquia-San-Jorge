@@ -2024,5 +2024,113 @@ Señor Jesucristo y Salvador nuestro, ayúdanos a despojarnos de toda semilla pe
 A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-08": [
+		{
+		    name: "El Domingo del Hijo Pródigo.",
+		    title: "El retorno a la casa del Padre y el llamado al arrepentimiento.",
+		    img: "Img/HijoPródigo.webp",
+		    desc: `Hoy, el segundo domingo previo a la Gran Cuaresma, es el Domingo del Hijo Pródigo. En esta parábola, nuestro Señor Jesucristo relata la historia de un hombre y sus dos hijos (Lucas 15:11–32).
 
+El hijo menor le pide a su padre la parte de su herencia y el padre accede. Poco después, el hijo viaja a un país lejano donde malgasta todas sus posesiones viviendo de forma pródiga (derrochadora y suntuosa).
+
+Posteriormente surge una hambruna severa y el hijo padece hambre. Encuentra trabajo en los campos alimentando cerdos, pero esto no mejora su condición, y las Escrituras dicen: «Deseaba llenar su vientre con las algarrobas que comían los cerdos, pero nadie le daba nada».
+
+En estas condiciones extremas, el hijo llega al arrepentimiento, diciendo: «Me levantaré e iré a mi padre, y le diré: "Padre, he pecado contra el cielo y ante ti. Ya no soy digno de ser llamado tu hijo; hazme como a uno de tus jornaleros"».
+
+Cuando el hijo regresa, su padre le muestra una gran compasión, quien lo ve de lejos y corre a abrazarlo. El hijo confiesa su pecado, pero superado por la alegría de su regreso seguro, el padre ordena a sus siervos traer el mejor manto, poner un anillo en el dedo de su hijo y sandalias en sus pies. También ordena matar el becerro gordo para comer y regocijarse.
+
+Mientras trabaja en el campo, el hijo mayor escucha la música y el baile, y se entera por los siervos de la razón de la celebración. Al negarse a unirse al festín, expresa su enojo hacia su padre, lamentando que su hermano menor sea recibido con tal alegría después de haber malgastado su herencia, mientras que él había permanecido obediente durante muchos años y nunca recibió una celebración similar.
+
+El padre responde a su hijo mayor, diciendo: «Hijo, tú siempre estás conmigo, y todo lo que tengo es tuyo. Era conveniente alegrarse y regocijarse, porque este tu hermano estaba muerto y ha vuelto a la vida; se había perdido y ha sido hallado».
+
+Al ver en el hijo pródigo nuestra propia pecaminosidad, esta parábola nos ofrece la esperanza de recobrar el sentido y regresar, mediante el arrepentimiento, a Dios, quien espera pacientemente para recibirnos con Su perdón compasivo y Su abrazo salvador.`
+		},
+		{
+		    name: "San Teodoro Estratila.",
+		    title: "El Gran Mártir y General de Heraclea.",
+		    img: "Img/TeodoroEstratila.webp",
+		    desc: `Hoy conmemoramos al Gran Mártir San Teodoro Estratila («el General»).
+
+San Teodoro fue un soldado cristiano durante el reinado del emperador romano Licinio (308-324), originario de la ciudad de Eucaíta en Asia Menor (hoy Beyozu, Turquía). Su apariencia física solo era superada por la belleza de su alma.
+
+Fue nombrado comandante militar en la ciudad de Heraclea Póntica. Allí, combinó su servicio militar con la predicación del Evangelio a los paganos. A través de su don de persuasión otorgado por Dios y su ejemplo piadoso de vida cristiana, Teodoro apartó a muchos de sus falsos dioses. Pronto, casi toda Heraclea había aceptado el cristianismo.
+
+Cuando el emperador Licinio inició una feroz persecución contra los cristianos, comenzó a privar a los oficiales del ejército de sus rangos si no ofrecían sacrificios a los dioses paganos.
+
+Ante esta coacción, Teodoro invitó a Licinio a venir a Heraclea con ídolos, alegando que deseaba ofrecer sacrificios ante el pueblo. Engañado por su odio al cristianismo, Licinio le creyó y llegó con estatuas de oro y plata de los dioses.
+
+Por la noche, el santo destrozó los ídolos y distribuyó sus fragmentos entre los pobres. Cuando llegó el momento del sacrificio, un centurión informó al emperador que había visto a un hombre pobre portando la cabeza de oro de una estatua de Artemisa.
+
+Al enterarse de lo ocurrido, Licinio ordenó el arresto de Teodoro y lo sometió a crueles torturas. Fue arrastrado, golpeado con varas de hierro, atravesado con púas afiladas, quemado con fuego, le sacaron los ojos y, finalmente, fue crucificado. Sin embargo, el Señor, en Su gran misericordia, envió un ángel que sanó al mártir de sus heridas y lo bajó de la cruz.
+
+Por la mañana, los soldados encontraron a San Teodoro vivo e ileso. Impactados por el poder del Dios cristiano, creyeron y aceptaron el santo bautismo.
+
+Anhelando entrar en el Reino Celestial, San Teodoro oró para que el Señor recibiera su alma. Mientras era conducido a su ejecución, aquellos que tocaban sus vestiduras eran sanados instantáneamente de enfermedades y liberados de aflicciones demoníacas.
+
+Finalmente, fue decapitado por orden de Licinio en el año 319.`
+		},
+		{
+		    name: "El Santo Profeta Zacarías.",
+		    title: "El vidente de visiones celestiales y heraldo del Mesías.",
+		    img: "Img/ProfetaZacarías.webp",
+		    desc: `Hoy también conmemoramos al Santo Profeta Zacarías, el undécimo de los doce Profetas Menores y autor del Libro de Zacarías.
+
+El profeta Zacarías, cuyo nombre significa «aquel a quien Dios recuerda», nació en Galaad (hoy Galaad, Jordania) en el seno de una familia sacerdotal de la tribu de Leví; hijo de Berequías y nieto del profeta Iddo (Zac. 1:1). Vivió en los años posteriores al cautiverio babilónico, cuando el rey Ciro el Grande de Persia permitió a los israelitas regresar a Jerusalén y reconstruir el Templo.
+
+Zacarías fue llamado al ministerio profético alrededor del año 520 a. C., junto con el profeta Ageo. Su tarea designada por Dios era fortalecer y alentar a los cautivos que regresaban para que reconstruyeran el Templo, recordándoles que el Señor no los había abandonado, sino que permanecía fiel a Sus promesas.
+
+Dotado de iluminación divina, el profeta Zacarías se convirtió, en palabras de la himnología eclesiástica, en «espectador de visiones supramundanas». A través de una serie de visiones profundas —entre ellas los jinetes entre los mirtos, el rollo que vuela, el candelabro de oro y la coronación del sumo sacerdote Josué—, reveló el juicio de Dios contra el pecado, Su llamado al arrepentimiento y Su promesa de restauración y salvación.
+
+El Libro de Zacarías contiene también algunas de las profecías mesiánicas más claras del Antiguo Testamento. Él predijo:
+
+La venida de Cristo como el Renuevo justo (Zac. 6:12).
+
+La entrada del Señor en Jerusalén, «humilde y montado sobre un asno» (Zac. 9:9).
+
+La traición del Salvador por 30 piezas de plata (Zac. 11:12–13).
+
+La perforación de Su costado en la Cruz (Zac. 12:10).
+
+La dispersión de los discípulos en Su arresto (Zac. 13:7).
+
+El oscurecimiento de la luz al momento de la Crucifixión (Zac. 14:6–7).
+
+Debido a su visión del rollo que vuela —como una hoz que siega el pecado—, el profeta Zacarías es llamado el «Vidente de la Hoz» (Zac. 5:1–3).
+
+Habiendo proclamado la palabra de Dios y fortalecido al pueblo en la esperanza del Mesías venidero, el profeta Zacarías falleció a una edad avanzada. Fue sepultado cerca de Jerusalén, junto a la tumba de su compañero, el profeta Ageo.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+San Serafín de Sarov escribe sobre la desesperación: “Tanto como el Señor se preocupa de nuestra salvación, del mismo modo Satanás se esfuerza para llevar al hombre a la desesperación. Judas el traidor estaba desalentado e inexperimentado en la lucha espiritual, por ello, el diablo, discerniendo en él un estado de desesperación, lo atacó y lo convenció a que se ahogara. Pedro, la roca formidable, al caer en un gran pecado y siendo experimentado en la lucha espiritual, no desesperó ni perdió la presencia del Espíritu, sino que vertió lágrimas amargas de un corazón ardiente y cuando el diablo vio eso, se huyó de él como quemado con el fuego. Así, hermanos, el venerable Antiochus enseña que cuando nos ataca la desesperación, no tenemos que desanimarnos, sino que, animados y llenos de la santa fe, decir con gran valentía al astuto espíritu: "¿Qué tienes que ver con nosotros, apóstata de Dios, huido del cielo y esclavo del mal? Eres incapaz para inspirarnos para que hagamos algo; porque Cristo, el Hijo de Dios, tiene la autoridad sobre nosotros y sobre todo. Y tú, maldito, apártate de nosotros. Animados con Su preciosa cruz, nosotros pisoteamos tu cabeza de serpiente”.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como aquel Comandante:
+
+1. Que entra en batalla contra Satanás;
+
+2. Que entra en batalla contra el pecado en la gente;
+
+3. Que defiende al bien contra lo malo en el mundo;
+
+4. Que vence a Satanás, el pecado y la muerte.
+
+
+SERMÓN: Sobre eso como un verdadero cristiano encuentra el odio del mundo
+
+“Y serán aborrecidos de todos por causa de mi nombre” (Lucas 21:17)
+
+Todos los que se aman a sí mismos más que a Dios, odiarán a los discípulos del Señor. Todos los que aman su cuerpo más que su alma, odiarán a los discípulos del Señor. Todos los que aman este mundo más que el eterno reino de Dios, odiarán a los discípulos de Jesucristo. Todos los que aman el pecado más que la virtud, odiarán a los discípulos de Jesucristo.
+
+El número de los que odian al nombre de Jesucristo es alguna vez más grande o más chico. Pero, cualquiera fuera este número, no se espanten, hermanos, porque el número de los ángeles y de los santos es enorme. El número de sus parientes en el cielo, es decir, de aquellos que aman al Señor Jesucristo, supera el número de las estrellas en el cielo y de la arena en el mar. No se espanten, porque Cristo está con ustedes y eso significa que siempre son más poderosos que sus enemigos. Cuando el Omnipotente está a su lado, ustedes son siempre más numerosos, porque serán siempre más potentes que cualquier número de sus adversarios.
+
+Señor Jesucristo, Señor todopoderoso, sé siempre con nosotros y ayúdanos para que esté siempre inseparable de nosotros, y nuestro miedo desaparecerá.
+
+A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
