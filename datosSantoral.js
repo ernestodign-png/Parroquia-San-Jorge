@@ -2133,4 +2133,51 @@ Señor Jesucristo, Señor todopoderoso, sé siempre con nosotros y ayúdanos par
 A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-09": [
+		{
+		    name: "San Nicéforo.",
+		    title: "Mártir.",
+		    img: "Img/SanNicéforoMártir.webp",
+		    desc: `La hagiografía de este mártir muestra claramente cómo Dios rechaza la vanidad y glorifica a los humildes y filántropos.
+
+ En Antioquia vivían dos buenos amigos, el sacerdote educado Sapricio y el común y sencillo ciudadano Nicéforo. Sucede que su amistad se convirtió en terrible odio. El devoto Nicéforo trataba muchas veces de reconciliarse con el sacerdote, pero aquel no quería de ninguna manera. Cuando empezó la persecución de los cristianos, el sacerdote Sapricio fue condenado a la muerte y llevado al lugar de ejecución. Triste, Nicéforo seguía a Sapricio rogándole para que le perdonara antes de morir y que se separaran en paz. “Te ruego, mártir de Cristo”, decía Nicéforo, “perdóname si he pecado contra ti”. Sapricio no quería ni ver a su oponente, sino que tranquila y soberbiosamente caminaba hacia la muerte. Pero al ver la dureza del corazón del sacerdote, Dios no quiso recibir el sacrificio de su martirio y por ende coronarlo, así que le retiró Su gracia misteriosamente.
+
+ Así que Sapricio, al último momento, negó a Cristo y declaró ante los verdugos que se prosternara a los ídolos. ¡Así sucede con el odio ciego! Mientras tanto, Nicéforo le imploraba a Sapricio que no negara a Cristo: “Hermano amado, no niegues a nuestro Señor Jesucristo, no te pierdes la corona celestial”. Pero todo era en vano. Entonces Nicéforo gritó a los verdugos: “Yo soy también cristiano, mátenme a mí en vez de Sapricio”. Los verdugos se lo informaron al juez y el juez ordenó que dejaran a Sapricio y que mataran a Nicéforo. Alegremente Nicéforo puso su cabeza en el tronco y fue decapitado. Así se hizo digno del reino y fue coronado con la corona inmortal de la gloria. Esto pasó en el año 260, en el tiempo del emperador Galiano.`
+		},
+		{
+		    name: "El hiero-mártir Pedro Damasceno",
+		    title: "Gran Asceta y Confesor Exiliado",
+		    img: "Img/PedroDamasceno.webp",
+		    desc: `Algunos piensan que él vivió en el siglo VIII mientras que otros en el siglo XII. Esta diferencia proviene seguramente del hecho que se trata de dos personas distintas pero homónimas. Este de quien se trata aquí era un gran asceta. Altruista sin medida, no poseía ni una solo libro, sino que se los prestaba y los leía. Y leía infatigablemente, recolectando la sabiduría como la abeja recolecta la miel. Por un tiempo era obispo en Damasco, pero porque habló contra la fe musulmana y la herejía de los maniqueos, los árabes le cortaron la lengua y le exiliaron lejos en Arabia. Sin embargo, Dios le dio la fuerza para hablar y en el exilio predicaba la Buena Nueva y muchos se convirtieron a la fe en Cristo. Compiló y dejó a la posteridad un libro precioso sobre la vida espiritual. Terminó su vida como confesor y mártir y obtuvo su morada en el reino de Cristo.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+San Pedro Damasceno escribe sobre los dones generales y particulares de Dios y dice: “Los dones generales consisten de cuatro elementos y todo lo que resulta de ellos, al igual que todos las maravillas obras de Dios, expresadas en la Sagrada Escritura. Y los dones particulares son aquellos que Dios da a cada ser humano en forma individual, sea riqueza para ejercer la caridad, o pobreza para ejercer la paciencia con la humildad; sea autoridad para establecer la justicia y el fortalecimiento de la virtud, o subyugación y esclavitud para la pronta salvación del alma; sea salud para ayudar a los enfermos para recibir la corona de la paciencia; sea entendimiento y astucia para crecer en la virtud o falta de capacidad para obtener la corona de la humildad. Todo eso, aunque parecieran contradictorios entre ellos, sin embargo es, en cuanto a su propósito, muy bueno”. En conclusión, San Pedro Damasceno dice que hemos de dar gracias a Dios por todos los dones y, con paciencia y esperanza, soportar toda tribulación y malas consecuencias. Porque todo que lo Dios nos da o permite que ocurra con nosotros, es provechoso para nuestra salvación.
+
+CONTEMPLACIÓN:
+
+Contemplar Al Señor Jesucristo como Fuente de Alegría:
+
+1. En las tribulaciones de la vida que sólo Él es capaz de reemplazar con alegría;
+
+2. En la esclavitud de las pasiones que sólo Él puede reemplazar con la alegría de la liberación;
+
+3. En la muerte de la cual sólo Él nos puede resucitar.
+
+
+SERMÓN: Sobre la Palabra de Dios que es más poderosa que la muerte
+
+“Los judíos le dijeron: “Ahora sí estamos seguros de que estás endemoniado. Abraham murió, los profetas también, y tú dices: “El que es fiel a mi palabra, no morirá jamás.” (Juan 8:52)
+
+Mientras una lámpara es encendida en la habitación, no habrá oscuridad. Si una comida es salada, estará preservada. Si uno guarda la palabra de Cristo en su alma, guardará pues sal y luz en su alma y la vida estará en él. Esta alma no oscurecerá en esta vida, ni probará la muerte. Si uno guarda la palabra de Cristo en sí mismo, ella lo sostendrá por dentro, lo nutrirá, lo iluminará y lo alentará. No importa si estuviera en el cuerpo o afuera del cuerpo, él se siente vivo por la palabra de Cristo. La muerte del cuerpo separa su alma del cuerpo, pero no de Cristo, es decir de la vida inmortal. La muerte del cuerpo dará a su alma vivificada un vuelo libre abrazando a Cristo, el amado dador de vida.
+
+Pero ¿qué significa, hermanos, guardar la palabra de Cristo en sí mismo? Eso significa, en primer lugar, guardarla en su propia mente, pensando en ella; en segundo lugar, guardarla en su propio corazón, amándola; en tercer lugar, guardarla en su propia voluntad, cumpliéndola con hechos y acciones; y en cuarto lugar, guardarla sobre la lengua, confesándola públicamente cuando se necesite. Así, Con guardarla la palabra de Cristo significa llenarnos de ella y cumplirla. Todo aquel que guarda la palabra de Cristo de esta manera, en verdad jamás gustará a la muerte.
+
+Oh Señor Todopoderoso, más poderoso que la muerte, danos la fuerza y el entendimiento para que guardemos Tu santa Palabra hasta el final, para que no gustemos a la muerte y que la muerte no guste a nosotros, para que la corrupción no toque nuestras almas. ¡Oh Señor misericordioso, ten piedad de nosotros! A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
