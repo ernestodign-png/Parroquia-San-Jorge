@@ -2180,4 +2180,138 @@ Pero ¿qué significa, hermanos, guardar la palabra de Cristo en sí mismo? Eso 
 Oh Señor Todopoderoso, más poderoso que la muerte, danos la fuerza y el entendimiento para que guardemos Tu santa Palabra hasta el final, para que no gustemos a la muerte y que la muerte no guste a nosotros, para que la corrupción no toque nuestras almas. ¡Oh Señor misericordioso, ten piedad de nosotros! A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-10": [
+		{
+		    name: "San Haralambos.",
+		    title: "Hieromártir y Taumaturgo.",
+		    img: "Img/Haralambos.webp",
+		    desc: `Hoy conmemoramos al Taumaturgo y Hieromártir San Haralambos de Magnesia.
+
+San Haralambos nació en el año 89 d.C. y vivió en la ciudad de Magnesia (actual Tekin, Germencik, Turquía). Ministró a los cristianos del lugar como sacerdote durante muchos años, instruyéndolos con devoción en el camino de la verdad y predicando a Cristo a todos, a pesar de la constante persecución de los paganos.
+
+Al enterarse de que Haralambos convertía a muchos a Cristo, Luciano, el gobernador romano de Magnesia, ordenó su arresto. Cuando Haralambos se negó a sacrificar a los ídolos, el gobernador lo sometió a torturas horribles, sin mostrar piedad hacia el anciano sacerdote que tenía más de 100 años.
+
+Mientras lo despojaban de sus vestiduras sacerdotales y desgarraban su piel con ganchos de hierro, el santo agradeció a sus verdugos por preparar su alma para la vida eterna. Inspirados por su fe, dos soldados, Porfirio y Bapto, confesaron su fe en Cristo y fueron decapitados inmediatamente.
+
+Cuando el gobernador se abalanzó sobre el santo, desgarrando su piel en un ataque de ira, sus manos fueron repentinamente cercenadas. Movido a compasión por los gritos de piedad del tirano, San Haralambos sanó sus heridas mediante sus oraciones. El gobernador, agradecido, fue bautizado por el Santo, y muchos más paganos fueron ganados para Cristo.
+
+Cuando el emperador Septimio Severo supo esto, hizo llevar al Santo a Antioquía de Pisidia, donde fue arrastrado por la barba, atravesado con clavos y arrojado a un horno. Milagrosamente, el Santo permaneció ileso. Cuando el tirano pidió conocer el secreto de su invulnerabilidad, respondió: "¡El poder de Cristo!".
+
+Poniendo a prueba esta afirmación, Severo le presentó a un hombre poseído por demonios, y el Santo expulsó al espíritu inmundo. Luego, Severo presentó el cadáver de un joven a punto de ser enterrado y, tras una ferviente oración a Dios, San Haralambos devolvió la vida al hombre como si despertara de un sueño. Al presenciar estos milagros, incluso la hija del emperador, Galina, se convirtió a Cristo y destrozó los ídolos en un templo pagano.
+
+Incapaz de quebrantar la fe del celoso sacerdote, el emperador ordenó que fuera decapitado. Regocijándose por su sentencia, San Haralambos entregó su alma en el año 202.`
+		}
+		],
+		"02-11": [
+		{
+		    name: "Santa Teodoras.",
+		    title: "La restauración de los Iconos y el Triunfo de la Ortodoxia.",
+		    img: "Img/TeodorasEmperatriz.webp",
+		    desc: `Hoy conmemoramos a la Santa Emperatriz Santa Teodora.
+
+Santa Teodora nació en 815 en Paflagonia, proveniente de una noble familia bizantina. Bendecida con gran belleza e inteligencia, heredó de su madre Teoctista una devoción inquebrantable a la fe ortodoxa.
+
+En 830, Teodora fue seleccionada por Eufrosina, madrastra del emperador iconoclasta Teófilo, como candidata en una presentación de doncellas para el joven emperador. Tras ser elegida por Teófilo como su esposa, fue coronada emperatriz.
+
+Un siglo antes, durante la Primera Iconoclasia Bizantina (726-787), el emperador León III el Isaurio emitió una serie de edictos prohibiendo la veneración de iconos, lo cual fue acompañado por la destrucción generalizada de imágenes religiosas. En 787, la emperatriz Irene de Atenas convocó el Segundo Concilio de Nicea, que condenó la iconoclasia como herética.
+
+Sin embargo, este triunfo de los iconódulos fue efímero, ya que la Segunda Iconoclasia Bizantina (814-842) fue instituida por el emperador León V. Durante el reinado de Teófilo, este mantuvo las políticas iconoclastas restauradas por su predecesor León V, pero su esposa Teodora permaneció secretamente como una firme creyente en la veneración de los iconos.
+
+Mientras los Santos Confesores eran acosados, torturados y exiliados a los rincones lejanos del Imperio por su apoyo a la veneración de iconos, Teodora se mantuvo firme en la fe verdadera. Veneraba en secreto los santos iconos que guardaba ocultos en su recámara, llamándolos sus "hermosas muñecas".
+
+A la muerte de Teófilo en 842, Teodora asumió el poder como regente de su hijo Miguel. Convocó el Concilio de Constantinopla en 843, que puso fin a las políticas iconoclastas de su esposo y restauró la veneración de los santos iconos.
+
+Esta restauración de la veneración de iconos inició la fiesta del Triunfo de la Ortodoxia, que desde entonces ha sido celebrada por la Iglesia cada año en el primer domingo de Cuaresma. En el icono del Triunfo de la Ortodoxia (imagen 4), la coronada Emperatriz Santa Teodora aparece en la parte inferior izquierda con su hijo Miguel.
+
+En 855, cuando Miguel alcanzó la mayoría de edad, Santa Teodora fue desplazada de su regencia. Reposó pacíficamente en 867.`
+		}
+		],
+		"02-12": [
+		{
+		    name: "San Melecio de Antioquía.",
+		    title: "Defensor de la Santísima Trinidad y del Credo Niceno.",
+		    img: "Img/MelecioAntioquía.webp",
+		    desc: `Hoy conmemoramos a San Melecio, Arzobispo de Antioquía.
+
+San Melecio nació en el año 310 en Melitene de la Armenia Menor (actual Malatya, Turquía). Muy estimado por sus virtudes y su puro amor a Cristo, fue consagrado Obispo de Sebaste en 357 y elevado a la Sede de Antioquía en 360.
+
+Firme opositor de la herejía arriana que continuaba asolando y dividiendo a la Iglesia, Melecio apoyó el Credo Niceno, el cual afirmaba la consustancialidad del Padre con su Hijo unigénito.
+
+Ante grandes multitudes, Melecio predicó el Homoousion ("misma esencia") de la Santísima Trinidad levantando su mano y mostrando tres dedos. Al retirar dos dedos para dejar uno extendido, proclamó: "Entendemos tres hipóstasis y hablamos de una sola naturaleza".
+
+Por su intrépida defensa de la Ortodoxia, su mandato como obispo estuvo marcado por repetidos exilios, notablemente por los emperadores arrianos Constancio II y Valente. A pesar de esto, Melecio continuó defendiendo el cristianismo niceno.
+
+En una ocasión, Melecio iba acompañado por el gobernador local en un carruaje mientras era exiliado. Cuando el vehículo pasaba por la ciudad, los ciudadanos, enfurecidos porque les quitaban a su piadoso Jerarca, arrojaron piedras al gobernador. Avergonzando a sus adversarios con su perdón y mansedumbre, San Melecio cubrió la cabeza del gobernador con su manto para protegerlo de las piedras.
+
+Desterrado a Armenia, cerca de Capadocia, Melecio conoció a Basilio el Grande y lo ordenó al diaconado. Al regresar a Antioquía en 379, convocó un Sínodo en el que se afirmó la Fe Nicena y ordenó a San Juan Crisóstomo como lector y diácono.
+
+En 381, San Melecio presidió el Segundo Concilio de Constantinopla y fue recibido con gran honor por los Santos Padres. Este sínodo eligió a San Gregorio de Nacianzo como Obispo de Constantinopla, confirmó el Credo Niceno y condenó al hereje Macedonio, Patriarca de Constantinopla que negaba la divinidad del Espíritu Santo.
+
+Mientras asistía al Sínodo, San Melecio enfermó y reposó poco tiempo después. San Gregorio de Nisa pronunció una conmovedora oración fúnebre en su funeral.`
+		}
+		],
+		"02-13": [
+		{
+		    name: "Santos Áquila y Priscila.",
+		    title: "Apóstoles de los Setenta y colaboradores de San Pablo.",
+		    img: "Img/ÁquilaPriscila.webp",
+		    desc: `Hoy conmemoramos a los Santos Apóstoles y Mártires Áquila y Priscila, de los Setenta. Este santo matrimonio se contó entre los primeros misioneros cristianos conocidos del siglo I.
+
+El Santo Apóstol Áquila era judío, nacido en la región del Ponto, en el Mar Negro. Fabricante de tiendas de oficio, Áquila vivía en Italia con su esposa Priscila, pero la pareja huyó a Corinto después de que el emperador Claudio (41-54) emitiera un edicto expulsando a todos los judíos de Roma (Hechos 18:2).
+
+En Corinto, Áquila encontró al Santo Apóstol Pablo, quien predicaba allí el Evangelio a los gentiles. Al descubrir el Apóstol Pablo que eran fabricantes de tiendas, el mismo oficio que él, se alojó con ellos y trabajaron juntos (Hechos 18:3).
+
+Después de recibir el Santo Bautismo de manos del Santo Apóstol, Áquila y Priscila se convirtieron en sus celosos discípulos y lo acompañaron en sus viajes misioneros a Asia, Acaya y Heraclea.
+
+Estando en Éfeso, Pablo les instruyó que continuaran predicando el Evangelio mientras él iba a Jerusalén para estar presente en la fiesta de Pentecostés. Pablo amaba a estos dos Apóstoles, primero por su virtud y también por su fe en Cristo.
+
+Tras la muerte del emperador Claudio, se permitió a los judíos regresar a Italia, y Áquila y Priscila volvieron entonces a Roma. Según la tradición, Áquila no permaneció mucho tiempo en Roma, pues se dice que el Apóstol Pablo lo instituyó Obispo en Asia Menor.
+
+En su Epístola a los Romanos, Pablo recuerda a sus fieles discípulos: "Saludad a Priscila y a Aquila, mis colaboradores en Cristo Jesús, que expusieron su vida por mí; a los cuales no sólo yo doy gracias, sino también todas las iglesias de los gentiles" (Romanos 16:3-4).
+
+Hasta el final de sus vidas terrenales, los bienaventurados Áquila y Priscila predicaron incansablemente el Evangelio y convirtieron a muchos paganos a Cristo. Al tiempo que destruían los ídolos paganos, ganaron muchos conversos mediante su capacidad para obrar milagros.
+
+Habiendo sido capturados por los paganos, la bendita pareja recibió finalmente sus coronas de martirio por decapitación.`
+		}
+		],
+		"02-14": [
+		{
+		    name: "San Auxendio.",
+		    title: "Noble Eremita y Taumaturgo de Calcedonia.",
+		    img: "Img/Auxendio.webp",
+		    desc: `Fue un noble muy distinguido entre los patricios y cortesanos del emperador Teodosio el Joven en Constantinopla. Ardiendo por amor a Cristo, Auxendio fue tonsurado monje y se quedó por un corto tiempo en Constantinopla. Cuando empezaron a elogiarlo, huyó y se instaló en el monte Skopa cerca de Calcedonia, que fue llamado a posteriori el Monte de Auxendio. Su deseo de permanecer allí escondido de la gente no fue cumplido, porque algunos pastores lo descubrieron y lo revelaron a los demás. Empezaron a llevarle enfermos para que lo curara. Curó a muchos: devolvió la vista a un ciego; limpió a los leprosos ungiéndolos con aceite; levantó a los paralíticos; y liberó a muchos endemoniados. Todo esto era motivo de admiración, sin embargo su humildad era motivo de mayor admiración. Cada vez que le pedían que curara a alguien, él se defendía con estas palabras: “Yo soy un hombre pecador”. Pero, presionado por la cantidad de ruegos, se acercaba a sanar de esta manera: o invitaba a todos los presentes para que oraran a Dios junto con él por el enfermo; o fortalecía la fe de los presentes y luego les decía que Dios les concediera según su fe; o rezaba sobre la cabeza del enfermo diciendo: “El Señor Jesucristo te cura”. Todo eso lo hacía, solamente para que nadie le atribuyera el milagro a él sino a Dios Todopoderoso. Participó en el IV Concilio Ecuménico en Calcedonia en el año 451, y defendió firmemente la fe ortodoxa contra la herejía de Eutijio y de Nestorio. En el año 470, ya en alta vejez, el Señor recibió su alma joven, mientras que su cuerpo anciano se quedó en la tierra en la que había sido creado.`
+		}
+		],
+		"02-15": [
+		{
+		    name: "San Antimos de Quíos.",
+		    title: "El siervo de los leprosos y fundador de Panagia Voithia.",
+		    img: "Img/AntimosQuíos.webp",
+		    desc: `Hoy conmemoramos a San Antimos de Quíos.
+
+San Antimos nació con el nombre de Argirios en la isla de Quíos en 1869, en el seno de una familia de campesinos devotos. A los 19 años, visitó la Skete de los Santos Padres fundada por el Anciano Pacomio, quien fue el padre espiritual de San Nectario.
+
+Con la bendición del Higúmeno Pacomio, Argirios regresó a casa y construyó una pequeña cabaña donde moraba en oración ante un icono de la Madre de Dios conocido como Panagia Voithia "la Auxiliadora", que recibió de su madre.
+
+Argirios fue tonsurado monje por el Anciano Pacomio con el nombre de Antimos, pero debido a una enfermedad regresó a su hogar. Mientras cuidaba de sus ancianos padres y trabajaba como zapatero, el monje Antimos pasaba las noches en oración y subsistía solo a base de pan y agua durante largos períodos.
+
+Inspirándose en la lectura de las vidas de los grandes ascetas, pudo vencer todo asalto del diablo. Un número creciente de visitantes acudía a su ermita y a su icono milagroso de la Theotokos. En 1909, recibió el Gran Esquema.
+
+Debido a su popularidad entre la gente de Quíos, estos deseaban que fuera ordenado sacerdote, pero su obispo se negó, alegando que Antimos carecía de la educación necesaria. Ante la insistencia del padrino de Antimos, el Obispo de Esmirna lo ordenó en 1910.
+
+Tras una peregrinación al Monte Athos, el Padre Antimos fue nombrado capellán en un hospital de leprosos en Quíos. Bajo su guía, el hospital pronto se convirtió en un centro espiritual, funcionando tanto como monasterio como hospital. Atendía con gran cuidado a los enfermos y obraba muchos milagros de curación. Algunos de sus pacientes recuperados se convirtieron en monjes o monjas, siendo el más notable San Nicéforo el Leproso.
+
+Durante el intercambio de población greco-turco de 1923, los refugiados llegaron en masa a Quíos, muchos de ellos monjas y niñas indigentes. En respuesta a una visión de la Madre de Dios, Antimos construyó un monasterio en 1927 dedicado a Panagia Voithia, que pronto albergó a 80 monjas.
+
+Sirviendo como sacerdote allí durante más de 30 años, San Antimos continuó obrando milagros de curación y recibía a muchos visitantes —hasta 70 al día— que buscaban su consejo. Retirándose a su celda cerca del final de su vida, San Antimos reposó en este día en 1960 a la edad de 91 años.`
+		}
+		],
+		"02-16": [
+		{
+		    name: "Los doce santos mártires de Cesárea.",
+		    title: "Guardianes de las Escrituras y Confesores de la Verdad.",
+		    img: "Img/mártiresCesárea.webp",
+		    desc: `En tiempos del emperador Diocleciano. El primero de ellos, Pamfilio, hombre culto y de la nobleza, fue presbítero de la Iglesia de Cesárea de Palestina. Corrigió los errores de los distintos transcriptores del texto del Nuevo Testamento; transcribió este libro de la salvación y lo repartió a todos aquellos que lo querían. El segundo fue el diácono Valentino, anciano pero lleno de sabiduría. Fue un excelente conocedor de las Sagradas Escrituras y las sabía casi de memoria. El tercero fue Pablo, hombre honorable y distinguido, quien una vez fue echado al fuego en nombre de Cristo. Junto a ellos, había cinco hermanos más, hermanos en la carne y en el espíritu, nacidos en Egipto, que regresaban a su patria luego de haber terminado su forzado trabajo en la mina de Cilicio. En la puerta de la ciudad de Cesárea, declararon que eran cristianos, por lo que fueron presentados ante la corte. A la pregunta ¿cómo se llaman?, respondieron: “Hemos descartados los nombres páganos que nuestra madre nos dio, pero nos llamamos: Elías, Isaías, Jeremías, Samuel y Daniel.” A la pregunta ¿de dónde vienen?, contestaron: “De la Jerusalén de lo alto”. Todos fueron decapitados junto a un joven, Porfirio, quien buscaba sus restos para enterrarlos y quien fue quemado vivo en el fuego como así también Seleucus, anteriormente un oficial que se había acercado a los mártires, besándolos antes que la espada cortara sus cabezas. También el anciano Teódulo, el servidor del juez romano, quien besó a uno de los mártires durante el funeral. Y finalmente Julián, quien elogiaba los restos de los mártires y los besaba. Así dieron poco a cambio de mucho, lo barato a cambio de lo precioso, lo mortal a cambio de la inmortalidad, y partieron a la morada del Señor en el año 308.`
+		}
+		],
 };
