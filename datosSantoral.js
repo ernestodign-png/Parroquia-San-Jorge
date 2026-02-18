@@ -2352,4 +2352,4 @@ A Ti, Señor, todopoderoso e invencible, rendimos gloria y agradecimiento por lo
 Amén.`
 		}
 		],
-};
+}
