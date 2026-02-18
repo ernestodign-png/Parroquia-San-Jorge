@@ -2314,4 +2314,42 @@ Sirviendo como sacerdote allí durante más de 30 años, San Antimos continuó o
 		    desc: `En tiempos del emperador Diocleciano. El primero de ellos, Pamfilio, hombre culto y de la nobleza, fue presbítero de la Iglesia de Cesárea de Palestina. Corrigió los errores de los distintos transcriptores del texto del Nuevo Testamento; transcribió este libro de la salvación y lo repartió a todos aquellos que lo querían. El segundo fue el diácono Valentino, anciano pero lleno de sabiduría. Fue un excelente conocedor de las Sagradas Escrituras y las sabía casi de memoria. El tercero fue Pablo, hombre honorable y distinguido, quien una vez fue echado al fuego en nombre de Cristo. Junto a ellos, había cinco hermanos más, hermanos en la carne y en el espíritu, nacidos en Egipto, que regresaban a su patria luego de haber terminado su forzado trabajo en la mina de Cilicio. En la puerta de la ciudad de Cesárea, declararon que eran cristianos, por lo que fueron presentados ante la corte. A la pregunta ¿cómo se llaman?, respondieron: “Hemos descartados los nombres páganos que nuestra madre nos dio, pero nos llamamos: Elías, Isaías, Jeremías, Samuel y Daniel.” A la pregunta ¿de dónde vienen?, contestaron: “De la Jerusalén de lo alto”. Todos fueron decapitados junto a un joven, Porfirio, quien buscaba sus restos para enterrarlos y quien fue quemado vivo en el fuego como así también Seleucus, anteriormente un oficial que se había acercado a los mártires, besándolos antes que la espada cortara sus cabezas. También el anciano Teódulo, el servidor del juez romano, quien besó a uno de los mártires durante el funeral. Y finalmente Julián, quien elogiaba los restos de los mártires y los besaba. Así dieron poco a cambio de mucho, lo barato a cambio de lo precioso, lo mortal a cambio de la inmortalidad, y partieron a la morada del Señor en el año 308.`
 		}
 		],
+		"02-18": [
+		{
+		    name: "San León I.",
+		    title: "Papa de Roma, "El Salvador de Roma y Columna de la Ortodoxia"",
+		    img: "Img/LeónPapa.webp",
+		    desc: `Nació en Italia, hijo de padres devotos. En sus comienzos, fue archidiácono del papa Sixto III, y tras la muerte de este, fue elevado, contra su voluntad, al trono papal de Roma. Cuando Atila, junto a los hunos, llegaron a las cercanías de Roma, con el propósito de destruir y quemar la ciudad, fueron recibidos por León quien se presentó vestido con su ornamento episcopal y calmó la ira del jefe de los hunos salvando a Roma de la destrucción. Si Atila aceptó el consejo de este santo hombre, fue porque se asustó enormemente al ver a los apóstoles Pedro y Pablo de pie al lado del mismo Papa León con espadas de fuego amenazando a Atila. Y no solamente León salvó a Roma, sino que ayudó mucho a la salvación de la fe ortodoxa de la herejía de Eutiquio y Dióscoro. Esta herejía confundía las dos naturalezas de Cristo (divina y humana) en una sola, negando las dos voluntades en una misma persona, la de Jesucristo. Por eso se convocó al IV Concilio Ecuménico en Calcedonia, en la cual se leyó la epístola que León había escrito y colocado en la tumba del Apóstol Pedro, y que el mismo Apóstol había corregido. Se cuenta que, antes de su muerte, León pasó cuarenta días en ayuno y oración ante la tumba del Apóstol Pedro, suplicándole que le mostrara sus pecados y que fueran perdonados. El apóstol se le apareció y le dijo que todos sus pecados habían sido perdonados, excepto los pecados de la ordenación de clérigos cuando era claro cuán grave es ordenar a un clérigo indigno. El santo cayó otra vez en oración hasta que fue informado que estos pecados también habían sido perdonados. Entonces entregó tranquilamente su alma al Señor en el año 461.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+A través de muchas dificultades, y aún más con muchos esfuerzos y sacrificios, se ha llegado a separar la cizaña de la herejía del trigo, de la verdad de la fe ortodoxa. Desde siempre, los heréticos utilizaban medios bajos y personas viles para minar la fe ortodoxa. El archimandrita de Constantinopla Eutiquio y el patriarca alejandrino Dióscoro, propagaban la enseñanza herética, según la cual Jesucristo no tenía dos naturalezas, divina y humana, sino una. Además ambos tenían como aliado en la corte del emperador a un vil eunuco Crisafio, mientras que la emperatriz Eudocia estaba secretamente alineada con ellos. La fe ortodoxa era defendida con la fuerza de un león, por un intrépido patriarca, Flavian, quien recibía ayuda de santa Pulquería, la hermana del emperador. El eunuco presentaba ante el emperador Teodosio las más desagradables calumnias contra Flavian, con la sola intención de que el emperador destituyera al patriarca de su trono e instituyera en su lugar al herético Eutiquio. Al fracasar con este intento y otros más, los heréticos decidieron matar a Flavian. Así, en el Concilio herético de Éfeso, golpearon y pisotearon a Flavian y al tercer día entregó su alma a Dios. ¿Qué pasó al final? En el IV Concilio Ecuménico, Eutiquio y Dióscoro fueron anatematizados. El eunuco fue expulsado de la corte y terminó su vida vergonzosamente. La emperatriz Eudocia fue exiliada de Constantinopla a Palestina. Flavian y Pulquería fueron proclamados santos. Y la fe ortodoxa fue victoriosamente confirmada.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo en medio de los fariseos y escribas:
+
+1. Cómo Él hizo todo lo posible para rescatar a los fariseos y escribas y salvarlos, y cómo ellos hicieron todo lo posible para derrocarlo y matarlo a Él;
+
+2. Cómo Él quería corregir todos sus pensamientos y palabras, y cómo ellos hicieron todo para torcer Sus pensamientos y palabras;
+
+3. Cómo Él estaba triste por no poder despertarlos, y cómo ellos estaban tristes por no poder aniquilarlo.
+
+
+SERMÓN: Sobre la lucha de los impotentes con el Todopoderoso
+
+“Los sumos sacerdotes acordaron dar muerte también a Lázaro” (Juan 12:10)
+
+Los sumos sacerdotes se pusieron de acuerdo, primero, para matar al Creador, y luego a Su obra. Lázaro fue la obra de Jesucristo, cuando lo resucitó. ¿Qué significa, pensaron astutamente, matar al Milagroso y dejar vivo al testigo de Su milagro más grande? Pues el pueblo los señalaría a ellos como criminales. Sin embargo, sucedió que mataron a Jesucristo y fracasaron con Lázaro. ¿Y entonces qué? Entonces ellos, junto a otros que compartían sus intenciones, mataron a decenas de Sus apóstoles y fracasaron con centenares de ellos. Luego mataron a miles y fracasaron con cientos de miles. Luego mataron a cientos de miles y fracasaron con millones. Al final, quedó claro que, pese a todo, aún los muertos resucitaron a la vida como la hierba segada, y los condenados a morir ante la cara de los asesinos crecieron como la hierba sembrada. En vano, el sabio Gamaliel dijo: “…más si es de Dios, no lo podrán destruir” (Hechos 5:39). Los combatientes contra Dios a través de los siglos afilaban en vano su propia impotencia para cortar la siembra de Dios, sin embargo, cuanto más ellos la cortaban, la siembra de Dios crecía y abundaba.
+
+¡Oh dementes combatientes contra Jesucristo, de aquel tiempo y de hoy, su bastón es tirado fuera de la ciudad de Jesucristo, pega su propia cabaña, la destruye y la convierte en polvo y ceniza! Han tenido, a través de los siglos, muchos aliados: además del diablo tuvieron a su lado a heréticos, paganos, fanáticos, videntes y adivinadores, príncipes disolutos y ricos, tiranos, etc. Han sido vencidos hasta hoy, y sin dudas, todos sus aliados, junto con ustedes, lo serán al final de los tiempos.
+
+A Ti, Señor, todopoderoso e invencible, rendimos gloria y agradecimiento por los siglos de los siglos.
+Amén.`
+		}
+		],
 };
