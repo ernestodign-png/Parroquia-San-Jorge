@@ -2352,4 +2352,62 @@ A Ti, Señor, todopoderoso e invencible, rendimos gloria y agradecimiento por lo
 Amén.`
 		}
 		],
+		"02-19": [
+		{
+		    name: "Santa Filotea de Atenas.",
+		    title: "Conmemoración de la Nueva Mártir y Protectora de los Oprimidos.",
+		    img: "Img/SantaFilotea.webp",
+		    desc: `Hoy conmemoramos a la Santa Nueva Mártir Filotea de Atenas.
+
+Santa Filotea nació con el nombre de Revoula en Atenas, en 1522, en el seno de la eminente y acaudalada familia Venizelos. Desde niña mostró una notable inclinación hacia las virtudes monásticas, pero, contra su voluntad, fue casada con un noble a los 14 años.
+
+El esposo de Revoula era un hombre duro y violento; sin embargo, ella soportó los malos tratos con gran paciencia. Después de tres años, la muerte de su tiránico marido la liberó de los vínculos matrimoniales y comenzó a dedicarse a la oración, el ayuno y la vigilia mientras permanecía bajo el techo de sus padres.
+
+Tras el fallecimiento de sus progenitores, y por la inspiración de una visión del Santo Apóstol Andrés, Revoula utilizó su fortuna heredada para fundar un convento dedicado al Apóstol. En este monasterio, recibió la tonsura monástica con el nombre de Filotea ("amiga de Dios").
+
+También fundó muchas otras instituciones de caridad, incluyendo un hospital, hospicios para pobres y ancianos, y escuelas donde los niños y niñas de Atenas pudieran recibir una educación cristiana. Entregaba limosnas generosamente a los pobres y atendía con compasión a los enfermos.
+
+Uno de sus actos más valientes fue la compra de la libertad de atenienses (particularmente mujeres y niños) que habían sido tomados por los turcos como esclavos y concubinas. Ofrecía comida y refugio a estas mujeres jóvenes (a menudo embarazadas) y ayudó a muchas a escapar en secreto a las islas cercanas de Tzia, Andros, Egina y Salamina.
+
+Una noche, cuatro mujeres esclavizadas en harenes huyeron de su amo turco y hallaron refugio en el monasterio de Santa Filotea. Cuando los turcos descubrieron esto, arrastraron a Santa Filotea ante un juez; al ser instada a renegar de Cristo o sufrir la muerte, ella proclamó con alegría su deseo de completar su martirio por amor a Cristo.
+
+La Santa fue liberada de la prisión después de que sus amigos pagaran para asegurar su excarcelación. Regresó brevemente a su monasterio, pero su influencia sobre el pueblo había despertado el odio de los turcos. Una noche, irrumpieron en el monasterio durante una vigilia nocturna y la golpearon severamente. Murió a causa de sus heridas en este día, en 1589.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+Aquí tenés el texto con la separación de párrafos exacta, respetando la estructura visual original:
+
+Reflexión:
+San Antonio enseña: “Tal como el hombre sale desnudo de las entrañas de su madre, así también el alma sale desnuda del cuerpo. Un alma es pura y brilla, otra está sucia por los pecados, y otra es negra por la multitud de los pecados… Tal como al salir de las entrañas no recuerdas nada de lo que pasaba en las entrañas, así también, al salir del cuerpo no recordarás nada de lo que acontecía en el cuerpo. Tal como al salir de las entrañas llegarás a ser mejor y más hermoso que en las entrañas, así también al salir del cuerpo, serás mejor y más hermoso en los Cielos. Tal como el cuerpo, al salir de las entrañas de una madre carente de salud, no puede vivir, así también el alma, si no alcanza el conocimiento de Dios a través del buen comportamiento, no puede salvarse ni estar en comunión con Dios. El órgano de la vista corporal es el ojo, mientras que el órgano de la vista espiritual es la mente. Tal como el cuerpo es ciego sin ojos, así también el alma es ciega sin una mente correcta y una vida correcta”.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo en medio de gente común:
+
+1. Cómo, con amor, Él enseña al pueblo como los padres enseñan a sus hijos;
+
+2. Cómo la gente común recibe Sus palabras, se sorprende por Sus obras y glorifica a Dios;
+
+3. Cómo, aún hoy, la gente común, libre de corrupción, recibe Sus palabras con alegría y agradecimiento.
+
+
+SERMÓN: Sobre la prueba
+
+“El que es fiel en lo poco, también es fiel en lo mucho, y el que es deshonesto en lo poco, también es deshonesto en lo mucho.” (Lucas 16:10)
+
+Así habla el Anfitrión tanto del mundo material como del mundo espiritual. Designa a la riqueza material con “poco”, mientras que a la riqueza espiritual la designa con “mucho”. A quien se le da riqueza material pero se muestra egoísta, duro, soberbio, sin compasión y sin piedad, a este no se le puede dar riquezas espirituales, porque, al ser infiel en lo poco, será infiel en lo mucho; y si es infiel en lo material, será infiel en lo espiritual.
+
+El ser humano pasa una prueba en un mundo ajeno, y si lo pasa, recibirá su propio mundo; mientras que si fracasa, ¿quién le dará su propio mundo? Pues el verdadero mundo del ser humano, su patria, está en el alto, el mundo divino. En cambio, el mundo terrenal es el mundo de lo superfluo y de la corrupción; es un mundo extranjero para el ser humano. Pero él ha sido enviado a este mundo extranjero para pasar una prueba, para pasar a su mundo verdadero, a su patria celestial.
+
+Ambas expresiones del Salvador, pues, tienen el mismo significado. ¡Cuán profundo y verdadero es Su significado! Como la luz disipa la oscuridad, así también estas palabras del Salvador disipan nuestra confusión en cuanto a esta cuestión: ¿Por qué fuimos enviados a este mundo? ¿Y qué tenemos que hacer? Para aquel que sabe leer con una mente pura, todo está dicho en estas dos expresiones.
+
+Entonces, tengamos bien presente que Dios no da sus dones espirituales – es decir el don de la comprensión, de la fe, del amor, de la pureza, de la profecía, de los milagros, de la autoridad sobre los demonios, del discernimiento, de la visión del mundo celestial - a aquel que ha jugado y utilizado estos dones para hacer lo malo - como pasó con el hijo pródigo -, junto al don de la salud física, la riqueza material, la gloria, la posición social entre la gente, el conocimiento del mundo material, o alguna otra habilidad, memoria o talento.
+
+Oh Señor, el más tierno, sostén nuestra fidelidad a Ti en todo aquello que Tú nos has confiado. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 }
