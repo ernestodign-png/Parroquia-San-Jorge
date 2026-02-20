@@ -2410,4 +2410,34 @@ Entonces, tengamos bien presente que Dios no da sus dones espirituales – es de
 Oh Señor, el más tierno, sostén nuestra fidelidad a Ti en todo aquello que Tú nos has confiado. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-20": [
+		{
+		    name: "San León el Taumaturgo de Catania.",
+		    title: "Defensor de la Fe y Vencedor de la Idolatría",
+		    img: "Img/SanLeónTaumaturgo.webp",
+		    desc: `Hoy conmemoramos a San León el Taumaturgo, Obispo de Catania.
+
+San León nació en Rávena, Italia, de padres piadosos y nobles. Fue célebre por su benevolencia y caridad, así como por su amor cristiano hacia los pobres y los errantes. Tras completar sus estudios, fue ordenado sacerdote en Rávena. Debido a su pureza y vida espiritual ejemplar, fue consagrado Obispo de Catania, en Sicilia.
+
+San León fue protector de huérfanos y viudas, y un sabio pastor de su rebaño. Se distinguió también por su lucha contra los herejes, a quienes derrotó y avergonzó mediante sus palabras y escritos. El Señor lo honró con el don de sanar personas de diversas enfermedades y de realizar milagros. Por sus oraciones, en una ocasión derribó y destruyó un ídolo pagano.
+
+Durante el episcopado de San León, vivía en Catania un hechicero llamado Heliodoro, quien engañaba a la gente con milagros fraudulentos. Alguna vez fue cristiano, pero luego negó al Salvador y se convirtió en siervo del demonio. San León instó a Heliodoro a abstenerse de sus malas acciones y regresar a Dios, pero todo fue en vano.
+
+Un día, Heliodoro entró audazmente en la iglesia donde el obispo realizaba los Divinos Oficios e intentó crear un disturbio, sembrando confusión y tentación con su brujería. Al ver al pueblo asediado por demonios bajo el hechizo del brujo, San León comprendió que el tiempo de la exhortación mansa había pasado.
+
+Salió del altar, ató su omoforio alrededor del cuello del hechicero y lo condujo fuera de la iglesia hacia la plaza de la ciudad. Allí obligó a Heliodoro a confesar todas sus iniquidades. Luego ordenó que se encendiera una hoguera y saltó a las llamas junto con el hechicero. Permanecieron allí hasta que Heliodoro fue consumido por el fuego. Sin embargo, San León, por la gracia de Dios, resultó ileso ante las llamas.
+
+Este milagro asombró a todos, y el santo se hizo renombrado en todo el imperio. Por ello, fue invitado a visitar Constantinopla por los emperadores León IV (775 - 780) y su hijo Constantino VI (780 - 797), donde recibió muchos honores. El Santo Taumaturgo reposó pacíficamente en el año 785.`
+		},
+		{
+		    name: "La Parábola de la Levadura",
+		    title: "La Transformación Interior por la Gracia Divina",
+		    img: "Img/ParábolaLevadura.webp",
+		    desc: `«Otra parábola les dijo: "El reino de los cielos es semejante a la levadura que tomó una mujer y escondió en tres medidas de harina, hasta que todo quedó leudado"». (Mateo 13:33).
+
+Esta parábola, pronunciada por nuestro Señor Jesucristo, revela el poder oculto y transformador de Su reino celestial. Así como la levadura no se ve y actúa interiormente para transformar la masa en pan, el reino de los cielos no viene con espectáculo ni fuerza externa, sino que actúa de forma interna, transformándonos gradualmente a través de la oración, el arrepentimiento y el ayuno. Las «tres medidas de harina» significan la plenitud de nuestro ser (cuerpo, alma y espíritu), llamados a participar en la vida divina.
+
+Incluso en el uso que la Iglesia hace del pan leudado para la Eucaristía, vemos esta imagen de Cristo Resucitado que da vida y levanta lo que ha caído. La parábola nos recuerda que, si permitimos que Cristo habite en nuestro interior, Su gracia no permanecerá parcial ni dormida, sino que continuará actuando hasta que cada parte de nuestro ser sea leudada y renovada.`
+		}
+		],
 }
