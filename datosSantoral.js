@@ -2439,5 +2439,23 @@ Esta parábola, pronunciada por nuestro Señor Jesucristo, revela el poder ocult
 
 Incluso en el uso que la Iglesia hace del pan leudado para la Eucaristía, vemos esta imagen de Cristo Resucitado que da vida y levanta lo que ha caído. La parábola nos recuerda que, si permitimos que Cristo habite en nuestro interior, Su gracia no permanecerá parcial ni dormida, sino que continuará actuando hasta que cada parte de nuestro ser sea leudada y renovada.`
 		}
+		"02-23": [
+		{
+		    name: "San Policarpo de Esmirna",
+		    title: "El Discípulo Amado y el Testimonio del Fuego",
+		    img: "Img/PolicarpoEsmirna.webp",
+		    desc: `Hoy conmemoramos al glorioso Hieromártir San Policarpo de Esmirna. Fue obispo de la Iglesia primitiva y discípulo de San Juan el Teólogo. Se le considera uno de los tres principales Padres Apostólicos, junto con San Clemente de Roma y San Ignacio de Antioquía.
+
+San Policarpo nació en el año 69 d.C. y vivió en Esmirna, Asia Menor (actual Izmir, Turquía). Huérfano a temprana edad, fue criado por una viuda piadosa. Tras la muerte de su madre adoptiva, Policarpo entregó sus posesiones y comenzó a llevar una vida casta, cuidando a los enfermos y desvalidos.
+
+San Ireneo de Lyon nos informa que Policarpo fue convertido por los apóstoles, fue discípulo de Juan el Teólogo y se comunicó con muchos que habían visto a Cristo. También fue un compañero cercano de San Bucolo, el primer obispo de Esmirna, quien lo ordenó sacerdote. Poco antes de la muerte de San Bucolo, este solicitó que Policarpo lo sucediera como obispo de Esmirna.
+
+Liderando a su rebaño con celo apostólico, Policarpo gozaba de gran estima por parte de San Ignacio, quien le escribió una epístola durante su traslado desde Antioquía hacia su ejecución en Roma: «Los tiempos te reclaman, tal como los pilotos requieren los vientos y como un marinero sacudido por la tormenta necesita un puerto, para que tanto tú [como los que están a tu cargo] podáis alcanzar a Dios».
+
+Cuando el emperador Antonino Pío (138-161 d.C.) inició una persecución contra los cristianos, Policarpo fue capturado por soldados y llevado ante el procónsul. Confesando firmemente su fe en Cristo, fue atado a la pira para ser quemado.
+
+Al ver que las llamas no causaban daño al santo, los paganos lo apuñalaron, y así San Policarpo entregó su alma en el año 155 d.C., a la edad de 86 años. Su muerte se relata en el manuscrito del siglo II llamado el «Martirio de Policarpo», considerado el relato posbíblico genuino más antiguo de un martirio cristiano.
+
+La única obra sobreviviente de San Policarpo es su Epístola a los Filipenses, escrita en respuesta a la petición de estos por las cartas del hieromártir Ignacio que él tenía en su poder. En la carta, San Policarpo ofrece prescripciones sobre cómo debe organizarse y conducirse la comunidad cristiana.`
 		],
 }
