@@ -2460,4 +2460,4 @@ Al ver que las llamas no causaban daño al santo, los paganos lo apuñalaron, y 
 La única obra sobreviviente de San Policarpo es su Epístola a los Filipenses, escrita en respuesta a la petición de estos por las cartas del hieromártir Ignacio que él tenía en su poder. En la carta, San Policarpo ofrece prescripciones sobre cómo debe organizarse y conducirse la comunidad cristiana.`
 		}
 		],
-}
+};
