@@ -2438,7 +2438,8 @@ Este milagro asombró a todos, y el santo se hizo renombrado en todo el imperio.
 Esta parábola, pronunciada por nuestro Señor Jesucristo, revela el poder oculto y transformador de Su reino celestial. Así como la levadura no se ve y actúa interiormente para transformar la masa en pan, el reino de los cielos no viene con espectáculo ni fuerza externa, sino que actúa de forma interna, transformándonos gradualmente a través de la oración, el arrepentimiento y el ayuno. Las «tres medidas de harina» significan la plenitud de nuestro ser (cuerpo, alma y espíritu), llamados a participar en la vida divina.
 
 Incluso en el uso que la Iglesia hace del pan leudado para la Eucaristía, vemos esta imagen de Cristo Resucitado que da vida y levanta lo que ha caído. La parábola nos recuerda que, si permitimos que Cristo habite en nuestro interior, Su gracia no permanecerá parcial ni dormida, sino que continuará actuando hasta que cada parte de nuestro ser sea leudada y renovada.`
-		},
+		}
+		],
 		"02-23": [
 		{
 		    name: "San Policarpo de Esmirna",
