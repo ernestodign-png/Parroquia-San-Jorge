@@ -2457,5 +2457,6 @@ Cuando el emperador Antonino Pío (138-161 d.C.) inició una persecución contra
 Al ver que las llamas no causaban daño al santo, los paganos lo apuñalaron, y así San Policarpo entregó su alma en el año 155 d.C., a la edad de 86 años. Su muerte se relata en el manuscrito del siglo II llamado el «Martirio de Policarpo», considerado el relato posbíblico genuino más antiguo de un martirio cristiano.
 
 La única obra sobreviviente de San Policarpo es su Epístola a los Filipenses, escrita en respuesta a la petición de estos por las cartas del hieromártir Ignacio que él tenía en su poder. En la carta, San Policarpo ofrece prescripciones sobre cómo debe organizarse y conducirse la comunidad cristiana.`
+		}
 		],
 }
