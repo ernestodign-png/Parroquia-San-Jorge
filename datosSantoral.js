@@ -2460,4 +2460,62 @@ Al ver que las llamas no causaban daño al santo, los paganos lo apuñalaron, y 
 La única obra sobreviviente de San Policarpo es su Epístola a los Filipenses, escrita en respuesta a la petición de estos por las cartas del hieromártir Ignacio que él tenía en su poder. En la carta, San Policarpo ofrece prescripciones sobre cómo debe organizarse y conducirse la comunidad cristiana.`
 		}
 		],
+		"02-24": [
+		{
+		    name: "Primer y segundo encuentro de la preciosa cabeza de San Juan Bautista",
+		    title: "El Precursor y Mártir de Reliquias Milagrosas",
+		    img: "Img/Precursor.webp",
+		    desc: `El grande y famoso San Juan Bautista fue decapitado según el deseo y la inducción de la maliciosa Herodías, la mujer de Herodes. Cuando Juan fue decapitado, Herodías ordenó que su cabeza no fuera enterrada junto con el cuerpo, porque tenía miedo de que el ilustre profeta resucitara de alguna manera. Por eso tomó su cabeza y la enterró en un lugar muy profundo, secreto y abandonado.
+
+Su sirvienta era Juana, la mujer de Chuza, el sirviente de Herodes. Esta buena y devota mujer no podía soportar que la cabeza del hombre de Dios se quedara en un lugar abandonado, así que lo exhumó secretamente y lo llevó a Jerusalén para enterrarlo en el Monte de los Olivos. Desconociendo todo de esto, el emperador Herodes, al tomar conciencia de Jesús y de sus grandes milagros, se espantó y dijo: “Este es Juan, al que he decapitado, que ha resucitado de entre los muertos” (Marcos 6:16).
+
+Después de un tiempo considerable, un eminente propietario, al creer en Cristo, dejó su rango y la soberbia del mundo, y se fue a vivir al Monte de los Olivos, justamente en el lugar donde la cabeza del Bautista había sido enterrada. Queriendo edificar una celda para sí mismo, excavó profundamente y encontró una olla hecha de arcilla y dentro de ella una cabeza, y le fue revelado misteriosamente que era la cabeza de Juan el Bautista. La besó y la devolvió a su lugar.
+
+Según la providencia de Dios, esta reliquia milagrosa, la cabeza de San Juan, viajó de un lugar a otro hasta hundirse en la oscuridad del olvido, y volver a revelarse nuevamente. Finalmente, en tiempos del Patriarca Ignacio y la devota emperatriz Teodora, la madre de Miguel y la mujer de Teófilo, la reliquia fue trasladada a Constantinopla. Muchas curaciones milagrosas sucedieron por medio de ella.
+
+Es importante e interesante recordar que, mientras San Juan vivía, no había hecho ningún milagro (Juan 10:41); sin embargo, sus reliquias han sido investidas de un poder milagroso.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+No es bueno para nosotros que nuestros maestros y amigos hagan todo según nuestra voluntad. San Juan Mosco escribe sobre una destacada mujer, descendiente de una familia de senadores, que visitó Tierra Santa:
+
+Al llegar a Cesárea, decidió quedarse allí y se dirigió al obispo con esta súplica: “Dame una servidora para que me enseñe el temor a Dios”. El obispo le presentó una virgen humilde.
+
+Al pasar un tiempo, el obispo encontró a aquella mujer y le preguntó: “¿Cómo está la virgen que te he presentado?”. “Está bien”, respondió la mujer, “pero me beneficia muy poco, porque me deja hacer mi voluntad; y eso se debe a que ella es muy humilde y yo necesito que me reproche y que no me deje hacer todo lo que yo quiero”.
+
+El obispo le presentó otra virgen, con carácter bastante fuerte, quien empezó a reprocharle a la mujer llamándola “insensata rica” y cosas similares. Después de un tiempo, el obispo le volvió a preguntar a la mujer: “¿Y cómo se comporta esta virgen contigo?”.
+
+“En verdad, ella beneficia a mi alma”, respondió la senadora. Así, ella llegó a la mansedumbre.
+
+(Extracto del Prado Espiritual, de Juan Mosco).
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como piedra de tropiezo:
+
+1. Para la vanidad de los pecadores, es decir, para la mente pervertida de la gente que piensa sensualmente y carnalmente y se opone a la mente de Cristo;
+
+2. Para el amor a sí mismo de los pecadores, es decir, para el corazón pervertido de la gente, que no recibe en sí ni el amor a Dios, ni el amor a la gente;
+
+3. Para el capricho de los pecadores, es decir, para la voluntad pervertida de la gente, que como tal, se opone a la voluntad de Dios.
+
+
+SERMÓN: Sobre el arrepentimiento y el perdón de los pecados
+
+“Y que se predicara en su nombre el arrepentimiento y el perdón de los pecados” (Lucas 24: 47)
+
+Este es la instrucción final que el Salvador dio a los santos Apóstoles. Con estas palabras, como en la cáscara de una nuez, se encuentra el contenido del Evangelio de la reconciliación de Dios con los hombres. ¿Qué pide Dios a los hombres y qué es lo que les da? Pide la reconciliación y otorga el perdón de los pecados. Pide poco y da todo. Que solamente se arrepientan por los pecados cometidos y que dejen de pecar, y a cambio recibirán todo de Dios; no solamente todo lo que su corazón quiera sino más, mucho más. En verdad, a los justos todo les fue prometido. Los justos serán herederos del Reino de Dios, hijos de Dios, hijos de la luz, hijos de la inmortalidad, amigos de los ángeles y hermanos de Cristo. Los justos tendrán la abundancia de la vida, la abundancia de la paz, la abundancia de la sabiduría, la abundancia del poder, la abundancia de la alegría. Los justos tendrán todo, porque todo les fue prometido.
+
+Que solamente los hombres se arrepientan y recibirán todo. Que solamente el mendigo se limpie, se bañe y se vista de la pureza ante la corte del emperador, y será inmediatamente introducido a la corte del emperador, será recibido y abrazado por el emperador, y tendrá todo. Vivirá con el emperador y se sentará en la mesa del emperador; ¡tendrá todo, todo, todo!
+
+Hermanos míos, estas no son solamente palabras, sino esta es la verdad viva y santa, para que sepamos que muchos arrepentidos y arrepentidas recibirán todo esto que les ha sido prometido. Muchos aparecieron de aquel mundo y confirmaron la veracidad de estas palabras, dando testimonio cómo viven ahora como hijos e hijas reales. Pero ellos se arrepintieron a tiempo; y a nosotros nos está dando el tiempo para que nos arrepintamos, si queremos estar junto a ellos, como herederos del reino.
+
+Oh Señor misericordioso, ayúdanos a arrepentirnos antes de la muerte para vivir eternamente. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+
 };
