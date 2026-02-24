@@ -1961,6 +1961,71 @@ const TartagalNews = () => {
         };
         // --- FIN BLOQUE TARTAGAL ---
 
+// --- COMPONENTE DE NOTIFICACIÓN FLOTANTE INTELIGENTE ---
+        const AnnouncementBanner = () => {
+
+            const currentNewsId = "novedad-patriarcav1"; 
+            
+            const [isVisible, setIsVisible] = useState(false);
+
+            useEffect(() => {
+                // Verificar si el usuario ya vio esta notificación específica
+                const hasSeen = localStorage.getItem('seenNewsId');
+                if (hasSeen !== currentNewsId) {
+                    // Pequeño retraso de 1.5 segundos para que aparezca fluidamente después de cargar la página
+                    setTimeout(() => setIsVisible(true), 1000);
+                }
+            }, []);
+
+            const closeBanner = () => {
+                setIsVisible(false);
+                localStorage.setItem('seenNewsId', currentNewsId); // Marcar como leída
+            };
+
+            const handleActionClick = () => {
+                closeBanner(); // La cierra y marca como leída
+                // El scroll hacia la sección se maneja automáticamente por el href="#noticias"
+            };
+
+            if (!isVisible) return null;
+
+            return (
+                <div className="fixed bottom-4 right-4 z-[100] max-w-sm w-[90vw] animate-modal">
+                    <div className="bg-[#1A1A1A] border-l-4 border-[#C5A059] shadow-2xl rounded p-4 text-white flex flex-col gap-3">
+                        <div className="flex justify-between items-start">
+                            <div className="flex items-center gap-2 text-[#C5A059] font-bold">
+                                <Bell size={18} />
+                                <span className="uppercase text-xs tracking-wider">Aviso Parroquial</span>
+                            </div>
+                            <button onClick={closeBanner} className="text-gray-400 hover:text-white transition-colors">
+                                <X size={18} />
+                            </button>
+                        </div>
+                        
+                        {/* TEXTO DE LA NOVEDAD */}
+                        <p className="text-sm font-light leading-relaxed">
+                            Se ha publicado <strong>EXHORTACIÓN CUARESMAL DEL PATRIARCA JUAN X</strong>.
+                        </p>
+                        
+                        <div className="flex gap-2 mt-1">
+                            <a 
+                                href="#noticias" 
+                                onClick={handleActionClick}
+                                className="flex-1 bg-[#C5A059] text-[#1A1A1A] text-center font-bold text-xs uppercase py-2 px-4 rounded hover:bg-white transition-colors"
+                            >
+                                Ir a Novedades
+                            </a>
+                            <button 
+                                onClick={closeBanner}
+                                className="flex-1 bg-transparent border border-gray-600 text-gray-300 text-center font-bold text-xs uppercase py-2 px-4 rounded hover:bg-gray-800 transition-colors"
+                            >
+                                Descartar
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            );
+        };
 // --- APP PRINCIPAL (EL CEREBRO) ---
         const App = () => {
 // 1. Detección de Modo App
@@ -2041,6 +2106,8 @@ const TartagalNews = () => {
                     )}
                     
                     <Location currentView={view} />
+		    <AnnouncementBanner />
+
                 </div>
             );
         };
