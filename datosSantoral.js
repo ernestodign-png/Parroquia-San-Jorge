@@ -2556,7 +2556,7 @@ Contemplar al Señor Jesucristo como sentado en la barca enseñando al pueblo en
 
 2. Cómo les enseñaba con parábolas sobre el sembrador, la semilla y la tierra, es decir con estas comparaciones y ejemplos que se repiten día a día, desde el principio del mundo, y repetirán hasta el fin del mundo;
 
-3. ómo no les enseña con acontecimientos raros y extraños, sino con la ayuda de acontecimientos comunes, que, junto con el ser humano, entraron en el tiempo, y junto con el hombre, saldrán del tiempo.
+3. Cómo no les enseña con acontecimientos raros y extraños, sino con la ayuda de acontecimientos comunes, que, junto con el ser humano, entraron en el tiempo, y junto con el hombre, saldrán del tiempo.
 
 
 SERMÓN: Sobre la imposibilidad del secreto
