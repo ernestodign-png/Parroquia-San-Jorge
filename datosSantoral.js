@@ -2517,5 +2517,63 @@ Hermanos míos, estas no son solamente palabras, sino esta es la verdad viva y s
 Oh Señor misericordioso, ayúdanos a arrepentirnos antes de la muerte para vivir eternamente. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-25": [
+		{
+		    name: "San Tarasio de Constantinopla",
+		    title: "Defensor de la Ortodoxia y Padre de los Humildes",
+		    img: "Img/TarasioConstantinopla.webp",
+		    desc: `Hoy conmemoramos a San Tarasio, Patriarca de Constantinopla.
+
+San Tarasio nació en Constantinopla en el año 730 y era hijo de un juez de alto rango. Descendiente de un linaje ilustre, también fue pariente del futuro Patriarca Focio el Grande. Tras recibir una excelente educación, Tarasio fue ascendido rápidamente en la corte del emperador Constantino VI (780-797) y de su piadosa madre, la santa emperatriz Irene de Atenas, alcanzando el rango de senador.
+
+En esa época, la Iglesia estaba plagada por la heretical iconoclasia. El Santo Patriarca Pablo IV de Constantinopla (780-784), quien anteriormente había apoyado la iconoclasia, se arrepintió más tarde y renunció a su cargo. Al retirarse a un monasterio, aconsejó a la emperatriz Irene y a su hijo Constantino que su sucesor más digno sería el laico Tarasio.
+
+Tarasio se negó durante mucho tiempo, considerándose indigno de tan alto cargo. Finalmente consintió, pero solo bajo la condición de que se convocara un Concilio Ecuménico para abordar la herejía iconoclasta.
+
+Avanzando por los rangos clericales en poco tiempo, San Tarasio fue elevado al trono patriarcal en 784. En el año 787, se convocó el Séptimo Concilio Ecuménico en la ciudad de Nicea, presidido por el Patriarca Tarasio y con la asistencia de 367 obispos. En el concilio se afirmó la veneración de los santos iconos, y los obispos que se arrepintieron de su iconoclasia fueron recibidos nuevamente por la Iglesia.
+
+A pesar de este triunfo, muchas pruebas asediaron al Patriarca. Cuando Constantino VI se convirtió en único emperador, se divorció ilegalmente y calumnió a su esposa María, nieta de San Filareto el Misericordioso, para tomar a otra mujer. El Patriarca Tarasio se negó a bendecir el nuevo matrimonio y, por ello, el emperador lo hizo encarcelar. Pero el juicio de Dios cayó pronto sobre el emperador: al año siguiente fue cegado y destronado.
+
+San Tarasio gobernó sabiamente la Iglesia durante 22 años hasta su reposo en 806. Llevó una vida ascética estricta y dedicó grandes esfuerzos y medios para alimentar y consolar a los ancianos, a los empobrecidos, a las viudas y a los huérfanos. En la Santa Pascua, organizaba y les servía personalmente una gran comida.`
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: `REFLEXIÓN: 
+
+El cristiano es parecido a una prometida. Como la prometida piensa constantemente en su prometido, así el cristiano piensa en Jesucristo.
+
+Aunque el prometido esté muy lejos, detrás de siete montes, la cosa es igual, pues la prometida se comporta como si él estuviera constantemente cerca de ella y con ella. Ella piensa en él, le canta, habla de él, sueña con él y le prepara regalos. Lo mismo sucede con el cristiano en relación con Jesucristo.
+
+Y como la prometida sabe que primero tiene que salir de su casa y alejarse de donde nació para encontrarse con su prometido y unirse completamente a él, del mismo modo, el cristiano sabe que él no puede unirse totalmente a Cristo hasta que la muerte no lo separe del cuerpo, es decir de la casa material, donde su alma ha estado y ha crecido desde su nacimiento.
+
+CONTEMPLACIÓN:
+
+Contemplar al Señor Jesucristo como sentado en la barca enseñando al pueblo en la costa (Marcos 4:1):
+	
+1. Cómo un gran multitud Lo rodeaba tanto para escucharlo que tuvo que entrar en una barca para predicar;
+
+2. Cómo les enseñaba con parábolas sobre el sembrador, la semilla y la tierra, es decir con estas comparaciones y ejemplos que se repiten día a día, desde el principio del mundo, y repetirán hasta el fin del mundo;
+
+3. ómo no les enseña con acontecimientos raros y extraños, sino con la ayuda de acontecimientos comunes, que, junto con el ser humano, entraron en el tiempo, y junto con el hombre, saldrán del tiempo.
+
+
+SERMÓN: Sobre la imposibilidad del secreto
+
+“Porque no hay nada oculto que no deba ser revelado y nada secreto que no deba manifestarse” (Marcos 4:22)
+
+Todos los actos secretos de la gente serán revelados un día en público. Y ningún acto se puede esconder. Los hebreos pensaron que esconderían de Dios a los asesinos de tantos profetas, y que las acciones malas y sangrientas perpetradas contra Jesucristo podrían quedar escondidas de Dios y de los hombres. Sin embargo, aquello que pensaron esconder llegó a ser el cuento a diario, en el cielo y en la tierra, por miles de años.
+
+Judas pensó esconder su acuerdo traidor contra su Señor, pero el Señor percibió este acuerdo y se lo reveló a Judas en cara. Jesús le dijo: “Judas, ¿con un beso traicionas al Hijo del hombre?” (Mateo 9:4).
+
+Y más, el Señor percibía y leía los malos pensamientos en los corazones de los fariseos. “¿Por qué dan lugar a tan malos pensamientos?” (Mateo 9:4) ¿Cuáles son las obras, cosas o acontecimientos en este mundo que se pueden esconder de Aquel que ve y revela los más sutiles pensamientos del corazón del ser humano?
+
+“No hay nada escondido que no será revelado”. Es por ello que hemos de tener miedo, como así también hemos de alegrarnos. Tener miedo, porque todos nuestros malos actos secretos, malos deseos y malos pensamientos serán revelados en público; alegrarnos, porque todo lo bueno que realizamos, deseamos, o pensamos en secreto, será también revelado en público. Si todo no se revela delante de la gente en público, será revelado ante los ángeles en el cielo. Ahí está el miedo más grande para los pecadores, como así también la alegría más grande para los justos.
+
+Oh Señor que amas a la humanidad, perdónanos nuestros pecados y no los reveles para nuestra destrucción ni para la tristeza de Tus santos ángeles. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
+
 
 };
