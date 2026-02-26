@@ -2574,6 +2574,46 @@ Y más, el Señor percibía y leía los malos pensamientos en los corazones de l
 Oh Señor que amas a la humanidad, perdónanos nuestros pecados y no los reveles para nuestra destrucción ni para la tristeza de Tus santos ángeles. A Ti se debe la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+		"02-26": [
+		{
+		    name: "Santa Fotina la Samaritana",
+		    title: "Gran Mártir e Igual a los Apóstoles",
+		    img: "Img/FotinaSamaritana.webp",
+		    desc: `Hoy conmemoramos a Santa Fotina de Samaria, la Gran Mártir e Igual a los Apóstoles. También se la conmemora el Domingo de la Samaritana (el quinto domingo de Pascua).
 
+El encuentro del Señor con la mujer samaritana en el pozo de Jacob se describe en el Evangelio de Juan (4:5-42). Después de una conversación suave e iluminadora con Cristo, la mujer samaritana le dijo: «Sé que viene el Mesías (el llamado Cristo). Cuando Él venga, nos declarará todas las cosas». Cristo respondió: «Yo soy, el que habla contigo».
 
+Al oír estas palabras, la mujer se apresuró a decir a sus conciudadanos que había conocido al Mesías. Fue bautizada como Fotina («iluminada») junto con sus dos hijos y cinco hermanas. Llenos del Espíritu Santo, predicaron a Cristo con los Apóstoles e iluminaron a muchos idólatras.
+
+Durante las persecuciones del emperador Nerón (54-68), Fotina predicaba en Cartago con su hijo menor, Josés. Después de que su hijo mayor, Víctor, un general militar, convirtiera a su comandante Sebastián a Cristo, el enfurecido emperador ordenó que ambos fueran llevados ante él en Roma.
+
+El Señor se apareció a los dos mártires asegurándoles que permanecería con ellos. Le dio a Víctor el nombre de Fotinos («iluminado»), ya que muchos habían sido iluminados por su predicación.
+
+Cuando estos eventos le fueron revelados divinamente a Santa Fotina, ella dejó Cartago para unirse a su hijo mayor y confesar a Cristo en Roma, acompañada por una multitud de cristianos, incluyendo a su hijo San Josés y sus hermanas Santa Anatolia, Santa Foto, Santa Fótida, Santa Parasceve y Santa Ciriaca.
+
+Cuando los soldados llevaron a San Fotinos y San Sebastián ante Nerón, Santa Fotina y los demás cristianos también se presentaron ante él y confesaron su fe sin temor. El emperador sometió a los mártires a toda clase de torturas brutales. Se les vertió vinagre en la nariz, se les destrozaron los dedos y se les arrancó la piel.
+
+La muerte más brutal la sufrió Santa Fótida, cuyos pies fueron atados a las copas de dos árboles inclinados hacia el suelo. Cuando se cortaron las cuerdas, los árboles recuperaron su posición vertical, desgarrándola. Santa Fotina reposó tras ser arrojada a un pozo seco, mientras que los demás mártires fueron todos decapitados.`
+		},
+		{
+		    name: "San Porfirio de Gaza",
+		    title: "Destructor de Ídolos y Pastor de la Tierra Santa",
+		    img: "Img/PorfirioGaza.webp",
+		    desc: `Hoy también conmemoramos a San Porfirio, Obispo de Gaza.
+
+San Porfirio nació en Tesalónica de padres nobles y ricos en el año 347. A los 25 años, partió hacia Egipto, donde recibió la tonsura como monje en una skete del desierto de Nitria, bajo la guía de San Macario el Grande.
+
+Tras realizar una peregrinación a los lugares santos de Jerusalén, San Porfirio se trasladó a una cueva en el desierto de Jordania, donde trabajó en la oración y el ascetismo. En 392, a los 45 años, fue ordenado sacerdote por el Patriarca Juan II de Jerusalén y nombrado custodio de la Cruz Vivificante. Reconocido por su celo y piedad, fue elevado a Obispo de Gaza en 395 por el Obispo Juan de Cesarea en Palestina.
+
+San Porfirio luchó arduamente contra los idólatras que predominaban en Gaza y acosaban constantemente a los cristianos. Por su virtud, paciencia, sabiduría y muchos milagros, logró convertir a muchos de los habitantes paganos a la fe de Cristo.
+
+Una vez, durante una grave sequía, los sacerdotes paganos llevaron ofrendas a sus ídolos, pero las aflicciones no cesaron. San Porfirio, por su parte, impuso un ayuno estricto a los cristianos y, tras realizar una vigilia nocturna y una procesión alrededor de la ciudad, cayó una lluvia abundante.
+
+Al ver que los cristianos eran tratados injustamente por las autoridades de Gaza, que eran idólatras y herejes, San Porfirio, acompañado por el Obispo Juan de Cesarea, fue a Constantinopla en el año 401 para buscar apoyo del emperador Arcadio y del Patriarca San Juan Crisóstomo.
+
+Presentados ante la emperatriz Eudoxia, que anhelaba un hijo, los obispos le aseguraron que si intercedía por los cristianos que sufrían, Dios le concedería un heredero varón. Gracias a sus oraciones, nació Teodosio II y se emitió un decreto imperial que restringía las prácticas paganas y restauraba los privilegios de los cristianos.
+
+San Porfirio recibió de la agradecida emperatriz doscientas libras de oro con las que construyó iglesias. Al regresar a Gaza, prohibió a los herejes, destruyó los templos paganos y erigió iglesias en su lugar. Habiendo pastoreado a su rebaño en Gaza con celo durante casi 25 años, San Porfirio reposó en el año 420.`
+		}
+		],
 };
