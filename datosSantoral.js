@@ -2616,4 +2616,44 @@ Presentados ante la emperatriz Eudoxia, que anhelaba un hijo, los obispos le ase
 San Porfirio recibió de la agradecida emperatriz doscientas libras de oro con las que construyó iglesias. Al regresar a Gaza, prohibió a los herejes, destruyó los templos paganos y erigió iglesias en su lugar. Habiendo pastoreado a su rebaño en Gaza con celo durante casi 25 años, San Porfirio reposó en el año 420.`
 		}
 		],
+		"02-27": [
+		{
+		    name: "San Efrén de Katounakia",
+		    title: "El Carismático Obediente y Lumbrera del Hesicasmo",
+		    img: "Img/EfrénKatounakia.webp",
+		    desc: `Hoy conmemoramos a nuestro Padre Teóforo, San Efrén de Katounakia.
+
+San Efrén nació con el nombre de Evangelos en 1912 en Ambelochori, Beocia, Grecia. Desde niño amó a Cristo y se crio cerca de monjes y monjas, deseando imitar sus vidas angélicas. Su madre recibió una visión de San Efrén el Sirio, quien profetizó el futuro monástico de su hijo.
+
+Desde su juventud, luchó con la oración incesante, las postraciones, el ayuno y la obediencia absoluta hacia la perfección de la virtud y la theosis. Cuando su familia se trasladó a Tebas, Evangelos conoció a sus futuros padres espirituales, Efrén y Nicéforo.
+
+En 1933, Evangelos dejó el mundo y llegó al desierto de Katounakia, en el Monte Athos, donde recibió la tonsura monástica en la ermita de San Efrén el Sirio. Vivió allí con sus ancianos Nicéforo y Efrén. En 1935, recibió el Gran Esquema con el nombre de Efrén y, posteriormente, fue ordenado sacerdote.
+
+El padre Efrén fue digno de conocer al gran rector de la vida hesicasta: San José el Hesicasta. Con la bendición del anciano Nicéforo, Efrén recibió guía espiritual de San José, lo cual resultó catalizador para forjar la vida espiritual del joven monje.
+
+San Efrén fue muy admirado por su obediencia, humildad y profunda sabiduría. Recibió el sobrenombre de «el subordinado carismático» debido a su inquebrantable obediencia al anciano Nicéforo, quien a menudo era muy severo.
+
+Con el don del discernimiento, San Efrén era capaz de percibir el estado espiritual de cada clérigo o monje, y se le concedía la medicina apropiada para prescribir en su progreso en la vida espiritual.
+
+Un grupo de visitantes le pidió una vez que describiera el olor de las reliquias sagradas. Después de que el anciano inclinara la cabeza y orara, el lugar se llenó de una fragancia divina. Les dijo que, como no podía explicar la respuesta con palabras, suplicó a Dios que les revelara la fragancia a ellos.
+
+En 1996, San Efrén sufrió un derrame cerebral que lo dejó paralizado y postrado en cama hasta su muerte. Sufriendo sin quejas y glorificando a Dios, reposó en este día de 1998 y fue enterrado en el jardín de su celda.`
+		},
+		{
+		    name: "San Gelasio el Mimo",
+		    title: "De la Parodia al Martirio: El Actor Transformado por la Gracia",
+		    img: "Img/GelasioMimo.webp",
+		    desc: `Hoy también conmemoramos al Santo Mártir y actor cómico San Gelasio el Mimo. Mientras realizaba una parodia dramatizada del sagrado misterio del santo Bautismo, el Espíritu Santo descendió sobre él y, tras confesar su fe en Cristo ante la multitud, fue lapidado hasta la muerte.
+
+San Gelasio (cuyo nombre en griego significa «el que hace reír a los demás») era de la aldea de Mariamne, cerca de Damasco. En aquella época, el género dominante en el teatro romano era el drama mímico. Este consistía en escenas cortas, ingeniosas e improvisadas donde el mimo satirizaba con humor a personas, eventos y acciones.
+
+San Gelasio viajó por muchos lugares, provocando la risa de la gente a través de sus actuaciones cómicas. Durante la Gran Persecución contra los cristianos, se dirigió a la ciudad de Heliópolis en la Siria romana (actual Baalbek, Líbano), donde se le pidió que realizara una función burlándose de los cristianos al fingir ser uno de ellos.
+
+Por lo tanto, Gelasio se acercó a una fuente bautismal y comenzó a actuar como si fuera un catecúmeno recibiendo el bautismo. La multitud de idólatras comenzó a reír histéricamente. Mientras se arrojaba agua sobre sí mismo, Gelasio empezó a decir sarcásticamente: «El siervo de Dios, Gelasio, es bautizado en el nombre del Padre, y del Hijo, y del Espíritu Santo, Amén».
+
+Inmediatamente después de pronunciar estas palabras, la Gracia Divina obró un milagro y Gelasio emergió del agua completamente transformado. Mientras la obra continuaba y era vestido con la túnica blanca de los recién iluminados, declaró ante la multitud: «Soy cristiano. Cuando estaba bajo esas aguas, quedé sobrecogido por la gloria que contemplé. ¡Ahora estoy listo para ser sacrificado por amor a Cristo!».
+
+El resto del elenco, sabiendo que estas líneas no estaban en el guion, quedó horrorizado. El público pronto comprendió que Gelasio no estaba bromeando, sino que hablaba en serio con cada palabra de su confesión pública. Enfurecida, la multitud se abalanzó sobre Gelasio, que aún vestía de blanco, lo arrastró fuera del teatro y lo lapidó. Y así, el santo mártir recibió su corona eterna.`
+		}
+		],
 };
