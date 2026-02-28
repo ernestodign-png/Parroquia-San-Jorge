@@ -2656,4 +2656,44 @@ Inmediatamente después de pronunciar estas palabras, la Gracia Divina obró un 
 El resto del elenco, sabiendo que estas líneas no estaban en el guion, quedó horrorizado. El público pronto comprendió que Gelasio no estaba bromeando, sino que hablaba en serio con cada palabra de su confesión pública. Enfurecida, la multitud se abalanzó sobre Gelasio, que aún vestía de blanco, lo arrastró fuera del teatro y lo lapidó. Y así, el santo mártir recibió su corona eterna.`
 		}
 		],
+		"02-28": [
+		{
+		    name: "San Juan Casiano el Romano",
+		    title: "Maestro de la Ascesis y Puente entre Oriente y Occidente",
+		    img: "Img/JuanCasiano.webp",
+		    desc: `Hoy conmemoramos a nuestro Padre Teóforo, San Juan Casiano el Romano.
+
+San Juan nació en el delta del Danubio (actual Dobrogea, Rumanía) en el año 360. Hijo de padres piadosos y acaudalados, recibió una excelente educación clásica. Tras dominar el estudio de la filosofía secular, se entregó al estudio de las Sagradas Escrituras.
+
+Al alcanzar la cima del conocimiento divino, San Juan se sintió compelido a seguir una vida de pureza y monacato. En el 380, se embarcó en una peregrinación a Tierra Santa y recibió la tonsura monástica en un monasterio de Belén. Allí trabajó diligentemente en las luchas ascéticas de la oración, el ayuno y la vigilia.
+
+Después de cinco años, se le concedió permiso, junto con su amigo San Germán de Dobrogea, para visitar a los Padres del Desierto en Egipto. San Juan procedió a viajar por los monasterios y eremitorios de Asia Menor, el Ponto y Capadocia. Como una abeja, viajó de un lugar a otro recolectando el dulce néctar de la sabiduría espiritual.
+
+En el 399, San Juan dejó Egipto rumbo a Constantinopla. Allí se convirtió en discípulo de San Juan Crisóstomo, quien lo ordenó diácono. Obligado a abandonar Constantinopla en el 403 cuando el Crisóstomo fue exiliado, San Juan se estableció en Marsella, Galia (Francia). Fue ordenado sacerdote allí y fundó el Monasterio de San Víctor en Marsella.
+
+San Juan dejó tras de sí numerosos escritos profundos, entre ellos: «Sobre la Encarnación del Señor contra Nestorio», escrito en 431, y «Las Colaciones» (o Conferencias), que detalla una colección de sus conversaciones edificantes con los ascetas de Egipto sobre los principios de la vida espiritual y ascética.
+
+En sus obras, también advirtió contra algunos de los excesos teológicos de San Agustín de Hipona, absteniéndose de criticarlo por su nombre: «la gracia se defiende con menos adecuación mediante palabras pomposas y contiendas locuaces, silogismos dialécticos y la elocuencia de Cicerón (cuyo estilo retórico influyó enormemente en Agustín), que por el ejemplo de los ascetas egipcios».
+
+San Juan Casiano reposó pacíficamente en Marsella en el año 435. Sus santas reliquias descansan en una cripta subterránea en la Abadía de San Víctor.`
+		},
+		{
+		    name: "El Milagro de la Koliva de San Teodoro el Tirón",
+		    title: "La Protección Divina sobre el Ayuno de los Fieles",
+		    img: "Img/MilagroKoliva.webp",
+		    desc: `Hoy, primer sábado de la Gran Cuaresma, conmemoramos el Milagro de la Koliva por Teodoro el Tirón. Este día también se observa como una celebración conjunta de San Teodoro el Tirón ("Recluta") y Teodoro Estrateleta ("General"), ya que la Iglesia ha honrado durante mucho tiempo a estos santos mártires militares de manera unida.
+
+Buscando revertir la cristianización del Imperio Romano iniciada por su predecesor, San Constantino el Grande (306-337), el emperador Juliano el Apóstata (361-363) se apartó de Cristo hacia la idolatría e instigó la persecución contra los cristianos, tanto de forma abierta como secreta.
+
+En el año 362, más de 50 años después del martirio de San Teodoro el Tirón, Juliano el Apóstata ideó un plan para corromper a los cristianos durante la primera semana de la Gran Cuaresma, sabiendo que los fieles se purifican mediante el ayuno, especialmente durante esta semana (razón por la cual se conoce como Semana Limpia).
+
+El tiránico emperador ordenó al Polemarca (líder militar) de Constantinopla que fuera y rociara secretamente todos los alimentos del mercado con la sangre de animales que habían sido ofrecidos en sacrificio a los dioses paganos. Al hacerlo, el emperador esperaba que ningún comprador en la ciudad pudiera escapar del contagio de la idolatría.
+
+Sin embargo, el Señor no abandonó a Su pueblo y envió a Su siervo San Teodoro el Tirón para frustrar el perverso plan. Apareciéndose en una visión al Patriarca Eudoxio, el Gran Mártir Teodoro le advirtió sobre el plan del tirano y le indicó que instruyera a los cristianos a no comprar ningún alimento en el mercado, sino a preparar Koliva hirviendo granos de trigo.
+
+Cuando Juliano vio que su artimaña no había logrado engañar a los cristianos, ordenó que los comestibles habituales fueran repuestos en el mercado. Así, gracias a la intervención de San Teodoro, los cristianos fueron preservados de la profanación de la idolatría.
+
+La conmemoración de este evento el primer sábado de la Gran Cuaresma fue establecida por el Patriarca Nectario de Constantinopla (381-397), para no olvidar la gran hazaña del mártir y para alentar a los fieles en el sentido de que el ayuno está bajo la protección especial de Dios.`
+		}
+		],
 };
