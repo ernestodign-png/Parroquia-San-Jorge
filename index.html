@@ -922,18 +922,7 @@
             const [selectedNews, setSelectedNews] = useState(null);
 
             const newsItems = [
-                {
-		    id: 1,
-                    title: "CELEBRACIÓN DEL HIMNO AKATHISTOS EN HONOR A LA MADRE DE DIOS.",
-                    date: "27de Febrero, 2026",
-                    img: "Img/Akathistos.webp",
-                    position: "object-center", 
-                    summary: `Se invita a los fieles a participar del Himno Akathistos en honor a la Theotokos, que se llevará a cabo hoy, viernes 27 de febrero, a las 19:30 horas. Una instancia de oración litúrgica centrada en la encarnación del Verbo y la veneración a la Virgen María.`,
-		    content: `Hoy, viernes 27 de febrero, nuestra comunidad se congregará a las 19:30 horas para la celebración del Himno Akathistos en honor a la Theotokos. Esta pieza fundamental de la himnografía bizantina no es solo un acto de piedad, sino una confesión dogmática cantada sobre el misterio de la Encarnación del Logos.
-
-Se convoca a todos los fieles a asistir con puntualidad y rigor espiritual para participar de esta asamblea de oración`
-                },
-
+                
                 {
 		    id: 2,
                     title: "EXHORTACIÓN CUARESMAL DEL PATRIARCA JUAN X: EL CAMINO DE LA HUMILDAD Y LA MISERICORDIA",
@@ -1004,7 +993,7 @@ Invitamos a todos los fieles a visitar la sección "Galería" de este sitio web`
                     title: "Mensaje de Su Beatitud Juan X: Una invitación a «romper la inmovilidad» y renovar la esperanza",
                     date: "25 de Diciembre, 2025",
                     img: "Img/noticia2.webp", 
-                    position: "object-center", 
+                    position: "object-top", 
                     summary: "La fuerza en la debilidad. Su Beatitud Juan X exhorta a los fieles a no rendirse ante las pruebas y aflicciones del mundo...",
                     content: `Carta de nuestro Padre y Patriarca Juan X, con motivo de la Natividad de nuestro Señor.
 Por la gracia de Dios Juan X Patriarca de Antioquía y de todo Oriente.
@@ -1022,7 +1011,7 @@ Damasco, 20 de diciembre de 2025`
                     title: "Mensaje Pastoral de S.E.R. Metropolita Santiago por la Natividad: «Dos niños en el pesebre»",
                     date: "24 de Diciembre, 2025",
                     img: "Img/noticia1.webp", 
-                    position: "object-top", 
+                    position: "object-center", 
                     summary: "La ofrenda de sí mismo ante la Encarnación. S.E.R. Monseñor Santiago ilustra el misterio de la Natividad con el relato de un huérfano...",
                     content: `Hermanos hijos en nuestro Señor Jesucristo, venerable clero y pueblo fiel amante de Dios,
 «Gloria a Dios en las alturas, y en la tierra paz, y entre los hombres benevolencia».
@@ -1976,7 +1965,7 @@ const TartagalNews = () => {
 // --- COMPONENTE DE NOTIFICACIÓN FLOTANTE INTELIGENTE ---
         const AnnouncementBanner = () => {
 
-            const currentNewsId = "novedad-himno"
+            const currentNewsId = "novedad-cuaresma"
             
             const [isVisible, setIsVisible] = useState(false);
 
@@ -2016,7 +2005,7 @@ const TartagalNews = () => {
                         
                         {/* TEXTO DE LA NOVEDAD */}
                         <p className="text-sm font-light leading-relaxed">
-                            Se ha publicado <strong>AKATHISTOS A LA SANTÍSIMA MADRE DE DIOS</strong>.
+                            Se ha publicado <strong>EXHORTACIÓN CUARESMAL DEL PATRIARCA JUAN X</strong>.
                         </p>
                         
                         <div className="flex gap-2 mt-1">
