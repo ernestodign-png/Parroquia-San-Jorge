@@ -2696,7 +2696,7 @@ Cuando Juliano vio que su artimaña no había logrado engañar a los cristianos,
 La conmemoración de este evento el primer sábado de la Gran Cuaresma fue establecida por el Patriarca Nectario de Constantinopla (381-397), para no olvidar la gran hazaña del mártir y para alentar a los fieles en el sentido de que el ayuno está bajo la protección especial de Dios.`
 		}
 		],
-		"03-01": 
+		"03-01": [ 
 		{
 		    name: "El Triunfo de la Ortodoxia",
 		    title: "La Restauración de los Iconos y el Fin de la Herejía Iconoclasta",
@@ -2704,7 +2704,6 @@ La conmemoración de este evento el primer sábado de la Gran Cuaresma fue estab
 
                 "Img/TriunfoOrtodoxia1.webp",  // Esta será la portada en la miniatura
                 "Img/TriunfoOrtodoxia2.webp",  // Segunda foto en el modal
-                "Img/Clemente3.webp"   // Tercera foto en el modal
             ],
 		    desc: `Hoy, primer domingo de la Gran Cuaresma, celebramos el Domingo de la Ortodoxia. Esta festividad conmemora la restauración de los Santos Iconos y el triunfo de los iconódulos (partidarios de los iconos) sobre la herejía de los iconoclastas (aquellos que rechazaban los iconos).
 
