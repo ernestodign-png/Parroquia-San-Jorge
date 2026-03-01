@@ -2703,6 +2703,8 @@ La conmemoración de este evento el primer sábado de la Gran Cuaresma fue estab
 		    images: [
             	        "Img/TriunfoOrtodoxia1.webp",  
             	        "Img/TriunfoOrtodoxia2.webp",
+            	        "Img/TriunfoOrtodoxia3.webp",
+            	        "Img/TriunfoOrtodoxia4.webp",
 		    ],
 		    desc: `Hoy, primer domingo de la Gran Cuaresma, celebramos el Domingo de la Ortodoxia. Esta festividad conmemora la restauración de los Santos Iconos y el triunfo de los iconódulos (partidarios de los iconos) sobre la herejía de los iconoclastas (aquellos que rechazaban los iconos).
 
