@@ -2696,4 +2696,29 @@ Cuando Juliano vio que su artimaña no había logrado engañar a los cristianos,
 La conmemoración de este evento el primer sábado de la Gran Cuaresma fue establecida por el Patriarca Nectario de Constantinopla (381-397), para no olvidar la gran hazaña del mártir y para alentar a los fieles en el sentido de que el ayuno está bajo la protección especial de Dios.`
 		}
 		],
+		"03-01": 
+		{
+		    name: "El Triunfo de la Ortodoxia",
+		    title: "La Restauración de los Iconos y el Fin de la Herejía Iconoclasta",
+		    images: [
+
+                "Img/TriunfoOrtodoxia1.webp",  // Esta será la portada en la miniatura
+                "Img/TriunfoOrtodoxia2.webp",  // Segunda foto en el modal
+                "Img/Clemente3.webp"   // Tercera foto en el modal
+            ],
+		    desc: `Hoy, primer domingo de la Gran Cuaresma, celebramos el Domingo de la Ortodoxia. Esta festividad conmemora la restauración de los Santos Iconos y el triunfo de los iconódulos (partidarios de los iconos) sobre la herejía de los iconoclastas (aquellos que rechazaban los iconos).
+
+El Imperio Bizantino atravesó dos periodos de iconoclasia (726-787 y 814-843) durante los cuales el uso de iconos fue prohibido por las autoridades imperiales. Esto fue seguido por la destrucción masiva de imágenes y la persecución —a menudo mediante el exilio, el encarcelamiento y la ejecución— de quienes defendían la veneración de los iconos.
+
+El surgimiento de la iconoclasia estuvo influenciado por varios factores, incluyendo: una interpretación rígida del Segundo Mandamiento que prohíbe las «imágenes talladas», las prácticas iconoclastas de la emergente fe del Islam y los intentos imperiales de imponer una mayor autoridad sobre la Iglesia.
+
+Durante la primera iconoclasia, el emperador León III el Isaurio emitió edictos prohibiendo la veneración de iconos, alegando que se trataba de idolatría. Muchos iconos fueron retirados de las iglesias y destruidos, siendo a menudo reemplazados por una cruz simple.
+
+Cuando el emperador León IV (nieto de León III) murió, su viuda Irene, una iconódula, se convirtió en la única gobernante y emperatriz. Ella convocó el Séptimo Concilio Ecuménico en Nicea en 787, el cual afirmó que los iconos deben ser venerados pero no adorados, poniendo fin así a la primera iconoclasia.
+
+Una segunda iconoclasia fue instituida por el emperador León V el Armenio en 813. Tras la muerte del último emperador iconoclasta, Teófilo, en 842, su esposa, la santa emperatriz e iconódula Santa Teodora, asumió la regencia por su hijo Miguel. En 843, ella convocó un concilio en Constantinopla que restauró la veneración de los santos iconos, terminando con las políticas iconoclastas de su marido.
+
+Se realizó una procesión triunfal desde la Iglesia de Blanquerna hasta Santa Sofía para celebrar la restauración de los iconos. Santa Teodora y su hijo Miguel aparecen en la parte inferior izquierda del icono conmemorativo. En el centro, los Arcángeles sostienen el icono de la Theotokos. Al otro lado del icono se encuentra el Patriarca iconódulo San Metodio. Detrás de ellos están los Santos Confesores que sufrieron por su defensa de las sagradas imágenes.`
+		}
+		],
 };
