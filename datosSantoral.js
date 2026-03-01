@@ -2700,7 +2700,10 @@ La conmemoración de este evento el primer sábado de la Gran Cuaresma fue estab
 		{
 		    name: "El Triunfo de la Ortodoxia",
 		    title: "La Restauración de los Iconos y el Fin de la Herejía Iconoclasta",
-		    img: "Img/TriunfoOrtodoxia1.webp",               
+		    images: [
+            	        "Img/TriunfoOrtodoxia1.webp",  
+            	        "Img/TriunfoOrtodoxia2.webp",
+		    ],
 		    desc: `Hoy, primer domingo de la Gran Cuaresma, celebramos el Domingo de la Ortodoxia. Esta festividad conmemora la restauración de los Santos Iconos y el triunfo de los iconódulos (partidarios de los iconos) sobre la herejía de los iconoclastas (aquellos que rechazaban los iconos).
 
 El Imperio Bizantino atravesó dos periodos de iconoclasia (726-787 y 814-843) durante los cuales el uso de iconos fue prohibido por las autoridades imperiales. Esto fue seguido por la destrucción masiva de imágenes y la persecución —a menudo mediante el exilio, el encarcelamiento y la ejecución— de quienes defendían la veneración de los iconos.
