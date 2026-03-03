@@ -2721,4 +2721,32 @@ Una segunda iconoclasia fue instituida por el emperador León V el Armenio en 81
 Se realizó una procesión triunfal desde la Iglesia de Blanquerna hasta Santa Sofía para celebrar la restauración de los iconos. Santa Teodora y su hijo Miguel aparecen en la parte inferior izquierda del icono conmemorativo. En el centro, los Arcángeles sostienen el icono de la Theotokos. Al otro lado del icono se encuentra el Patriarca iconódulo San Metodio. Detrás de ellos están los Santos Confesores que sufrieron por su defensa de las sagradas imágenes.`
 		}
 		],
+		"03-03": [ 
+		{
+		    name: "Santos Eutropio, Cleónico y Basilisco",
+		    title: "Testigos de la Fe y Compañeros del Gran Mártir Teodoro",
+		    images: [
+            	        "Img/EutropioCleónicoBasilisco1.webp",  
+            	        "Img/EutropioCleónicoBasilisco2.webp",
+		    ],
+		    desc: `Hoy conmemoramos a los Santos Mártires Eutropio, Cleónico y Basilisco.
+
+Los hermanos Eutropio y Cleónico, junto con Basilisco —sobrino del Gran Mártir Teodoro el Tirón—, eran compañeros de armas en la ciudad de Amasea, en el Mar Negro. Denunciados por su fe, fueron enviados a prisión, donde continuaron predicando y conduciendo a muchos prisioneros paganos hacia el Verdadero Señor Jesucristo.
+
+Tras el martirio de San Teodoro, el gobernador Publio pereció vergonzosamente, abatido por la ira divina. Asclepiodoto fue elegido como gobernante de Amasea, resultando ser más inhumano que su predecesor. Sabiendo que los camaradas de San Teodoro el Tirón estaban todos en prisión, el gobernador ordenó que fueran llevados ante él.
+
+Al confesar audazmente su fe ante el gobernador, fueron golpeados sin piedad. Mientras era torturado, San Eutropio oró en voz alta al Salvador: «Concédenos, oh Señor, soportar estas heridas por causa de la corona del martirio, y ayúdanos, como ayudaste a Tu siervo Teodoro».
+
+En respuesta a la oración del santo, el Señor mismo se apareció a los mártires con Sus ángeles y el santo Gran Mártir Teodoro el Tirón, diciéndoles: «He aquí, el Salvador ha venido a ayudaros, para que conozcáis la vida eterna».
+
+Viendo que San Eutropio no se doblegaba ante sus tormentos y que muchas personas se sentían inspiradas por su valor, el gobernador lo invitó a cenar y le instó a ofrecer un sacrificio público a los dioses paganos, permitiéndole permanecer como cristiano en su alma. Eutropio rechazó esta oferta.
+
+Al día siguiente, los mártires fueron arrastrados a un templo pagano para ofrecer sacrificios. Eutropio oró fervientemente al Salvador e, inmediatamente, los muros del templo se derrumbaron y la estatua de la diosa Artemisa se hizo añicos.
+
+El enfurecido gobernador Asclepiodoto ordenó que ataran a los mártires a postes mientras les vertían brea hirviendo. Sus cuerpos fueron luego desgarrados con ganchos de hierro, y se vertió sal y vinagre en sus heridas. Los santos soportaron estos tormentos con una firmeza y oración notables.
+
+En la mañana del 3 de marzo del año 308, los santos Eutropio y Cleónico fueron crucificados, mientras que San Basilisco fue decapitado.`
+		}
+		],
+
 };
