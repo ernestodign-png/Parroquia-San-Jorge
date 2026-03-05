@@ -2748,5 +2748,31 @@ El enfurecido gobernador Asclepiodoto ordenó que ataran a los mártires a poste
 En la mañana del 3 de marzo del año 308, los santos Eutropio y Cleónico fueron crucificados, mientras que San Basilisco fue decapitado.`
 		}
 		],
+		"03-05": [ 
+		{
+		    name: "San Nicolás Velimirovich",
+		    title: "El Crisóstomo Serbio y Confesor de la Fe en el Siglo XX",
+		    images: [
+            	        "Img/NicolásVelimirovich.webp",  
+            	        "Img/NicolásVelimirovich2.webp",
+            	        "Img/NicolásVelimirovich3.webp",
+            	        "Img/Nicolai.webp",
+		    ],
+		    desc: `Hoy conmemoramos a San Nicolás Velimirovich. Superviviente del campo de concentración nazi de Dachau, fue uno de los obispos y escritores más influyentes de la Iglesia Ortodoxa Serbia.
+
+San Nicolás nació en 1881 en Lelich, Serbia. Su madre tuvo una influencia fundamental en su desarrollo espiritual; asistían regularmente juntos a los servicios de la iglesia. Al ser un niño enfermizo, Nicolás no pudo ingresar en la academia militar, por lo que entró en el Seminario de San Sava en Belgrado.
+
+Tras graduarse en 1905, continuó su educación en las mejores instituciones de Europa: en 1908, recibió su Doctorado en Teología por la Universidad de Berna (Suiza) y en 1909 completó su Doctorado en Filosofía en la Universidad de Oxford (Inglaterra). Después de que una disentería lo obligara a regresar a Serbia, Nicolás prometió dedicar su vida a Dios si se recuperaba. Cumpliendo su promesa, fue tonsurado monje y ordenado sacerdote en 1909.
+
+En 1915, durante la Primera Guerra Mundial, fue enviado a Inglaterra y EE. UU. en misión diplomática para obtener apoyo para el esfuerzo bélico serbio. Además de lograr el respaldo del gobierno británico, fue invitado a hablar en la Abadía de Westminster, convirtiéndose en el primer no anglicano en predicar en la Catedral de San Pablo.
+
+Regresó a Serbia en 1919 y fue nombrado Obispo de Zhicha, siendo trasladado pronto a la Diócesis de Ohrid en 1920. El obispo Nicolás brindó guía espiritual y consuelo a las almas devastadas por la guerra, y organizó esfuerzos de caridad para apoyar a los afectados por la pobreza. Renombrado por sus sermones esclarecedores y elocuentes, fue comparado con San Juan Crisóstomo, por lo que se le conoció como "el Crisóstomo Serbio".
+
+En 1944, durante la ocupación alemana de Yugoslavia, el obispo Nicolás, crítico feroz de los nazis, fue enviado al campo de exterminio de Dachau. Allí presenció atrocidades y fue torturado hasta la liberación por soldados estadounidenses en mayo de 1945. Dado que el régimen comunista de Tito —perseguidor de la Iglesia— llegaba al poder, el obispo regresó a América en 1946 para servir a su pueblo desde el extranjero. Se estableció en el Monasterio de San Tikhon en Pensilvania, donde reposó en 1956.
+
+Entre sus muchas obras teológicas destaca el "Prólogo de Ohrid". Esta obra es precisamente la que se utiliza para escribir sobre la vida de los santos en esta página, y es donde se incluyen también sus reflexiones, himnos y sermones diarios para la edificación de los fieles.`
+		}
+		],
+
 
 };
