@@ -2779,9 +2779,9 @@ Entre sus muchas obras teológicas destaca el "Prólogo de Ohrid". Esta obra es 
 		    title: "La Restauración de los Lugares Santos por la Emperatriz Santa Elena",
 		    images: [
             	        "Img/HallazgoSantaCruz.webp",  
-            	        "Img/HallazgoSantaCruz2webp",
-            	        "Img/HallazgoSantaCruz3webp",
-            	        "Img/HallazgoSantaCruz4webp",
+            	        "Img/HallazgoSantaCruz2.webp",
+            	        "Img/HallazgoSantaCruz3.webp",
+            	        "Img/HallazgoSantaCruz4.webp",
 		    ],
 		    desc: `Hoy conmemoramos el Hallazgo de la Honorable Cruz y los Clavos por parte de Santa Elena.
 
@@ -2800,6 +2800,24 @@ Para determinar cuál de estas cruces era la Verdadera Cruz del Señor, el Patri
 Al ver este milagro, todos se convencieron de que la Verdadera Cruz había sido hallada. Con gran alegría, la emperatriz Elena y el Patriarca Macario alzaron la Cruz Vivificante ante todo el pueblo (evento que se conmemora en la Fiesta de la Exaltación de la Cruz el 14 de septiembre).
 
 Restos fragmentarios de la Vera Cruz se conservan en varias iglesias, incluyendo la Iglesia del Santo Sepulcro (imagen 2). La imagen 3 muestra la Cueva del Hallazgo de la Honorable Cruz, que contiene una estatua de Santa Elena sosteniendo la Cruz, y el lugar exacto donde la Cruz fue descubierta (imagen 4), ubicado en el Templo de la Resurrección en Jerusalén.`
+		},
+		{
+		    name: "Los Cuarenta y Dos Mártires de Amorío",
+		    title: "Testimonio de Firmeza y Apología de la Fe ante el Captiverio",
+		    img: "Img/CuarentayDosMártiresAmorío.webp",
+		    desc: `Hoy también conmemoramos a los Santos Cuarenta y Dos Mártires de Amorío.
+
+En el año 838, los sarracenos bajo el califa abasí Al-Mu’tasim derrotaron al emperador romano Teófilo en batalla y sitiaron la ciudad de Amorío, en Frigia (Asia Menor). Cuarenta y dos de los generales y oficiales más prominentes de la ciudad fueron tomados cautivos y enviados a Samarra (en el actual Irak), mientras que los restantes cristianos fueron asesinados o vendidos como esclavos.
+
+Durante sus siete años de cautiverio, los sarracenos intentaron en vano persuadir a los cautivos para que aceptaran el islam. Los mártires resistieron firmemente todas las promesas y amenazas, permaneciendo fieles a Cristo.
+
+Cuando los sarracenos afirmaron que Mahoma era un profeta verdadero, los comandantes respondieron con un ejemplo sencillo: «Si dos hombres reclamaran la propiedad de un campo, pero uno tuviera muchos testigos mientras que el otro solo tuviera su propia palabra, ¿a quién se le creería?». Los sarracenos respondieron correctamente que se le creería al que tuviera muchos testigos. Los mártires replicaron entonces que Cristo tiene muchos testigos —los profetas desde Moisés hasta Juan el Precursor—, mientras que Mahoma no tenía más testigo que él mismo.
+
+Avergonzados, los sarracenos argumentaron luego que sus victorias sobre los cristianos y su vasto imperio probaban que su fe era la verdadera. Los comandantes respondieron que muchas naciones paganas como los egipcios, babilonios, griegos, romanos y persas también habían conquistado a otros y gobernado grandes reinos en el pasado, y eso no hacía que sus religiones fueran verdaderas. «La victoria y el poder no prueban la verdad de una fe, pues Dios a veces concede la victoria y otras veces permite el sufrimiento para que Su pueblo se arrepienta y sea purificado».
+
+Los sarracenos le dijeron a un soldado llamado Teodoro: «Abandonaste el sacerdocio, te hiciste soldado y derramaste sangre en batalla. No puedes tener esperanza en Cristo, así que acepta a Mahoma». Pero el mártir respondió: «No abandoné a Cristo. Dejé el sacerdocio por mi propia indignidad. Ahora debo derramar mi sangre por Cristo, para que Él perdone los pecados que he cometido contra Él».
+
+Los verdugos tomaron a cada uno de los mártires por separado y los decapitaron, arrojando sus cuerpos al río Éufrates.`
 		}
 		],
 
