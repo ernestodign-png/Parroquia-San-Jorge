@@ -2773,6 +2773,34 @@ En 1944, durante la ocupación alemana de Yugoslavia, el obispo Nicolás, críti
 Entre sus muchas obras teológicas destaca el "Prólogo de Ohrid". Esta obra es precisamente la que se utiliza para escribir sobre la vida de los santos en esta página, y es donde se incluyen también sus reflexiones, himnos y sermones diarios para la edificación de los fieles.`
 		}
 		],
+		"03-06": [ 
+		{
+		    name: "El Hallazgo de la Santa Cruz y los Clavos",
+		    title: "La Restauración de los Lugares Santos por la Emperatriz Santa Elena",
+		    images: [
+            	        "Img/HallazgoSantaCruz.webp",  
+            	        "Img/HallazgoSantaCruz2webp",
+            	        "Img/HallazgoSantaCruz3webp",
+            	        "Img/HallazgoSantaCruz4webp",
+		    ],
+		    desc: `Hoy conmemoramos el Hallazgo de la Honorable Cruz y los Clavos por parte de Santa Elena.
 
+Durante el reinado del Gran Emperador San Constantino (306–337), el primer emperador romano en legalizar y aceptar el cristianismo, él y su piadosa madre, Santa Elena, resolvieron restaurar la ciudad santa de Jerusalén. También planearon construir una iglesia en el lugar de la Pasión y Resurrección del Señor.
+
+San Constantino envió a su madre a Jerusalén en el año 326 para restaurar los lugares santos y buscar la Cruz Vivificante en la que el Señor fue crucificado. Escribió a Macario, el Patriarca de Jerusalén, solicitándole que asistiera a Santa Elena en esta tarea de todas las formas posibles.
+
+En Jerusalén, la santa emperatriz Elena comenzó a destruir los templos paganos. Reconsagró los lugares sagrados y estableció muchas iglesias. Sin embargo, su búsqueda para encontrar la Vera Cruz no tuvo éxito durante mucho tiempo, incluso después de haber buscado la ayuda de cristianos y judíos locales.
+
+Finalmente, un anciano hebreo llamado Judas le dijo que la Cruz estaba enterrada bajo el templo de la diosa pagana Venus. Santa Elena ordenó que este templo fuera demolido y el sitio excavado. Allí descubrieron el lugar del Gólgota y el Sepulcro del Señor.
+
+No lejos de este punto, también encontraron tres cruces (incluidas las de los dos ladrones que fueron crucificados con Cristo), una tabla con la inscripción escrita por Poncio Pilato (Juan 19:19) y los clavos sagrados que traspasaron el Cuerpo del Señor.
+
+Para determinar cuál de estas cruces era la Verdadera Cruz del Señor, el Patriarca Macario ordenó que un hombre muerto que era llevado a su tumba fuera colocado sobre cada cruz por turno. Cuando el cadáver fue colocado sobre la Vera Cruz, el hombre recuperó la vida inmediatamente.
+
+Al ver este milagro, todos se convencieron de que la Verdadera Cruz había sido hallada. Con gran alegría, la emperatriz Elena y el Patriarca Macario alzaron la Cruz Vivificante ante todo el pueblo (evento que se conmemora en la Fiesta de la Exaltación de la Cruz el 14 de septiembre).
+
+Restos fragmentarios de la Vera Cruz se conservan en varias iglesias, incluyendo la Iglesia del Santo Sepulcro (imagen 2). La imagen 3 muestra la Cueva del Hallazgo de la Honorable Cruz, que contiene una estatua de Santa Elena sosteniendo la Cruz, y el lugar exacto donde la Cruz fue descubierta (imagen 4), ubicado en el Templo de la Resurrección en Jerusalén.`
+		}
+		],
 
 };
