@@ -2820,5 +2820,63 @@ Los sarracenos le dijeron a un soldado llamado Teodoro: «Abandonaste el sacerdo
 Los verdugos tomaron a cada uno de los mártires por separado y los decapitaron, arrojando sus cuerpos al río Éufrates.`
 		}
 		],
+		"03-07": [ 
+		{
+		    name: "San Lorenzo de Salamina",
+		    title: "El Labrador Obediente y Fundador del Monasterio de la Panagia Faneromeni",
+		    images: [
+            	        "Img/LorenzoSalamina.webp",  
+            	        "Img/LorenzoSalamina2.webp",
+            	        "Img/LorenzoSalamina3.webp",
+            	        "Img/LorenzoSalamina4.webp",
+            	        "Img/LorenzoSalamina5.webp",
+		    ],
+		    desc: `Hoy conmemoramos a San Lorenzo de Salamina.
+
+San Lorenzo nació con el nombre de Lampros Kanellos, de padres ortodoxos piadosos, en la primera mitad del siglo XVII en la ciudad de Megara, en Ática, Grecia. Al llegar a la mayoría de edad, se casó con Vasilo, con quien tuvo dos hijos. Durante los difíciles días de la ocupación turca, Lampros y su familia llevaron una vida sencilla.
+
+Lampros era agricultor de oficio y llevaba una vida de absoluta virtud, fidelidad, piedad y oración. Por esta razón, una noche, mientras labraba los campos, la Santísima Theotokos se le apareció en una visión, instruyéndole que fuera a construir una iglesia en la isla de Salamina, justo frente a Megara.
+
+El anciano no accedió a cumplir este mandato, por lo que la Theotokos se le apareció de nuevo la noche siguiente, mostrándose más seria. Pero como él aún mantenía sus dudas, la Theotokos se apareció una tercera vez y le dijo: «Ve pronto, hombre, a la isla que te dije, para completar aquello que está protegido por mí».
+
+Lampros finalmente decidió obedecer y cruzar a la orilla opuesta, pero había una gran tormenta en el mar y no había botes que lo llevaran a Salamina. La Theotokos se le apareció de nuevo a Lampros y le dijo: «Arroja tu capa al mar y siéntate sobre ella, y serás llevado sin peligro a la isla».
+
+Esta vez, con fe completa, Lampros arrojó su capa al mar y fue transportado de forma segura sobre ella hasta la isla de Salamina. Inmediatamente se dirigió al lugar que la Theotokos le había mostrado y, tras excavar los restos de un antiguo monasterio, descubrió un icono milagroso de la Madre de Dios.
+
+El icono y el monasterio que Lampros reconstruyó recibieron el nombre de Panagia Faneromeni («La Santísima Revelada»). Lampros se convirtió en monje en el monasterio, tomando el nuevo nombre de Lorenzo (Lavrentios). Pronto fue nombrado abad y se le concedió el don de obrar milagros. Sanó a muchas personas, incluyendo a la esposa enferma de un general otomano a quien los médicos no podían ayudar.
+
+El santo vivió en el ascetismo durante muchos años y reposó pacíficamente en 1707. El monasterio y el icono de la Panagia Faneromeni pueden visitarse hoy en la isla de Salamina.`
+		},
+		{
+		    name: "Synaxis de Todos los Santos del Dodecaneso",
+		    title: "Conmemoración de la Fe y la Libertad en las Islas Griegas",
+		    img: "Img/SantosDodecaneso.webp",
+		    desc: `Hoy también conmemoramos la Sinaxis de Todos los Santos de las islas del Dodecaneso en Grecia. Esta festividad se estableció tras la liberación y reintegración de las islas del Dodecaneso a Grecia en este día de 1948, un evento que significó el fin de varios cientos de años de ocupación.
+
+Tras la caída de Constantinopla, las islas más grandes del Dodecaneso, Rodas y Cos, fueron finalmente capturadas por los otomanos en 1522. Estas islas permanecieron bajo el control otomano hasta la guerra ítalo-turca de 1912, tras la cual los victoriosos italianos se apoderaron de ellas.
+
+Durante la Segunda Guerra Mundial y la alianza entre Italia y Alemania, las islas del Dodecaneso se convirtieron en una base naval para la invasión de Creta, donde los nazis cometieron numerosas masacres contra la población civil.
+
+Tras la derrota de las potencias del Eje, las islas del Dodecaneso, incluyendo Rodas, Cos, Kálimnos, Patmos y otras, fueron formalmente reintegradas al Estado griego.
+
+El 7 de marzo de 1948, el Rey Pablo de Grecia llegó a Rodas para celebrar con los lugareños. También fue decidido por el Patriarcado Ecuménico, a propuesta del Metropolitano Ambrosio de Kárpatos, que este día serviría para honrar a todos los Santos, Apóstoles, Mártires y Ascetas del Dodecaneso.
+
+A continuación se presenta la lista de los Santos del Dodecaneso que rodean a Cristo en el icono, comenzando desde la fila superior de izquierda a derecha, y su conexión con las islas:
+
+☦️ <strong>San Antimo de Astipalea</strong><br>
+☦️ <strong>San Gerasimo de Bizancio:</strong> Se hizo monje y sacerdote en el Monasterio de San Juan el Teólogo en Patmos.<br>
+☦️ <strong>San Sabas el Nuevo de Kálimnos</strong><br>
+☦️ <strong>San Niketas el Nuevo Mártir de Nisiros</strong><br>
+☦️ <strong>San Constantino de Hidra:</strong> Martirizado en Rodas.<br>
+☦️ <strong>San Juan el Nauclero:</strong> Martirizado en Cos.<br>
+☦️ <strong>San Cristos de Preveza:</strong> Martirizado en Cos.<br>
+☦️ <strong>San Cristódulo de Patmos</strong><br>
+☦️ <strong>Santa Casiana la Himnógrafa de Kasos</strong><br>
+☦️ <strong>San Fanurio:</strong> El recién revelado mártir de Rodas.<br>
+☦️ <strong>Santa Xenia de Roma:</strong> Huyó a Cos, donde vivió una vida de ascetismo en un monasterio.<br>
+☦️ <strong>San Juan de Kárpatos</strong><br>
+☦️ <strong>Santo Apóstol Juan el Teólogo:</strong> Escribió el Libro del Apocalipsis en Patmos.<br>
+☦️ <strong>Santo Apóstol Pablo:</strong> Predicó el Evangelio en Rodas, en lo que hoy es la Bahía de San Pablo, Lindos.`		}
+		],
 
 };
