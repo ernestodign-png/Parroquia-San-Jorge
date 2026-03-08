@@ -2878,5 +2878,30 @@ A continuación se presenta la lista de los Santos del Dodecaneso que rodean a C
 ☦️ <strong>Santo Apóstol Juan el Teólogo:</strong> Escribió el Libro del Apocalipsis en Patmos.<br>
 ☦️ <strong>Santo Apóstol Pablo:</strong> Predicó el Evangelio en Rodas, en lo que hoy es la Bahía de San Pablo, Lindos.`		}
 		],
+		"03-08": [ 
+		{
+		    name: "San Gregorio Palamas",
+		    title: "El Defensor del Hesicasmo y el Segundo Triunfo de la Ortodoxia",
+		    img: "Img/GregorioPalamas.webp",
+		    desc: `Hoy, segundo domingo de la Gran Cuaresma, conmemoramos el Domingo de San Gregorio Palamas. Siguiendo la celebración del triunfo sobre los iconoclastas del domingo pasado, hoy recordamos la exitosa defensa del hesicasmo por parte de San Gregorio frente al hereje Barlaam, un evento que se celebra como un segundo «Triunfo de la Ortodoxia».
+
+San Gregorio Palamas fue un monje del siglo XIV y un destacado defensor de la tradición monástica del hesicasmo: una forma mística de oración que implica la adquisición de la quietud y el silencio interior (hesiquia) como medio para experimentar la unión con Dios, a menudo a través de la repetición ininterrumpida de la Oración de Jesús.
+
+Tras ser ordenado sacerdote en Tesalónica en 1326, San Gregorio se trasladó al Monte Athos, donde se vio envuelto en varias disputas con Barlaam, un monje calabrés, erudito intelectual y orador perspicaz. Estas disputas evolucionaron finalmente en la «Controversia Hesicasta».
+
+El primero de sus encuentros ocurrió después de que Barlaam expresara su oposición a la inserción latina del Filioque en el Credo Niceno, argumentando que cualquier esfuerzo por comprender la naturaleza de Dios (específicamente la procesión del Espíritu Santo) debía abandonarse, ya que Dios es, en última instancia, incognoscible.
+
+A pesar de compartir la condena de Barlaam al Filioque, San Gregorio Palamas discrepó de sus argumentos racionalistas y afirmó que, aunque la Esencia de Dios es inaccesible, somos capaces de percibir Sus Energías, las cuales también son Increadas y nos permiten participar en Su Divinidad. Esta distinción entre Esencia y Energías se conoció como «palamismo».
+
+Barlaam intentó humillar a Palamas atacando la práctica mística del hesicasmo. El ultra-racionalista Barlaam menospreció el hesicasmo como intelectualmente equivocado y rechazó la afirmación de que se pudiera alcanzar una experiencia mística de la Luz Increada mediante estas prácticas. Ridiculizando a los hesicastas como «contempladores de ombligos», los instó a adoptar en su lugar un enfoque intelectual y propositivo para el conocimiento de Dios.
+
+En 1338, San Gregorio escribió su obra Tríadas en defensa de los santos hesicastas, en la que defendió a los monjes atonitas de los ataques de Barlaam y afirmó que el hesicasmo es central para establecer una comunión directa y personal con Dios a través de la experiencia de Sus Energías Increadas.
+
+San Gregorio defendió con vehemencia el hesicasmo en tres sínodos distintos en Constantinopla (1341, 1347 y 1351). Estos concilios exoneraron la teología hesicasta de San Gregorio y condenaron la filosofía racionalista de Barlaam.
+
+Tras derrotar a los herejes, San Gregorio fue consagrado Arzobispo de Tesalónica en 1347, cargo que ocupó hasta su reposo en 1359. Sus santas reliquias se conservan hoy en la Iglesia Metropolitana de San Gregorio Palamas en Tesalónica, Grecia`,
+			ayuno: "Se Permite Pescado y Vino"
+		}
+		],
 
 };
