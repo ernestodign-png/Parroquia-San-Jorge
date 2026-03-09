@@ -2903,5 +2903,29 @@ Tras derrotar a los herejes, San Gregorio fue consagrado Arzobispo de Tesalónic
 			ayuno: "Se Permite Pescado y Vino"
 		}
 		],
+		"03-09": [ 
+		{
+		    name: "Los Cuarenta Mártires de Sebaste",
+		    title: "Firmeza en el Frío y la Corona de la Gloria Eterna",
+		    img: "Img/MártiresSebaste.webp",
+		    desc: `Hoy conmemoramos a los Santos Cuarenta Mártires de Sebaste.
 
+Aunque el Gran Emperador San Constantino emitió un edicto en el año 313 otorgando libertad religiosa a los cristianos, su coemperador Licinio continuó persiguiéndolos en Oriente y los purgó de su ejército.
+
+Uno de los comandantes militares de la época en la ciudad de Sebaste (actual Sivas, Turquía) era Agrícola, un celoso idólatra. Bajo su mando se encontraba una compañía de 40 capadocios, valientes soldados que se habían distinguido en muchas batallas. En el año 320, cuando estos soldados cristianos se negaron a ofrecer sacrificios a los dioses paganos, Agrícola los encerró en prisión.
+
+En sus celdas, los soldados se ocupaban en la oración y los himnos. A la mañana siguiente, fueron llevados ante Agrícola, quien intentó halagarlos. Elogiando su valor y fuerza, los instó a renunciar a Cristo para ganarse el respeto del emperador.
+
+Los valientes soldados se negaron a negar a su Salvador. Como castigo, en un día gélido, los mártires fueron despojados de sus ropas y sumergidos en un lago helado. Otros soldados vigilaban la orilla para asegurar que los mártires permanecieran sumergidos en el agua congelada.
+
+Agrícola también había preparado una casa de baños calientes junto al lago, lista para recibir a cualquier soldado que renunciara a Cristo. Uno de los soldados perdió el valor en las aguas gélidas y abandonó a sus compañeros por la comodidad de los baños.
+
+Durante la noche, Aglaio, uno de los guardias que vigilaba, tuvo una visión de Cristo descendiendo sobre los mártires y colocando una corona radiante sobre la cabeza de cada uno. Contó 39 coronas y se dio cuenta de que el soldado que huyó había perdido la suya.
+
+Aglaio despertó entonces a los demás guardias, se quitó el uniforme y les dijo: «Yo también soy cristiano», y se unió a los mártires. Al entrar en las aguas, una cuadragésima corona apareció sobre su cabeza.
+
+Los Cuarenta Mártires se animaron unos a otros durante la noche. Uno de ellos exclamó: «¡El frío es intenso, pero el paraíso es cálido! Seamos pacientes por un momento, antes de ser reconfortados en el seno de Abraham. ¡Compremos el gozo eterno al costo de una corta noche de sufrimiento!». Entregaron sus almas al amanecer de la mañana siguiente.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		}
+		],
 };
