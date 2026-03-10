@@ -2928,4 +2928,27 @@ Los Cuarenta Mártires se animaron unos a otros durante la noche. Uno de ellos e
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
 		}
 		],
+		"03-10": [ 
+		{
+		    name: "Santa Anastasia la Patricia",
+		    title: "De la Corte Imperial al Silencio del Desierto",
+		    img: "Img/AnastasiaPatricia.webp",
+		    desc: `Hoy conmemoramos a Santa Anastasia la Patricia de Alejandría.
+
+Santa Anastasia vivió en Constantinopla y descendía de una noble familia aristocrática. Siendo una imagen resplandeciente de virtud y mansedumbre, gozaba de la gran estima del emperador Justiniano (527-565) y servía en su corte como patricia de alto rango.
+
+Sin embargo, la humilde Anastasia supo que la emperatriz Teodora sentía celos de ella. Con una fe firme en Dios, y buscando únicamente salvar su alma y liberar a la emperatriz de su envidia irracional, Anastasia alquiló un barco y se dirigió a Alejandría. Allí fundó un monasterio en el lugar llamado Pempton y se esforzó fervientemente por agradar a Dios.
+
+Varios años después, el emperador Justiniano enviudó y decidió buscar a Anastasia para casarse con ella. Tan pronto como se enteró de esto, Santa Anastasia viajó a Escete para pedir ayuda al Abba Daniel.
+
+Para proteger a Anastasia, el Anciano la vistió con el hábito monástico de un hombre y la llamó el eunuco Anastasio. Tras instalarla en una de las cuevas más remotas, el Anciano le dio una Regla de oración y le ordenó que nunca abandonara la cueva ni recibiera a nadie.
+
+Solo un monje conocía este lugar. Su obediencia consistía en llevar una pequeña porción de pan y un cántaro de agua a la cueva una vez por semana, dejándolos en la entrada. La monja Anastasia vivió en reclusión durante 28 años, mientras todos creían que era el eunuco Anastasio quien habitaba la cueva.
+
+Al saber por Dios de su muerte cercana, Santa Anastasia escribió unas palabras para el Abba Daniel en un trozo de cerámica rota y lo dejó a la entrada de su cueva: «Trae las palas y ven aquí». Al recibir este mensaje, el Abba Daniel le dio la comunión de los Santos Misterios, tras lo cual ella lo bendijo a él y al monje que lo acompañaba. Con las palabras: «Señor, en Tus manos encomiendo mi espíritu», la santa reposó en el año 567.
+
+Cuando el otro monje se preparaba para enterrar al «hermano» y vestirlo con la rassa, descubrió que era una mujer. Al regresar al monasterio después del entierro, el discípulo preguntó al Abba Daniel si sabía que el «hermano» era una mujer. El Anciano reveló entonces todos los detalles de su historia al monje.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		}
+		],
 };
