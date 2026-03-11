@@ -2951,4 +2951,56 @@ Cuando el otro monje se preparaba para enterrar al «hermano» y vestirlo con la
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
 		}
 		],
+		"03-11": [ 
+		{
+		    name: "San Sofronio de Jerusalén",
+		    title: "Defensor de la Ortodoxia y Pastor en Tiempos de Tribulación",
+		    images: [
+            	        "Img/SofronioJerusalén.webp",  
+            	        "Img/SofronioJerusalén2.webp",
+		    ],
+		    desc: `Hoy conmemoramos a San Sofronio, Patriarca de Jerusalén.
+
+San Sofronio nació en Damasco en el año 560 y se distinguió por su piedad desde niño. Tras recibir una educación excelente, dominó el estudio de la filosofía y las ciencias, pero el futuro jerarca anhelaba una vida de monacato y devoción a Dios.
+
+Sofronio se dirigió a Jerusalén y se unió al Monasterio de San Teodosio el Cenobiarca, cerca de Belén. Allí vivió en ascetismo con el monje y cronista San Juan Mosco, convirtiéndose en su discípulo y sometiéndose a él en obediencia.
+
+Alrededor del año 605, huyendo de la invasión persa de Jerusalén, Sofronio y Juan Mosco se dirigieron a Alejandría, Egipto, donde fueron recibidos por el Patriarca San Juan el Misericordioso. Habiendo visitado muchos monasterios durante sus viajes, Juan Mosco registró una colección de biografías y sabiduría espiritual de los ascetas que conocieron, titulada "El Prado Espiritual".
+
+Durante su estancia en Alejandría, Sofronio experimentó un problema en sus ojos. Fue sanado por los Santos Anárgiros Ciro y Juan, quienes le pidieron como único pago que escribiera sobre sus muchos milagros sanando a los enfermos. Por ello, Sofronio compuso el texto titulado "Los milagros de los santos Ciro y Juan".
+
+En 616, Sofronio huyó de Alejandría hacia Roma ante la invasión persa de Egipto. Tras el reposo de San Juan Mosco en 619, Sofronio acompañó su cuerpo de regreso al monasterio de San Teodosio en Jerusalén para su entierro. Sofronio permaneció allí y, debido a sus abundantes virtudes, fue ordenado Patriarca de Jerusalén en el año 634.
+
+En medio de las controversias cristológicas de la época, San Sofronio fue un celoso defensor de la Ortodoxia, particularmente contra la herejía del monotelismo.
+
+En aquellos tiempos, los árabes musulmanes estaban ganando el control de Palestina. En 637, San Sofronio negoció el reconocimiento, a través del Tratado de Omar, de las libertades civiles para la población cristiana a cambio de un tributo (jizya).
+
+Descorazonado por la caída de Jerusalén, San Sofronio reposó en este día del año 638. Su santo cráneo se conserva en el Monasterio de Panagia Faneromeni, cerca de Corinto, Grecia.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "Santa Teodora de Arta",
+		    title: "De la Corona Terrenal a la Gloria del Reino de Dios",
+		    images: [
+            	        "Img/TeodoraArta.webp",  
+            	        "Img/TeodoraArta2.webp",
+            	        "Img/TeodoraArta3.webp",
+            	        "Img/TeodoraArta4.webp",
+            	        "Img/TeodoraArta5.webp",
+		    ],
+		    desc: `Hoy también conmemoramos a Santa Teodora, la Emperatriz de Arta. Vivió mientras Constantinopla era gobernada por los latinos de la Cuarta Cruzada y el imperio se había dividido en tres estados sucesores en el exilio, con sedes en Trebisonda, Nicea y Epiro.
+
+Santa Teodora nació en 1225 en Servia de Kozani, hija de Juan Petralifas, gobernador de Tesalia y Macedonia; su madre, Elena, era miembro de una familia aristocrática de Constantinopla. Su juventud y belleza cautivaron la atención de Miguel II Comneno Ducas, soberano del Despotado de Epiro, con quien se casó y tuvo seis hijos. Poco después del matrimonio, Teodora se trasladó a Arta, donde se convirtió en reina en 1231.
+
+Sin embargo, la pareja resultó ser completamente incompatible y Teodora sufrió muchos abusos a manos de su marido. Teodora era piadosa y fiel, mientras que Miguel se entregaba a relaciones y placeres carnales. Al principio de su matrimonio, Miguel rechazó a Teodora tras enamorarse de otra mujer noble.
+
+Esclavizado por pasiones lujuriosas, Miguel llevó a su nueva amante a la Corte Real y pronto al trono de Epiro, con quien tuvo dos hijos. La reina Teodora fue desterrada del palacio, pero su sufrimiento no obstaculizó su deseo de alcanzar la santidad.
+
+Santa Teodora soportó su exilio de Arta sin quejas y con la máxima humildad. Dejando atrás su corona de realeza en pos del Reino de Dios, mantuvo su virtud y sobrevivió recolectando hierbas silvestres en los campos.
+
+Después de cinco años, un sacerdote de Prenista (hoy Korfovouni) la tomó bajo su cuidado. El pueblo de Arta, que adoraba a Teodora por su modestia, religiosidad y filantropía, indignado por la vida viciosa de Miguel II, exigió su regreso al palacio como reina legítima. Miguel recapacitó y devolvió a Teodora al trono de Arta.
+
+En un gesto de arrepentimiento, Miguel estableció varios monasterios, mientras que Teodora fundó un convento dedicado a San Jorge, donde pasó los últimos diez años de su vida tras la muerte de Miguel en 1270. Después de su reposo en 1280, Santa Teodora fue enterrada en el monasterio que más tarde fue nombrado en su honor.`
+		},
+		],
 };
