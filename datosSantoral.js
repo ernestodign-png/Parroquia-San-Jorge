@@ -3003,4 +3003,51 @@ Después de cinco años, un sacerdote de Prenista (hoy Korfovouni) la tomó bajo
 En un gesto de arrepentimiento, Miguel estableció varios monasterios, mientras que Teodora fundó un convento dedicado a San Jorge, donde pasó los últimos diez años de su vida tras la muerte de Miguel en 1270. Después de su reposo en 1280, Santa Teodora fue enterrada en el monasterio que más tarde fue nombrado en su honor.`
 		},
 		],
+		"03-12": [ 
+		{
+		    name: "San Aarón el Justo",
+		    title: "Primer Sumo Sacerdote de Israel y Portavoz de la Ley",
+		    images: [
+            	        "Img/AarónJusto.webp",  
+            	        "Img/AarónJusto2.webp",
+		    ],
+		    desc: `Hoy conmemoramos al Justo Aarón. Perteneciente a la tribu de Leví, fue el hermano mayor del Profeta y Vidente de Dios, Moisés.
+
+Según el Antiguo Testamento, Aarón fue designado por Dios como portavoz de Moisés tanto ante el pueblo de Israel como ante el Faraón en Egipto. Después de que el Faraón rechazara la petición de Aarón y Moisés de liberar a los esclavos hebreos, el Señor obró varios milagros a través de la vara de Aarón: se convirtió en serpiente cuando la arrojó ante el Faraón, y cuando extendió la vara sobre el Nilo, el río se convirtió en sangre.
+
+Después de que Dios enviara una sucesión de plagas sobre Egipto, el Faraón finalmente dejó ir a los esclavos, y Moisés los guio en su viaje hacia la Tierra Prometida. Mientras los israelitas vagaban por el desierto, Dios designó a Aarón como el primer Sumo Sacerdote de Israel, y otorgó a sus descendientes varones el derecho exclusivo de servir como sacerdotes.
+
+A los sacerdotes aarónicos se les otorgaron muchas responsabilidades, entre ellas: realizar ofrendas a Dios en el altar, consultar el Urim y el Thummim mediante los cuales se podía determinar la voluntad de Dios, bendecir al pueblo y «enseñar a los hijos de Israel todos los estatutos que el Señor les ha dicho por mano de Moisés» (Lev. 10:11).
+
+Mientras Moisés estaba en el Monte Sinaí recibiendo la Ley, el pueblo se impacientó y pidió a Aarón que les hiciera un ídolo de oro en forma de becerro para ofrecer sacrificios. Moisés regresó indignado al ver al pueblo bailando y cantando ante el becerro, por lo que rompió las tablas de los Diez Mandamientos y quemó el becerro de oro.
+
+A Aarón, al igual que a Moisés, no se le permitió entrar en Canaán con los israelitas debido a lo ocurrido en Cades: cuando Dios les ordenó saciar la sed del pueblo hablándole a una roca, pero Moisés, en su lugar, hizo brotar el agua golpeando la roca dos veces.
+
+Aarón reposó en el Monte Hor a la edad de 123 años. El Sumo Sacerdocio se preservó a través de sus descendientes, entre los cuales se encontraba San Juan el Precursor, hasta la venida de Cristo. La vara de Aarón, que «echó flores, brotó renuevos y produjo almendras maduras» (Núm. 17:8), prefigura a la Santísima Theotokos, quien dio a luz de su vientre al Señor Encarnado.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "San Gregorio el Dialoguista",
+		    title: "Pastor de Roma y Compilador de la Liturgia de los Presantificados",
+		    images: [
+            	        "Img/GregorioDialoguista.webp",  
+            	        "Img/GregorioDialoguista2.webp",
+		    ],
+		    desc: `Hoy también conmemoramos a San Gregorio el Dialoguista, Papa de Roma.
+
+San Gregorio nació en Roma en el año 540 en una familia noble y devota. Su padre fue prefecto de Roma y su tatarabuelo había sido el Papa Félix III. Tras recibir una excelente educación secular, Gregorio alcanzó altos cargos gubernamentales, pero su alma anhelaba la vida monástica.
+
+Después de la muerte de su padre, Gregorio convirtió la villa familiar en un monasterio dedicado a San Andrés Apóstol, y allí recibió la tonsura monástica. El Papa Pelagio II lo nombró embajador en Constantinopla y, en el 578, se le encomendó la tarea de suplicar al emperador ayuda militar contra los lombardos.
+
+Tras la muerte del Papa Pelagio, Gregorio fue elegido como nuevo Obispo de Roma en el año 590. Gregorio se consideraba indigno de este cargo y lamentaba la pérdida de la vida monástica de oración imperturbable. Finalmente aceptó la consagración tras las persistentes súplicas del clero y los fieles.
+
+San Gregorio trabajó incansablemente para propagar la Palabra de Dios. Repercutió en el trabajo misionero de la Iglesia en el norte de Europa, enviando a San Agustín de Canterbury a evangelizar a los paganos de Britania. La misión fue exitosa, y más tarde partieron misioneros hacia los Países Bajos y Alemania. San Gregorio también luchó celosamente contra las herejías arriana y donatista.
+
+Compiló la Liturgia de los Dones Presantificados en lengua latina, la cual antes de él se conocía solo por tradición oral. Este servicio litúrgico fue ratificado por el Sexto Concilio Ecuménico y continúa celebrándose en los días laborables de la Gran Cuaresma y en ciertos días señalados de la temporada cuaresmal.
+
+San Gregorio es conocido en Oriente como "el Dialoguista" por sus cuatro volúmenes de Diálogos, en los que escribió las vidas y milagros de los santos de Italia, incluyendo a San Benito de Nursia, y sobre la vida después de la muerte. Sus otros escritos incluyen un comentario sobre el Libro de Job, Homilías sobre Ezequiel, la Regla Pastoral (que sirvió como manual principal para sacerdotes en Occidente durante muchos años) y numerosos sermones.
+
+Pastoreando sabiamente su sede durante 13 años, San Gregorio reposó en este día del año 604.`
+		},
+		],
 };
