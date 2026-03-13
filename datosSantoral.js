@@ -3050,4 +3050,54 @@ San Gregorio es conocido en Oriente como "el Dialoguista" por sus cuatro volúme
 Pastoreando sabiamente su sede durante 13 años, San Gregorio reposó en este día del año 604.`
 		},
 		],
+				"03-13": [ 
+		{
+		    name: "San Nicéforo",
+		    title: "Patriarca de Constantinopla y Confesor Defensor de las Santas Imágenes",
+		    img: "Img/NicéforoConstantinopla.webp" ,
+		    desc: `Gobernaba sabiamente y con celo la Santa Iglesia, como el Sumo Pontífice de Constantinopla. Cuando León el Armenio se levantó en contra de los íconos, él se opuso al emperador, primeramente aconsejándolo pero después denunciándolo. Por eso el inicuo emperador lo exilió a la isla de Proconeso. En esa isla había un monasterio, que Nicéforo mismo había construido y dedicado a San Teodoro. Allí este confesor de la fe ortodoxa pasó 13 años, y luego murió y se presentó al Señor en el 827.
+
+Luego de la muerte de todos los emperadores iconoclastas, y que al trono del emperador ascendió Miguel junto con su madre Teodora y en el trono patriarcal fue restaurado el Patriarca Metodio, entonces (en el 846) fueron trasladadas las reliquias de San Nicéforo desde Proconeso hasta Constantinopla, y fueron colocadas en la iglesia de Santa Sofía (Hagia Sofía, de la cual había sido expulsado en su vida), y luego en la iglesia de los Santos Apóstoles.
+
+La conmemoración principal de este gran Jerarca es el 2 de junio, mientras que el 13 de marzo se celebra el descubrimiento y traslado de sus incorruptibles reliquias. San Nicéforo fue exiliado de Constantinopla un 13 de marzo, y otra vez un 13 de marzo, después 19 años, sus reliquias fueron trasladadas de regreso a esta capital.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "Reflexión, Contemplación y Sermón",
+		    title: "Por San Nicolai de Ohrid y de toda America",
+		    img: "Img/Nicolai.webp",
+		    desc: ` REFLEXIÓN: 
+
+Grandes cristianos son aquellos que tienen gran amor hacia Cristo. ¡Oh, cuán verdaderamente grandes cristianos fueron los teóforos padres y los mártires! En nuestros tiempos esto es imposible de imaginar para muchos.
+
+He aquí lo que uno de ellos, San Simeón el Nuevo Teólogo, confesó en su monasterio ante todos los monjes. Hablando desde su experiencia, acerca de cómo se cumplieron en él las palabras del Señor: “Mi yugo es excelente y mi carga es liviana” (Mat. 11:30), él dice: “Créame que cuando me entregué a Dios mi Salvador, no encontraba nada desgraciado, difícil o insoportable…Grande e insoportable tristeza tenía yo, sólo porque no podía encontrar una causa suficiente para morir por el amor de Cristo”.
+
+¿No son acaso semejantes almas como llamas encerradas en vasijas de barro? ¡Las llamas siempre son verticales y direccionadas al cielo! Sólo quita la tapa, y la llama se elevará más alto.
+
+CONTEMPLACIÓN:
+
+Contemplar a Señor Jesucristo en el juicio ante Herodes:
+
+1. Cómo a Herodes al principio le fue muy agradable ver a Jesucristo, no por alguna necesidad del alma sino por curiosidad;
+
+2. Cómo Herodes tenía la esperanza de ver algún milagro de Jesús, pero quedó defraudado porque el Señor callaba ante todas sus preguntas;
+
+3. Cómo Herodes y los suyos se burlaron del Señor y cómo Lo vistieron con un vestido blanco.
+
+
+SERMÓN: Sobre reconciliación de los malos por medio del mal
+
+“Y he aquí que en aquél día Herodes y Pilato se hicieron amigos, que antes eran enemigos (Lc. 23:12)”
+
+En su deshonra y humillación el justo hace lo bueno a sus enemigos. Él los reconcilia. En este caso, en verdad la reconciliación no significó una mutua cooperación para alguna obra buena sino la mutua persecución del justo. Pero al menos la llama del odio entre ellos quedó extinguida y apagada. Y esto es el pago al Justo. Pilato y Herodes eran enemigos. Pero en aquel día, cuando el Salvador fue llevado a juicio ante ambos, ellos se reconciliaron. El Príncipe de la Paz trajo paz entre los enfrentados, la paz que ayudó a labrar la cruz para Él. Pero Él vino justamente para ser el sacrificio voluntario por los pecados de muchos.
+
+Hasta hoy en día, enemigos mutuos se reconcilian cuando hay que atacar y condenar al Señor. Existen muchos de ellos que se matan entre ellos, hasta que se les menciona el nombre de Jesucristo. Y apenas oyen este nombre, gradualmente se reconcilian entre sí para atacar a este santo nombre. El injusto soporta más fácilmente al injusto que al justo. Y es más fácil para el injusto entenderse y reconciliarse con el injusto que con el justo.
+
+Aún los partidos en algunos Estados, los más peleados entre sí, se reconcilian cuando hay que decidir qué lugar se le debe dar al Señor Jesucristo en el Estado, ¿el primero (como Él merece) o el último? En esta pregunta, los enemigos a muerte se reconcilian entre sí, con tal de que al Señor le sea dado el último lugar. Asimismo, en aquel tiempo los enfrentados partidos de los fariseos y saduceos, se reconciliaron y amigaron contra Cristo.
+
+¿Y porque el más Puro y el más Necesario debe estar en el última lugar? Para que - según su pensamiento - los primeros lugares queden para ellos. Este incentivo para la reconciliación hubo entre los fariseos y saduceos, enemigos declarados, cuando fue necesario buscar que se mate a Jesucristo. Este mismo incentivo ocasionó la reconciliación entre Pilatos y Herodes, cuando fue necesario decidir que se mate a Jesucristo.
+
+¡Oh, hermanos míos! Nunca busquemos la paz con la injusticia contra la justicia. Sino siempre busquemos la paz con Dios y con la conciencia. Dios, ayúdanos a tener siempre esa paz. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
+		}
+		],
 };
