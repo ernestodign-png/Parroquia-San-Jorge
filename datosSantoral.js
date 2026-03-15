@@ -3100,4 +3100,29 @@ Aún los partidos en algunos Estados, los más peleados entre sí, se reconcilia
 ¡Oh, hermanos míos! Nunca busquemos la paz con la injusticia contra la justicia. Sino siempre busquemos la paz con Dios y con la conciencia. Dios, ayúdanos a tener siempre esa paz. A Ti la gloria y el agradecimiento por los siglos de los siglos. Amén.`
 		}
 		],
+				"03-15": [ 
+		{
+		    name: "Domingo de la Veneración de la Santa Cruz",
+		    title: "Fortaleza en la Mitad del Camino y Símbolo de Victoria",
+		    images: [
+            	        "Img/VeneraciónSantaCruz.webp",  
+            	        "Img/VeneraciónSantaCruz2.webp",
+            	        "Img/foto6.jpg",
+						
+		    ],
+		    desc: `Hoy, tercer domingo de la Gran Cuaresma, celebramos la Veneración de la Honorable y Vivificante Cruz. Al marcar el punto medio del periodo cuaresmal, el tema de este domingo no solo nos prepara para la solemne conmemoración de la Crucifixion, sino que también nos recuerda que la Gran Cuaresma es un tiempo en el que somos crucificados junto con Cristo.
+
+Durante estos 40 días de ayuno y privación, la Preciosa y Vivificante Cruz se coloca ante nosotros, alentándonos a soportar todas las pruebas, dolores y sufrimientos —físicos y espirituales— que experimentamos en nuestras vidas.
+
+A través de Su Resurrección, Cristo transformó este instrumento de muerte en el símbolo definitivo de la victoria. Se nos insta a seguir Su ejemplo de lucha y sacrificio cargando nuestra propia cruz, con la esperanza de que nosotros también seamos transformados y considerados dignos de heredar la vida eterna: «El que no toma su cruz y me sigue, no es digno de mí» (Mateo 10:38).
+
+Así como el Árbol de la Vida fue colocado en medio del Jardín del Edén, los Santos Padres han situado la conmemoración de la Santa Cruz en la mitad de la Gran Cuaresma. De este modo, se nos recuerda que Cristo ha transformado el Árbol de la Vida en la Cruz de madera de la salvación: el símbolo supremo del triunfo sobre la muerte y la redención de la humanidad tras la caída de Adán y Eva.
+
+Durante el servicio de hoy, la Santa Cruz es llevada en procesión alrededor de la iglesia y colocada sobre un lecho de flores y albahaca. Como las primeras flores de la primavera, época en que la naturaleza renace, los narcisos nos recuerdan la Resurrección. Cuando la emperatriz Santa Elena descubrió la Vera Cruz en el año 326, halló en ese lugar una planta floreciente con una fragancia hermosa. Nombró a la planta Vasiliko/Albahaca, que significa «del Rey». Por esta razón, la albahaca ha estado asociada durante mucho tiempo con la Santa Cruz.
+
+El icono de la Veneración de la Cruz es el mismo que se utiliza en la fiesta de la Exaltación de la Cruz Vivificante el 14 de septiembre. El Patriarca Macario de Jerusalén aparece representado elevando la Cruz sobre un lecho de flores y albahaca, mientras que a la izquierda se encuentra la emperatriz Santa Elena junto a su hijo, San Constantino el Grande.`,
+			ayuno: "Ayuno: Se Permite Pescado y Vino"
+		}
+		],
+
 };
