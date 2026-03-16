@@ -3124,5 +3124,31 @@ El icono de la Veneración de la Cruz es el mismo que se utiliza en la fiesta de
 			ayuno: "Ayuno: Se Permite Pescado y Vino"
 		}
 		],
+						"03-16": [ 
+		{
+		    name: "San Cristódulo de Patmos",
+		    title: "Fundador del Monasterio de San Juan el Teólogo y Restaurador de la Isla",
+		    images: [
+            	        "Img/CristóduloPatmos.webp",  
+            	        "Img/CristóduloPatmos2.webp",
+            	        "Img/CristóduloPatmos3.webp",
+						
+		    ],
+		    desc: `Hoy conmemoramos a San Cristódulo el Taumaturgo de Patmos. Se le recuerda por establecer el Monasterio de San Juan el Teólogo en la isla de Patmos y por la repoblación de la isla después de que los sarracenos la hubieran deshabitado.
+
+San Cristódulo nació con el nombre de Juan alrededor del año 1020 en Nicea de Bitinia, en Asia Menor, e hijo de campesinos. De joven, llevó una vida ascética en el Monte Olimpo de Asia Menor, así como en el desierto palestino. Posteriormente, recibió la tonsura monástica con el nombre de Cristódulo («siervo de Cristo»).
+
+Ejerció como abad del Monasterio del Monte Lamos en Caria (Asia Menor occidental), pero tras las invasiones de los sarracenos en 1085, Cristódulo condujo a los monjes a la isla de Cos, donde estableció un monasterio dedicado a la Madre de Dios.
+
+Mientras estaba en Cos, Cristódulo conoció a un asceta llamado Arsenio Skinouris, hijo y heredero de un rico terrateniente local, quien se convirtió en el hijo espiritual del abad. Juntos soñaron con restablecer la vida monástica en la isla de Patmos, que había quedado despoblada tras los ataques de los sarracenos.
+
+En 1088, el padre Cristódulo y Arsenio acudieron ante el emperador Alejo I Comneno en Constantinopla y presentaron su plan para repoblar la isla de Patmos con monjes. El emperador accedió a la petición y concedió a Cristódulo la soberanía sobre la isla a cambio de las posesiones en Cos vinculadas a la herencia de Arsenio.
+
+En 1091, San Cristódulo regresó a Patmos, llevando consigo albañiles y otros artesanos, y comenzó la construcción de un nuevo monasterio en una montaña cerca de la cueva donde, según la Tradición, el Santo Apóstol y Evangelista Juan el Teólogo escribió el Libro del Apocalipsis (imagen 2).
+
+En 1093, las incursiones en la isla por parte de piratas sarracenos obligaron a San Cristódulo y a los monjes a huir a la isla de Eubea, y allí entregó su alma en este día de 1093. Cuando los bizantinos restablecieron el control de Patmos, los monjes regresaron a la isla trayendo consigo sus reliquias incorruptas, que permanecen en el monasterio hasta el día de hoy (imagen 3).`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		}
+		],
 
 };
