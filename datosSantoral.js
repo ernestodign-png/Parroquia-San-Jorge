@@ -3124,7 +3124,7 @@ El icono de la Veneración de la Cruz es el mismo que se utiliza en la fiesta de
 			ayuno: "Ayuno: Se Permite Pescado y Vino"
 		}
 		],
-						"03-16": [ 
+				"03-16": [ 
 		{
 		    name: "San Cristódulo de Patmos",
 		    title: "Fundador del Monasterio de San Juan el Teólogo y Restaurador de la Isla",
@@ -3148,6 +3148,61 @@ En 1091, San Cristódulo regresó a Patmos, llevando consigo albañiles y otros 
 
 En 1093, las incursiones en la isla por parte de piratas sarracenos obligaron a San Cristódulo y a los monjes a huir a la isla de Eubea, y allí entregó su alma en este día de 1093. Cuando los bizantinos restablecieron el control de Patmos, los monjes regresaron a la isla trayendo consigo sus reliquias incorruptas, que permanecen en el monasterio hasta el día de hoy (imagen 3).`,
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		}
+		],
+				"03-17": [ 
+		{
+		    name: "San Patricio, Iluminador de Irlanda",
+		    title: "El Apóstol de la Santísima Trinidad y la Conversión de los Paganos",
+		    images: [
+            	        "Img/PatricioIrlanda.webp",  
+            	        "Img/PatricioIrlanda2.webp",
+            	        "Img/PatricioIrlanda3.webp",
+						
+		    ],
+		    desc: `Hoy conmemoramos a San Patricio, Obispo de Armagh. Aunque no fue el primer misionero en predicar en Irlanda, su notable éxito al iluminar a los paganos le valió los títulos de «Iluminador de Irlanda» e «Igual a los Apóstoles».
+
+San Patricio nació en la Britania romana alrededor del año 390. Su familia pertenecía a la minoría cristiana de Britania: su padre, Calpurnio, era diácono, y su abuelo era sacerdote.
+
+Según su propia obra autobiográfica, la Confessio, cuando San Patricio tenía 16 años, fue capturado en su hogar en el pueblo de Bannavem Taberniae por piratas y llevado como esclavo a Irlanda. Vivió allí durante seis años como pastor, tiempo durante el cual oró con frecuencia y alcanzó una fe verdadera y viva en Dios.
+
+A la edad de 22 años, tuvo una visión en la que Dios le dijo que se preparara para dejar Irlanda. Poco después escapó, caminando 200 millas hasta un barco y regresando con su familia a Britania. En otro sueño que prefiguraba su futuro, vio a la gente de Irlanda llamándolo y diciendo: «Te rogamos, joven santo, que vengas y camines de nuevo entre nosotros».
+
+Tiempo después, San Patricio fue a la Galia y emprendió su formación clerical en Auxerre bajo la dirección de San Germán. En el año 430, fue consagrado obispo y se le confió la misión en Irlanda, sucediendo a San Paladio, quien había tenido poco éxito en la conversión de los paganos locales.
+
+San Patricio dedicó su vida a predicar el Evangelio en Irlanda, soportando ataques y amenazas de tribus paganas hostiles. Manteniéndose firme en su vocación, fundó numerosas iglesias y monasterios, y condujo a muchos al Santo Bautismo en Cristo.
+
+Para cuando estableció su sede episcopal en Armagh en el año 444, San Patricio contaba con otros obispos para asistirle, así como con muchos sacerdotes y diáconos nativos, y fomentó el crecimiento del monacato.
+
+San Patricio es representado frecuentemente en la iconografía sosteniendo un trébol, ya que utilizó este símbolo para ilustrar la Santísima Trinidad a los paganos. Las tres hojas que crecen de un solo tallo le ayudaron a explicar el misterio de un solo Dios en tres Personas. Reposó en paz en Saul, Downpatrick, Irlanda, en este día del año 461.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "San Alejo, el Hombre de Dios",
+		    title: "El Asceta de la Humildad y la Renuncia Total bajo el Techo Paterno",
+		    images: [
+            	        "Img/AlejoHombreDios.webp",  
+            	        "Img/AlejoHombreDios2.webp",
+            	        "Img/AlejoHombreDios3.webp",
+						
+		    ],
+		    desc: `San Alejo nació en Roma alrededor del año 380, en el seno de una familia noble y acaudalada, hijo de Eufemiano y Aglais. Desde su juventud, leyó con diligencia las Sagradas Escrituras y se mantuvo constante en las virtudes del ayuno y la oración. Aunque anhelaba abandonar el mundo para servir a Dios, sus padres concertaron para él un matrimonio con una joven de gran belleza.
+
+Debatido entre la obediencia a sus padres y el deseo ardiente de servir al Señor, Alejo eligió esto último y huyó en secreto a la ciudad de Edesa, en Mesopotamia. Tras distribuir todas sus riquezas y posesiones entre los pobres, entró en una iglesia donde permaneció durante 17 años.
+
+Vestido con ropajes andrajosos, Alejo vivía únicamente de las limosnas ofrecidas por cristianos compasivos. Pronto se hizo conocido entre el pueblo por su virtud y celo ascético. Temiendo la alabanza de los hombres, partió y embarcó hacia Tarso, en Cilicia. Sin embargo, por la providencia de Dios, la embarcación fue desviada de su curso hacia Italia, y Alejo emprendió el regreso a su ciudad natal, Roma.
+
+Aceptando esto como la voluntad de Dios, regresó a la propiedad de su familia. Con el cuerpo demacrado por el ayuno y cubierto de harapos, resultó irreconocible para su padre quien, percibiéndolo como un mendigo, le permitió habitar en una pequeña celda en el patio.
+
+Rechazando la tentación de revelar su identidad, San Alejo permaneció allí en la oscuridad durante 17 años, dedicándose a la oración incesante. Soportó numerosos insultos de los sirvientes de su padre y glorificó a Dios por estar cerca de sus padres, aunque estos no lo supieran. Tras dejar una carta para sus padres y su esposa, San Alejo reposó en este día del año 411.
+
+[Imagen de San Alejo bajo la escalera de la casa de su padre]
+
+En el día de su reposo, el Papa Inocencio I celebraba la Divina Liturgia en presencia del emperador Honorio cuando se oyó una voz divina que decía: «Buscad al Hombre de Dios en la casa de Eufemiano».
+
+Todos se apresuraron a la celda del asceta desconocido y lo encontraron ya fallecido, con el rostro resplandeciente como el sol. Al leer la carta, sus padres y su esposa se llenaron de dolor al saber que aquel Hombre de Dios anónimo era su amado Alejo. No obstante, consolados al saber que Dios había recibido a Su elegido, veneraron sus santas reliquias junto con todos los fieles.
+
+En una capilla de la iglesia de los Santos Bonifacio y Alejo en Roma, se conserva parte de la escalera de madera bajo la cual San Alejo vivió de forma anónima en la propiedad de sus padres. Una gran parte del honorable cráneo de San Alejo se custodia en el monasterio de Agia Lavra, cerca de Kalavrita, Grecia.`
 		}
 		],
 
