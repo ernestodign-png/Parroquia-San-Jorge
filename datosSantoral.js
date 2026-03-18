@@ -3205,5 +3205,32 @@ Todos se apresuraron a la celda del asceta desconocido y lo encontraron ya falle
 En una capilla de la iglesia de los Santos Bonifacio y Alejo en Roma, se conserva parte de la escalera de madera bajo la cual San Alejo vivió de forma anónima en la propiedad de sus padres. Una gran parte del honorable cráneo de San Alejo se custodia en el monasterio de Agia Lavra, cerca de Kalavrita, Grecia.`
 		}
 		],
+				"03-18": [ 
+		{
+		    name: "San Cirilo de Jerusalén",
+		    title: "Custodio de la Fe Apostólica y Maestro de la Catequesis",
+		    images: [
+            	        "Img/CiriloJerusalén.webp",  
+            	        "Img/CiriloJerusalén2.webp",						
+		    ],
+		    desc: `Hoy conmemoramos a San Cirilo, Arzobispo de Jerusalén.
 
+San Cirilo nació en Jerusalén alrededor del año 315 y fue criado en una estricta piedad cristiana. Fue ordenado diácono en 334 por el Arzobispo de Jerusalén, San Macario, y presbítero diez años después por el obispo Máximo III.
+
+En el año 350, tras la muerte de Máximo, el sabio Cirilo le sucedió en el trono episcopal de Jerusalén. Como arzobispo, Cirilo fue un paladín de la fe apostólica y patrística, y luchó celosamente contra los herejes.
+
+En aquel tiempo, el obispo arriano de Cesarea en Palestina era Acacio. Debido a que Acacio se negaba a aceptar la confesión nicena de que el Hijo es consustancial con el Padre, fue depuesto en un sínodo local en Sárdica.
+
+Sin embargo, Acacio no aceptó su deposición y mantuvo su trono episcopal gracias a sus vínculos con el emperador Constancio II, simpatizante del arrianismo. Con el apoyo imperial, Acacio logró que Cirilo fuera depuesto y exiliado de Jerusalén. El santo partió hacia Tarso de Cilicia, donde encontró refugio con el obispo Silvano.
+
+Al final de su exilio, San Cirilo asistió a un sínodo en Seleucia, donde el herético Acacio propuso un nuevo credo que abandonaba el término «Homoousion» («de una misma esencia») y, en su lugar, afirmaba únicamente la «semejanza» del Hijo con el Padre.
+
+Después de que este concilio depusiera a Acacio por sus enseñanzas heréticas, este se dirigió a Constantinopla y calumnió a Cirilo y al sínodo ante el emperador y el patriarca arriano Eudoxio. Gracias a su influencia en la corte, las decisiones del sínodo fueron anuladas y, en el año 360, Cirilo sufrió un segundo exilio de Jerusalén.
+
+Liberado brevemente cuando Juliano el Apóstata se convirtió en emperador en 361, Cirilo fue exiliado por tercera vez por el emperador arriano Valente. Finalmente fue restaurado durante el reinado de San Teodosio el Grande. En 381, Cirilo asistió al Segundo Concilio Ecuménico en Constantinopla, donde se confirmó el Credo Niceno-Constantinopolitano.
+
+San Cirilo regresó a su sede como Arzobispo de Jerusalén, donde sirvió hasta su reposo en el año 386. Su colección de veintitrés Lecturas Catequéticas, conservadas hasta el día de hoy, permanecen como un testimonio duradero de su sabiduría.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		}
+		],
 };
