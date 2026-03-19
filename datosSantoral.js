@@ -3233,4 +3233,32 @@ San Cirilo regresó a su sede como Arzobispo de Jerusalén, donde sirvió hasta 
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
 		}
 		],
+				"03-19": [ 
+		{
+		    name: "Santos Crisanto y Daría",
+		    title: "El Matrimonio Virginal y la Iluminación de Roma",
+		    images: [
+            	        "Img/CrisantoDaría.webp",  
+            	        "Img/CrisantoDaría2.webp",
+						"Img/CrisantoDaría3.webp",						
+						
+		    ],
+		    desc: `Hoy conmemoramos a los Santos Mártires Crisanto y Daría de Roma. Sufrieron por Cristo en el año 283 d.C., durante el reinado del emperador Numeriano.
+
+San Crisanto era hijo de un noble egipcio que se trasladó de Alejandría a Roma. Tras recibir una excelente educación, encontró escritos paganos que mencionaban el cristianismo y se sintió movido a aprender más sobre esta fe. Al hallar una copia del Nuevo Testamento, su alma racional fue iluminada.
+
+Buscando instrucción en las Sagradas Escrituras, localizó al presbítero Carpóforo, quien estaba escondido debido a la persecución, y recibió de él el Santo Bautismo. A partir de entonces, comenzó a predicar el Evangelio. Su padre, buscando apartarlo de Cristo, concertó su matrimonio con Daría, una sacerdotisa pagana de la diosa romana Minerva.
+
+San Crisanto logró convertir a su esposa a la Verdadera Fe, y juntos acordaron vivir en celibato, dedicándose a predicar el Evangelio y conduciendo a muchos a la fe en Cristo.
+
+Cuando el pueblo de Roma se quejó ante el eparca Celerino de que Crisanto y Daría predicaban el celibato y atraían a muchos jóvenes al monacato, Crisanto fue enviado al tribuno Claudio para ser torturado. Inspirado por la firmeza del mártir en medio de crueles tormentos, Claudio llegó a creer en Cristo y recibió el Santo Bautismo junto con su familia. Cuando esto se supo, el emperador Numeriano ordenó la muerte de Claudio y los suyos.
+
+Mientras tanto, los torturadores enviaron a Santa Daría a un prostíbulo, pero fue protegida por un león enviado por Dios. Cuando un hombre intentó profanarla, fue derribado y retenido por la bestia, aunque no muerto. La mártir, a su vez, predicó a Cristo a los presentes, poniéndolos en el camino de la salvación.
+
+San Crisanto fue arrojado a un pozo nauseabundo donde fluían todos los desechos de la ciudad. Sin embargo, una luz celestial brilló sobre él y el pozo se llenó de una dulce fragancia.
+
+Tras nuevos tormentos, Numeriano ordenó que Crisanto y Daría fueran enterrados vivos, entregando así sus almas al Señor. Sus santas reliquias reposan en la catedral de Reggio Emilia, Italia.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		}
+		],
 };
