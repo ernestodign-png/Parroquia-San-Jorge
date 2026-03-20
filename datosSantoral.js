@@ -3261,4 +3261,51 @@ Tras nuevos tormentos, Numeriano ordenó que Crisanto y Daría fueran enterrados
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
 		}
 		],
+				"03-20": [ 
+		{
+		    name: "Los Santos Padres de la Lavra de San Sabas",
+		    title: "El Martirio de los Monjes en el Corazón del Desierto de Judea",
+            img: "Img/PadresSabas.webp",  
+		    desc: `Hoy conmemoramos a los Santos Padres asesinados en el Monasterio de San Sabas en el año 797 d.C.
+
+Durante las incursiones de los sarracenos en Jerusalén en el siglo VIII, el Monasterio de San Charitón fue devastado y quedó en ruinas, mientras que la Lavra de San Sabas fue atacada dos veces, siendo protegida milagrosamente por la Providencia de Dios. A pesar del peligro, los monjes se negaron a abandonar el lugar donde habían buscado la salvación durante muchos años.
+
+El Jueves Santo, 20 de marzo, los sarracenos descendieron sobre la Lavra. Golpearon a los monjes y llevaron a los supervivientes a la iglesia, torturándolos para que revelaran tesoros ocultos. Los bárbaros capturaron a Juan, un joven monje que cuidaba de los vagabundos; tras ser ferozmente golpeado, le cortaron los tendones de manos y pies, y fue arrastrado por las piedras, desgarrándole la piel de la espalda.
+
+El custodio de los vasos sagrados, San Sergio, los escondió e intentó huir, pero fue capturado y decapitado. Varios monjes lograron esconderse fuera del monasterio en una cueva, pero un centinela los vio y exigió que salieran. San Patricio, acurrucado con los demás, susurró: «No temáis, iré solo y encontraré mi muerte. Mientras tanto, quedaos sentados y orad».
+
+Cuando los sarracenos preguntaron si había alguien más en la cueva, San Patricio dijo que estaba solo. Lo llevaron a la Lavra con los otros cautivos y exigieron 4000 piezas de oro y los vasos sagrados, un rescate que los monjes no podían entregar.
+
+[Imagen de las reliquias de los Santos Padres en el Monasterio de San Sabas]
+
+Luego llevaron a los cautivos a la Cueva de San Sabas, dentro de los muros del monasterio, y encendieron un fuego con estiércol en la entrada para sofocarlos. Dieciocho hombres perecieron en la cueva, incluidos los santos Juan y Patricio. Los monjes restantes fueron torturados pero no revelaron nada, y finalmente los sarracenos abandonaron el monasterio.
+
+El Viernes Santo, los monjes que se habían escondido en las colinas regresaron, recogieron los cuerpos de los padres asesinados y los enterraron. El padre Tomás, que era médico, atendió a los monjes heridos, uno de los cuales murió más tarde, elevando el número total de mártires a veinte.
+
+Los bárbaros que saquearon el monasterio fueron castigados por Dios con una enfermedad repentina y perecieron; sus cuerpos fueron devorados por bestias salvajes.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "San Mirón el Sastre de Heraclión",
+		    title: "Firmeza ante la Calumnia y el Martirio en Creta",
+            img: "Img/SastreHeraclión.webp",  
+		    desc: `Hoy también conmemoramos al Santo Neomártir Mirón el Sastre de Heraclión, en Creta.
+
+San Mirón nació en el seno de una piadosa familia ortodoxa en Mega Kastro (actual Heraclión) durante la ocupación otomana de Creta. Ganándose la vida como sastre, la conducta virtuosa de Mirón era tal que despertó la envidia de los musulmanes, y varios de ellos se propusieron encontrar la manera de obligarlo a abandonar el cristianismo y aceptar el islam.
+
+Un día, los musulmanes encontraron a un niño y lo convencieron para que declarara que Mirón había abusado de él. Esta acusación dio a los musulmanes la excusa que necesitaban para detener a Mirón y llevarlo ante el cadí. Mientras se defendía de estas falsas acusaciones, los musulmanes gritaban que los cargos eran ciertos y que Mirón merecía morir.
+
+El cadí le dio a Mirón dos opciones: convertirse y salvar su vida, o permanecer cristiano y sufrir la muerte. Mirón respondió que nunca negaría su fe y que estaba dispuesto a soportar el castigo y la muerte por amor a Cristo.
+
+El cadí ordenó que Mirón fuera golpeado y encarcelado. Llevado a un segundo interrogatorio, el cadí comenzó a halagar a Mirón, alabando su juventud y belleza, y prometiéndole muchas recompensas y honores si se convertía, pero también una muerte muy dolorosa si se negaba. Sin embargo, Mirón se mantuvo firme en su deseo de morir como cristiano ortodoxo y, al ver su resolución, el cadí lo sentenció a muerte.
+
+[Imagen del martirio de San Mirón el Sastre]
+
+De camino a su ejecución, que debía tener lugar fuera de la ciudad, Mirón saludó a todos los cristianos ortodoxos que encontraba y les decía: «Hermanos, perdonadme y Dios os perdonará». Entre los que le seguían por el camino estaba el padre de Mirón, a quien las lágrimas le desbordaban.
+
+Cuando llegaron al lugar de la ejecución, Mirón pidió y recibió permiso para acercarse a su padre. Se postró a sus pies y comenzó a besarlos, consolándolo y pidiéndole su bendición paterna. Mirón se dirigió entonces a los verdugos y les dijo que completaran su tarea. La muerte de San Mirón se produjo rápidamente por ahorcamiento, y se vio una luz celestial bañando su cuerpo.
+
+Así, el santo mártir entregó su alma al Señor el 20 de marzo de 1793.`,
+		}
+		],
 };
