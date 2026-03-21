@@ -3308,4 +3308,17 @@ Cuando llegaron al lugar de la ejecución, Mirón pidió y recibió permiso para
 Así, el santo mártir entregó su alma al Señor el 20 de marzo de 1793.`,
 		}
 		],
+				"03-21": [ 
+		{
+		    name: "Nuestro Santo Padre Jacobo el confesor",
+		    title: "El Martirio de los Monjes en el Corazón del Desierto de Judea",
+            img: "Img/PadreJacobo.webp",  
+		    desc: `Desde su juventud llevaba una vida santa, poniendo toda su devoción, su corazón en la fe y doctrina de la Iglesia.
+
+			 Fue elegido obispo en los años de los iconoclastas, luego de un tiempo se recluyo con tanta severidad, que llego hasta el punto de privarse incluso del pan.
+
+			 A pesar de todas las penurias, en ningún momento se doblego su creencia. Seguía siendo constante hasta el ultimo momento de su vida, recordando las palabras del Apóstol Pablo “Comparte nuestros sufrimientos, como buen soldado de Jesucristo.” ( 2ª Epístola a Timoteo 2: 3) por lo tanto, padeció como un buen soldado de Jesucristo`,
+			ayuno: "Ayuno: Se Permite Pescado y Vino"
+		},
+		],
 };
