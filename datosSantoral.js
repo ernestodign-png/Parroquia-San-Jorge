@@ -3321,4 +3321,27 @@ Así, el santo mártir entregó su alma al Señor el 20 de marzo de 1793.`,
 			ayuno: "Ayuno: Se Permite Pescado y Vino"
 		},
 		],
+				"03-23": [ 
+		{
+		    name: "San Nicón y los 199 Monjes con él",
+		    title: "Del Valor en el Campo de Batalla al Martirio en Sicilia",
+            img: "Img/Nicón199Monjes.webp",  
+		    desc: `Hoy conmemoramos al Hieromártir San Nicón y a los 199 monjes que sufrieron con él durante el reinado del emperador Decio (249-251).
+
+San Nicón nació en Neápolis (Nápoles), Italia, de padre pagano y madre cristiana, quien lo instruyó secretamente en los dogmas del cristianismo. Sin embargo, Nicón permaneció pagano hasta la edad adulta. Sirvió como soldado y demostró un gran valor.
+
+En una ocasión, Nicón y su compañía fueron rodeados por enemigos. Ante un peligro mortal, hizo la señal de la Cruz y oró diciendo: «Señor Jesucristo, ayúdame», prometiendo ser bautizado si era salvado. Lleno de fuerza, dio muerte a muchos enemigos y puso al resto en fuga.
+
+Fiel a su voto, Nicón regresó a casa y, con la bendición de su madre, partió hacia Bizancio para encontrar a un sacerdote. Al desembarcar en la isla de Quíos, subió a una montaña y pasó siete días en ayuno, vigilias y oración, suplicando la ayuda del Señor.
+
+Un ángel de Dios se le apareció, dándole un báculo e instruyéndole que fuera al mar. Tras navegar durante dos días, llegó al monte Ganos, donde muchos monjes estaban escondidos bajo la dirección de Teodosio, obispo de Cícico. Nicón fue llevado a la cueva del obispo, donde fue bautizado y vivió durante tres años en ascetismo. Antes de su reposo, el obispo Teodosio, instruido por un ángel, ordenó a Nicón presbítero y obispo, confiándole a los 190 monjes y ordenándole que fuera a Sicilia.
+
+Tras enterrar al obispo, San Nicón navegó a Sicilia con los hermanos. Encontró a su madre en Neápolis y permaneció con ella hasta su reposo. La noticia del regreso de Nicón se difundió, y nueve soldados, sus antiguos compañeros, acudieron a conversar con él. Estos aceptaron el Santo Bautismo y siguieron a San Nicón con los hermanos, sumando ahora un total de 199, hacia una montaña remota en Taormina.
+
+Cuando Quintiliano, el gobernador de Sicilia, supo que Nicón vivía cerca con muchos monjes, ordenó capturar y decapitar a los 199 monjes, mientras que San Nicón fue mantenido con vida para ser torturado.
+
+Fue estirado y quemado con antorchas. También fue atado a caballos salvajes y arrastrado sobre rocas. Los torturadores le cortaron la lengua, lo golpearon y lo arrojaron por un acantilado antes de decapitarlo finalmente.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		],		
 };
