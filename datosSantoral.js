@@ -3343,5 +3343,31 @@ Cuando Quintiliano, el gobernador de Sicilia, supo que Nicón vivía cerca con m
 Fue estirado y quemado con antorchas. También fue atado a caballos salvajes y arrastrado sobre rocas. Los torturadores le cortaron la lengua, lo golpearon y lo arrojaron por un acantilado antes de decapitarlo finalmente.`,
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
 		},
-		],		
+		],
+				"03-25": [ 
+		{
+		    name: "La Anunciación de la Madre de Dios",
+		    title: "El Principio de Nuestra Salvación y la Reversión de la Caída",
+		    images: [
+            	        "Img/AnunciaciónMadreDios.webp",  
+            	        "Img/AnunciaciónMadreDios2.webp",
+						"Img/AnunciaciónMadreDios3.webp",						
+						
+		    ],  
+		    desc: `Hoy celebramos la Anunciación de la Santísima Madre de Dios. Esta Gran Fiesta conmemora las buenas nuevas traídas por el Arcángel Gabriel a la Virgen María: que nuestro Señor Jesucristo, el Hijo de Dios, tomaría carne y entraría al mundo a través de su vientre (Lucas 1:26-38).
+
+El Arcángel Gabriel fue enviado por Dios a la Virgen María en Nazaret de Galilea. Apareciéndose ante ella, le dijo: «¡Alégrate, muy favorecida, el Señor es contigo; bendita tú eres entre las mujeres!». Pero la Theotokos se turbó, pues no comprendía el significado de este saludo.
+
+El ángel le dijo entonces: «No temas, María, porque has hallado gracia delante de Dios. Y concebirás en tu vientre, y darás a luz un hijo, y llamarás su nombre JESÚS. Este será grande, y será llamado Hijo del Altísimo; y el Señor Dios le dará el trono de David su padre; y reinará sobre la casa de Jacob para siempre, y su reino no tendrá fin».
+
+Cuando la Virgen María preguntó al ángel cómo podría ser esto, ya que no conocía varón, el ángel respondió: «El Espíritu Santo vendrá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por lo cual también el Santo Ser que nacerá, será llamado Hijo de Dios». El ángel también reveló que su parienta Isabel, aunque estéril y de edad avanzada, había concebido y estaba en el sexto mes de gestación de un hijo (Juan el Precursor), y le afirmó que «para Dios nada será imposible».
+
+En una muestra perfecta de su pureza y obediencia a la voluntad de Dios, la Theotokos respondió a esta anunciación con humildad y fe, aceptando libremente el papel otorgado en la economía divina: «He aquí la sierva del Señor; hágase conmigo conforme a tu palabra».
+
+Como se canta en el himno de despedida (Apolytikion), la Anunciación es el comienzo de todas las fiestas de nuestro Señor: «Hoy es el principio de nuestra salvación y la revelación del misterio de los siglos». Revela la reversión de la caída: donde una vez la serpiente habló a Eva en el Jardín, el Arcángel Gabriel habla ahora a la Virgen María (la nueva Eva) en su estado de paraíso espiritual.
+
+Un detalle importante y hermoso en el icono de la Anunciación es el huso de hilo escarlata que la Theotokos sostiene en su mano izquierda (imagen 2), representando la tarea que se le asignó de preparar el material púrpura y escarlata para confeccionar el velo del Templo de Jerusalén. Este hilo significa la carne de Cristo, que Él recibe de ella, siendo místicamente «tejida» en su vientre. El hilo también señala al propio Cristo, cuya carne se convierte en el verdadero velo a través del cual Dios se revela al mundo.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		],					
 };
