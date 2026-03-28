@@ -3369,5 +3369,36 @@ Como se canta en el himno de despedida (Apolytikion), la Anunciación es el comi
 Un detalle importante y hermoso en el icono de la Anunciación es el huso de hilo escarlata que la Theotokos sostiene en su mano izquierda (imagen 2), representando la tarea que se le asignó de preparar el material púrpura y escarlata para confeccionar el velo del Templo de Jerusalén. Este hilo significa la carne de Cristo, que Él recibe de ella, siendo místicamente «tejida» en su vientre. El hilo también señala al propio Cristo, cuya carne se convierte en el verdadero velo a través del cual Dios se revela al mundo.`,
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
 		},
+		],
+				"03-28": [ 
+		{
+		    name: "Santa Gabriela, la Nueva Ascética del Amor",
+		    title: "Una Vida de Filantropía Global y Entrega Incondicional",
+		    images: [
+            	        "Img/SantaGabrielaAscética.webp",  
+            	        "Img/SantaGabrielaAscética2.webp",
+						"Img/SantaGabrielaAscética3.webp",
+						"Img/SantaGabrielaAscética4.webp",						
+						"Img/SantaGabrielaAscética5.webp",						
+		    ],  
+		    desc: `Hoy conmemoramos a nuestra Madre portadora de Dios, Santa Gabriela, la Nueva Ascética del Amor, quien fue canonizada recientemente en 2023.
+
+Santa Gabriela nació con el nombre de Aurelia Papagiannis en Constantinopla en 1897; su padre era un próspero comerciante de madera. Desde temprana edad, destacó por su corazón puro y su capacidad de amar.
+
+En 1923, su familia fue deportada de Constantinopla durante el intercambio de población entre Grecia y Turquía. Se reasentaron en Tesalónica, donde Aurelia obtuvo una licenciatura en filosofía por la Universidad Aristóteles.
+
+En 1932, se trasladó a Atenas para cuidar a residentes de hogares de ancianos. En 1938, se mudó a Inglaterra para estudiar fisioterapia. Regresó a Tesalónica en 1945 y trabajó con organizaciones humanitarias para apoyar a los civiles afectados por la Segunda Guerra Mundial.
+
+En 1947, Aurelia abrió una consulta de fisioterapia en Atenas y, actuando como una anárgira, utilizaba los fondos de sus clientes pagadores para proporcionar asistencia a los pobres y enfermos. Tras la muerte de su madre en 1954, renunció al mundo para embarcarse en una misión de filantropía global.
+
+Primero fue a la India, donde atendió con amor ilimitado a los pobres y enfermos, colaborando con Baba Amte en las comunidades de leprosos. No aceptó ninguna recompensa por sus servicios, confiando siempre en la providencia de Dios.
+
+Tras vivir cuatro años como ermitaña en el Himalaya, Aurelia fue a un monasterio en Betania, en Tierra Santa, donde recibió la tonsura como monja con el nuevo nombre de Gabriela. La compasiva Gabriela no permaneció allí mucho tiempo. Con su gran amor a Cristo, viajó por América, Europa y África ayudando a los necesitados entre 1967 y 1977.
+
+En 1977, se le concedió el uso de un apartamento en Atenas que se convirtió en refugio para quienes buscaban su guía espiritual. En 1989, se trasladó a una ermita en la isla de Egina.
+
+Al comienzo de la Gran Cuaresma de 1990, fue hospitalizada por cáncer linfático pero, para asombro de los médicos, su cáncer desapareció milagrosamente. Santa Gabriela se retiró a la isla de Leros, donde reposó en este día de 1992, a los 95 años. Solo los ángeles podrían contar el número de vidas que Dios tocó y transformó a través de ella.`,
+			ayuno: "Ayuno: Permitido Pescado y Vino"
+		},
 		],					
 };
