@@ -3400,5 +3400,34 @@ En 1977, se le concedió el uso de un apartamento en Atenas que se convirtió en
 Al comienzo de la Gran Cuaresma de 1990, fue hospitalizada por cáncer linfático pero, para asombro de los médicos, su cáncer desapareció milagrosamente. Santa Gabriela se retiró a la isla de Leros, donde reposó en este día de 1992, a los 95 años. Solo los ángeles podrían contar el número de vidas que Dios tocó y transformó a través de ella.`,
 			ayuno: "Ayuno: Permitido Pescado y Vino"
 		},
+		],
+				"03-29": [ 
+		{
+		    name: "Domingo de Santa María de Egipto",
+		    title: "El Modelo del Arrepentimiento Radical y la Misericordia Divina",
+		    images: [
+            	        "Img/SantaMaríaEgipto.webp",  
+            	        "Img/SantaMaríaEgipto2.webp",
+						"Img/SantaMaríaEgipto3.webp",
+		    ],  
+		    desc: `Hoy, quinto y último domingo de la Gran Cuaresma, la Iglesia conmemora el Domingo de Santa María de Egipto, cuya historia impulsa a todos los pecadores al arrepentimiento mientras nos preparamos para entrar en la Semana Santa.
+
+El tema de este domingo tiene tres partes: primero, que ninguna cantidad de pecado pasado puede alejar de Dios a una persona verdaderamente arrepentida; segundo, que Cristo ha venido a llamar a los pecadores al arrepentimiento (Lc 5:32); y tercero, que en el ejemplo de Santa María de Egipto vemos que nunca es demasiado tarde en la vida, ni en la Cuaresma, para arrepentirse.
+
+Huyendo de sus padres a los 12 años, María se fue a Alejandría y se entregó a todo tipo de libertinaje e inmoralidad. Vivió como prostituta durante 17 años, atrayendo a muchas almas al abismo de la perdición. Impulsada por una pasión insaciable, a menudo rechazaba el pago por sus favores sexuales.
+
+Se aventuró a Tierra Santa para la veneración de la Cruz Vivificante, buscando solo encontrar entre las grandes multitudes de peregrinos más compañeros para satisfacer su lujuria. Pero cuando intentó entrar en la Iglesia del Santo Sepulcro, una fuerza invisible se lo impidió.
+
+Vencida por la vergüenza, lloró y oró afuera ante un icono de la Theotokos, prometiendo renunciar a sus deseos mundanos y propiciar a Dios mediante el arrepentimiento. Al volver a la iglesia, pudo entrar con facilidad.
+
+Después de venerar la Vera Cruz, huyó al desierto, donde durante 47 años vivió en un arrepentimiento extremo, orando en soledad y suplicando a Dios el perdón. Sobrevivió durante años con solo tres hogazas de pan y, posteriormente, de hierbas silvestres.
+
+Cerca del final de su vida, conoció a Zosima, un sacerdote de un monasterio cercano. Tras relatarle la historia de su vida, le pidió que se encontraran al año siguiente, el Jueves Santo, junto al Jordán.
+
+Cuando llegó ese momento, Zosima regresó al Jordán con los Santos Misterios. María llegó al lado opuesto del río y, haciendo la señal de la Cruz, caminó milagrosamente sobre las aguas para encontrarse con él.
+
+Después de recibir los Santos Misterios, le pidió que regresara nuevamente al año siguiente. Cuando lo hizo, encontró su cuerpo y un mensaje en la arena solicitando sepultura, revelando que había reposado inmediatamente después de recibir la Comunión el año anterior.`,
+			ayuno: "Ayuno: Permitido Pescado y Vino"
+		},
 		],					
 };
