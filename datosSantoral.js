@@ -3429,5 +3429,50 @@ Cuando llegó ese momento, Zosima regresó al Jordán con los Santos Misterios. 
 Después de recibir los Santos Misterios, le pidió que regresara nuevamente al año siguiente. Cuando lo hizo, encontró su cuerpo y un mensaje en la arena solicitando sepultura, revelando que había reposado inmediatamente después de recibir la Comunión el año anterior.`,
 			ayuno: "Ayuno: Permitido Pescado y Vino"
 		},
+		],
+				"04-04": [ 
+		{
+		    name: "Sábado de Lázaro",
+		    title: "El Preludio de la Resurrección Universal y la Victoria sobre la Muerte",
+		    images: [
+            	        "Img/SábadoLázaro.webp",  
+            	        "Img/SábadoLázaro2.webp",
+						"Img/SábadoLázaro3.webp",
+		    ],  
+		    desc: `Hoy, el día anterior al Domingo de Ramos, conmemoramos el milagro de nuestro Señor Jesucristo al resucitar a Lázaro de entre los muertos después de haber estado en la tumba durante cuatro días (Juan 11:1-45).
+
+Lázaro era de la aldea de Betania, en Judea. Él y sus hermanas, María y Marta, eran discípulos del Señor, le servían fielmente y eran muy amados por Él.
+
+Mientras Jesús se encontraba más allá del Jordán, recibió un mensaje de María y Marta informándole que su hermano estaba enfermo: «Señor, he aquí el que amas está enfermo». Al oír esta noticia, dijo: «Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella».
+
+Cristo permaneció dos días más en el lugar donde estaba, tiempo durante el cual Lázaro reposó. Luego dijo a sus discípulos: «Vamos a Judea otra vez». Aunque ellos temían por su seguridad, sabiendo que los judíos de allí habían intentado apedrearlo recientemente, Cristo les dijo: «Nuestro amigo Lázaro duerme; mas voy para despertarle».
+
+Cuando Cristo llegó a Betania, Lázaro llevaba ya cuatro días en el sepulcro. Sus afligidas hermanas se postraron a los pies de Cristo, llorando porque su hermano no habría muerto si Él hubiera llegado antes. Cristo les aseguró: «Tu hermano resucitará... Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá».
+
+Cuando María, Marta y los judíos que habían ido a consolarla llevaron a Cristo a la tumba de Lázaro, el Evangelio nos dice que «Jesús lloró». Este conmovedor versículo nos recuerda la naturaleza plenamente humana asumida por Cristo, quien, como nosotros, llora la muerte de su amigo.
+
+Cuando quitaron la piedra de la tumba, Cristo oró para que el pueblo creyera que había sido enviado por el Padre. Luego clamó a gran voz: «¡Lázaro, ven fuera!». Cuando Lázaro salió milagrosamente de su tumba atado con su mortaja, Cristo dijo a la gente: «Desatadle, y dejadle ir».
+
+Dado que muchos judíos que vieron esto se convirtieron a Cristo, este hecho inició la revuelta de los principales sacerdotes y los fariseos contra el Salvador. También conspiraron para matar a Lázaro, quien huyó a Chipre y fue ordenado por los apóstoles Pablo y Bernabé como el primer Obispo de Kition.`,
+			ayuno: "Ayuno: Permitido Pescado y Vino"
+		},
+				{
+		    name: "El Significado de la Resurrección de Lázaro al Cuarto Día",
+		    title: "La Manifestación de la Autoridad Divina sobre la Corrupción",
+		    img: "Img/SignificadoLázaro.webp",  
+		    desc: `En el sábado que conmemora la resurrección de Lázaro de Betania, es preciso preguntarse por qué Cristo eligió realizar este milagro específicamente al cuarto día de la muerte de Su amigo.
+
+Cuando Cristo recibió el mensaje de María y Marta informándole que su hermano estaba enfermo, dijo a Sus discípulos: «Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella» (Juan 11:4). En esta declaración, predice abiertamente que este milagro serviría como una manifestación de Su autoridad divina. Retrasó Su llegada a Betania deliberadamente para que se revelara la plenitud del milagro:
+
+Para cuando Cristo llegó, toda esperanza según la razón humana se había perdido. En el calor del desierto de Judea, el cuerpo ya había comenzado a descomponerse, una realidad reconocida por la propia Marta: «Señor, hiede ya, porque es de cuatro días» (Juan 11:39). Por lo tanto, cualquier posibilidad de recuperación natural era absolutamente imposible.
+
+Además, según la creencia judía de la época, se pensaba que el alma permanecía cerca del cuerpo durante tres días, partiendo solo cuando se establecía la putrefacción. Al resucitar a Lázaro al cuarto día, Cristo demuestra que esto no es una reanimación, sino una verdadera victoria sobre la muerte misma, llamando de regreso a aquel cuya alma ya había partido.
+
+Al hacerlo, Cristo ofrece una revelación pública e innegable de Su divinidad, confirmando Su declaración: «Yo soy la resurrección y la vida» (Juan 11:25). La resurrección de Lázaro se erige como una prefiguración de Su propia Resurrección y una confirmación de que la muerte misma será derrocada.
+
+Tan grande fue este milagro que muchos de los que lo presenciaron creyeron en Él (Juan 11:45). Sin embargo, al mismo tiempo, despertó la envidia y el temor de los fariseos y los principales sacerdotes, quienes se reunieron en consejo y comenzaron a tramar Su muerte (Juan 11:47–53). Así, la resurrección de Lázaro se convierte tanto en una revelación de la gloria divina como en la causa inmediata que conduce a la Cruz.
+
+Este milagro nos asegura que Cristo no es simplemente un maestro o un profeta, sino el Autor mismo de la vida ante quien incluso la tumba cede.`,
+		},
 		],					
 };
