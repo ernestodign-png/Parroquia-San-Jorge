@@ -3474,5 +3474,32 @@ Tan grande fue este milagro que muchos de los que lo presenciaron creyeron en É
 
 Este milagro nos asegura que Cristo no es simplemente un maestro o un profeta, sino el Autor mismo de la vida ante quien incluso la tumba cede.`,
 		},
+		],
+				"04-05": [ 
+		{
+		    name: "Domingo de Ramos",
+		    title: "La Entrada Triunfal del Rey Humilde en Jerusalén",
+		    images: [
+            	        "Img/DomingoRamos.webp",  
+            	        "Img/DomingoRamos2.webp",
+						"Img/DomingoRamos3.webp",
+		    ],  
+		    desc: `Hoy, el domingo anterior a la Santa Pascua, celebramos la gozosa y Gran Fiesta de la Entrada de nuestro Señor en Jerusalén, también conocida como Domingo de Ramos. Este evento está registrado en los cuatro Evangelios.
+
+Dado que Cristo había resucitado a Lázaro de entre los muertos, muchos judíos que presenciaron este milagro llegaron a creer en Él. Sin embargo, los principales sacerdotes y fariseos, endurecidos en sus corazones, se reunieron en consejo y conspiraron para darle muerte.
+
+En este tiempo, muchas personas se congregaron en Jerusalén para la fiesta de la Pascua y estaban ansiosas por conocer a Cristo, tanto por sus grandes obras y enseñanzas como porque habían oído hablar de la resurrección de Lázaro.
+
+Cinco días antes de la Pascua, Cristo envió a sus discípulos a buscar un pollino (la cría de un asno). Montado sobre él, Aquel que tiene el Cielo por trono entró en la Ciudad Santa de Jerusalén. De esta manera tan humilde, Cristo cumplió la profecía: «Alégrate mucho, hija de Sion; da voces de júbilo, hija de Jerusalén; he aquí tu Rey vendrá a ti, justo y salvador, humilde, y cabalgando sobre un asno, sobre un pollino hijo de asna» (Zacarías 9:9).
+
+Las multitudes de personas salieron a su encuentro con ramas de palma, que durante mucho tiempo se habían utilizado en el mundo antiguo como símbolo de victoria, ya que era costumbre honrar con palmas a los vencedores de contiendas atléticas y guerras.
+
+Los hijos de los hebreos extendieron sus vestiduras ante Él y, cortando ramas, las tendieron por el camino y las llevaron en sus manos. El pueblo gritaba mientras iba delante de Él: «¡Hosanna! ¡Bendito el que viene en el nombre del Señor, el Rey de Israel!».
+
+En el relato de Lucas, los fariseos entre la multitud le pidieron a Cristo que reprendiera a sus discípulos por proclamarlo públicamente como el Rey Mesiánico. Pero Cristo les respondió: «Os digo que si estos callaran, las piedras clamarían» (Lucas 19:40), revelando que toda la creación misma daría testimonio y clamaría alabanzas a su Creador.
+
+Así como el pueblo dio la bienvenida a Cristo en Jerusalén, nosotros también debemos dar la bienvenida a nuestro Lord y Rey en nuestros corazones. Al comenzar la Semana Santa, se nos recuerda que los fugaces momentos de alegría que marcaron su entrada triunfal pronto dan paso a la solemnidad, pues el mundo recibió y acogió a su Rey en su camino hacia la Pasión.`,
+			ayuno: "Ayuno: Permitido Pescado y Vino"
+		},
 		],					
 };
