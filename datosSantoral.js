@@ -3475,7 +3475,7 @@ Tan grande fue este milagro que muchos de los que lo presenciaron creyeron en É
 Este milagro nos asegura que Cristo no es simplemente un maestro o un profeta, sino el Autor mismo de la vida ante quien incluso la tumba cede.`,
 		},
 		],
-				"04-05": [ 
+				"04-06": [ 
 		{
 		    name: "Domingo de Ramos",
 		    title: "La Entrada Triunfal del Rey Humilde en Jerusalén",
@@ -3501,5 +3501,65 @@ En el relato de Lucas, los fariseos entre la multitud le pidieron a Cristo que r
 Así como el pueblo dio la bienvenida a Cristo en Jerusalén, nosotros también debemos dar la bienvenida a nuestro Lord y Rey en nuestros corazones. Al comenzar la Semana Santa, se nos recuerda que los fugaces momentos de alegría que marcaron su entrada triunfal pronto dan paso a la solemnidad, pues el mundo recibió y acogió a su Rey en su camino hacia la Pasión.`,
 			ayuno: "Ayuno: Permitido Pescado y Vino"
 		},
-		],					
+		],
+				"04-06": [ 
+		{
+		    name: "San José el Justo",
+		    title: "El Tipo de Cristo y la Virtud de la Castidad",
+		    images: [
+            	        "Img/JoséJusto.webp",  
+            	        "Img/JoséJusto2.webp",
+		    ], 
+		    desc: `En el Lunes Santo, conmemoramos al Justo Patriarca José el de Hermosa Apariencia (Pankalos). Su vida está registrada en los capítulos finales del Génesis (37-50).
+
+El Justo José era el undécimo hijo del patriarca Jacob. Debido a que Jacob lo amaba más que a sus otros hijos, sus hermanos se movieron a envidia; lo arrojaron a un pozo y luego lo vendieron a unos mercaderes que viajaban hacia Egipto.
+
+En Egipto, José fue vendido a Potifar, capitán de la guardia del Faraón. Potifar reconoció que el Señor estaba con José y que hacía prosperar todo lo que él emprendía. Así, su amo lo nombró mayordomo de su casa, poniendo todo lo que tenía bajo su autoridad.
+
+José era de aspecto agradable, y la esposa de su amo buscó seducirlo. Pero el casto José la rechazó, diciendo: «¿Cómo, pues, haría yo este gran mal, y pecaría contra Dios?» (Gén. 39:9). Huyendo de ella, preservó su pureza. Sin embargo, ella lo calumnió falsamente ante su esposo, diciendo que él había intentado deshonrarla. Potifar, creyendo la mentira, arrojó al inocente José a la prisión.
+
+Mientras estaba en prisión, José interpretó sueños por el poder de Dios. Más tarde, interpretó los sueños del Faraón (Gén. 41), vaticinando siete años de abundancia seguidos de siete años de hambruna. Aconsejó al Faraón almacenar grano durante los años de plenitud. Reconociendo la sabiduría que Dios le había dado, el Faraón liberó a José y lo puso sobre todo Egipto, convirtiéndolo en administrador de su casa y proveedor de pan para el pueblo.
+
+Durante la hambruna, los hermanos de José vinieron a Egipto buscando grano. Sin reconocerlo, se presentaron ante el mismo hermano al que habían traicionado. Después de meterlos en prisión por tres días, José se reveló y, en lugar de tomar venganza, los perdonó, diciendo: «Vosotros pensasteis mal contra mí, mas Dios lo encaminó a bien» (Gén. 50:20).
+
+El Justo José prefigura a Cristo de manera precisa al haber sido el hijo amado de su padre y, posteriormente, traicionado por sus propios hermanos, quienes lo vendieron por piezas de plata. Durante su tiempo en Egipto, sufrió la calumnia al ser acusado falsamente y padeció un encarcelamiento injusto. Sin embargo, tras estas pruebas, fue elevado a la gloria y se convirtió en el salvador y proveedor del pan para aquellos que una vez lo rechazaron, sosteniéndolos en tiempo de hambruna y prefigurando así a Cristo, el verdadero Pan de Vida.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "Lunes Santo: La Maldición de la Higuera",
+		    title: "El Juicio sobre la Esterilidad Espiritual y el Llamado al Fruto Permanente",
+		    img: "Img/MaldiciónHiguera.webp", 
+		    desc: `En el Lunes Santo, también conmemoramos la Maldición de la Higuera, que tuvo lugar el día después de la entrada triunfal del Señor en Jerusalén.
+
+Habiéndose alojado en Betania, Cristo regresó a la ciudad y tuvo hambre. Se encontró con una higuera al lado del camino, pero no halló en ella nada más que hojas. Entonces maldijo al árbol, diciendo: «Nunca más nazca de ti fruto» (Mateo 21:19). Inmediatamente, el árbol se secó.
+
+Cristo dijo entonces a Sus discípulos: «De cierto os digo, que si tuviereis fe, y no dudareis, no solo haréis esto de la higuera, sino que si a este monte dijereis: Quítate y ponete en el mar, será hecho. Y todo lo que pidiereis en oración, creyendo, lo recibiréis» (Mateo 21:21-22).
+
+En el momento en que Cristo fue a buscar higos en el árbol, el Evangelio de Marcos nos dice que «no era tiempo de higos» (Marcos 11:13). Cristo, quien indudablemente sabía esto, nos enseña a ser diferentes de la higuera, que solo da fruto una vez al año y permanece estéril el resto del año.
+
+En este evento, Cristo también manifiesta Su autoridad divina y revela el juicio de Dios sobre la falta de fe de los líderes religiosos judíos. La higuera es un símbolo de Israel, estéril por su fracaso en reconocer y recibir a Cristo y Sus enseñanzas.
+
+Por supuesto, Cristo no maldijo al árbol por una ira vengativa porque no tuviera un higo para que Él comiera. En cambio, lo hizo en la víspera de Su Pasión porque quería enviar un mensaje a aquellos que pedirían Su crucifixión.
+
+La higuera estaba en un camino público y, con muchos reunidos para la Pascua, cientos de judíos pasarían por allí. Muchos habían llegado a conocer los milagros de Cristo, pero al ver marchita esta conocida higuera, reconocerían que Él también puede ejercer juicio y castigo sobre quienes participan en Su condena.
+
+Este evento nos recuerda que Cristo desea que demos fruto espiritual en todo momento. A diferencia de la higuera que florece solo en su estación, estamos llamados a ofrecer los frutos del arrepentimiento, la oración y la virtud a Cristo continuamente, no solo durante la Semana Santa o al final de nuestras vidas.`,
+		},
+		{
+		    name: "Lunes Santo: La Purificación del Templo",
+		    title: "El Celo por la Casa de Dios y la Restauración de la Oración",
+		    img: "Img/PurificaciónTemplo.webp", 
+		    desc: `En el Lunes Santo, también reflexionamos sobre la Purificación del Templo en Jerusalén por parte de Cristo. Aunque no se menciona explícitamente en la himnografía del Lunes Santo, se entiende que este evento tuvo lugar al mismo tiempo que la Maldición de la Higuera, y comparte el mismo mensaje de advertencia dirigido hacia aquellos que lo rechazan y hacen un mal uso de la casa de Dios.
+
+La Purificación del Templo está registrada en todos los Evangelios. Habiendo entrado en Jerusalén, Cristo fue al Templo donde encontró mercaderes vendiendo ganado y palomas, y cambistas haciendo negocios. Haciendo un azote de cuerdas, Cristo los expulsó a todos del Templo y volcó las mesas de los cambistas (Juan 2:15).
+
+Mientras hacía esto, les dijo: «¡Quitad de aquí estas cosas! ¡No hagáis de la casa de Mi Padre una casa de mercado!» (Juan 2:16). Los Evangelios Sinópticos recuerdan que también les dijo: «Escrito está: "Mi casa será llamada casa de oración", pero vosotros la habéis hecho "cueva de ladrones"» (Mateo 21:13, Marcos 11:17, Lucas 19:46).
+
+El Evangelio de Juan nos dice que en ese momento, los discípulos recordaron las palabras del Antiguo Testamento: «El celo de Tu casa me consumió, y los insultos de los que Te ultrajaban cayeron sobre mí» (Salmo 68:10). Así, las palabras del Salmista encuentran su cumplimiento en Cristo, cuyo celo divino por la casa de Su Padre lo movió a expulsar a los mercaderes y cambistas, restaurándola a su verdadero propósito como lugar de oración.
+
+Mientras que nosotros experimentamos la ira como un arrebato impulsivo, impetuoso o emocional, es importante reconocer que la «ira» de Cristo en este evento es muy diferente. Su respuesta a la profanación de la casa de Su Padre es controlada, celosa y motivada puramente por Su amor y deseo por la salvación de Su pueblo.
+
+Aunque no se menciona que Cristo utilizara físicamente el azote mencionado en Juan 2:15, este sirve como un símbolo importante de Su autoridad. Así como el chasquido de un látigo sirve como advertencia de los pastores para guiar a su ganado, la justa ira de Cristo se erige como una advertencia contra el mal uso de la sagrada casa de Dios por parte de Su propio rebaño.`,
+		},
+		],							
 };
