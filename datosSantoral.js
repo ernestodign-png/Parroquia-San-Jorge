@@ -3561,5 +3561,48 @@ Mientras que nosotros experimentamos la ira como un arrebato impulsivo, impetuos
 
 Aunque no se menciona que Cristo utilizara físicamente el azote mencionado en Juan 2:15, este sirve como un símbolo importante de Su autoridad. Así como el chasquido de un látigo sirve como advertencia de los pastores para guiar a su ganado, la justa ira de Cristo se erige como una advertencia contra el mal uso de la sagrada casa de Dios por parte de Su propio rebaño.`,
 		},
-		],							
+		],
+				"04-07": [ 
+		{
+		    name: "Martes Santo: La Parábola de las Diez Vírgenes",
+		    title: "El Llamado a la Vigilancia Espiritual y la Lámpara de la Caridad",
+		    img: "Img/ParábolaDiezVírgenes.webp",
+		    desc: `El Grande y Santo Martes nos llama a recordar la Parábola de las Diez Vírgenes (Mateo 25:1-13), recordándonos ser siempre vigilantes, estar alerta y preparados para recibir a Cristo, el Esposo, en el Día del Juicio.
+
+En esta parábola, Cristo dice que el reino de los cielos será semejante a diez vírgenes que tomaron sus lámparas de aceite y salieron al encuentro del esposo. Cinco de las vírgenes eran prudentes y prepararon aceite en sus vasijas con sus lámparas; las otras cinco vírgenes eran insensatas, ya que tomaron sus lámparas sin aceite. Mientras el esposo se demoraba, las vírgenes durmieron.
+
+A medianoche se oyó un clamor: «¡He aquí, el esposo viene; salid a recibirle!». Las vírgenes se levantaron y prepararon sus lámparas, pero las insensatas dijeron a las prudentes: «Dadnos de vuestro aceite, porque nuestras lámparas se apagan». Pero las prudentes respondieron: «Para que no nos falte a nosotras y a vosotras, id más bien a los que venden, y comprad para vosotras mismas».
+
+Mientras las vírgenes insensatas iban a comprar aceite, vino el esposo; y las vírgenes prudentes que estaban preparadas entraron con él a las bodas, y se cerró la puerta. Cuando las vírgenes insensatas llegaron a la boda, clamaron: «¡Señor, Señor, ábrenos!». Pero Él les respondió: «De cierto os digo, que no os conozco».
+
+Cristo concluye esta parábola con una solemne advertencia: «Velad, pues, porque no sabéis el día ni la hora en que el Hijo del Hombre ha de venir» (Mateo 25:13).
+
+El cierre de la puerta del banquete de bodas, que recuerda las puertas del Paraíso, significa la muerte, después de la cual no hay arrepentimiento. San Juan Crisóstomo explica que la lámpara es el don de la virginidad y la pureza, mientras que el aceite es la filantropía, la bondad de corazón y la limosna. Sin suficiente aceite, la lámpara no puede arder.
+
+Los Padres portadores de Dios han asignado la lectura de esta parábola en este punto de la Gran Semana para llamarnos a estar listos para recibir, sosteniendo las lámparas de nuestras virtudes, al Esposo celestial, nuestro Señor Jesucristo, quien vendrá repentinamente, ya sea en el momento de nuestra muerte o en Su Segunda Venida.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "Martes Santo: La Parábola de los Talentos",
+		    title: "El Juicio sobre la Pereza y el Llamado a la Multiplicación de las Virtudes",
+		    images: [
+            	        "Img/ParábolalosTalentos.webp",  
+            	        "Img/ParábolalosTalentos2.webp",
+		    ],		    desc: `En el Martes Santo también recordamos la Parábola de los Talentos (Mateo 25:14-30). Al igual que la parábola de las diez vírgenes, esta nos enseña a estar preparados para el Día del Juicio y a no ser ociosos en nuestras obras.
+
+Cristo nos dice que el reino de los cielos es como un hombre que, partiendo lejos, llamó a sus siervos y les entregó sus bienes. A un siervo le dio cinco talentos, a otro dos y a otro uno, a cada uno conforme a su capacidad.
+
+El siervo que recibió cinco talentos negoció con ellos y ganó otros cinco. Asimismo, el que recibió dos talentos ganó otros dos. Pero el que había recibido uno, cavó en la tierra y escondió el dinero de su señor. Después de mucho tiempo, el señor de aquellos siervos vino y arregló cuentas con ellos.
+
+El primer y el segundo siervo le dijeron que habían puesto a trabajar sus talentos y habían duplicado su valor. El señor alabó a estos siervos, diciéndoles a ambos: «Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor».
+
+Cuando el tercer siervo devolvió su único talento, le dijo a su señor que había tenido miedo y lo había escondido en la tierra. Su señor le respondió: «Siervo malo y negligente... debías haber dado mi dinero a los banqueros, y al venir yo, hubiera recibido lo que es mío con los intereses. Quitadle, pues, el talento, y dadlo al que tiene diez talentos».
+
+Cristo concluye esta parábola diciendo: «Porque al que tiene, le será dado, y tendrá más; y al que no tiene, aun lo que tiene le será quitado. Y al siervo inútil echadle en las tinieblas de afuera; allí será el lloro y el crujir de dientes».
+
+Según San Teófano el Recluso, esta parábola nos enseña que esta vida corta es un tiempo para negociar, ya que nadie que haya recibido la vida del Señor puede decir que no tiene ni un solo talento.
+
+Así como Dios dijo a la humanidad: «Sed fecundos y multiplicaos», se nos ordena multiplicar y obtener provecho de los talentos que heredamos. Pues en el Día del Juicio se nos preguntará si pusimos nuestros talentos a trabajar o si nos sentamos ociosamente sobre ellos.`,
+		},
+		],				
 };
