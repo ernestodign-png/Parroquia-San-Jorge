@@ -3588,7 +3588,8 @@ Los Padres portadores de Dios han asignado la lectura de esta parábola en este 
 		    images: [
             	        "Img/ParábolalosTalentos.webp",  
             	        "Img/ParábolalosTalentos2.webp",
-		    ],		    desc: `En el Martes Santo también recordamos la Parábola de los Talentos (Mateo 25:14-30). Al igual que la parábola de las diez vírgenes, esta nos enseña a estar preparados para el Día del Juicio y a no ser ociosos en nuestras obras.
+		    ],
+			desc: `En el Martes Santo también recordamos la Parábola de los Talentos (Mateo 25:14-30). Al igual que la parábola de las diez vírgenes, esta nos enseña a estar preparados para el Día del Juicio y a no ser ociosos en nuestras obras.
 
 Cristo nos dice que el reino de los cielos es como un hombre que, partiendo lejos, llamó a sus siervos y les entregó sus bienes. A un siervo le dio cinco talentos, a otro dos y a otro uno, a cada uno conforme a su capacidad.
 
@@ -3603,6 +3604,89 @@ Cristo concluye esta parábola diciendo: «Porque al que tiene, le será dado, y
 Según San Teófano el Recluso, esta parábola nos enseña que esta vida corta es un tiempo para negociar, ya que nadie que haya recibido la vida del Señor puede decir que no tiene ni un solo talento.
 
 Así como Dios dijo a la humanidad: «Sed fecundos y multiplicaos», se nos ordena multiplicar y obtener provecho de los talentos que heredamos. Pues en el Día del Juicio se nos preguntará si pusimos nuestros talentos a trabajar o si nos sentamos ociosamente sobre ellos.`,
+		},
+		],
+				"04-10": [ 
+		{
+		    name: "Viernes Santo: El Juicio ante Pilato y la Flagelación",
+		    title: "La Condena del Justo y la Burla del Rey de la Gloria",
+		    images: [
+            	        "Img/ViernesSantoPilato.webp",  
+            	        "Img/ViernesSantoPilato2.webp",
+            	        "Img/ViernesSantoPilato3.webp",
+		    ],
+			desc: `En el Grande y Santo Viernes, lamentamos el sufrimiento de nuestro Señor: Su juicio ante Pilato, la burla, el ascenso al Gólgota y todo lo que soportó en la Cruz.
+
+Habiendo sido condenado por el Sanedrín, Cristo fue llevado a juicio ante el gobernador Poncio Pilato. Cuando Pilato le preguntó: «¿Eres Tú el Rey de los judíos?», Él respondió: «Tú lo dices». Y mientras era acusado por los principales sacerdotes y los ancianos, no respondió nada.
+
+Pilato le dijo entonces: «¿No oyes cuántas cosas testifican contra Ti?». Pero Cristo no le respondió ni una palabra, de modo que el gobernador se maravillaba mucho. Como era costumbre en la fiesta de la Pascua, Pilato ofreció liberar a un prisionero, dando al pueblo la opción entre Cristo y el ladrón Barrabás.
+
+Pilato sabía que se lo habían entregado por envidia, y mientras estaba sentado en el tribunal, su esposa le mandó decir: «No tengas nada que ver con ese Justo; porque hoy he padecido mucho en sueños por causa de Él».
+
+Pero los principales sacerdotes y los ancianos incitaron a la multitud a pedir la libertad de Barrabás, para que Jesús fuera destruido. Y cuando lo hicieron, Pilato dijo: «¿Qué, pues, haré con Jesús, llamado el Cristo?». Todos le dijeron: «¡Sea crucificado!».
+
+Pilato dijo: «Pues, ¿qué mal ha hecho?». Pero ellos gritaban aún más: «¡Sea crucificado!». Pilato buscó liberarlo, pero los judíos lo presionaron, diciendo: «Si a este sueltas, no eres amigo de César; todo el que se hace rey, a César se opone».
+
+Viendo que nada adelantaba, sino que se hacía más alboroto, Pilato se lavó las manos delante de la multitud, diciendo: «Inocente soy yo de la sangre de este Justo; allá vosotros». Entonces entregó a Jesús para ser flagelado.
+
+Los soldados del gobernador llevaron a Cristo al Pretorio y reunieron a toda la compañía alrededor de Él. Le desnudaron y le pusieron un manto escarlata. Entretejiendo una corona de espinas, la pusieron sobre Su cabeza, y una caña en Su mano derecha. Se arrodillaban delante de Él en son de burla, diciendo: «¡Salve, Rey de los judíos!». Le escupían, tomaban la caña y le golpeaban, y lo llevaron para ser crucificado.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+		{
+		    name: "Viernes Santo: El Ascenso al Gólgota",
+		    title: "El Camino hacia la Pasión y la Carga de la Cruz",
+		    images: [
+            	        "Img/AscensoGólgota.webp",  
+            	        "Img/AscensoGólgota2.webp",
+            	        "Img/AscensoGólgota3.webp",
+		    ],		    desc: `Mientras Cristo era conducido a la crucifixión, cargó con Su cruz y se dirigió al lugar llamado Gólgota, que en hebreo significa «Lugar de la Calavera». Al verlo exhausto, los soldados encontraron a un hombre de Cirene, llamado Simón, y lo obligaron a cargar con la cruz del Señor (Mateo 27:32).
+
+Una gran multitud de personas lo seguía, incluyendo mujeres que también lloraban y se lamentaban por Él. Pero Jesús se volvió y les dijo: «Hijas de Jerusalén, no lloréis por Mí, sino llorad por vosotras mismas y por vuestros hijos» (Lucas 23:28).
+
+Aunque Simón de Cirene fue obligado a cargar la Cruz Vivificante de Cristo, lo hizo no por su propia voluntad, sino por coacción. Por esta razón, no es venerado como santo por la Iglesia, recordándonos que la Cruz no debe llevarse de mala gana, sino abrazarse libremente y con fe. Pues el Señor nos llama a cada uno de nosotros a tomar nuestra cruz voluntariamente y a seguirlo con amor y obediencia.`,
+		},
+		{
+		    name: "Viernes Santo: La Crucifixión",
+		    title: "El Sacrificio del Nuevo Adán y la Victoria en el Madero",
+		    images: [
+            	        "Img/Crucifixión.webp",  
+            	        "Img/Crucifixión2.webp",
+            	        "Img/Crucifixión3.webp",
+		    ],		    desc: `En el Viernes Santo, lamentamos la muerte de nuestro Señor Jesucristo. En este día, Cristo es clavado en la cruz, y la maldad del hombre contra el Creador alcanzó su clímax más espantoso.
+
+Incluso mientras soportaba un dolor y una humillación inimaginables, Cristo respondió con misericordia, orando por quienes lo crucificaban: «Padre, perdónalos, porque no saben lo que hacen».
+
+Con la inscripción «EL REY DE LOS JUDÍOS» puesta sobre Él, los soldados y los principales sacerdotes se burlaban diciendo: «A otros salvó; a sí mismo no se puede salvar. Si es el Rey de Israel, descienda ahora de la cruz, y creeremos en Él».
+
+Junto a la Cruz se encontraban la Virgen María, quien contemplaba con gran dolor el sufrimiento de su Hijo, junto con María la esposa de Cleofás, Salomé, María Magdalena y Juan el Teólogo.
+
+El criminal crucificado a su izquierda blasfemaba diciendo: «Si tú eres el Cristo, sálvate a ti mismo y a nosotros». Pero el ladrón prudente a su derecha, San Dimas, lo reprendió y confesó: «Nosotros, a la verdad, justamente padecemos, porque recibimos lo que merecieron nuestros hechos; mas este ningún mal hizo... Señor, acuérdate de mí cuando vengas en tu reino». Jesús le dijo: «De cierto te digo, que hoy estarás conmigo en el paraíso».
+
+Cuando la oscuridad cayó sobre la tierra, Cristo reveló la plenitud de su humanidad, clamando: «Dios mío, Dios mío, ¿por qué me has desamparado?». Sin embargo, incluso en esto, permaneció obediente al Padre hasta el final.
+
+Al clamar Jesús a gran voz, entregó su espíritu. Entonces el velo del templo se rasgó en dos y la tierra tembló. Cuando el centurión Longinos traspasó su costado, brotaron sangre y agua, significando el derramamiento de los sacramentos del Señor en favor de la humanidad: la sangre para la Sagrada Eucaristía y el agua para el Santo Bautismo. Al ver todo lo que había sucedido, Longinos confesó: «¡Verdaderamente este era Hijo de Dios!».
+
+Según la tradición, el Gólgota («el Lugar de la Calavera») es donde yacía el cráneo de Adán. Así, al pie de la Cruz, la sangre de Cristo limpia místicamente a Adán y a toda la humanidad de la mancha del pecado. Porque Cristo, el Nuevo Adán, sana mediante el madero de la Cruz al viejo Adán, que cayó por el madero del árbol.`,
+		},
+		{
+		    name: "La Extrema Humildad",
+		    title: "El Icono del Sufrimiento Redentor y la Victoria del Rey de la Gloria",
+		    img: "Img/ExtremaHumildad.webp",
+			desc: `Mientras lamentamos la Crucifixión y muerte de nuestro Señor Jesucristo, nuestra atención se dirige al icono de la Extrema Humildad.
+
+Este icono no se basa en una escena descrita literalmente en el Evangelio, sino que fue desarrollado para satisfacer la necesidad litúrgica de una imagen que abarcara todos los terribles eventos del Viernes Santo: la Crucifixión de nuestro Señor, el Descendimiento de Su Cuerpo de la Cruz, las Lamentaciones de la Theotokos y el Entierro.
+
+En el icono vemos a Cristo con los ojos cerrados, habiendo entregado Su espíritu en la Cruz. Sus manos, que aún portan la sangre de los clavos que lo traspasaron, están atadas con cuerdas, una referencia a Su arresto y sumisión voluntaria a la Pasión.
+
+En otras variantes de este icono se pueden ver los instrumentos de Su Pasión: la lanza con la que el centurión Longinos traspasó Su costado, de la cual brotó sangre y agua, y la esponja con vino agrio alzada hasta Sus labios en una caña.
+
+El elemento más conmovedor de este icono es el abrazo de Su Santísima Madre, la Theotokos. Habiendo contemplado todos los sufrimientos de su Hijo, ella llora y se lamenta por Aquel que dio a luz, ahora crucificado en la carne.
+
+La composición revela que la terrible Pasión de Cristo acaba de consumarse, pero también contiene signos que prefiguran Su Resurrección y victoria sobre la muerte. El primero es el hecho de que se le representa solo parcialmente dentro de la tumba, y el segundo es la inscripción en la parte superior de la cruz que dice: «El Rey de la Gloria».
+
+Habiéndose humillado ya al realizar el acto más bajo de lavar los pies de Sus discípulos, Cristo continuó revelando Su extrema humildad al aceptar, sin resistencia, todas las transgresiones y maldades que ocurrieron contra Él: a saber, Su traición por parte de Judas, Sus juicios injustos ante el sumo sacerdote Caifás y el gobernador Poncio Pilato, Su burla por parte de los soldados y el dolor inimaginable de Su crucifixión.
+
+Sin embargo, la plenitud de esta humildad se reveló en el Huerto de Getsemaní, donde, a pesar de toda la angustia, dolor y agonía que experimentó en Su naturaleza plenamente humana, aceptó que era conforme a la voluntad de Su Padre que Él padeciera la muerte.`,
 		},
 		],				
 };
