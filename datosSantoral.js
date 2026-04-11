@@ -3688,5 +3688,34 @@ Habiéndose humillado ya al realizar el acto más bajo de lavar los pies de Sus 
 
 Sin embargo, la plenitud de esta humildad se reveló en el Huerto de Getsemaní, donde, a pesar de toda la angustia, dolor y agonía que experimentó en Su naturaleza plenamente humana, aceptó que era conforme a la voluntad de Su Padre que Él padeciera la muerte.`,
 		},
-		],				
+		],
+				"04-11": [ 
+		{
+		    name: "Sábado Santo: El Entierro de Cristo",
+		    title: "El Descanso Sabático y la Descenso a los Infiernos",
+		    images: [
+            	        "Img/SábadoSanto.webp",  
+            	        "Img/SábadoSanto2.webp",
+            	        "Img/SábadoSanto3.webp",
+		    ],
+			desc: `En el Grande y Santo Sábado, conmemoramos el Entierro del Cuerpo Divino de nuestro Señor y Salvador Jesucristo, y Su descenso a los Infiernos (Hades), a través del cual nuestra raza fue rescatada de la corrupción y trasplantada a la vida eterna.
+
+La tarde en que Cristo murió en la cruz, José de Arimatea —discípulo de Jesús, pero en secreto por temor a los judíos— acudió a Poncio Pilato y pidió recuperar Su cuerpo. Pilato le concedió el permiso.
+
+Nicodemo, otro seguidor secreto de Cristo, vino trayendo una mezcla de mirra y áloes, de unas cien libras. Juntos, tomaron el Cuerpo de Jesús y lo envolvieron en lienzos con las especias, según la costumbre de los judíos.
+
+[Imagen del Epitafios colocado en el Kouvouklion decorado con flores]
+
+José depositó entonces el Cuerpo de Cristo en un sepulcro nuevo, excavado en la roca, en el que aún no se había puesto a nadie, y rodó una gran piedra contra la puerta de la tumba. Sin embargo, esta no es una tumba ordinaria: no es un lugar de corrupción, decadencia y derrota, sino la fuente vivificante de poder, victoria y liberación.
+
+El Sábado Santo es el día del descanso por excelencia. Cumpliendo la Ley, Cristo observa el descanso del Sábado en la tumba. Sin embargo, Su descanso no es inactividad, sino el cumplimiento de la voluntad divina y del plan para la salvación de la humanidad.
+
+La esperanza de la Resurrección, que es inseparable de la Pasión y el Entierro de Cristo, se expresa bellamente en la himnografía de hoy cuando Él se dirige a Su Madre Purísima: «No llores por Mí, Madre, al contemplar en el sepulcro al Hijo que concebiste sin semilla en tu vientre. Porque resucitaré y seré glorificado, y como Dios exaltaré en gloria eterna a quienes te magnifican con fe y amor».
+
+En la tarde del Viernes Santo, en el servicio de las Lamentaciones, un icono bordado llamado el Epitaphios (que significa «sobre la tumba»), se coloca dentro de una estructura de madera llamada Kouvouklion, la cual es bellamente decorada con flores por los miembros de la parroquia.
+
+Esta procesión solemne nos invita a contemplar el sacrificio supremo realizado por el Señor por nuestro bien. Ahora que Él ha descendido al Hades, nos preparamos para el engaño definitivo a la muerte, que pronto será derrotada desde su interior.`,
+			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
+		},
+	],				
 };
