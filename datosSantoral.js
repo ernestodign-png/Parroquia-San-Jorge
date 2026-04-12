@@ -3717,5 +3717,26 @@ En la tarde del Viernes Santo, en el servicio de las Lamentaciones, un icono bor
 Esta procesión solemne nos invita a contemplar el sacrificio supremo realizado por el Señor por nuestro bien. Ahora que Él ha descendido al Hades, nos preparamos para el engaño definitivo a la muerte, que pronto será derrotada desde su interior.`,
 			ayuno: "Ayuno Estricto: Abstenerse de comer carne, pescado, productos lácteos, huevos, vino y aceite"
 		},
+	],
+				"04-12": [ 
+		{
+		    name: "¡CRISTO HA RESUCITADO!",
+		    title: "La Fiesta de las Fiestas y la Victoria sobre el Hades",
+		    images: [
+            	        "Img/Anastasis.webp",  
+		    ],
+			desc: `En la Grande y Santa Fiesta de la Pascua, celebramos la Resurrección Vivificante de nuestro Señor Jesucristo. Esta Fiesta de las Fiestas es el día más significativo en la vida de la Iglesia, pues revela la salvación de la humanidad y el pisoteo de la muerte.
+
+Durante el servicio de medianoche de la Santa Pascua, escuchamos el relato de la Resurrección del Evangelio de Marcos. Cuando pasó el sábado, María Magdalena, María la madre de Jacobo, y Salomé compraron especias para ungir el cuerpo de Cristo, y vieron en Su tumba a un joven vestido con una túnica blanca (que tradicionalmente se considera el Arcángel Gabriel).
+
+El ángel les dijo: «No os asustéis; buscáis a Jesús nazareno, el que fue crucificado; ha resucitado, no está aquí; mirad el lugar en donde le pusieron. Pero id, decid a sus discípulos, y a Pedro, que él va antes que vosotros a Galilea; allí le veréis, como os dijo» (Marcos 16:6-7).
+
+Pero este levantamiento de la tumba no es simplemente un regreso a la vida. Cuando Cristo descendió al Hades, no lo hizo como cautivo, sino como Conquistador, destrozando sus puertas y pisoteando su poder de muerte. Esto fue profetizado en el siglo VIII a.C. por el profeta Oseas: «Nos dará vida después de dos días; en el tercer día nos resucitará, y viviremos delante de él» (Oseas 6:2).
+
+El Hades, que había mantenido a la humanidad en cautiverio desde la caída, fue derrocado. Las almas de los justos de todas las edades, desde Adán y Eva hasta el último de los profetas, fueron liberadas de la corrupción, mientras Cristo extendía Su mano y los levantaba de las tinieblas de la muerte.
+
+Por lo tanto, la Resurrección no consiste solo en que Cristo se levantó de la tumba, sino en que destruyó la muerte misma. Como proclama el apóstol Pablo: «¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?» (1 Corintios 15:55). A través de esta victoria, Cristo nos ofrece la esperanza de la restauración y la vida eterna.`,
+			ayuno: "No hay ayuno"
+		},
 	],				
 };
