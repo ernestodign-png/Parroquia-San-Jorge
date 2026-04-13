@@ -3738,5 +3738,55 @@ El Hades, que había mantenido a la humanidad en cautiverio desde la caída, fue
 Por lo tanto, la Resurrección no consiste solo en que Cristo se levantó de la tumba, sino en que destruyó la muerte misma. Como proclama el apóstol Pablo: «¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?» (1 Corintios 15:55). A través de esta victoria, Cristo nos ofrece la esperanza de la restauración y la vida eterna.`,
 			ayuno: "No hay ayuno"
 		},
+	],
+				"04-13": [ 
+		{
+		    name: "Lunes Brillante: Panagia Glykophilousa",
+		    title: "El Triunfo de la Veneración y el Abrazo de la Ternura",
+		    images: [
+            	        "Img/PanagiaGlykophilousa.webp",
+            	        "Img/PanagiaGlykophilousa2.webp",  
+            	        "Img/PanagiaGlykophilousa3.webp",  
+  
+		    ],
+			desc: `Hoy, en el Lunes de Renovación (Lunes de la Semana Brillante), celebramos la Sinaxis del Santo Icono de la Panagia Glykophilousa (la "Dulce Besadora"). Este icono fue salvado durante la Segunda Iconoclasia Bizantina (814/843) y traído milagrosamente al Monasterio de Philotheou en el Monte Athos, donde se conserva hasta el día de hoy.
+
+El icono de la Glykophilousa pertenece al tipo Eleousa ("Ternura" / "Misericordiosa"). Estos iconos representan a la Madre de Dios recibiendo el abrazo amoroso y el afecto de su Hijo.
+
+El icono pertenecía originalmente a una mujer llamada Victoria, esposa de un senador llamado Simeón. Victoria veneraba los santos iconos, especialmente el de la Santísima Theotokos, ante el cual oraba cada día.
+
+Su marido, sin embargo, era un iconoclasta que, al igual que el emperador Teófilo (829/842), rechazaba la veneración de las imágenes sagradas. Simeón ordenó a su mujer que le entregara el icono para quemarlo. Para salvarlo de la destrucción, ella lo arrojó al mar y el icono se alejó flotando.
+
+Después de algunos años, el icono apareció en las costas del Monte Athos, cerca del Monasterio de Philotheou. Fue hallado y recibido con gran honor y regocijo por el abad y los padres del monasterio, quienes habían sido advertidos de su llegada mediante una revelación de la Theotokos.
+
+Un manantial de agua bendita brotó en el lugar exacto donde depositaron el icono en la orilla, y allí se levanta una capilla hasta el día de hoy. Cada año, el Lunes de Renovación, el icono es llevado en procesión y se realiza una bendición de las aguas.
+
+Entre los muchos milagros del icono de la Glykophilousa se incluye el siguiente relato:
+
+En 1801, un peregrino robó las ofrendas preciosas que rodeaban el icono mientras estaba solo en la iglesia y partió hacia el puerto del Monasterio de Iviron. Allí encontró un barco que salía hacia Ierissos. Después de un rato el barco zarpó, pero a pesar del excelente clima, permaneció inmóvil en el mar. Cuando el eclesiarca vio lo sucedido, el abad envió monjes en varias direcciones. Dos fueron al puerto de Iviron y, al ver el barco inmóvil, comprendieron lo que ocurría. El culpable pidió perdón y los monjes fueron magnánimos, no queriendo que el ladrón fuera castigado.`,
+			ayuno: "No hay ayuno"
+		},
+		{
+		    name: "San Martín el Confesor, Papa de Roma",
+		    title: "Defensor de la Ortodoxia y Mártir por la Verdad de las Dos Voluntades",
+		    img: "Img/MartínConfesorRoma.webp",
+			desc: `Hoy también conmemoramos a San Martín el Confesor, Papa de Roma.
+
+San Martín nació en Toscana. Ordenado sacerdote, representó a la Sede de Roma en Constantinopla. Tras la muerte del Papa Teodoro I, fue elegido Papa en el año 649.
+
+En esa época, la herejía monotelita comenzó a propagarse, enseñando que Cristo tenía dos naturalezas pero una sola voluntad, lo cual es contrario a la confesión ortodoxa de las dos voluntades: humana y divina. Esta herejía era apoyada por el emperador Constante II (641–668) y el patriarca Pablo de Constantinopla (641–654).
+
+El emperador Constante emitió un edicto (Typos) descartando la controversia y prohibiendo cualquier discusión sobre las voluntades o energías de Cristo.
+
+El Papa Martín rechazó firmemente el Typos del emperador y convocó el Sínodo de Letrán en Roma en el 649. Con 105 obispos, el sínodo condenó el monotelismo y el edicto de Constante. También escribió una carta al patriarca Pablo, instándole a aconsejar al emperador que renunciara a esta herejía.
+
+Al enterarse de esto, el emperador envió comandantes para matar al Papa Martín I, pero sus esfuerzos fracasaron: un asesino quedó ciego y otro huyó, muriendo más tarde en batalla. El emperador envió a otro oficial que lo acusó falsamente de colaborar con los sarracenos y de deshonrar a la Madre de Dios. El Papa Martín rechazó firmemente estas calumnias, profesando tanto su inocencia como su inquebrantable reverencia por la Santísima Theotokos.
+
+En el 653, fue arrestado en Letrán y llevado a Constantinopla, donde soportó casi tres años de hambre y abusos.
+
+Débil y enfermo, el Santo fue llevado a juicio y condenado sin defensa. Incapaz de soportar más torturas, dijo: «El Señor sabe qué gran bondad me mostraríais si me entregarais pronto a la muerte». Algunos se burlaban de él gritando: «¡Anatema al Papa Martín!», mientras otros lloraban. Fue depuesto y condenado a muerte.
+
+Dos años antes de su reposo, el arrepentido patriarca Pablo confesó su pecado contra el Papa Martín y suplicó al emperador que lo liberara. Pero el santo rechazó la comunión con Constantinopla mientras esta mantuviera la falsa doctrina. Exiliado a Quersonés en el 655, murió de hambre y enfermedad, convirtiéndose en el último Papa en morir como mártir.`,
+		},
 	],				
 };
