@@ -3788,5 +3788,21 @@ Débil y enfermo, el Santo fue llevado a juicio y condenado sin defensa. Incapaz
 
 Dos años antes de su reposo, el arrepentido patriarca Pablo confesó su pecado contra el Papa Martín y suplicó al emperador que lo liberara. Pero el santo rechazó la comunión con Constantinopla mientras esta mantuviera la falsa doctrina. Exiliado a Quersonés en el 655, murió de hambre y enfermedad, convirtiéndose en el último Papa en morir como mártir.`,
 		},
-	],				
+	],
+					"04-20": [ 
+		{
+		    name: "San Zaqueo el Apóstol",
+		    title: "El Jefe de Publicanos que se convirtió en Pastor de Cesarea",
+		    images: [	
+            	        "Img/ZaqueoApóstol.webp",
+            	        "Img/ZaqueoApóstol2.webp",    
+		    ],
+			desc: `Hoy conmemoramos a San Zaqueo, el Santo Apóstol y Obispo de Cesarea. Hoy recordamos específicamente su reposo, mientras que el Evangelio que describe su encuentro con Cristo se lee el domingo anterior al comienzo del Triodion (Lucas 19:1-10):
+
+«En aquel tiempo, Jesús pasó por Jericó. Y había allí un hombre llamado Zaqueo; era jefe de los publicanos, y rico. Y procuraba ver quién era Jesús; pero no podía a causa de la multitud, pues era pequeño de estatura. Y corriendo delante, subió a un árbol sicómoro para verle; porque había de pasar por allí. Cuando Jesús llegó a aquel lugar, mirando hacia arriba, le vio, y le dijo: "Zaqueo, date prisa, desciende, porque hoy es necesario que pose yo en tu casa". Entonces él descendió de prisa, y le recibió gozoso. Al ver esto, todos murmuraban, diciendo que había entrado a posar con un hombre pecador. Entonces Zaqueo, puesto en pie, dijo al Señor: "He aquí, Señor, la mitad de mis bienes doy a los pobres; y si en algo he defraudado a alguno, se lo devuelvo cuadruplicado". Jesús le dijo: "Hoy ha venido la salvación a esta casa; por cuanto él también es hijo de Abraham. Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido"».
+
+Después de la Ascensión del Señor, San Zaqueo acompañó al Apóstol Pedro en sus viajes misioneros. La Tradición sostiene que San Zaqueo se convirtió en el primer Obispo de Cesarea en Palestina, donde sirvió fielmente al Evangelio y murió en paz.`,
+			ayuno: "No hay ayuno"
+		}
+	],					
 };
