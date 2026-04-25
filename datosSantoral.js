@@ -3789,7 +3789,7 @@ Débil y enfermo, el Santo fue llevado a juicio y condenado sin defensa. Incapaz
 Dos años antes de su reposo, el arrepentido patriarca Pablo confesó su pecado contra el Papa Martín y suplicó al emperador que lo liberara. Pero el santo rechazó la comunión con Constantinopla mientras esta mantuviera la falsa doctrina. Exiliado a Quersonés en el 655, murió de hambre y enfermedad, convirtiéndose en el último Papa en morir como mártir.`,
 		},
 	],
-					"04-20": [ 
+				"04-20": [ 
 		{
 		    name: "San Zaqueo el Apóstol",
 		    title: "El Jefe de Publicanos que se convirtió en Pastor de Cesarea",
@@ -3802,6 +3802,32 @@ Dos años antes de su reposo, el arrepentido patriarca Pablo confesó su pecado 
 «En aquel tiempo, Jesús pasó por Jericó. Y había allí un hombre llamado Zaqueo; era jefe de los publicanos, y rico. Y procuraba ver quién era Jesús; pero no podía a causa de la multitud, pues era pequeño de estatura. Y corriendo delante, subió a un árbol sicómoro para verle; porque había de pasar por allí. Cuando Jesús llegó a aquel lugar, mirando hacia arriba, le vio, y le dijo: "Zaqueo, date prisa, desciende, porque hoy es necesario que pose yo en tu casa". Entonces él descendió de prisa, y le recibió gozoso. Al ver esto, todos murmuraban, diciendo que había entrado a posar con un hombre pecador. Entonces Zaqueo, puesto en pie, dijo al Señor: "He aquí, Señor, la mitad de mis bienes doy a los pobres; y si en algo he defraudado a alguno, se lo devuelvo cuadruplicado". Jesús le dijo: "Hoy ha venido la salvación a esta casa; por cuanto él también es hijo de Abraham. Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido"».
 
 Después de la Ascensión del Señor, San Zaqueo acompañó al Apóstol Pedro en sus viajes misioneros. La Tradición sostiene que San Zaqueo se convirtió en el primer Obispo de Cesarea en Palestina, donde sirvió fielmente al Evangelio y murió en paz.`,
+			ayuno: "No hay ayuno"
+		}
+	],
+				"04-25": [ 
+		{
+		    name: "San Marcos el Apóstol y Evangelista",
+		    title: "Fundador de la Iglesia de Alejandría y Redactor del Segundo Evangelio",
+		    images: [	
+            	        "Img/MarcosApóstol.webp",
+            	        "Img/MarcosApóstol2.webp",    
+		    ],
+			desc: `Hoy conmemoramos al Santo Apóstol y Evangelista Marcos.
+
+El Apóstol Marcos, judío de nacimiento, nació en Cirene (norte de África) y recibió educación tanto en griego como en hebreo.
+
+Se nos dice que la madre de Marcos, María, poseía una casa en Jerusalén en la cual el Apóstol Pedro encontró refugio tras su milagrosa liberación de la prisión por un ángel (Hechos 12:1-12). Esta casa sirvió como lugar de congregación y adoración después de que el Señor ascendiera al cielo, por lo que a menudo se la considera la primera Iglesia Cristiana.
+
+Fue en esta época cuando Marcos desarrolló una estrecha amistad con San Pedro, como el propio Apóstol testifica: «La iglesia que está en Babilonia, elegida juntamente con vosotros, os saluda, y también mi hijo Marcos» (1 Pedro 5:13). Marcos se unió al Apóstol Bernabé —que era su tío— y al Apóstol Pablo en su primer viaje misionero, acompañándolos en Antioquía en el año 44 d.C.
+
+Tras viajar por Chipre, Marcos dejó a Pablo y Bernabé y se dirigió a Roma, donde se unió a San Pedro. Allí, Marcos fue fundamental para el establecimiento de la Iglesia. Cuando los nuevos cristianos de Roma solicitaron un relato de la vida y enseñanzas del Señor, Marcos escribió su Evangelio con la aprobación de San Pedro.
+
+En el año 49 d.C., Marcos fue enviado por Pedro para difundir el Evangelio en Egipto. Predicando a Cristo incansablemente, convirtió a muchos paganos y judíos. Fundó la Iglesia en Alejandría y realizó muchos milagros; sanando enfermos, haciendo oír a los sordos y ver a los ciegos.
+
+En una ocasión, visitó a un zapatero llamado Ananías para reparar su sandalia rota, pero mientras Ananías trabajaba en ella, se hirió accidentalmente la mano. Invocando al Señor para que sanara la mano de este hombre, Marcos aplicó barro sobre la herida de Ananías y, milagrosamente, esta sanó. Tras esto, Ananías aceptó el bautismo junto con toda su casa.
+
+Sintiendo que los gobernantes paganos buscaban matarlo, Marcos se apresuró a ordenar a Ananías como Obispo para salvaguardar la continuidad de la iglesia alejandrina. Mientras celebraba la Divina Liturgia, una turba pagana atacó la iglesia y capturó a Marcos. Atado por el cuello y arrastrado por las calles empedradas con rocas afiladas, entregó su alma al Señor en el año 68 d.C.`,
 			ayuno: "No hay ayuno"
 		}
 	],					
