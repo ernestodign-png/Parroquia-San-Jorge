@@ -3830,5 +3830,55 @@ En una ocasión, visitó a un zapatero llamado Ananías para reparar su sandalia
 Sintiendo que los gobernantes paganos buscaban matarlo, Marcos se apresuró a ordenar a Ananías como Obispo para salvaguardar la continuidad de la iglesia alejandrina. Mientras celebraba la Divina Liturgia, una turba pagana atacó la iglesia y capturó a Marcos. Atado por el cuello y arrastrado por las calles empedradas con rocas afiladas, entregó su alma al Señor en el año 68 d.C.`,
 			ayuno: "No hay ayuno"
 		}
+	],
+				"05-10": [ 
+		{
+		    name: "Domingo de la Samaritana",
+		    title: "El Encuentro con el Agua Viva y el Culto en Espíritu y Verdad",
+		    images: [	
+            	        "Img/DomingoSamaritana.webp",
+            	        "Img/DomingoSamaritana2.webp",
+            	        "Img/DomingoSamaritana3.webp",        
+		    ],
+			desc: `Hoy, el quinto domingo de la Santa Pascua, es el Domingo de la Samaritana. En este día, conmemoramos el encuentro entre la mujer samaritana (Santa Fotina) y Cristo en el Pozo de Jacob (Juan 4:1-26).
+
+Durante Su ministerio terrenal, Cristo llegó a la ciudad de Sicar en Samaria, al sitio del pozo de Jacob. Cansado del viaje y del calor, se sentó junto al pozo mientras Sus discípulos iban a comprar comida.
+
+Una mujer de Samaria vino entonces a sacar agua, y Jesús le pidió de beber. La mujer se sorprendió, diciendo que los judíos no tenían trato con los samaritanos, ya que eran adversarios.
+
+Jesús le respondió: «Si conocieras el don de Dios, y quién es el que te dice: "Dame de beber", tú le pedirías a Él, y Él te daría agua viva».
+
+Al ver que Jesús no tenía balde, la mujer le preguntó cómo sacaría agua del pozo profundo, a lo que Él respondió: «Cualquiera que bebiere de esta agua, volverá a tener sed; mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para vida eterna».
+
+Cuando la mujer le pidió que le diera esa agua, Cristo le dijo que llamara a su marido. La mujer respondió que no tenía marido, a lo que Cristo dijo: «Bien has dicho: "No tengo marido"; porque cinco maridos has tenido, y el que ahora tienes no es tu marido».
+
+Asombrada de que Él conociera su situación, la mujer creyó que Él era un profeta. Procedió a preguntarle dónde debía ser adorado Dios: en el monte Gerizim en Samaria, como hacían los samaritanos, o en Jerusalén, como hacían los judíos.
+
+Cristo respondió: «La hora viene cuando ni en este monte ni en Jerusalén adoraréis al Padre... los verdaderos adoradores adorarán al Padre en espíritu y en verdad».
+
+Al despedirse, la mujer le dijo: «Sé que ha de venir el Mesías. Cuando Él venga, nos declarará todas las cosas». Cristo entonces le dijo: «Yo soy, el que habla contigo».
+
+La mujer samaritana se arrepintió y regresó a la ciudad, contando a sus conciudadanos que había conocido al Salvador. Desde entonces vivió como una evangelista incansable de Cristo, y fue martirizada en el año 66 d.C. durante el reinado del emperador Nerón.`,
+			ayuno: "No hay ayuno"
+		},
+		{
+		    name: "San Simón el Zelote",
+		    title: "El Novio de Caná y Apóstol de la Divina Llama",
+		    images: [	
+            	        "Img/SimónZelote.webp",
+            	        "Img/SimónZelote2.webp",    
+		    ],
+			desc: `Hoy también conmemoramos al Santo Apóstol Simón el Zelote. La Tradición sostiene que él era el novio en las bodas de Caná, donde Cristo realizó Su primer milagro: convertir el agua en vino. Tras presenciar este prodigio, Simón se convirtió en uno de los Doce Apóstoles de Cristo.
+
+El Apóstol Simón era natural de Caná de Galilea y era conocido personalmente por el Señor y la Theotokos, ya que Caná se encontraba a poca distancia de Nazaret. Cuando Simón celebró su banquete de bodas, invitó al Señor, a Su Santísima Madre y a Sus discípulos.
+
+Debido a que faltó vino para los invitados, el Señor convirtió el agua en vino (Juan 2:1-11). Impactado por este milagro, el novio Simón creyó inmediatamente en Jesús como el Señor y, abandonando las festividades de su boda y su propia casa, siguió al Señor con celo.
+
+Recibió el nombre de "el Zelote" (el Celoso) debido a que estaba inflamado de un celo tan grande que abandonó a su propia novia por amor a Cristo, uniendo su alma al Esposo Celestial. Este celo le valió un lugar en las filas de los Doce Santos Apóstoles.
+
+En el día de Pentecostés, cuando el Espíritu Santo descendió sobre los Apóstoles en forma de lenguas de fuego, recibieron el don de predicar el Evangelio a todas las naciones. Así, Simón partió y predicó por todo Egipto, Mauritania, Libia, Numidia, Cirenia y Abjasia.
+
+En Abjasia, región situada en la costa noreste del Mar Negro, iluminó a muchos paganos con la Fe de Cristo. También viajó a Gran Bretaña, donde llevó la luz a muchos incrédulos, y allí fue crucificado por los idólatras paganos alrededor del año 65 d.C.`,
+		}
 	],					
 };
