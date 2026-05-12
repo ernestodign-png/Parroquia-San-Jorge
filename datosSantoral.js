@@ -3880,5 +3880,79 @@ En el día de Pentecostés, cuando el Espíritu Santo descendió sobre los Após
 
 En Abjasia, región situada en la costa noreste del Mar Negro, iluminó a muchos paganos con la Fe de Cristo. También viajó a Gran Bretaña, donde llevó la luz a muchos incrédulos, y allí fue crucificado por los idólatras paganos alrededor del año 65 d.C.`,
 		}
+	],
+			"05-12": [ 
+		{
+		    name: "San Epifanio de Chipre",
+		    title: "Defensor de la Ortodoxia y Azote de las Herejías",
+		    img:"Img/EpifanioChipre.webp",        
+			desc: `Hoy conmemoramos a San Epifanio, Arzobispo de Chipre.
+
+San Epifanio nació en el año 310 en la aldea de Besanduk, Palestina, en el seno de una familia pobre de agricultores judíos. Sus padres permanecieron bajo la sombra y el culto de la Ley, pero el piadoso Epifanio fue bendecido al ver la luz de la fe cristiana.
+
+Cuando el futuro santo comenzaba a tener dudas respecto a la antigua Ley, vio a un monje llamado Luciano entregar su propia túnica a un hombre pobre. Impactado por la compasión del monje, Epifanio pidió ser instruido en el cristianismo.
+
+Tras su bautismo, se hizo monje en un monasterio de Egipto bajo la guía espiritual de San Hilarión el Grande. A medida que progresaba en la vida monástica, se ocupó en copiar libros griegos y realizó muchos milagros y curaciones, tanto para el alma como para el cuerpo.
+
+Para evitar las alabanzas y la gloria humana, Epifanio se adentró en el desierto. Allí, una banda de ladrones lo capturó y lo retuvo durante tres meses; sin embargo, él llevó a uno de ellos a Cristo predicando el arrepentimiento, y posteriormente fue liberado. Este ladrón fue bautizado con el nombre de Juan y se convirtió en su discípulo en el monasterio.
+
+Al regresar al desierto de Palestina en el 333, Epifanio buscó nuevamente la vida ascética con su discípulo Juan. A medida que la reputación de su santidad se extendía, más discípulos acudieron a él. Fundó un monasterio donde fue ordenado sacerdote y sirvió como abad durante 30 años.
+
+En el 367, Epifanio fue elevado por un concilio como obispo de Salamina, en Chipre, y en este cargo se vio envuelto en la lucha contra las diversas herejías de la época. Participó en el sínodo de Antioquía del 376, donde defendió la Ortodoxia contra la herejía del apolinarismo.
+
+En el 403, San Epifanio fue convocado a Constantinopla para participar en el Sínodo de la Encina, convocado para deponer a San Juan Crisóstomo. Una vez que Epifanio se dio cuenta de que estaba siendo manipulado por los enemigos del Crisóstomo, abandonó Constantinopla, negándose a participar en un concilio ilegal.
+
+En su regreso a Salamina, San Epifanio reposó en el año 403 a una edad avanzada. Es conocido por componer el Panarion, un compendio que refuta 80 herejías.`,
+			ayuno: "No hay ayuno"
+		},
+		{
+		    name: "San Teodoro de Citera",
+		    title: "El Asceta de la Soledad y Protector de la Isla",
+		    images: [	
+            	        "Img/TeodoroCitera.webp",
+            	        "Img/TeodoroCitera2.webp",
+            	        "Img/TeodoroCitera3.webp",    
+		    ],
+			desc: `Hoy también conmemoramos a San Teodoro, el asceta y protector de la isla de Citera.
+
+San Teodoro nació en Koroni, al sur de Mesenia, en el Peloponeso, a finales del siglo IX. Recibió su educación bajo la tutela del obispo de Koroni, quien lo ordenó lector. Tras la repentina muerte de sus padres, se trasladó a Nauplia, donde fue criado por un amigo de la familia que también era sacerdote.
+
+Al alcanzar la edad adulta, Teodoro entró en una profunda melancolía por los pecados del mundo. Inicialmente, buscó consuelo en el matrimonio y tuvo dos hijos. Debido a su reputación de santidad y virtud, el obispo Teodoro de Argos lo ordenó diácono.
+
+Sin embargo, la tristeza persistía, y su dolor lo llevó a dejar a su familia y a la ciudad de Nauplia para dirigirse a Roma, con la esperanza de encontrar la plenitud espiritual en la vida monástica. Al encontrar que Roma era un lugar bastante mundano, se trasladó a Monemvasia, donde vivió en la celda de un monasterio y oró sin cesar.
+
+Después de un año, Teodoro, junto con su compañero asceta Antonio, partió de Monemvasia en una flota romana y llegó a Citera en el año 921. Dado que Citera había sido profanada por piratas sarracenos antes de que los romanos la reconquistaran, la isla estaba desolada y silenciosa, convirtiéndose en el lugar perfecto para emprender una vida de ascetismo, lejos de los lujos del mundo.
+
+Se establecieron en la antigua iglesia de los Santos Sergio y Baco, centrándose en la oración y el ayuno. Tras un breve periodo de ascetismo extremo, Antonio decidió regresar a la vida más suave de Monemvasia; poco después, San Teodoro reposó en paz el 12 de mayo de 922.
+
+No mucho tiempo después de su muerte, unos soldados que pasaban por Citera acudieron a orar a la iglesia de los Santos Sergio y Baco. Allí encontraron el cuerpo incorrupto del Santo; sin embargo, lo dejaron sin sepultar. Tres años más tarde, en el 925, unos cazadores de Monemvasia descubrieron su cuerpo, aún incorrupto, y tras venerarlo con lágrimas, lo enterraron cerca de la iglesia.
+
+Más tarde, residentes de Monemvasia reconstruyeron la iglesia de los Santos Sergio y Baco y la renombraron en honor a San Teodoro. Sus reliquias permanecen en el monasterio de la isla hasta el día de hoy.`,
+		},
+		{
+		    name: "San Juan el Valaco",
+		    title: "Firmeza ante la Seducción y Martirio por la Fe en Constantinopla",
+		    images: [	
+            	        "Img/JuanValaco.webp",
+            	        "Img/JuanValaco2.webp",
+		    ],
+			desc: `Hoy también conmemoramos al Santo Nuevo Mártir San Juan el Valaco.
+
+San Juan nació en el seno de una familia pobre en Oltenia, Valaquia (Rumanía), alrededor de 1645. Valaquia había sido un principado tributario del Imperio Otomano durante unos 200 años, y muchos príncipes obtenían el trono ofreciendo grandes sumas de dinero al Sultán.
+
+El príncipe Mihnea III Radu (1658-1659) probablemente tomó el trono mediante el mismo método, pero poco después no quiso aceptar los pesados impuestos impuestos por los turcos. Por ello, formó una alianza con los príncipes de Transilvania y Moldavia contra los otomanos.
+
+En 1658, Mihnea ordenó la ejecución de un escuadrón de 2000 soldados turcos y coordinó ataques en puertos y puentes del Danubio junto con rebeliones en Moldavia y Transilvania. En la primavera de 1659, los turcos invadieron Moldavia y Transilvania para suprimir la rebelión.
+
+Al cruzar Valaquia, los turcos tomaron a muchos jóvenes prisioneros como esclavos, incluido Juan, de 15 años, quien pasó a ser propiedad de un soldado. Los cautivos soportaron hambre, sed, golpes y fueron víctimas de los deseos sexuales vergonzosos de sus amos.
+
+El soldado que poseía a Juan intentó una vez atarlo a un árbol para violarlo, pero el joven escapó y golpeó al soldado, matándolo. Juan huyó, pero otros soldados lo encadenaron y lo llevaron a Constantinopla, torturándolo en el camino.
+
+Los soldados llevaron a Juan ante el Gran Visir, quien decidió dejar su destino en manos de la esposa del soldado al que había matado. Durante dos años, la mujer mantuvo a Juan como su esclavo e intentó seducirlo, prometiéndole que lo tomaría como esposo y le daría un buen estatus social si se convertía al islam. Juan se negó, y la mujer hizo que lo enviaran a prisión por el asesinato cometido.
+
+En la cárcel, Juan oró a Cristo pidiendo fuerzas durante sus torturas. La viuda seguía acudiendo a diario para persuadirlo de que renunciara a su fe, pero el valiente joven le dijo: «Prefiero morir por Cristo que convertirme en turco y casarme contigo».
+
+Finalmente, San Juan fue llevado al gran bazar en el barrio de Gálata, en Constantinopla, donde, con menos de 18 años, fue martirizado en la horca el 12 de mayo de 1662.`,
+		}
 	],					
 };
