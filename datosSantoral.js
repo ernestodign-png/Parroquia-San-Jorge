@@ -3954,5 +3954,31 @@ En la cárcel, Juan oró a Cristo pidiendo fuerzas durante sus torturas. La viud
 
 Finalmente, San Juan fue llevado al gran bazar en el barrio de Gálata, en Constantinopla, donde, con menos de 18 años, fue martirizado en la horca el 12 de mayo de 1662.`,
 		}
+	],
+			"05-13": [ 
+		{
+		    name: "Santa Gliceria la Virgen y Mártir",
+		    title: "El Testimonio de Fe en Trajanópolis y la Destrucción de los Ídolos",
+		    images: [	
+            	        "Img/SantaGliceria.webp",
+            	        "Img/SantaGliceria2.webp",
+		    ],        
+			desc: `Hoy conmemoramos a la Grande y Santa Virgen y Mártir Santa Gliceria de Trajanópolis en Tracia. Padeció por Cristo durante las persecuciones del emperador romano Antonino Pío (138-161).
+
+Santa Gliceria provenía de una familia ilustre, y su padre Macario era un alto funcionario romano. Al perder a ambos padres a una edad temprana, fue acogida por un grupo de cristianos piadosos que la iluminaron en la Fe Verdadera.
+
+Sabino, el prefecto romano de Trajanópolis, recibió el edicto imperial que ordenaba a los cristianos ofrecer sacrificios a los ídolos, por lo que designó un día específico para que los habitantes de la ciudad adoraran al ídolo Zeus.
+
+Resuelta a padecer por Cristo, Gliceria entró al templo pagano y se hizo la Señal de la Cruz en la frente. Se situó en un lugar elevado y se quitó el velo de la cabeza, revelando la Cruz trazada en su frente.
+
+Declarando triunfalmente su fe en Cristo, oró a Dios para que hiciera entrar en razón a los paganos y destruyera el ídolo de piedra. De repente, se escuchó un trueno y la estatua de Zeus se hizo pedazos.
+
+Enfurecidos, el prefecto Sabino y los sacerdotes paganos ordenaron a la gente apedrear a Santa Gliceria, pero ninguna piedra la golpeó. Luego la colgaron por los cabellos y laceraron su cuerpo, antes de arrojarla a prisión para que muriera de hambre. Sin embargo, un ángel se aparecía frecuentemente para alimentarla.
+
+Enfurecido al ver que Gliceria estaba viva y sana, Sabino la llevó a Heraclea en Tracia para torturarla aún más. Fue arrojada a un horno al rojo vivo, pero un rocío fresco cayó de los cielos y extinguió las llamas. Luego le arrancaron la piel desde el cuero cabelludo hasta la frente y le arrojaron grandes rocas, pero los ángeles acudieron a su celda y sanaron sus heridas.
+
+Finalmente, fue condenada a ser devorada por bestias salvajes. Caminó a la ejecución con gran alegría por padecer por Cristo, pero la leona se acercó mansamente y se acostó a sus pies. Finalmente, la santa oró al Señor para que tomara su alma, y en ese momento, otra leona fue soltada contra ella. Se abalanzó sobre la mártir y la mató, pero no la despedazó. Así, Santa Gliceria entregó su alma.`,
+			ayuno: "Ayuno: Abstenerse de comer carne, productos lácteos y huevos. El pescado, el vino y el aceite están permitidos"
+		}
 	],					
 };
