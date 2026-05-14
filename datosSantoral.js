@@ -3980,5 +3980,59 @@ Enfurecido al ver que Gliceria estaba viva y sana, Sabino la llevó a Heraclea e
 Finalmente, fue condenada a ser devorada por bestias salvajes. Caminó a la ejecución con gran alegría por padecer por Cristo, pero la leona se acercó mansamente y se acostó a sus pies. Finalmente, la santa oró al Señor para que tomara su alma, y en ese momento, otra leona fue soltada contra ella. Se abalanzó sobre la mártir y la mató, pero no la despedazó. Así, Santa Gliceria entregó su alma.`,
 			ayuno: "Ayuno: Abstenerse de comer carne, productos lácteos y huevos. El pescado, el vino y el aceite están permitidos"
 		}
+	],
+			"05-14": [ 
+		{
+		    name: "San Isidro de Quíos",
+		    title: "El Mártir Romano y la Confesión Inquebrantable de Fe",
+		    images: [	
+            	        "Img/IsidroQuíos.webp",
+            	        "Img/IsidroQuíos2.webp",
+            	        "Img/IsidroQuíos3.webp",
+            	        "Img/IsidroQuíos4.webp",
+		    ],        
+			desc: `Hoy también conmemoramos al Santo Mártir San Isidro de Quíos. Fue un soldado del ejército romano que sufrió el martirio durante las persecuciones del emperador Decio (249-251).
+
+San Isidro era originario de la ciudad de Alejandría, en Egipto. Desde una edad temprana, se adhirió a la fe de Cristo, dedicando su tiempo al ayuno, la oración y las buenas obras. Mientras servía en el ejército romano, fue enviado con una flota a la isla de Quíos.
+
+Fue allí donde Isidro rechazó la costumbre de ofrecer sacrificios a los dioses paganos, y un centurión llamado Juliano lo denunció ante su comandante, Numeriano.
+
+Interrogado por Numeriano, San Isidro confesó su fe en Cristo sin inmutarse. Numeriano instó a Isidro a evitar la tortura renunciando a Cristo y ofreciendo sacrificios a los ídolos, pero Isidro se negó nuevamente y declaró: «Incluso si matas mi cuerpo, no tienes autoridad sobre mi alma». Luego fue entregado para ser torturado.
+
+Cuando el padre de San Isidro se enteró de que su hijo era cristiano, viajó a Quíos para intentar convencerlo de que negara su fe y salvara su vida. Logró persuadir a Numeriano de que entregara a Isidro bajo su custodia y procedió a intentar convertirlo.
+
+El Santo, sin embargo, suplicó a su padre que abriera los ojos de su alma y contemplara la verdad de Cristo. Su padre se enfureció tanto por esto que finalmente lo entregó a Numeriano, rogando al comandante que acelerara la muerte de su propio hijo.
+
+Primero, Numeriano ordenó que Isidro fuera golpeado con cuero de buey, luego arrastrado por el suelo sobre rocas y, después de eso, le cortaron la lengua. Incluso sin su lengua, San Isidro, por el Espíritu de Dios, confesó el nombre de Cristo.
+
+El castigo de Dios cayó pronto sobre el comandante Numeriano, ya que repentinamente se quedó mudo. Finalmente, el comandante mudo dio la señal para decapitar a Isidro. Después de alabar a Dios, San Isidro se dirigió al lugar de ejecución y obtuvo su corona eterna bajo la espada.
+
+Sus santas reliquias fueron recuperadas en secreto y enterradas por los valientes Santos Amonio y Mírope, quienes también sufrieron el martirio por Cristo.`,
+			ayuno: "Sin Ayuno"
+		},
+		{
+		    name: "San Terapón de Chipre",
+		    title: "El Hieromártir, Obispo de Citio y Sanador Anárgiro",
+		    images: [	
+            	        "Img/TerapónChipre.webp",
+            	        "Img/TerapónChipre2.webp",
+            	        "Img/TerapónChipre3.webp",
+		    ],        
+			desc: `Hoy también conmemoramos al Santo Hieromártir San Terapón, Obispo de Chipre. San Terapón nos es conocido a través de los escritos de San Andrés de Creta y, según la Tradición, fue decapitado durante una invasión árabe a Chipre entre los siglos VI y VIII.
+
+San Terapón nació de padres piadosos y practicó su amor a Cristo mediante la abstinencia, el ayuno y la oración. También fue un gran predicador de la palabra de Dios y fortaleció a muchos en la Fe Ortodoxa. Por su abierta crítica a los impíos iconoclastas, fue calumniado, encarcelado y exiliado.
+
+Una vez liberado, Terapón viajó a Jerusalén, donde predicó el Evangelio y realizó numerosas obras de caridad. Su fama creció tan rápido que el santo decidió abandonar Jerusalén y dirigirse a Chipre para vivir una vida humilde como monje.
+
+Inicialmente fue alojado por un hombre llamado Sosios y su esposa, quien había estado enferma y postrada en cama durante 9 años. San Terapón sanó a la esposa del hombre por la Gracia de Dios, y al difundirse la noticia de este milagro, muchos otros enfermos acudieron para recibir curación del santo taumaturgo.
+
+El gobernador de la isla rogó a San Terapón que se quedara cerca de él, ofreciéndole la Diócesis de Citio. Terapón aceptó este cargo como Obispo, y los fieles se regocijaron de que su sanador anárgiro y guía espiritual permaneciera con ellos.
+
+Durante una invasión de Chipre por piratas árabes, los bárbaros irrumpieron en la iglesia donde San Terapón estaba celebrando la Divina Liturgia y lo decapitaron en el altar. Tan pronto como esto sucedió, melodías celestiales y la Luz Increada se posaron sobre la Santa Mesa.
+
+Este milagro dio fuerza a los creyentes, mientras que los árabes sintieron miedo y remordimiento por lo que habían hecho. El cuerpo de San Terapón fue enterrado por los fieles en el lugar donde se construyó su primer templo. El 14 de mayo de 806, sus reliquias fueron trasladadas a Constantinopla para ser protegidas en caso de otra invasión.
+
+Hasta el día de hoy, en Constantinopla, se puede ver un manantial milagroso y una iglesia dedicada a San Terapón que datan de la época bizantina (imágenes 3-5). Incluso muchos musulmanes visitan este lugar buscando curación en el agua que es conocida por estar bendecida por San Terapón.`,
+		}
 	],					
 };
