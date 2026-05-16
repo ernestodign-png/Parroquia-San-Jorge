@@ -4034,5 +4034,57 @@ Este milagro dio fuerza a los creyentes, mientras que los árabes sintieron mied
 
 Hasta el día de hoy, en Constantinopla, se puede ver un manantial milagroso y una iglesia dedicada a San Terapón que datan de la época bizantina (imágenes 3-5). Incluso muchos musulmanes visitan este lugar buscando curación en el agua que es conocida por estar bendecida por San Terapón.`,
 		}
+	],
+			"05-16": [ 
+		{
+		    name: "San Brandán el Navegante",
+		    title: "El Monje Explorador y la Misión en la Tierra Prometida",
+		    images: [	
+            	        "Img/BrandánNavegante.webp",
+            	        "Img/BrandánNavegante2.webp",
+		    ],        
+			desc: `San Brandán nació en el año 484 d.C. cerca de la actual Tralee, en el condado de Kerry, Irlanda. Fue bautizado por San Erc en Tubrid y educado en la fe bajo la tutela de Santa Ita en Killeedy. Completó sus estudios con San Erc, quien lo ordenó monje y sacerdote alrededor del año 510.
+
+Durante los siguientes 20 años, San Brandán viajó por mar a través de las islas que rodean Irlanda, predicando el Evangelio y fundando monasterios. Su fundación más notable fue el Monasterio de Clonfert en Galway en el 557, el cual permaneció activo hasta bien entrado el siglo XVI.
+
+Sus primeros viajes incluyeron paradas en las Islas Aran, donde estableció un monasterio; la isla de Hinba en Escocia, donde conoció a San Columba; así como visitas a Gales y a la costa de Bretaña en Francia.
+
+San Brandán es más reconocido por su legendario viaje a la «Tierra Prometida», inspirado en los relatos que había escuchado de un monje sobre una tierra distante y fértil muy al oeste de Irlanda. Después de ayunar durante 40 días, partió con un grupo de monjes, posiblemente incluyendo a San Macuto, en un viaje que duró 7 años.
+
+Esta aventura fue posteriormente inmortalizada en la Navigatio Sancti Brendani (El Viaje de San Brandán), un texto del siglo IX que alcanzó gran popularidad durante la Edad Media.
+
+El relato se caracteriza por una gran cantidad de licencias literarias y contiene referencias al infierno, donde «grandes demonios arrojaban trozos de escoria ardiente desde una isla con ríos de fuego dorado». Muchos creen hoy en día que se trata de referencias a los icebergs y a la actividad volcánica alrededor de Islandia.
+
+Al llegar a la misteriosa tierra, Brandán y sus compañeros la exploraron con un guía local, pero su avance fue bloqueado por un gran río. Pronto regresaron a Irlanda, sobreviviendo solo unos pocos al viaje de regreso.
+
+De vuelta en Irlanda, Brandán fundó un monasterio donde pasó sus últimos años, así como un convento para su hermana Briga en Annaghdown. También estableció el obispado de Ardfert y monasterios en Thomond e Inis-da-druim (isla de Coney), y viajó hasta Gales e Iona, dejando rastros de su obra misionera por toda Gran Bretaña e Irlanda.
+
+Murió en el año 578 en Annaghdown mientras visitaba a su hermana Briga. Su tumba se encuentra en la Catedral de Clonfert.`,
+			ayuno: "Sin Ayuno"
+		},
+		{
+		    name: "San Vukašin de Klepci",
+		    title: "El Mártir Serbio y la Confesión de Fe en Jasenovac",
+		    images: [	
+            	        "Img/VukašinKlepci.webp",
+            	        "Img/VukašinKlepci2.webp",
+            	        "Img/VukašinKlepci3.webp",
+		    ],        
+			desc: `Hoy también conmemoramos a San Vukašin de Klepci. Fue un cristiano ortodoxo serbio de Herzegovina que fue martirizado por los fascistas de la Ustacha durante la Segunda Guerra Mundial.
+
+Poco se sabe sobre la vida de San Vukašin antes de su martirio, excepto que era agricultor y comerciante. Nació en el pueblo de Klepci, en Herzegovina, a finales del siglo XIX. Él y su familia vivieron en Sarajevo y luego regresaron a Klepci.
+
+En 1942, miembros de la Ustacha, un movimiento fascista croata que colaboró con los nazis, arrestaron a Vukašin y a otros serbios. Tras negarse a convertirse al catolicismo romano, fueron transportados al campo de concentración de Jasenovac (se estima que produjo un número de víctimas de cientos de miles).
+
+Tras horribles días de trabajos forzados, en 1943, Vukašin fue abordado por un soldado de la Ustacha, Josip «Zile» Friganović, quien en ese momento participaba en una apuesta con otros tres soldados para ver quién podía masacrar a más prisioneros. Perturbado por el semblante pacífico de Vukašin en medio del horror, Friganović amenazó con matarlo.
+
+Mientras sostenía un cuchillo conocido como el «Srbosjek» o «Cortaserbios» (un cuchillo agrícola que se ataba a la mano y era utilizado por la milicia de la Ustacha para el asesinato rápido de los reclusos), Friganović dijo que le perdonaría la vida a Vukašin si decía: «¡Viva Ante Pavelić!» (Ante Pavelić era el líder de la Ustacha).
+
+Vukašin rechazó esta orden y respondió con calma: «Hijo mío, haz lo que debas». El soldado de la Ustacha le cortó entonces una oreja a Vukašin y repitió su exigencia, pero Vukašin se negó de nuevo. El soldado le cortó entonces la otra oreja, seguida de la nariz, y luego le marcó el rostro. A continuación, le cortó la lengua.
+
+Después de esto, Friganović degolló a San Vukašin, y así el mártir entregó su alma. Se dice que Friganović fue incapaz de matar a más personas esa noche, y que fue arrastrado hacia una culpa insoportable y, en consecuencia, a la locura tras estos eventos.
+
+Años más tarde, después de la Segunda Guerra Mundial, Friganović confesó estos hechos a un médico llamado Nedeljko Nedo Zec, quien los dejó por escrito. Este testimonio culminó en la canonización de San Vukašin por la Iglesia Ortodoxa Serbia en 1998.`,
+		}
 	],					
 };
