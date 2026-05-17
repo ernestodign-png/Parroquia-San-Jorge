@@ -4086,5 +4086,82 @@ Después de esto, Friganović degolló a San Vukašin, y así el mártir entreg�
 
 Años más tarde, después de la Segunda Guerra Mundial, Friganović confesó estos hechos a un médico llamado Nedeljko Nedo Zec, quien los dejó por escrito. Este testimonio culminó en la canonización de San Vukašin por la Iglesia Ortodoxa Serbia en 1998.`,
 		}
-	],					
+	],
+			"05-17": [ 
+		{
+		    name: "Domingo del Ciego",
+		    title: "El Milagro de la Creación y la Iluminación Espiritual",
+		    images: [	
+            	        "Img/DomingoCiego.webp",
+            	        "Img/DomingoCiego2.webp",
+            	        "Img/DomingoCiego3.webp",
+		    ],        
+			desc: `Hoy, el sexto domingo de la Santa Pascua, conmemoramos el milagro de Cristo sanando al ciego de nacimiento, tal como se registra en el Evangelio de Juan (9:1–41).
+
+Mientras el Salvador disputaba con los fariseos en el Templo durante la Fiesta de los Tabernáculos, les dijo: «Antes que Abraham fuese, YO SOY». Por confesar Su divinidad de esta manera —ya que «YO SOY» es el nombre que Dios usó para identificarse ante Moisés en la Zarza Ardiente—, los judíos tomaron piedras para arrojárselas, y Él salió del Templo.
+
+Al pasar, encontró a un hombre que era ciego de nacimiento. Los discípulos preguntaron a Cristo si había pecado este, o sus padres, para que naciera ciego, pues era creencia común que las aflicciones físicas eran un castigo divino por los pecados de una persona o de sus padres.
+
+Cristo respondió: «No es que pecó este, ni sus padres, sino para que las obras de Dios se manifiesten en él». Escupió en tierra, hizo lodo con la saliva y untó con el lodo los ojos del ciego. Luego lo envió a lavarse en el estanque de Siloé.
+
+Al enviar al ciego al estanque, Cristo pone a prueba su fe y solicita su participación libre y voluntaria en el milagro. El ciego obedeció y, después de lavarse en el estanque, pudo ver.
+
+Así como el Señor creó al hombre en el Génesis a partir del polvo de la tierra, Cristo formó ojos para el ciego a partir del lodo de la tierra. Este fue el mayor milagro que Cristo había obrado hasta entonces, ya que este acto divino de creación demostró que Cristo mismo es el Creador.
+
+Después de que Cristo se marchara, los fariseos interrogaron al hombre que había sido ciego, sospechando que fingía ver. Pero incluso cuando reconocieron que este milagro era cierto, cerraron los ojos de sus almas. Cuando el hombre les dijo que Aquel que le hizo ver era verdaderamente un Hombre de Dios, lo expulsaron de la sinagoga.
+
+Cristo encontró más tarde al hombre antes ciego y le dijo: «¿Crees tú en el Hijo de Dios?». El hombre respondió: «¿Quién es, Señor, para que crea en Él?». Cuando Cristo respondió: «El que habla contigo, Él es», el hombre antes ciego confesó: «¡Creo, Señor!». Y le adoró.`,
+		},
+		{
+		    name: "San Nicolás de Metsovo",
+		    title: "El Nuevo Mártir Valaco y la Confesión de Fe ante el Islam",
+		    images: [	
+            	        "Img/NicolásMetsovo.webp",
+            	        "Img/NicolásMetsovo2.webp",
+            	        "Img/NicolásMetsovo3.webp",
+		    ],        
+			desc: `Hoy también conmemoramos al Santo Nuevo Mártir San Nicolás el Valaco de Metsovo. Fue un santo del siglo XVII que regresó al cristianismo tras haberse convertido al islam, y fue quemado vivo por los turcos por su negativa a renunciar a Cristo.
+
+San Nicolás el Valaco nació en el seno de una familia pobre en Metsovo, en las fronteras de Epiro y Tesalia, en las montañas del Pindo. La cordillera del Pindo, en el centro de Grecia, ha sido durante mucho tiempo el hogar de muchos valacos, una minoría que históricamente ha vivido en paz con sus vecinos de habla griega.
+
+En su juventud, Nicolás fue enviado a Trikala para trabajar con un panadero en una zona predominantemente musulmana. Hizo muchos amigos en la comunidad islámica y, halagado por la perspectiva de asociarse con las élites otomanas, se convirtió al islam.
+
+Sin embargo, Nicolás fue inmediatamente asaltado por el remordimiento y partió en secreto hacia su ciudad natal de Metsovo, donde regresó al cristianismo y adoptó una vida de arrepentimiento y oración. Fue recibido nuevamente por su familia y consiguió empleo transportando antorchas de madera de pino a Trikala.
+
+En uno de esos viajes, fue reconocido por un barbero turco, un viejo conocido, quien notó que Nicolás ya no vestía el atuendo musulmán tradicional. Este hombre amenazó con denunciarlo a las autoridades a menos que Nicolás accediera a llevarle una cierta cantidad de antorchas de madera de pino cada año.
+
+Tras consultar con su padre espiritual y con los monjes de los monasterios de Meteora, Nicolás decidió no ceder a este chantaje. Estaba convencido de que se encontraba preparado para hacer pública su conversión al cristianismo y afrontar las consecuencias.
+
+Al negarse a entregar la madera de pino al barbero turco, San Nicolás fue arrastrado ante el juez islámico. Confesando su deseo de morir como cristiano, Nicolás fue golpeado, torturado y encarcelado, pero se mantuvo firme y se negó a renunciar a su fe.
+
+Finalmente, fue condenado a morir quemado en la plaza principal de Trikala. Entregó su alma al Señor en este día del año 1617.`,
+		},
+		{
+		    name: "San Nectario y San Teófanes",
+		    title: "La Vida Hesicasta en Meteora y la Fundación de Varlaam",
+		    images: [	
+            	        "Img/NectarioTeófanes.webp",
+            	        "Img/NectarioTeófanes2.webp",
+            	        "Img/NectarioTeófanes3.webp",
+		    ],        
+			desc: `Hoy también conmemoramos a San Nectario y San Teófanes, fundadores del Monasterio de Varlaam en Meteora.
+
+San Nectario y San Teófanes eran hermanos nacidos en la eminente familia Asparades de Ioánina a finales del siglo XV. A una edad temprana, decidieron seguir el camino monástico.
+
+En la Ermita del Honorable Precursor, en la isla de Ioánina, conocieron al anciano Sabas de Ioánina y recibieron de él el esquema monástico en 1495 (imagen 3).
+
+Permanecieron con él durante 10 años, recogiendo los frutos de la vida hesicasta. Tras el reposo de San Sabas en 1505, se dirigieron al Monte Athos, donde recibieron guía espiritual del antiguo Patriarca Ecuménico Nefón II (imagen 6).
+
+Con la bendición de San Nefón, los hermanos regresaron a Ioánina para continuar sus luchas ascéticas. Allí encontraron una ermita semiderruida dedicada a San Pantaleón, construida en una cueva sobre el lago, y recibieron la bendición del Patriarca Pacomio I para establecer una nueva ermita.
+
+Tras un arduo trabajo a sus propias expensas, completaron la Iglesia del Honorable Precursor en 1507, junto con celdas y otros edificios. También construyeron la Ermita de San Nicolás en Lepenos para sus padres y hermanas, quienes también eran monjes.
+
+Durante este tiempo, los santos sufrieron muchas pruebas y tentaciones a manos de las autoridades eclesiásticas y seculares. Buscando paz y quietud, se retiraron del monasterio en 1510. Al llegar a Meteora con sus discípulos Benito y Pacomio (imagen 8), se instalaron en el pilar del Honorable Precursor, donde permanecieron durante 7 años.
+
+Debido al duro clima y a las estrechas rocas, se trasladaron a la roca desierta de Varlaam en 1517, y comenzaron de inmediato a reconstruir el monasterio en ruinas (imagen 11). La imagen 15 muestra a San Teófanes bendiciendo a los constructores. En 1542, sentaron las bases para la Iglesia de Todos los Santos, que fue completada el 17 de mayo de 1544.
+
+Durante las etapas finales de la construcción, San Teófanes, que ya llevaba 10 meses postrado en cama, entregó su alma al Señor. San Nectario reposó 6 años después, en 1550.`,
+		}
+	],
+					
 };
