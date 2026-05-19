@@ -4163,5 +4163,33 @@ Debido al duro clima y a las estrechas rocas, se trasladaron a la roca desierta 
 Durante las etapas finales de la construcción, San Teófanes, que ya llevaba 10 meses postrado en cama, entregó su alma al Señor. San Nectario reposó 6 años después, en 1550.`,
 		}
 	],
-					
+			"05-19": [ 
+		{
+		    name: "Panagia Soumela",
+		    title: "El Símbolo de la Ortodoxia en el Ponto y el Refugio de la Fe",
+		    images: [	
+            	        "Img/PanagiaSoumela.webp",
+            	        "Img/PanagiaSoumela2.webp",
+            	        "Img/PanagiaSoumela3.webp",
+            	        "Img/PanagiaSoumela4.webp",
+            	        "Img/PanagiaSoumela5.webp",
+
+		    ],        
+			desc: `Hoy, 19 de mayo, conmemoramos el Genocidio Póntico y, por extensión, el icono taumaturgo de la Panagia Soumela ("Panagia del Monte Mela"), que hasta el día de hoy sirve como símbolo de la Ortodoxia y el helenismo en la región del Ponto.
+
+Según la Tradición, el icono de la Panagia Soumela fue pintado por el Evangelista San Lucas. Cuando San Lucas reposó, su discípulo San Ananías trasladó el icono a una iglesia en Atenas, tras lo cual recibió el nombre de "Panagia Athiniotissa".
+
+En el siglo IV, dos monjes atenienses, San Bernabé y San Sofronio, fueron llamados por la Virgen María para llevar el icono al Monte Mela ("Montaña Negra") en el Ponto, Asia Menor. Allí, en el año 386, construyeron el famoso monasterio de la Panagia Soumela para albergar el icono, el cual tomó el mismo nombre.
+
+El monasterio floreció durante siglos como un centro espiritual y educativo para monjes, peregrinos y estudiantes. Al encontrarse en las afueras del Imperio Bizantino, el monasterio fue saqueado muchas veces, pero siempre fue reconstruido.
+
+Cuando la ciudad de Trebisonda (Trabzon) cayó ante los otomanos en 1461, los monjes permanecieron en el monasterio, que se convirtió en un refugio para los griegos pónticos, ayudando a sostener su idioma, cultura y fe a lo largo de los siglos de persecución otomana.
+
+Durante la Primera Guerra Mundial y sus secuelas, el Imperio Otomano perpetró el Genocidio Póntico, que culminó con la muerte de más de 350.000 griegos pónticos, así como deportaciones masivas. Esto, junto con el intercambio de poblaciones entre Grecia y Turquía en 1923, puso fin a la presencia griega en el Ponto, que se remontaba al siglo VII a.C.
+
+En 1923, los monjes abandonaron el monasterio y enterraron el icono bajo sus terrenos para evitar que fuera profanado por los turcos. En 1931, el primer ministro griego Venizelos recibió permiso del primer ministro turco para enviar monjes a recuperar el icono. En la actualidad, se conserva en la nueva iglesia de la Panagia Soumela en el Monte Vermio, en el norte de Grecia, construida en 1951 por refugiados pónticos.
+
+En 2010, el gobierno turco permitió al Patriarca Bartolomé celebrar la Divina Liturgia en el Monasterio de Soumela por primera vez en 88 años. Muchos peregrinos visitan este sitio para la Gran Fiesta de la Panagia el 15 de agosto.`,
+		}
+	],					
 };
