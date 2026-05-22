@@ -4191,5 +4191,52 @@ En 1923, los monjes abandonaron el monasterio y enterraron el icono bajo sus ter
 
 En 2010, el gobierno turco permitió al Patriarca Bartolomé celebrar la Divina Liturgia en el Monasterio de Soumela por primera vez en 88 años. Muchos peregrinos visitan este sitio para la Gran Fiesta de la Panagia el 15 de agosto.`,
 		}
+	],
+			"05-22": [ 
+		{
+		    name: "Los Santos Padres del Segundo Concilio Ecuménico",
+		    title: "La Defensa de la Consustancialidad y la Formulación del Credo Niceno-Constantinopolitano",
+		    img: "Img/SegundoConcilio.webp",
+			desc: `Hoy conmemoramos a los Santos Padres del Segundo Concilio Ecuménico en el año 381 d.C. Este concilio fue convocado para abordar diversas ramificaciones de la herejía arriana que surgieron en los años posteriores a la aceptación del Credo Niceno en el 325 d.C. durante el Primer Concilio Ecuménico.
+
+El hereje Macedonio promovió el término homoiousios («de esencia similar») en contraste con el término ortodoxo homoousios («de la misma esencia») para describir la relación entre el Padre y el Hijo. Los macedonianos también negaban la divinidad del Espíritu Santo, rechazando Su consustancialidad con el Padre y el Hijo.
+
+Otro hereje, Aecio, introdujo el término anomoion («de esencia diferente»), mientras que los obispos heréticos del Concilio de Rímini en 359 proclamaron que, aunque el Hijo es a «semejanza» del Padre —y no creado, como afirmaban los arrianos—, rechazaban el término «de una misma esencia», argumentando que no se encuentra en las Sagradas Escrituras.
+
+Más enseñanzas heréticas fueron forjadas por Apolinar, quien afirmaba: «La carne del Salvador, tomada del seno del Padre en el Cielo, no tenía un alma humana ni raciocinio; el Verbo de Dios suplió el alma ausente; la Divinidad permaneció muerta durante el transcurso de tres días».
+
+Para abordar estos errores, el emperador Teodosio el Grande convocó el Segundo Sínodo Ecuménico en Constantinopla en el 381 d.C., al que asistieron 150 obispos. Rechazando a Macedonio, los Santos Padres proclamaron que el Espíritu Santo no es un ser subordinado, sino el Señor Vivificador, que procede del Padre, y que con el Padre y el Hijo recibe una misma adoración y gloria.
+
+Combatiendo las muchas otras herejías semi-arrianas y falsas enseñanzas, los Santos Padres reafirmaron el Símbolo de Fe Niceno y añadieron al Credo cinco artículos adicionales, finalizando así el Credo Niceno-Constantinopolitano, que se recita en el culto ortodoxo hasta el día de hoy.
+
+El Sínodo también emitió cánones sobre tribunales eclesiásticos, reguló la recepción de herejes arrepentidos que habían sido bautizados de manera válida y elevó el estatus de Constantinopla (Nueva Roma) al segundo lugar, después de la Antigua Roma, en honor entre las sedes patriarcales.`,
+		},
+		{
+		    name: "San Juan Vladimir",
+		    title: "El Rey de Serbia y Mártir de la Cruz de Madera",
+		    images: [	
+            	        "Img/JuanVladimir.webp",
+            	        "Img/JuanVladimir2.webp",
+		    ],
+			desc: `Hoy conmemoramos a San Juan Vladimir, el Santo Mártir y Rey de Serbia.
+
+San Juan nació en el año 990 en el seno de una familia principesca de Zahumlia. En el año 1000, siendo aún un niño, sucedió a su padre Petrislav como gobernante de Duklja, el principado serbio más poderoso de la época.
+
+La Crónica del Sacerdote de Duklja y el historiador bizantino Juan Escilitzes describen a Vladimir como un gobernante sabio; misericordioso, manso, casto, valiente y ferviente en la oración. También fue constructor y benefactor de muchas iglesias.
+
+Su reinado coincidió con la prolongada guerra entre el emperador bizantino Basilio II y el zar Samuel de Bulgaria. Buscando relaciones más estrechas con Bizancio, Duklja se unió a la alianza probizantina, lo que provocó que Samuel invadiera la región en el año 1009.
+
+Vladimir se retiró con su ejército y gran parte de su pueblo a su fortaleza en una colina llamada Oblik, cerca del lago Skadar. Según la Crónica, la colina estaba infestada de serpientes venenosas, pero después de que el santo oró, sus mordeduras se volvieron inofensivas.
+
+Cuando el ejército de Samuel sitió la colina, Vladimir finalmente se rindió para salvar a su pueblo. Fue hecho prisionero y enviado a Prespa, donde pasó sus días y noches en oración. Allí, un ángel se le apareció y le predijo tanto su liberación como su futuro martirio.
+
+La hija de Samuel, Kosara, se conmovió profundamente por la humildad, gentileza y sabiduría de Vladimir, y rogó a su padre que le concediera su mano en matrimonio. Samuel accedió a su petición y restauró a Vladimir en el trono de Duklja.
+
+Tras la muerte de Samuel, su sucesor Iván Vladislav convocó a Vladimir a Prespa bajo una falsa promesa de seguridad, enviándole una cruz de oro como señal de buena fe. Según la Crónica, Vladimir respondió: «Creemos que nuestro Señor Jesucristo, quien murió por nosotros, no fue suspendido en una cruz de oro, sino en una de madera».
+
+Dos obispos y un ermitaño fueron entonces enviados para entregarle una cruz de madera y confirmar el juramento del zar. Confiando en su palabra, Vladimir besó la cruz, la sostuvo contra su pecho y viajó a Prespa.
+
+El 22 de mayo de 1016, tras orar en una iglesia, San Juan Vladimir fue capturado por los soldados de Vladislav y decapitado. Así recibió su corona eterna.`,
+		}
 	],					
 };
