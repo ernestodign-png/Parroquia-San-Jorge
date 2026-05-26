@@ -4238,5 +4238,29 @@ Dos obispos y un ermitaño fueron entonces enviados para entregarle una cruz de 
 
 El 22 de mayo de 1016, tras orar en una iglesia, San Juan Vladimir fue capturado por los soldados de Vladislav y decapitado. Así recibió su corona eterna.`,
 		}
+	],
+		"05-26": [ 
+		{
+		    name: "San Alejandro el Derviche",
+		    title: "El Nuevo Mártir y su Retorno a la Fe Ortodoxa",
+		    img: "Img/AlejandroDerviche.webp",
+			desc: `Hoy conmemoramos al Nuevo Mártir San Alejandro el Derviche.
+
+San Alejandro era un joven cristiano ortodoxo de Tesalónica. Fue enviado por sus padres a Esmirna, y allí cayó bajo la influencia de los musulmanes y aceptó el islam. Peregrinó a La Meca e incluso se convirtió en derviche, miembro de la orden monástica islámica.
+
+Su conciencia pronto comenzó a inquietarle. Descubrió que no podía permanecer en silencio mientras los cristianos ortodoxos eran perseguidos. Para aligerar la carga de su conciencia, comenzó a fingir locura como un Loco por Cristo, y reprendió incansablemente a los musulmanes por sus injusticias contra los cristianos.
+
+Más tarde, mientras estaba en Egipto, algunos musulmanes de la isla de Creta planearon asesinarlo al percibir su apostasía. Antes de que sus planes pudieran llevarse a cabo, Alejandro abandonó Egipto y regresó a Tesalónica.
+
+Posteriormente, se dirigió a la isla de Quíos donde, aún vestido como derviche, comenzó a asistir a los servicios ortodoxos y continuó predicando a los musulmanes, suplicándoles que actuaran con justicia hacia los ortodoxos. Luego regresó a Esmirna, la ciudad donde había abandonado la Ortodoxia por primera vez. Había llegado el momento de dar testimonio de Cristo.
+
+Voluntariamente, se presentó ante el cadí de la ciudad y declaró:
+
+«¡Mulá! Yo era un cristiano ortodoxo y por mi necedad negué mi fe y me convertí en musulmán. Más tarde me di cuenta de que mi fe anterior era luz, la cual perdí, mientras que su fe, tal como he llegado a conocerla, es oscuridad. Así que he venido ante usted para confesar que he cometido un error al negar la luz y aceptar la oscuridad. ¡Nací cristiano ortodoxo! ¡Quiero morir como cristiano ortodoxo! Haga conmigo lo que desee, pues estoy dispuesto a soportar cualquier tortura y a derramar mi sangre por el amor de Jesucristo, a quien negué erróneamente».
+
+Los musulmanes se sintieron avergonzados de que uno de sus miembros más destacados, un derviche, pudiera renunciar al islam. Intentaron, mediante halagos, amenazas y encarcelamiento, que Alejandro abandonara la idea de regresar al cristianismo, pero se mantuvo firme.
+
+Finalmente fue condenado a muerte y entregó su alma en Esmirna bajo la espada en este día de 1794....`,
+		}
 	],					
 };
