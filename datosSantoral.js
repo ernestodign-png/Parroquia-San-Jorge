@@ -4262,5 +4262,117 @@ Los musulmanes se sintieron avergonzados de que uno de sus miembros más destaca
 
 Finalmente fue condenado a muerte y entregó su alma en Esmirna bajo la espada en este día de 1794....`,
 		}
+	],
+		"05-27": [ 
+		{
+		    name: "San Juan el Ruso",
+		    title: "El Santo Confesor y la Resistencia en el Cautiverio",
+		    images: [	
+            	        "Img/JuanRuso.webp",
+            	        "Img/JuanRuso2.webp",
+            	        "Img/JuanRuso3.webp",
+            	        "Img/JuanRuso4.webp",
+
+		    ],
+			desc: `Hoy conmemoramos al Santo Confesor San Juan el Ruso.
+
+San Juan nació en 1690 en la Pequeña Rusia y fue criado con amor por la Iglesia. Al alcanzar la mayoría de edad, fue llamado a servir en el ejército del Zar Pedro el Grande durante la Guerra Ruso-Turca.
+
+Durante la Campaña del Prut de 1711, fue capturado y entregado al Agá de la caballería turca, quien lo llevó a su pueblo natal de Prokopi en Capadocia (hoy Ürgüp, Turquía) en condición de esclavo. El amo de Juan intentó persistentemente convertirlo al islam; primero mediante halagos y luego con amenazas, golpes y torturas.
+
+San Juan resistió firmemente a su amo, declarando: «No puedes apartarme de mi santa Fe con amenazas, ni con promesas de riquezas y placeres. Obedeceré tus órdenes voluntariamente, si me dejas libre para seguir mi religión. Prefiero entregarte mi cabeza antes que cambiar mi fe. Nací cristiano y moriré cristiano».
+
+Con el tiempo, el corazón de su amo se ablandó por la mansedumbre y humildad de su siervo. Se asignó a Juan el cuidado de los animales y vivió entre ellos en el establo. Se regocijaba de que su lecho fuera un pesebre, al igual que el lugar donde nació Cristo. Durante los fríos inviernos y el calor del verano, San Juan cumplió obedientemente todas las órdenes de su amo.
+
+Mientras mantenía un estricto ayuno, cantaba los salmos en su establo, compartía la poca comida que tenía con los pobres, consolaba a sus compañeros de esclavitud y ayudaba a los enfermos y necesitados. Al llegar la noche, se dirigía en secreto a la cercana iglesia rupestre de San Jorge.
+
+Su amo pronto se convirtió en uno de los hombres más ricos y poderosos de Prokopi, y atribuyó sus bendiciones al santo varón que habitaba en su propiedad. El amo y su esposa llegaron a apreciar a Juan y le ofrecieron una pequeña habitación cerca del pajar. Juan no la aceptó, prefiriendo permanecer en el humilde establo con los animales.
+
+Tras enfermar, Juan hizo llamar a un sacerdote para recibir la Sagrada Comunión. El sacerdote, temiendo al oficial turco, ocultó los Santos Misterios en una manzana y se los llevó a San Juan. Después de comulgar, San Juan entregó su alma el 27 de mayo de 1730.`,
+		},
+		{
+		    name: "El Pilaf Enviado por San Juan el Ruso a su Amo en La Meca",
+		    title: "El Milagro de la Comida y la Prueba de su Santidad",
+		    images: [	
+            	        "Img/MilagroComida.webp",
+            	        "Img/MilagroComida2.webp",
+		    ],
+			desc: `A principios del siglo XVIII, el amo turco de San Juan el Ruso partió de Prokopi (actual Ürgüp, Turquía) en peregrinación a La Meca para cumplir con su deber religioso islámico. Semanas después, su esposa organizó un banquete e invitó a los amigos y familiares de su esposo, pidiéndoles que oraran por su regreso a salvo.
+
+San Juan sirvió a los invitados un plato de pilaf, que casualmente era la comida favorita de su amo. En ese momento, la esposa expresó su deseo de que su esposo estuviera presente para disfrutar del plato.
+
+San Juan pidió entonces un plato, afirmando que enviaría una porción a su amo en La Meca. Los invitados se rieron de esto, pero el ama ordenó al cocinero que le entregara un plato, pensando que él mismo lo comería o se lo daría a los pobres, como solía hacer.
+
+Sin embargo, San Juan se dirigió al establo que le servía de habitación y oró a Dios para que entregara el plato caliente a su amo en La Meca. El plato desapareció ante sus ojos, y regresó a la casa para informar a su ama que el pilaf había sido enviado.
+
+Los invitados volvieron a reírse de estas palabras y acusaron a Juan de haberse comido el pilaf él mismo. El santo permaneció en silencio ante esta acusación, sabiendo que la verdad se revelaría al regreso de su amo.
+
+Cuando el amo finalmente regresó a casa, relató un milagro a su familia: un día específico, al volver de la mezquita, encontró un plato de pilaf humeante sobre la mesa de su habitación. Incapaz de explicar quién había traído la comida o cómo alguien había podido entrar en la habitación cerrada, examinó la vajilla.
+
+Para su asombro, observó que este plato de cobre pertenecía a su propia casa y llevaba grabado el emblema familiar. A pesar de su confusión, consumió la comida con gran deleite. Al relatar este suceso, les mostró el plato que había traído consigo de regreso.
+
+La esposa y la familia del amo quedaron impactados y comprendieron que San Juan había dicho la verdad, evidenciando que lo habían juzgado falsamente. La noticia de este milagro se difundió rápidamente, y los musulmanes de Prokopi comenzaron a llamar a San Juan un «Wali» ("amigo de Dios"), un término en el islam utilizado para designar a una persona reconocida por su favor divino y rectitud.`,
+		},
+		{
+		    name: "San Juan el Ruso y el Médico Ateo",
+		    title: "La Curación Milagrosa y la Conversión a la Fe",
+		    img: "Img/MédicoAteo.webp",
+			desc: `En la década de 1960, un médico que era un ateo acérrimo enfermó de cáncer de recto, uno de los cánceres más graves de aquella época.
+
+Tras el diagnóstico, el médico cayó en la desesperación y comenzó a orar por primera vez en su vida: «Oh Dios, nunca he creído en Ti. Pensaba que toda creencia era un absurdo, y que el hombre debía creer solo en el hombre y en la ciencia. Ahora toda mi filosofía ha perdido su valor. Acepta mi arrepentimiento y, si consideras esta oración digna, sáname en el nombre de San Juan el Ruso».
+
+Al terminar su oración, alguien llamó a la puerta. Un joven médico entró en la habitación y le dijo: «¿Cómo estás, colega?». El médico enfermo respondió sin esperanza: «¿Qué puedo decir? Me estoy muriendo».
+
+Con voz tranquila, el joven médico respondió: «No, no morirás. Tomo tu enfermedad sobre mí».
+
+El médico enfermo se negó a creer lo que escuchaba e interrogó al joven, diciendo: «Llevo mucho tiempo ejerciendo. Sé lo que significa mi enfermedad. ¿Quién eres?». El joven médico respondió: «Soy a quien pediste ayuda», y luego abandonó la habitación.
+
+El médico enfermo lo siguió hasta el pasillo, pero ya no pudo verlo. Preguntó al personal, pero le respondieron que no había ingresado ningún médico con esas características, y sugirieron que estaba alucinando por el impacto del diagnóstico.
+
+Conmocionado, el médico enfermo tuvo la certeza de que el joven que lo había visitado era, de hecho, San Juan el Ruso, a quien había invocado en su oración.
+
+Exigió entonces someterse a una nueva serie de estudios, y el segundo examen demostró que estaba completamente curado de su enfermedad. Docenas de especialistas fueron convocados para observar el milagro evidenciado en las radiografías: la primera mostraba el cáncer y la segunda estaba completamente limpia.
+
+Múltiples milagros de esta naturaleza se han atribuido a San Juan el Ruso, quien continúa siendo invocado en las oraciones de los enfermos y de quienes padecen cáncer.`,
+		},
+		{
+		    name: "San Juan el Ruso y el Colapso de la Escuela",
+		    title: "El Milagro de la Escuela Griega en Capadocia",
+		    img: "Img/ColapsoEscuela.webp",
+			desc: `El siguiente milagro se describe en el Oficio compuesto en honor a San Juan el Ruso en 1897 por el hieromonje Dionisio, quien fue testigo presencial e incluso de primera mano como alumno de la Escuela Griega mencionada en Prokopi, Capadocia (actual Ürgüp, Turquía).
+
+En 1862, después de asistir a la Divina Liturgia en la cercana iglesia de San Basilio, una mujer ortodoxa relató a los cristianos que la noche anterior había soñado que San Juan el Ruso se había levantado de su ataúd y se había dirigido a la escuela vecina, donde, con sus propias manos, sostuvo el techo que se derrumbaba.
+
+Al terminar su relato, todos escucharon un tremendo estruendo y salieron corriendo para constatar que, efectivamente, el techo de la escuela se había derrumbado sobre el edificio. Esperando encontrar muertos a los veinte niños, los aldeanos desesperados acudieron a levantar las pesadas vigas del techo, pero, para su asombro, todos los niños salieron ilesos de entre los escombros.
+
+Los menores explicaron a los aldeanos que, segundos antes del colapso del techo, habían escuchado un terrible crujido y se ocultaron debajo de sus pupitres. Cuando el techo cayó, las vigas se apoyaron sobre los muebles, evitando que alguien resultara herido. Tras conocer el sueño de la mujer, todos tuvieron la certeza de que fue la intervención de San Juan el Ruso lo que salvó a los niños.`,
+		},
+		{
+		    name: "Santa Melangell",
+		    title: "La Ermitaña de Gales y el Refugio de Powys",
+		    images: [	
+            	        "Img/SantaMelangell.webp",
+            	        "Img/SantaMelangell2.webp",
+            	        "Img/SantaMelangell3.webp",
+            	        "Img/SantaMelangell4.webp",
+            	        "Img/SantaMelangell5.webp",
+
+		    ],
+			desc: `Hoy conmemoramos a Santa Melangell, la ermitaña de Gales.
+
+Santa Melangell fue una princesa irlandesa del siglo VII que dedicó su vida a la oración. Su padre, el rey Iowchel, dispuso que se casara en contra de su voluntad. Deseando preservar su castidad, huyó de Irlanda en el año 590 y se estableció en la zona rural de Montgomeryshire (actual Powys), en el norte de Gales. Allí vivió una vida de soledad y ascetismo, durmiendo sobre la roca desnuda y utilizando una cueva como celda.
+
+En el año 604, Brochwel Ysgithrog, príncipe de Powys y conde de Chester, se encontró con Melangell mientras cazaba, después de que una liebre perseguida por sus sabuesos se refugiara bajo el manto de la santa. Al ver esto, los sabuesos se detuvieron de inmediato. Brochwel intentó ordenarles que avanzaran, pero los perros se dieron la vuelta y huyeron.
+
+Asombrado por el hecho, Brochwel habló con la joven asceta. Profundamente conmovido por su piedad y determinación, le concedió tierras en el valle para que pudiera continuar su vida monástica entre las criaturas de la región.
+
+La noticia de su santidad se extendió por la región y otras mujeres se reunieron en torno a ella. Formaron una comunidad monástica dedicada a la oración y al cuidado de los pobres y necesitados. Santa Melangell guio esta comunidad durante los 37 años restantes de su vida, y con frecuencia se la veía rodeada de liebres.
+
+Tras su reposo, su tumba se convirtió en un lugar de curación y peregrinación, al que acudían personas desde grandes distancias para venerar sus reliquias. Los sucesores de Brochwel decretaron que el valle debía permanecer como un lugar de refugio y protección, donde ni siquiera los animales pequeños debían ser lastimados.
+
+Durante la Reforma, el santuario fue profanado y destruido. Sin embargo, los fieles locales ocultaron en secreto las reliquias de Santa Melangell. Siglos después, durante los trabajos de restauración de la iglesia en ruinas, se encontraron huesos pertenecientes a una mujer del siglo VII escondidos dentro de la estructura, los cuales se consideran las santas reliquias de la Santa.
+
+Su santuario fue reconstruido utilizando piedras de los alrededores de la iglesia, y el templo en Pennant Melangell volvió a convertirse en un lugar de peregrinación y oración. Hasta el día de hoy, Santa Melangell es honrada como la santa patrona de las liebres y los animales pequeños, a los cuales los cazadores locales tradicionalmente se niegan a lastimar en su memoria.`,
+		}
 	],					
 };
