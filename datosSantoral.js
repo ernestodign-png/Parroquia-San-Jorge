@@ -4374,5 +4374,32 @@ Durante la Reforma, el santuario fue profanado y destruido. Sin embargo, los fie
 
 Su santuario fue reconstruido utilizando piedras de los alrededores de la iglesia, y el templo en Pennant Melangell volvió a convertirse en un lugar de peregrinación y oración. Hasta el día de hoy, Santa Melangell es honrada como la santa patrona de las liebres y los animales pequeños, a los cuales los cazadores locales tradicionalmente se niegan a lastimar en su memoria.`,
 		}
+	],
+		"05-30": [ 
+		{
+		    name: "Santa Emelia de Cesarea",
+		    title: "La Madre de los Santos y el Modelo de Vida Ascética en el Ponto",
+		    images: [	
+            	        "Img/EmeliaCesarea.webp",
+            	        "Img/EmeliaCesarea2.webp",
+            	        "Img/EmeliaCesarea3.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a nuestra santa madre Santa Emelia de Cesarea. Por haber dado a luz a muchos santos de la Iglesia, incluyendo a San Basilio el Grande, es conocida como «la madre de los santos».
+
+Santa Emelia nació en Cesarea (actual Kayseri, Turquía) a principios del siglo IV, cuando el cristianismo crecía significativamente en Capadocia.
+
+Con su esposo, San Basilio el Viejo, tuvo 10 hijos. Al inculcar la piedad y el amor por la fe Ortodoxa en sus hijos, y enseñarles a dedicar sus vidas al servicio de la Iglesia, seis de ellos son conmemorados hoy como Santos: Basilio el Grande, Gregorio de Nisa, Macrina la Joven, Naucracio del Monte Nitria, Pedro de Sebaste y Teosebia la Diaconisa.
+
+Tras la muerte de su esposo y el repentino fallecimiento de su hijo Naucracio en 358, Emelia fue consolada por su hija mayor, Macrina, quien la persuadió de renunciar al mundo. Así, juntas se retiraron a su aislada propiedad familiar en el Ponto, no lejos del hogar en el desierto donde habitaba San Basilio.
+
+Muchas mujeres se unieron a Emelia y Macrina en la vida ascética, y formaron un pequeño convento. Todas las monjas allí vivían bajo un mismo techo y tenían todo en común: comían, trabajaban y oraban juntas por su salvación común. La armonía de esta comunidad modelo de mujeres no se vio empañada por la ira, los celos, el odio o el orgullo.
+
+Viviendo de esta manera piadosa durante muchos años, Santa Emelia alcanzó la vejez. Cuando una enfermedad señaló su partida de este mundo, su hijo Pedro acudió a su lado. Junto con Macrina, cuidó de su madre en sus últimos días. Como la mayor y el menor, Macrina y Pedro ocupaban un lugar especial en el corazón de Emelia.
+
+Santa Emelia reposó en 375 y fue enterrada, como había solicitado, junto a su esposo en la capilla de su propiedad en Annesi (en la actual Uluköy, Taşova, Turquía), donde también había sido sepultado San Naucracio. En sus manos sostiene un pergamino que dice: «Heme aquí, con los hijos que Dios me ha dado».
+
+El icono «Las Madres de los Tres Santos Jerarcas», muestra a Santa Emelia junto a Santa Antusa (madre de San Juan Crisóstomo) y Santa Nona (madre de San Gregorio el Teólogo).`,
+		}
 	],					
 };
