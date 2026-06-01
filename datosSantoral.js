@@ -4401,5 +4401,43 @@ Santa Emelia reposó en 375 y fue enterrada, como había solicitado, junto a su 
 
 El icono «Las Madres de los Tres Santos Jerarcas», muestra a Santa Emelia junto a Santa Antusa (madre de San Juan Crisóstomo) y Santa Nona (madre de San Gregorio el Teólogo).`,
 		}
+	],
+		"06-01": [ 
+		{
+		    name: "Lunes del Espíritu Santo",
+		    title: "El Consolador, la Tercera Persona de la Santísima Trinidad y Guía de la Iglesia",
+		    images: [	
+            	        "Img/LunesSanto.webp",
+            	        "Img/LunesSanto2.webp",
+		    ],
+			
+			desc: `Hoy, el día siguiente a la Santa Pentecostés, es el Lunes del Espíritu Santo. En este día honramos al Espíritu Vivificador, Omnipotente y Santísimo, la Tercera Persona de la Santísima Trinidad, que procede eternamente del Padre más allá de los límites del tiempo. Al compartir una misma esencia con el Padre y el Hijo, recibe una misma adoración y gloria junto a Ellos.
+
+Así como descendió sobre Cristo en forma de paloma durante Su bautismo en el río Jordán, el Espíritu Santo también descendió sobre los Apóstoles en Pentecostés en forma de lenguas de fuego, cumpliendo la promesa de Cristo de que rogaría al Padre para enviar el Consolador a Sus discípulos (Juan 14:16). Llenos del Espíritu Santo y habiendo recibido el don de hablar en lenguas, los Apóstoles comenzaron su misión de predicar a Cristo hasta los confines de la tierra (Hechos 1:8).
+
+Así, en el día de Pentecostés, la Iglesia recibió la presencia permanente del Espíritu Santo, quien continúa preservándola y guiándola «a toda la verdad» (Juan 16:13). El Espíritu Santo es llamado el Consolador porque, en Su amor por la humanidad, nos fortalece en nuestra debilidad, intercede ante Dios en nuestro favor (Romanos 8:26) y habita en todos los que están unidos a Cristo.
+
+En la iconografía ortodoxa, el Espíritu Santo se representa con la imagen de una paloma porque apareció de esta manera en el bautismo de Cristo. Sin embargo, así como el Hijo no es literalmente un cordero, a pesar de aparecer simbólicamente como tal en las Escrituras, el Espíritu Santo tampoco es una paloma por naturaleza. La paloma sirve como un signo visible de Su manifestación a la humanidad, mientras que Su verdadera esencia divina permanece invisible, incircunscripta y más allá de la comprensión humana.
+
+Oración al Espíritu Santo:
+
+«Rey Celestial, Consolador, Espíritu de verdad, que estás presente en todas partes y todo lo llenas, Tesoro de bienes y Dador de vida, ven y habita en nosotros; límpianos de toda mancha y salva nuestras almas, oh Bueno».`,
+		},
+		{
+		    name: "San Justino el Filósofo",
+		    title: "El Mártir, Apologista y Defensor de la Fe Cristiana",
+		    img:"Img/JustinoFilósofo.webp",
+			desc: `Hoy, el día siguiente a la Santa Pentecostés, es el Lunes del Espíritu Santo. En este día honramos al Espíritu Vivificador, Omnipotente y Santísimo, la Tercera Persona de la Santísima Trinidad, que procede eternamente del Padre más allá de los límites del tiempo. Al compartir una misma esencia con el Padre y el Hijo, recibe una misma adoración y gloria junto a Ellos.
+
+Así como descendió sobre Cristo en forma de paloma durante Su bautismo en el río Jordán, el Espíritu Santo también descendió sobre los Apóstoles en Pentecostés en forma de lenguas de fuego, cumpliendo la promesa de Cristo de que rogaría al Padre para enviar el Consolador a Sus discípulos (Juan 14:16). Llenos del Espíritu Santo y habiendo recibido el don de hablar en lenguas, los Apóstoles comenzaron su misión de predicar a Cristo hasta los confines de la tierra (Hechos 1:8).
+
+Así, en el día de Pentecostés, la Iglesia recibió la presencia permanente del Espíritu Santo, quien continúa preservándola y guiándola «a toda la verdad» (Juan 16:13). El Espíritu Santo es llamado el Consolador porque, en Su amor por la humanidad, nos fortalece en nuestra debilidad, intercede ante Dios en nuestro favor (Romanos 8:26) y habita en todos los que están unidos a Cristo.
+
+En la iconografía ortodoxa, el Espíritu Santo se representa con la imagen de una paloma porque apareció de esta manera en el bautismo de Cristo. Sin embargo, así como el Hijo no es literalmente un cordero, a pesar de aparecer simbólicamente como tal en las Escrituras, el Espíritu Santo tampoco es una paloma por naturaleza. La paloma sirve como un signo visible de Su manifestación a la humanidad, mientras que Su verdadera esencia divina permanece invisible, incircunscripta y más allá de la comprensión humana.
+
+Oración al Espíritu Santo:
+
+«Rey Celestial, Consolador, Espíritu de verdad, que estás presente en todas partes y todo lo llenas, Tesoro de bienes y Dador de vida, ven y habita en nosotros; límpianos de toda mancha y salva nuestras almas, oh Bueno».`,
+		}
 	],					
 };
