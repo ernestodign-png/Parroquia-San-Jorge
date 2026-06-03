@@ -4439,5 +4439,120 @@ Oración al Espíritu Santo:
 
 «Rey Celestial, Consolador, Espíritu de verdad, que estás presente en todas partes y todo lo llenas, Tesoro de bienes y Dador de vida, ven y habita en nosotros; límpianos de toda mancha y salva nuestras almas, oh Bueno».`,
 		}
+	],
+		"06-02": [ 
+		{
+		    name: "San Nicéforo el Confesor",
+		    title: "El Patriarca de Constantinopla y la Defensa de los Santos Iconos",
+		    img:"Img/NicéforoConfesor.webp",
+			desc: `Hoy conmemoramos a San Nicéforo el Confesor. Fue Patriarca de Constantinopla durante la Segunda Iconoclasia Bizantina y defendió valientemente la veneración de los santos iconos en oposición al emperador León V el Armenio.
+
+El Imperio Bizantino vivió dos períodos de iconoclasia (726-787 y 814-843) durante los cuales la veneración de iconos fue prohibida por las autoridades imperiales y respaldada por varios Patriarcas de Constantinopla. Esto estuvo acompañado por la destrucción de imágenes sagradas y la persecución de quienes defendían su veneración.
+
+San Nicéforo nació en el año 758. Su padre, Teodoro, era un iconódulo (defensor de los iconos) y secretario del emperador iconoclasta Constantino V. Tras oponerse a las políticas del emperador, Teodoro fue destituido de su cargo, torturado y exiliado. Así, Nicéforo creció con el ejemplo de la firme confesión de su padre ante sus ojos.
+
+Cuando Constantino VI (780-797) y la emperatriz Irene restauraron la veneración de los iconos, Nicéforo entró al servicio imperial y finalmente alcanzó el antiguo puesto de su padre. Se distinguió por su defensa de la Ortodoxia y sirvió como secretario en el Séptimo Concilio Ecuménico en 787, el cual afirmó la veneración de los santos iconos.
+
+Tras el reposo del Patriarca Tarasio en 806, Nicéforo fue elegido Patriarca de Constantinopla. En su consagración, sostuvo un tratado que había escrito en defensa de los santos iconos, comprometiéndose a preservar esta sagrada tradición.
+
+Sin embargo, en 813, León V el Armenio se convirtió en emperador y buscó revivir la iconoclasia. Intentó presionar a Nicéforo para que aprobara la retirada de los iconos, pero el Patriarca se negó firmemente. Después de que fracasaran varios intentos de asesinato contra San Nicéforo, fue depuesto por obispos iconoclastas y exiliado de Constantinopla por León en 815.
+
+San Nicéforo pasó el resto de su vida exiliado en el Monasterio de San Teodoro, donde reposó en este día del año 828. Tras el Triunfo de la Ortodoxia en 843, la santa Emperatriz Teodora ordenó el regreso de sus reliquias a Constantinopla.`,
+		},
+		{
+		    name: "San Constantino el Agareno",
+		    title: "El Nuevo Mártir y su Conversión a la Fe Ortodoxa",
+		    images: [	
+            	        "Img/ConstantinoAgareno.webp",
+            	        "Img/ConstantinoAgareno2.webp",
+            	        "Img/ConstantinoAgareno3.webp",
+		    ],			
+			desc: `Hoy, el día siguiente a la Santa Pentecostés, es el Lunes del Espíritu Santo. En este día honramos al Espíritu Vivificador, Omnipotente y Santísimo, la Tercera Persona de la Santísima Trinidad, que procede eternamente del Padre más allá de los límites del tiempo. Al compartir una misma esencia con el Padre y el Hijo, recibe una misma adoración y gloria junto a Ellos.
+
+Así como descendió sobre Cristo en forma de paloma durante Su bautismo en el río Jordán, el Espíritu Santo también descendió sobre los Apóstoles en Pentecostés en forma de lenguas de fuego, cumpliendo la promesa de Cristo de que rogaría al Padre para enviar el Consolador a Sus discípulos (Juan 14:16). Llenos del Espíritu Santo y habiendo recibido el don de hablar en lenguas, los Apóstoles comenzaron su misión de predicar a Cristo hasta los confines de la tierra (Hechos 1:8).
+
+Así, en el día de Pentecostés, la Iglesia recibió la presencia permanente del Espíritu Santo, quien continúa preservándola y guiándola «a toda la verdad» (Juan 16:13). El Espíritu Santo es llamado el Consolador porque, en Su amor por la humanidad, nos fortalece en nuestra debilidad, intercede ante Dios en nuestro favor (Romanos 8:26) y habita en todos los que están unidos a Cristo.
+
+En la iconografía ortodoxa, el Espíritu Santo se representa con la imagen de una paloma porque apareció de esta manera en el bautismo de Cristo. Sin embargo, así como el Hijo no es literalmente un cordero, a pesar de aparecer simbólicamente como tal en las Escrituras, el Espíritu Santo tampoco es una paloma por naturaleza. La paloma sirve como un signo visible de Su manifestación a la humanidad, mientras que Su verdadera esencia divina permanece invisible, incircunscripta y más allá de la comprensión humana.
+
+Oración al Espíritu Santo:
+
+«Rey Celestial, Consolador, Espíritu de verdad, que estás presenSan Constantino, cuyo nombre de nacimiento se desconoce, nació de padres musulmanes turcos en la isla de Mitilene. Su padre murió cuando él era joven, por lo que fue criado por su madre.
+
+A los 15 años, Constantino contrajo viruela y quedó ciego. Una piadosa mujer ortodoxa recibió permiso de su madre para llevarlo a una iglesia cercana, donde lo lavó con agua bendita, y fue sanado milagrosamente.
+
+Poco después, su madre volvió a casarse y se mudó a la ciudad de Magnesia en Asia Menor. Su padrastro, a pesar de ser musulmán, era un borracho que golpeaba a Constantino con regularidad, por lo que huyó con sus hermanos a Esmirna, donde abrieron un puesto de verduras.
+
+Al entregar productos en la sede del Metropolitano Calínico II, Constantino a menudo escuchaba las lecturas de las Sagradas Escrituras y, de manera lenta pero segura, su amor por Cristo comenzó a crecer.
+
+Su curiosidad lo llevó al Monte Athos, pero por ser musulmán, fue rechazado en muchos monasterios. Finalmente llegó a la skete de Kavsokalyva, donde conoció al futuro mártir y Patriarca Gregorio V, quien se convirtió en su padre espiritual. Convencido de su sinceridad, San Gregorio lo bautizó con el nombre de Constantino.
+
+Más tarde, Constantino regresó a Magnesia con la esperanza de compartir la alegría de Cristo con sus hermanos. Allí, un hombre musulmán que reconoció a Constantino lo hizo arrestar por apostasía y fue enviado ante el agá.
+
+El agá intentó persuadir a Constantino para que admitiera que era un musulmán que administraba un negocio de verduras en Esmirna, pero Constantino confesó: «Yo era musulmán, como ustedes, impíos y sin ley, pero me convertí en cristiano ortodoxo para ganar la vida eterna».
+
+Por esta respuesta, Constantino fue brutalmente golpeado y torturado, pero su fe no vaciló. Por lo tanto, el agá lo envió a Constantinopla para ser sentenciado. Mientras estaba en prisión, un sacerdote lo visitó (imagen 3) y, al ver su juventud, le dijo que podía organizar un rescate con los cristianos de Constantinopla para salvarlo.
+
+Deseoso de morir por el Señor, San Constantino rechazó la oferta del sacerdote, explicándole que la Theotokos se le había aparecido y le había predicho su recompensa eterna. Recibió su corona de martirio en la horca en este día del año 1819.`,
+		},
+		{
+		    name: "San Juan el Nuevo de Suceava",
+		    title: "El Gran Mártir y el Traslado de sus Reliquias Incorruptas",
+		    images: [	
+            	        "Img/JuanSuceava.webp",
+            	        "Img/JuanSuceava2.webp",
+            	        "Img/JuanSuceava3.webp",
+            	        "Img/JuanSuceava4.webp",
+            	        "Img/JuanSuceava5.webp",
+            	        "Img/JuanSuceava6.webp",
+            	        "Img/JuanSuceava7.webp",
+		    ],
+			desc: `Hoy también conmemoramos al Gran Mártir San Juan el Nuevo de Suceava.
+
+San Juan nació en el año 1300 en Trebisonda, Asia Menor, de padres ortodoxos devotos. Era un comerciante conocido por su piedad, su fe inquebrantable y su generosidad con los pobres.
+
+Mientras navegaba por el Mar Negro en un viaje comercial hacia Cetatea Alba en Moldavia (actual Bilhorod-Dnistrovskyi, Ucrania), discutía frecuentemente sobre la fe cristiana con un comerciante veneciano llamado Reiz. Incapaz de refutar los argumentos de Juan, Reiz buscó vengarse.
+
+Al llegar a la ciudad, Reiz acusó a Juan de querer abandonar el cristianismo y abrazar el islam. Dado que Cetatea Alba estaba bajo el dominio de los tártaros musulmanes, Juan fue llevado ante el gobernador e interrogado. Declaró con firmeza que nunca negaría a Cristo ni abandonaría la verdadera Fe.
+
+Enviado a prisión encadenado, fue llevado nuevamente ante el gobernador, quien le ordenó renunciar a Cristo o enfrentarse a la tortura. El Santo oró en secreto, y el Espíritu Santo le otorgó la fuerza para confesar a Cristo y denunciar al gobernador como un instrumento de Satanás.
+
+El gobernador, enfurecido, ordenó que Juan fuera golpeado sin piedad con varas hasta que su cuerpo quedó desgarrado y cubierto de heridas. Sin embargo, soportó todo con paciencia, dando gracias a Dios por ser considerado digno de sufrir por Cristo.
+
+Finalmente, el gobernador ordenó que el Santo fuera atado a la cola de un caballo y arrastrado por las calles de la ciudad, incluyendo el barrio judío, donde los residentes se burlaron de él y le arrojaron piedras. Por último, uno de sus verdugos le cortó la cabeza con una espada, y así el santo Mártir reposó en el año 1330.
+
+Esa noche, apareció una columna de luz sobre su cuerpo. Los testigos vieron lámparas celestiales ardiendo y a tres hombres resplandecientes incensando al Santo mientras cantaban salmos. Uno de los judíos intentó dispararles una flecha, pero fue retenido por el poder invisible de Dios.
+
+El arquero quedó anclado al suelo hasta que confesó su visión al pueblo, tras lo cual fue liberado de sus ataduras invisibles. Cuando el gobernante se enteró de este milagro, permitió a los cristianos enterrar al santo Mártir.
+
+Sus reliquias se conservan en el «Monasterio de San Juan el Nuevo» en Suceava, Rumania.
+
+Durante años, las reliquias del Santo se conservaron en Cetatea Alba, donde se hicieron famosas por curaciones y otros milagros. Eventualmente, el príncipe Alejandro el Bueno de Moldavia se enteró de las reliquias del Mártir y, a instancias del Metropolitano José Mușat de Moldavia, dispuso su traslado a su capital, Suceava, el 24 de junio de 1402. Las reliquias incorruptas de San Juan se conservan en el monasterio que lleva su nombre en esa ciudad hasta el día de hoy.`,
+		}
+	],
+		"06-03": [ 
+		{
+		    name: "San Kevin de Glendalough",
+		    title: "El Asceta de Irlanda y la Fundación del Monasterio de Glendalough",
+		    images: [	
+            	        "Img/KevinGlendalough.webp",
+            	        "Img/KevinGlendalough2.webp",
+            	        "Img/KevinGlendalough3.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a nuestro venerable padre San Kevin de Glendalough, uno de los grandes santos de Irlanda.
+
+San Kevin nació en el año 498 en Leinster, Irlanda, en el seno de una familia cristiana noble y piadosa. Desde su juventud mostró un profundo amor por Dios y fue confiado a santos maestros que lo instruyeron en las Sagradas Escrituras y en la vida espiritual. Deseando dedicarse por completo a Cristo, abrazó la vida monástica y buscó la soledad en el yermo.
+
+Tras ser ordenado sacerdote, San Kevin se retiró a las escarpadas montañas de Glendalough. Allí pasó muchos años como ermitaño, habitando en una pequeña cueva hoy conocida como la Cama de San Kevin (imagen 3). A través de la oración, el ayuno y la abnegación, alcanzó una gran perfección espiritual y se convirtió en un vaso de la gracia divina.
+
+Una de sus proezas ascéticas más intensas consistía en permanecer sumergido hasta el cuello en las aguas heladas del Lago Superior de Glendalough para orar. En una ocasión, su libro de oraciones cayó al agua, y una nutria apareció desde el fondo del lago y le devolvió el libro intacto y sin manchas en su boca. Desde entonces, la nutria también le llevaba pescado a San Kevin, quien se alimentaba de esto y de hierbas silvestres.
+
+Uno de los relatos más conocidos indica cómo, mientras San Kevin oraba de pie con los brazos extendidos, un mirlo construyó un nido en su mano. En lugar de perturbar al ave, permaneció inmóvil hasta que los huevos eclosionaron y los polluelos volaron, demostrando su paciencia y notable armonía con la creación de Dios.
+
+A medida que la noticia de su santidad se extendía por Irlanda, muchos discípulos se reunieron en torno a él buscando guía espiritual. Aunque había deseado una vida de soledad, San Kevin aceptó esto como la voluntad de Dios y estableció el gran monasterio de Glendalough (imágenes 4/5/6). Bajo su liderazgo, se convirtió en uno de los centros espirituales más importantes de Irlanda, atrayendo a monjes, peregrinos y a aquellos que buscaban instrucción en la fe cristiana.
+
+San Kevin reposó en paz en este día del año 618, habiendo vivido 120 años. Su monasterio continuó floreciendo durante siglos después de su reposo, y su memoria es venerada en toda Irlanda.`,
+		}
 	],					
 };
