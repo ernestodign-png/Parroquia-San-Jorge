@@ -4554,5 +4554,32 @@ A medida que la noticia de su santidad se extendía por Irlanda, muchos discípu
 
 San Kevin reposó en paz en este día del año 618, habiendo vivido 120 años. Su monasterio continuó floreciendo durante siglos después de su reposo, y su memoria es venerada en toda Irlanda.`,
 		}
+	],
+		"06-04": [ 
+		{
+		    name: "Santas Marta y María de Betania",
+		    title: "Las Miróforas, Hermanas de Lázaro y la Hospitalidad a Cristo",
+		    images: [	
+            	        "Img/MartaMaría.webp",
+            	        "Img/MartaMaría2.webp",
+		    ],
+			desc: `Hoy conmemoramos a las Santas Miróforas Marta y María, hermanas de Lázaro. Ellas ofrecieron hospitalidad a Cristo y a Sus discípulos en su casa en Betania, cerca de Jerusalén.
+
+Cuando Jesús las visitó (Lucas 10:38-42), María se sentó a Sus pies y escuchó Su enseñanza, mientras Marta se ocupaba de servir a los invitados. Ante la queja de Marta porque su hermana no la ayudaba, el Señor respondió: «Marta, Marta, afanada y turbada estás con muchas cosas. Pero solo una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada».
+
+Mientras Él se encontraba en el desierto más allá del Jordán, las hermanas le enviaron a decir que Lázaro estaba enfermo. Jesús permaneció allí dos días más y luego dijo a Sus discípulos: «Vamos a Judea», para despertar a Lázaro.
+
+A la llegada de Jesús, Marta se lamentó afirmando que Lázaro no habría muerto si Él hubiera estado allí. Jesús le aseguró que Lázaro resucitaría, declarando: «Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. ¿Crees esto?». Marta respondió: «Sí, Señor; yo he creído que tú eres el Cristo, el Hijo de Dios».
+
+María se acercó y se postró a los pies de Jesús, llorando por su hermano. Ante este hecho, y manifestando la plenitud de la naturaleza humana que había asumido, Cristo «se conmovió en espíritu y se turbó». Llevado al sepulcro, exclamó: «¡Lázaro, ven fuera!», y Lázaro salió vivo.
+
+Posteriormente, Jesús recibió nuevamente la hospitalidad de las hermanas, y María ungió Sus pies con un perfume costoso, secándolos con sus cabellos. Judas criticó este acto argumentando que el perfume podría haberse vendido y el dinero dado a los pobres, pero Jesús la defendió (Juan 12:1-8).
+
+Después de la crucifixión de Cristo, las Santas Marta y María figuraron entre las Mujeres Miróforas que acudieron a ungir Su cuerpo con aceites fragantes y especias el día de Su Resurrección.
+
+A raíz de la resurrección de Lázaro, muchos judíos creyeron en Cristo, por lo que los principales sacerdotes conspiraron para dar muerte a Lázaro (Juan 12:10-11). Por este motivo, huyó con sus hermanas a Chipre y se convirtió en el primer obispo de la isla. Los tres reposaron allí.
+
+La representación particular de Santa Marta con un dragón proviene de una tradición occidental. Tras huir de Jerusalén, y antes de su llegada a Chipre, los hermanos arribaron a Provenza (sur de la Galia). En la región de Tarascón, se relata que Santa Marta encontró una bestia similar a un dragón que aterrorizaba la zona. A diferencia de quienes intentaron destruir a la criatura con armas, Marta se acercó portando una cruz y agua bendita, y la sometió mediante la oración y el poder de Cristo. Una vez domada, los habitantes mataron a la bestia, aunque el propósito de Marta era únicamente apaciguarla. Luego predicó a Cristo en ese lugar, llevando a muchos a la Verdadera Fe.`,
+		}
 	],					
 };
