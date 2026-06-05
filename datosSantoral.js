@@ -4581,5 +4581,21 @@ A raíz de la resurrección de Lázaro, muchos judíos creyeron en Cristo, por l
 
 La representación particular de Santa Marta con un dragón proviene de una tradición occidental. Tras huir de Jerusalén, y antes de su llegada a Chipre, los hermanos arribaron a Provenza (sur de la Galia). En la región de Tarascón, se relata que Santa Marta encontró una bestia similar a un dragón que aterrorizaba la zona. A diferencia de quienes intentaron destruir a la criatura con armas, Marta se acercó portando una cruz y agua bendita, y la sometió mediante la oración y el poder de Cristo. Una vez domada, los habitantes mataron a la bestia, aunque el propósito de Marta era únicamente apaciguarla. Luego predicó a Cristo en ese lugar, llevando a muchos a la Verdadera Fe.`,
 		}
+	],
+		"06-05": [ 
+		{
+		    name: "San Doroteo de Tiro",
+		    title: "El Hieromártir y Obispo de Tiro",
+		    img:"Img/DoroteoTiro.webp",
+			desc: `Hoy conmemoramos a San Doroteo, Hieromártir y Obispo de Tiro.
+
+San Doroteo nació alrededor del año 255 d.C. Poseedor de un profundo conocimiento de las Sagradas Escrituras, fue ordenado obispo de la ciudad fenicia de Tiro (en el actual Líbano) durante la persecución a los cristianos bajo el emperador romano Diocleciano (284–305).
+
+Atendiendo a las palabras del Evangelio: «Cuando os persigan en esta ciudad, huid a la otra» (Mateo 10:23), se retiró de Tiro y encontró refugio en Odessópolis (hoy Varna, Bulgaria), a orillas del Mar Negro en Tracia. Cuando el santo emperador Constantino puso fin a las persecuciones y concedió libertad a la Iglesia, San Doroteo regresó a Tiro y reanudó el pastoreo de su rebaño. Posteriormente, participó en el Primer Concilio Ecuménico de Nicea en el 325 d.C., donde se defendió la Fe Ortodoxa contra la herejía arriana.
+
+Cuando el emperador Juliano el Apóstata renovó la persecución de los cristianos durante su reinado (361–363 d.C.), San Doroteo ya tenía más de cien años. Una vez más huyó a Odessópolis en Tracia, con la esperanza de escapar de los perseguidores. Sin embargo, fue descubierto y arrestado por los oficiales de Juliano. Tras soportar múltiples torturas y golpes por causa de Cristo, San Doroteo entregó su alma al Señor en el 362 d.C., recibiendo la corona del martirio a la edad aproximada de 107 años.
+
+Tradicionalmente se ha atribuido a San Doroteo una obra conocida como la Sinopsis, que contiene relatos de los santos profetas, los Doce Apóstoles y los Setenta Apóstoles. Sin embargo, muchos eruditos modernos cuestionan esta atribución, sugiriendo que la obra fue compilada de manera posterior o basada solo parcialmente en material asociado a él.`,
+		}
 	],					
 };
