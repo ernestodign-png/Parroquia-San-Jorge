@@ -4597,5 +4597,27 @@ Cuando el emperador Juliano el Apóstata renovó la persecución de los cristian
 
 Tradicionalmente se ha atribuido a San Doroteo una obra conocida como la Sinopsis, que contiene relatos de los santos profetas, los Doce Apóstoles y los Setenta Apóstoles. Sin embargo, muchos eruditos modernos cuestionan esta atribución, sugiriendo que la obra fue compilada de manera posterior o basada solo parcialmente en material asociado a él.`,
 		}
+	],
+		"06-09": [ 
+		{
+		    name: "San Cirilo de Alejandría",
+		    title: "El Patriarca de Alejandría y la Lucha contra el Nestorianismo",
+		    img:"Img/CiriloAlejandría.webp",
+			desc: `Hoy también conmemoramos a San Cirilo, el Patriarca de Alejandría.
+
+San Cirilo nació en Egipto en el año 376. Tras pasar 6 años en un monasterio en el desierto de Nitria, fue ordenado sacerdote en el 403 por su tío Teófilo, el Patriarca de Alejandría. En el 412, Cirilo sucedió a su tío como Patriarca tras su muerte.
+
+Cirilo lideró la lucha contra la herejía novaciana, la cual enseñaba que los cristianos que se habían apartado de la Iglesia durante las persecuciones romanas no podían ser recibidos de nuevo en ella. Luego surgió una lucha más urgente: la herejía del nestorianismo.
+
+Nestorio era un sacerdote antioqueno que enfatizaba radicalmente la distinción entre las naturalezas divina y humana de Cristo, dividiendo efectivamente a Cristo en dos personas: una divina y una humana. Esto entraba en conflicto con la enseñanza ortodoxa de que Cristo es una sola Persona (Hipóstasis) en dos naturalezas —divina y humana— unidas sin confusión, sin cambio, sin división y sin separación.
+
+Nestorio rechazó expresiones como «Dios sufrió» o «Dios fue crucificado», afirmando que solo el hombre Jesús podía sufrir, y no el Logos Divino. También rechazó el término Theotokos («Portadora de Dios») para la Virgen María, proponiendo en su lugar el término Christotokos («Portadora de Cristo»), ya que afirmaba que ella dio a luz solo al hombre Jesús y no a Dios el Verbo.
+
+Mientras que Nestorio veía a Cristo principalmente como un ejemplo moral para los fieles, Cirilo enfatizó la verdad fundamental de que Él era Dios encarnado, quien verdaderamente caminó entre nosotros, sufrió en la carne y murió para nuestra salvación. Cirilo argumentó que Cristo no era simplemente un hombre perfecto habitado por el Logos, como creían los nestorianos, sino que era el Logos Divino mismo.
+
+En el año 428, Nestorio se convirtió en Patriarca de Constantinopla y difundió su herejía a pesar de las repetidas advertencias de San Cirilo. En 431, se convocó el Concilio de Éfeso para abordar esta controversia cristológica.
+
+Como un enérgico oponente de Nestorio en el concilio, San Cirilo lo acusó de socavar la unidad de la Persona de Cristo y defendió vigorosamente el uso del término Theotokos. El concilio finalmente respaldó la enseñanza de San Cirilo y depuso a Nestorio. San Cirilo reposó en Alejandría en el 444.`,
+		}
 	],					
 };
