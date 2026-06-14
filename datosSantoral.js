@@ -4619,5 +4619,55 @@ En el año 428, Nestorio se convirtió en Patriarca de Constantinopla y difundi�
 
 Como un enérgico oponente de Nestorio en el concilio, San Cirilo lo acusó de socavar la unidad de la Persona de Cristo y defendió vigorosamente el uso del término Theotokos. El concilio finalmente respaldó la enseñanza de San Cirilo y depuso a Nestorio. San Cirilo reposó en Alejandría en el 444.`,
 		}
+	],
+		"06-14": [ 
+		{
+		    name: "Sinaxis de Todos los Santos del Monte Athos",
+		    title: "El Corazón Espiritual del Monacato Ortodoxo y el Jardín de la Theotokos",
+		    images: [	
+            	        "Img/MonteAthos.webp",
+            	        "Img/MonteAthos2.webp",
+            	        "Img/MonteAthos3.webp",
+            	        "Img/MonteAthos4.webp",
+		    ],
+			desc: `Hoy, el domingo posterior a la fiesta de Todos los Santos, conmemoramos la Sinaxis de Todos los Santos y Padres que han resplandecido en el Monte Athos.
+
+La región autónoma del Monte Athos, situada en el norte de Grecia, en la península más oriental de Calcídica, ha servido durante más de un milenio como el corazón espiritual del monacato ortodoxo. Su población, de aproximadamente 2000 monjes, reside en los 20 monasterios y sus dependencias. Aunque la mayoría de ellos son griegos, también existen monasterios, sketes y ermitas serbios, rusos, búlgaros y rumanos.
+
+El Monte Athos, como centro monástico, fue fundado formalmente en el año 963 cuando San Atanasio el Athonita (representado en el centro del icono) estableció el monasterio de la Gran Laura, el cual sigue siendo el monasterio más grande de la península hasta el día de hoy.
+
+Según la tradición, en el siglo I, mientras la Madre de Dios viajaba con San Juan el Teólogo para visitar a Lázaro en Chipre, se desató una feroz tormenta y el barco se desvió de su rumbo. Obligada a anclar en las costas del Athos, la Theotokos quedó sobrecogida por la belleza natural y salvaje de la montaña, por lo que pidió a su Hijo que se la concediera como su jardín. Entonces se escuchó una voz que decía: «Que este lugar sea tu herencia y tu jardín, un paraíso y un refugio de salvación para aquellos que buscan ser salvos».
+
+Por este motivo, el Monte Athos también es conocido como el «Jardín de la Theotokos». Para consagrar plenamente la península a la Santísima Madre de Dios, se ha prohibido a las mujeres pisar el Monte Athos durante más de 1000 años. De este modo, los monjes pueden evitar con mayor eficacia las pasiones mundanas que, de otro modo, podrían distraerlos de su búsqueda de Dios a través del celibato, la castidad, el ascetismo y la oración ininterrumpida.
+
+El Monte Athos sigue siendo hasta hoy un campo de batalla sagrado para la guerra espiritual. Es un escenario del hesicasmo, donde los monjes luchan diariamente contra las pasiones, las tentaciones y las influencias demoníacas para alcanzar la pureza de corazón, la humildad y la unión con Dios. La victoria no se mide aquí en términos terrenales, sino en la adquisición del Espíritu Santo y la transformación a semejanza de Cristo.`,
+		},
+		{
+		    name: "El Santo Profeta Eliseo",
+		    title: "El Sucesor de Elías y sus Milagros en Israel",
+		    images: [	
+            	        "Img/ProfetaEliseo.webp",
+            	        "Img/ProfetaEliseo2.webp",
+		    ],
+			desc: `Hoy conmemoramos al Santo Profeta Eliseo. Vivió en el siglo IX a.C. y fue llamado al servicio profético por el Profeta Elías por mandato del Señor.
+
+Cuando llegó el momento de que Elías fuera llevado al cielo, le preguntó a Eliseo: «Pide lo que quieras que haga por ti, antes que yo sea quitado de ti». Eliseo respondió con audacia: «Te ruego que una doble porción de tu espíritu sea sobre mí». Elías respondió: «Cosa difícil has pedido. Si me vieres cuando fuere quitado de ti, te será hecho así» (2 Reyes 2:9-10).
+
+Mientras Elías era llevado en un torbellino por un carro de fuego con caballos de fuego, Eliseo clamó: «¡Padre mío, padre mío, carro de Israel y su caballería!» (2 Reyes 2:12). Al tomar el manto de su maestro que había caído del cielo, Eliseo heredó los dones proféticos de Elías. Con este manto, Eliseo golpeó las aguas del Jordán y dijo: «¿Dónde está el Señor, el Dios de Elías?», tras lo cual el río se dividió y Eliseo pudo cruzar (2 Reyes 2:14).
+
+Eliseo pasó 65 años en el servicio profético bajo seis reyes de Israel, sin vacilar nunca en su lealtad al Único Dios Verdadero.
+
+Realizó numerosos milagros, entre ellos: purificar las aguas de un manantial en Jericó para hacerlas potables para el pueblo, salvar a los ejércitos de los reyes de Israel y Judá al hacer brotar abundante agua mediante su oración, y salvar a una viuda pobre y hambrienta al hacer multiplicar el aceite en una vasija, el cual pudo vender para pagar sus deudas.
+
+En un relato más severo, cuando un grupo de jóvenes de Betel se burló de Eliseo por su calvicie, él los maldijo en el nombre de Dios, y dos osas salieron del bosque y despedazaron a 42 de los jóvenes (2 Reyes 2:23-24).
+
+En otra ocasión, Eliseo preguntó a una mujer sunamita cómo podía recompensarla por la hospitalidad que le había brindado, y la mujer respondió que lo único que le faltaba era un hijo. Por las oraciones de Eliseo, fue bendecida con el nacimiento de un varón. Cuando este niño murió repentinamente, Eliseo oró nuevamente al Señor y lo resucitó (2 Reyes 4:32-35).
+
+Después del reposo del Santo Profeta Eliseo, el cadáver de otro hombre fue arrojado en su tumba. Tan pronto como el muerto tocó los huesos de Eliseo, revivió y se puso en pie (2 Reyes 13:20-21).
+
+El pergamino que sostiene el Profeta Eliseo lleva las palabras que pronunció ante el rey Joram de Israel. Tras reprender al rey idólatra por descarriar a Israel, Eliseo proclamó su devoción inquebrantable a Dios:
+
+«Vive el Señor de los ejércitos, en cuya presencia estoy» (2 Reyes 3:14).`,
+		}
 	],					
 };
