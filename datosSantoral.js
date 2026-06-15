@@ -4669,5 +4669,101 @@ El pergamino que sostiene el Profeta Eliseo lleva las palabras que pronunció an
 
 «Vive el Señor de los ejércitos, en cuya presencia estoy» (2 Reyes 3:14).`,
 		}
+	],
+		"06-15": [ 
+		{
+		    name: "San Jerónimo de Estridón",
+		    title: "El Padre de la Iglesia Occidental, Asceta y Traductor de la Vulgata",
+		    images: [	
+            	        "Img/JerónimoEstridón.webp",
+            	        "Img/JerónimoEstridón2.webp",
+            	        "Img/JerónimoEstridón3.webp",
+		    ],
+			desc: `Hoy también conmemoramos a San Jerónimo de Estridón, uno de los Padres más influyentes de la Iglesia Occidental.
+
+San Jerónimo nació alrededor del año 340 d.C. en la ciudad de Estridón, ubicada en la frontera entre Dalmacia y Panonia. Nacido en el seno de una familia cristiana, fue enviado a Roma para estudiar retórica, filosofía y ciencias seculares. Aunque en su juventud se sintió atraído por las pasiones mundanas, finalmente resolvió dedicar su vida a Dios y recibió el Santo Bautismo a los 20 años.
+
+Tras concluir sus estudios, Jerónimo viajó por la Galia y Oriente. Mientras se encontraba en Antioquía, una grave enfermedad y un despertar espiritual lo llevaron a entregarse por completo a Cristo. En busca de una vida de lucha ascética, se retiró al desierto de Calcis, cerca de Antioquía, donde pasó varios años dedicado a la oración, el ayuno y el estudio de las Sagradas Escrituras. Allí también comenzó a aprender hebreo y griego.
+
+De regreso en Antioquía, San Jerónimo fue ordenado sacerdote por el obispo Paulino. Más tarde viajó a Constantinopla, donde estudió bajo la guía de San Gregorio el Teólogo y trabó amistad con San Gregorio de Nisa. En el año 382 viajó a Roma y se desempeñó como secretario del Papa Dámaso, ganándose la reputación de erudito talentoso y ferviente defensor de la Fe Ortodoxa.
+
+Tras la muerte del Papa Dámaso I, la creciente oposición obligó a Jerónimo a abandonar Roma. Después de visitar a los santos ascetas de Egipto, se estableció en Belén, cerca de la cueva de la Natividad de Cristo. Allí pasó el resto de su vida en oración, labor ascética, escritura y en la contemplación intensa de la Pasión de Cristo.
+
+La mayor contribución de San Jerónimo a la Iglesia fue su traducción de las Sagradas Escrituras al latín, obra que posteriormente fue conocida como la Vulgata. También redactó numerosos comentarios bíblicos, obras teológicas y epístolas, defendiendo inquebrantablemente la Fe Ortodoxa contra las herejías de su tiempo.
+
+Tras soportar múltiples tribulaciones, incluyendo el saqueo de su amada Roma por los godos en el año 410, así como las invasiones en Belén por parte de tribus árabes beduinas en el 411, San Jerónimo reposó en Belén en el año 420.
+
+San Jerónimo es frecuentemente representado junto a un león, en memoria de la tradición que indica que domó a la bestia después de extraerle una espina de la pata.
+
+Asimismo, suele ser representado con una piedra en la mano. Según la tradición, cuando el Santo, de temperamento ardiente, se retiró al desierto sirio para purificar su alma, utilizaba la roca para golpearse el pecho como un recordatorio físico de su indignidad y para sofocar sus pensamientos pecaminosos.`,
+		},
+		{
+		    name: "San Agustín de Hipona",
+		    title: "El Obispo de Hipona y Padre de la Iglesia Occidental",
+		    img: "Img/AgustínHipona.webp",
+			desc: `Hoy también conmemoramos a San Agustín, el Obispo de Hipona en el norte de África y uno de los Padres occidentales más reconocidos de la Iglesia primitiva.
+
+San Agustín nació en el año 354 d.C. en Tagaste (hoy Souk Ahras, Argelia). Su vida temprana estuvo marcada por la ambición intelectual, una vida pasional y el deambular espiritual. Llevando un estilo de vida hedonista, Agustín en su juventud se asoció con jóvenes que cometían robos y se jactaban de sus hazañas sexuales.
+
+Aunque su devota y piadosa madre, Santa Mónica, oraba fervientemente por su conversión a Cristo, Agustín, durante su educación en Cartago, se interesó por la filosofía y, por un tiempo, se convirtió en seguidor de la herejía maniquea. A los 30 años, Agustín no solo ardía en las pasiones de la carne, sino que también había tenido un hijo con una concubina.
+
+La dramática conversión de Agustín a Cristo ocurrió en el año 386 en Milán, y fue influenciada en gran medida por San Ambrosio, el Obispo de Milán, cuya elocuente predicación y sabiduría espiritual lo conmovieron profundamente. Arrepentido de su vida pecaminosa, Agustín fue bautizado en el 387 y regresó al norte de África, donde fundó una comunidad monástica en la propiedad de su familia en Tagaste.
+
+Agustín fue ordenado sacerdote en el 391 y consagrado Obispo de Hipona (actual Annaba, Argelia) en el 395. Como obispo, combatió las herejías que amenazaban la unidad de la Iglesia, incluyendo el donatismo, el pelagianismo y el arrianismo. Sus escritos más famosos incluyen su autobiografía espiritual sobre su camino hacia Dios, titulada «Confesiones», y «La Ciudad de Dios», que contrasta la ciudad terrenal construida sobre el orgullo con la ciudad celestial edificada sobre el amor.
+
+Venerado por su santidad, profundo arrepentimiento y sincero amor a Cristo, San Agustín reposó en el año 430 durante el asedio de la ciudad por los vándalos (una tribu germánica arriana).
+
+Aunque ciertas opiniones teológicas presentes en algunos de sus escritos —particularmente las relativas al pecado original y la predestinación— no fueron universalmente aceptadas dentro de la tradición ortodoxa, la Iglesia lo venera por su vida santa y sus profundas contribuciones al pensamiento cristiano, especialmente por sus enseñanzas sobre la gracia, el libre albedrío, el arrepentimiento y el amor a Dios.`,
+		},
+		{
+		    name: "San Lázaro de Serbia",
+		    title: "El Gran Mártir, Príncipe de Serbia y la Batalla de Kosovo",
+		    images: [	
+            	        "Img/LázaroSerbia.webp",
+            	        "Img/LázaroSerbia2.webp",
+            	        "Img/LázaroSerbia3.webp",
+		    ],
+			desc: `Hoy también conmemoramos a San Lázaro, el Gran Mártir y Príncipe de Serbia que fue martirizado en 1389 durante la Batalla de Kosovo.
+
+San Lázaro nació en 1329 en el seno de una familia imperial en Prilepac, y fue educado en la corte del emperador Dušan en Prizren. Eventualmente, fue elevado al alto título de «Príncipe» por el emperador Esteban Uroš V. Tras la muerte del emperador en 1371, Lázaro se convirtió en el gobernante de Serbia.
+
+Durante su reinado, San Lázaro fue un gran pilar de la Iglesia Ortodoxa Serbia. Convocó un sínodo que eligió al nuevo patriarca, San Efrén, y envió una delegación a Constantinopla para sanar el Cisma entre Serbia y Constantinopla del año 1352. En 1375, se restauró la plena comunión.
+
+San Lázaro restauró los monasterios de Hilandar en el Monte Athos y Gornjak en Petrovac. También construyó el monasterio de Ravanica en Ćuprija, el monasterio de Lazarica en Kruševac, y fue benefactor del monasterio ruso de San Pantaleón en el Monte Athos, además de muchos otros.
+
+A medida que los otomanos realizaban incursiones más profundas en Europa, San Lázaro lideró un ejército en la Batalla de Kosovo. La noche anterior al combate, fue visitado por un ángel que le ofreció elegir entre heredar un reino terrenal o uno celestial, una elección que decidiría el resultado de la batalla. San Lázaro optó por el Reino Celestial.
+
+Durante la batalla, San Lázaro fue capturado y decapitado por orden del sultán otomano Bayezid, recibiendo su corona de martirio en este día del año 1389. Sus últimas palabras a sus soldados mientras los lideraba a la batalla fueron: «Morimos con Cristo, para vivir para siempre».
+
+En el segundo icono se observa la Batalla de Kosovo entre el ejército serbio (izquierda) y el ejército otomano (derecha). Los mártires serbios ascienden por la escalera al cielo liderados por San Lázaro, quien es recibido en la cima por San Sava, el fundador y primer Arzobispo de la Iglesia Ortodoxa Serbia Autocéfala.
+
+Las reliquias de San Lázaro se conservan en el Monasterio de Ravanica. El 28 de junio se observa un día festivo en Serbia en memoria de San Lázaro y los santos mártires de la Batalla de Kosovo, un evento que sigue siendo profundamente significativo para la identidad nacional serbia y la fe ortodoxa.	`,
+		},
+		{
+		    name: "El Santo Profeta Amós",
+		    title: "El Primer Profeta Escritor y la Plomada de la Justicia Divina",
+		    img:"Img/ProfetaAmós.webp",
+			desc: `Hoy también conmemoramos al Santo Profeta Amós. Vivió durante el siglo VIII a.C. y es el autor del Libro de Amós.
+
+En aquella época, la nación hebrea estaba dividida en dos reinos: Judá en el sur, gobernado por el rey Uzías, e Israel en el norte, gobernado por el rey Jeroboam II. Jeroboam era idólatra y había erigido un becerro de oro en Betel, al cual el pueblo ofrecía sacrificios.
+
+El Profeta Amós era de Judá y nació en Tecoa, cerca de Belén. Sencillo y sin educación académica, pero celoso en su fe en el Único Dios Verdadero, este antiguo pastor y cultivador de sicómoros (Amós 7:14-15) fue elegido por el Señor para el servicio profético.
+
+Fue llamado a predicar en Betel, donde existía un santuario real, y a proclamar la inminente caída de la dinastía gobernante y del reino del norte debido a su apostasía e idolatría. Después de que el sumo sacerdote Amasías lo denunciara ante el rey Jeroboam II, se ordenó a Amós que abandonara el reino y se le impidió proclamar su mensaje públicamente.
+
+Por lo tanto, Amós puso por escrito sus profecías para que se conservaran para las generaciones futuras. De este modo, se convirtió en el primero de los profetas escritores, siendo el primer profeta en registrar y preservar una colección de sus propios oráculos como un libro profético estructurado.
+
+Amós reprendió sin temor al rey Jeroboam y a los sacerdotes de Betel por su idolatría, llamando al pueblo a apartarse de la adoración de los becerros de oro y a regresar a la adoración del Dios Vivo. También condenó la opresión de los pobres y la corrupción de los poderosos. Por esta razón, el sacerdote Amasías llegó a odiar a Amós.
+
+Amós profetizó que los asirios conquistarían Israel, que el rey y los hijos de Amasías perecerían, y que la esposa de Amasías sería deshonrada porque él había conducido al pueblo al adulterio espiritual mediante la adoración de ídolos. Enfurecido, Amasías mandó golpear a Amós, pero estas profecías se cumplieron con exactitud.
+
+Oseas, hijo de Amasías, golpeó al Profeta en la cabeza con un garrote y lo hirió mortalmente. Aún con vida, Amós logró regresar a su pueblo natal de Tecoa en Judá, donde reposó dos días después, alrededor del año 745 a.C.
+
+En este icono, se observa el momento en que el Santo Profeta Amós fue llamado por el Señor para comenzar su ministerio profético (Amós 7:14-15): «Me tomó el Señor de tras el ganado, y me dijo el Señor: Ve y profetiza a mi pueblo Israel». Al fondo, se aprecia la ciudad de Betel, donde Amós confrontó valientemente a los idólatras y llamó al pueblo a volver a la adoración del Único Dios Verdadero.
+
+En su mano izquierda sostiene una plomada, en referencia a Amós 7:7-8: «Me enseñó así: He aquí el Señor estaba sobre un muro hecho a plomo, y en su mano una plomada de albañil. Y me dijo el Señor: ¿Qué ves, Amós? Y dije: Una plomada de albañil. Y el Señor dijo: He aquí, yo pongo plomada de albañil en medio de mi pueblo Israel; no lo toleraré más».
+
+Una plomada es una herramienta de construcción utilizada para medir la rectitud vertical. En el Libro de Amós, simboliza que Dios está aplicando Su estándar perfecto de justicia al pueblo de Israel, evaluando cuán rectos o torcidos (justos o pecadores) son en sus vidas morales y espirituales.`,
+		}
 	],					
 };
