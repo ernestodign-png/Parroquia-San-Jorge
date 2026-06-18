@@ -4765,5 +4765,30 @@ En su mano izquierda sostiene una plomada, en referencia a Amós 7:7-8: «Me ens
 
 Una plomada es una herramienta de construcción utilizada para medir la rectitud vertical. En el Libro de Amós, simboliza que Dios está aplicando Su estándar perfecto de justicia al pueblo de Israel, evaluando cuán rectos o torcidos (justos o pecadores) son en sus vidas morales y espirituales.`,
 		}
+	],
+		"06-18": [ 
+		{
+		    name: "Santos Leoncio, Hipacio y Teódulo",
+		    title: "Los Santos Mártires de Trípoli y la Confesión de la Verdadera Fe",
+		    images: [	
+            	        "Img/LeoncioHipacioTeódulo.webp",
+            	        "Img/LeoncioHipacioTeódulo2.webp",
+		    ],
+			desc: `Hoy conmemoramos a los Santos Mártires Leoncio, Hipacio y Teódulo.
+
+San Leoncio, de origen griego, sirvió como comandante militar en la ciudad fenicia de Trípoli durante el reinado del emperador Vespasiano (70-79 d.C.). Distinguido por su valor, fuerza y virtud, era muy respetado por el pueblo y apartó a muchos de la adoración a los dioses paganos.
+
+Cuando el gobernador Adriano fue designado para perseguir a los cristianos, envió al tribuno Hipacio y a un destacamento de soldados para arrestar a Leoncio. Durante el viaje, Hipacio enfermó gravemente y, estando al borde de la muerte, vio en un sueño a un ángel que le dijo: «Si deseas ser sanado, di tres veces: 'Dios de Leoncio, ayúdame'». Aunque reacio a invocar al Dios del hombre al que había sido enviado a arrestar, Hipacio obedeció y fue sanado de inmediato.
+
+Profundamente conmovido por este milagro, Hipacio y su compañero Teódulo se adelantaron a los demás soldados para encontrar a Leoncio. Al llegar a Trípoli, fueron recibidos en la casa de un forastero que se reveló como el hombre mismo que buscaban. Postrándose ante él, pidieron ser instruidos en la verdadera Fe.
+
+Mientras Leoncio exponía el Evangelio, sus corazones ardían de amor por Cristo. En ese momento, una nube resplandeciente descendió sobre Hipacio y Teódulo, y un rocío cayó sobre ellos mientras recibían la gracia del Espíritu Santo. Leoncio entonces invocó el nombre de la Santísima Trinidad sobre ellos.
+
+Cuando Adriano se enteró de lo sucedido, ordenó que Leoncio, Hipacio y Teódulo fueran llevados ante él. A pesar de las amenazas, torturas y promesas de honor, los tres confesaron a Cristo con firmeza y se negaron a ofrecer sacrificios a los dioses paganos.
+
+Hipacio fue desgarrado con garras de hierro y Teódulo fue golpeado sin piedad con varas antes de que ambos fueran decapitados. San Leoncio fue sometido a tormentos aún mayores. Aunque fue golpeado, herido y suspendido boca abajo con una piedra pesada alrededor de su cuello, permaneció inquebrantable en Cristo.
+
+Fortalecido por la aparición de un ángel, soportó hasta el final hasta que el gobernador ordenó que lo mataran a golpes. Los santos Mártires recibieron sus coronas entre los años 70 y 79 d.C.`,
+		}
 	],					
 };
