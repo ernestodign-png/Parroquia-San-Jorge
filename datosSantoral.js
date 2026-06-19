@@ -4790,5 +4790,54 @@ Hipacio fue desgarrado con garras de hierro y Teódulo fue golpeado sin piedad c
 
 Fortalecido por la aparición de un ángel, soportó hasta el final hasta que el gobernador ordenó que lo mataran a golpes. Los santos Mártires recibieron sus coronas entre los años 70 y 79 d.C.`,
 		}
+	],
+		"06-19": [ 
+		{
+		    name: "El Santo Apóstol Judas",
+		    title: "Uno de los Doce Apóstoles, Hermano del Señor y Autor de la Epístola de Judas",
+		    images: [	
+            	        "Img/ApóstolJudas.webp",
+            	        "Img/ApóstolJudas2.webp",
+		    ],
+			desc: `Hoy conmemoramos al Santo Apóstol Judas, uno de los Doce Apóstoles originales del Señor y autor de la Epístola de Judas en el Nuevo Testamento. En los Evangelios, también se le conoce con los nombres de Tadeo y Lebeo.
+
+San Judas, junto con su hermano Santiago, era hijo de San José el Desposado por su primera esposa. Por lo tanto, se le considera hermano del Señor. Dado que lleva el mismo nombre que Judas Iscariote, el traidor, se le suele llamar Judas Tadeo o simplemente Judas para distinguirlo.
+
+El Evangelio de Juan nos dice que Judas y sus hermanos inicialmente rechazaron a Cristo: «ni aun sus hermanos creían en él» (Juan 7:5).
+
+La tradición relata que cuando San José regresó de la huida a Egipto, comenzó a dividir sus posesiones entre sus hijos. Deseaba asignar una parte a Cristo el Salvador, nacido de manera milagrosa e incorruptible de la Purísima Virgen María.
+Los hermanos se opusieron a esto porque Jesús había nacido de otra madre. Solo Santiago, más tarde llamado «el Hermano de Dios», ofreció compartir su porción con Él.
+
+Judas finalmente llegó a creer en Cristo como el Mesías esperado, lo siguió y fue elegido como uno de los Doce Apóstoles. Consciente de su pecado, el Apóstol Judas se consideró indigno de ser llamado hermano del Señor, y en su Epístola se llama a sí mismo simplemente hermano de Santiago.
+
+Después de la Ascensión del Señor, San Judas predicó el Evangelio en Judea, Galilea, Samaria e Idumea, y más tarde en las tierras de Arabia, Siria, Mesopotamia y Edesa. La tradición sostiene que también viajó a Persia, donde escribió su Epístola.
+
+La Epístola de San Judas habla sobre la Santísima Trinidad, la Encarnación del Señor, los ángeles buenos y malos, y el Juicio Final. El Apóstol exhorta a los creyentes a guardarse de la impureza carnal, a ser diligentes en la oración, la fe y el amor, a convertir a los perdidos al camino de la salvación, y a protegerse de las enseñanzas de los herejes: «que contendáis ardientemente por la fe que ha sido una vez dada a los santos» (Judas 1:3).  
+
+El Santo Apóstol Judas murió como mártir alrededor del año 80 d.C. cerca del Monte Ararat en Armenia, donde fue capturado por paganos y crucificado.`,
+		},
+		{
+		    name: "San Paisio el Grande",
+		    title: "Nuestro Santo Padre del Desierto y Fundador en el Desierto de Nitria",
+		    images: [	
+            	        "Img/PaisioGrande.webp",
+            	        "Img/PaisioGrande2.webp",
+		    ],
+			desc: `Hoy también conmemoramos a nuestro Santo Padre del Desierto, San Paisio el Grande.
+
+San Paisio nació en el año 320 d.C. en Egipto, en el seno de una familia cristiana piadosa. Tras la muerte de su padre, su madre tuvo una visión de un ángel que le pidió entregar a su hijo menor, Paisio, al servicio del Señor. De este modo, la madre de Paisio lo dejó al cuidado de un monasterio.
+
+En su juventud, Paisio amó la vida monástica. A los 20 años, se dirigió a la zona de Escete, en el desierto de Nitria. Renunciando a su propia voluntad, fue tonsurado monje por San Pambo, quien también ordenó a San Juan el Enano, el futuro biógrafo de San Paisio. Paisio vivió bajo la guía espiritual del anciano Pambo, cumpliendo con humildad todos los deberes monásticos que se le asignaban.
+
+El anciano le indicó al nuevo monje Paisio que necesitaba preservar su vista de manera especial para custodiar sus sentidos de la tentación. Paisio, acatando la instrucción, pasó tres años con la mirada baja. Leía con diligencia libros espirituales, oraba e incluso ayunaba durante semanas enteras.
+
+Cuando San Pambo murió, San Paisio se adentró aún más en el desierto para dedicarse al Señor en soledad, y vivió en una cueva tallada con sus propias manos. Fue guiado por un ángel al lugar del actual Monasterio de San Bishoy (Paisio), donde vivió como ermitaño. Con el tiempo, muchos monjes se reunieron a su alrededor y se estableció un monasterio.
+
+Honrado por su amor, sabiduría, bondad y ascetismo, San Paisio se convirtió en el padre espiritual de muchos monjes en el monasterio. Cuando los monjes le preguntaron a Paisio cuál virtud es la más alta de todas, el santo respondió: «Aquellas que se obran en secreto, y de las cuales nadie tiene conocimiento». Sus proezas ascéticas fueron tan reconocidas que incluso recibió la visita de San Efrén el Sirio.
+
+En una ocasión, un anciano monje le pidió a San Paisio que lo ayudara a escalar una montaña. Paisio lo cargó sobre sus hombros y subió, solo para descubrir que el anciano monje era Cristo mismo. El Señor le reveló que, debido a la magnitud de su amor, su cuerpo no conocería la corrupción.
+
+San Paisio reposó pacíficamente en el año 417 a una edad avanzada. Sus reliquias se conservan hoy en el Monasterio de San Bishoy (Paisio) en el Desierto de Nitria, Egipto.`,
+		}
 	],					
 };
