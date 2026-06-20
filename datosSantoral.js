@@ -4839,5 +4839,34 @@ En una ocasión, un anciano monje le pidió a San Paisio que lo ayudara a escala
 
 San Paisio reposó pacíficamente en el año 417 a una edad avanzada. Sus reliquias se conservan hoy en el Monasterio de San Bishoy (Paisio) en el Desierto de Nitria, Egipto.`,
 		}
-	],					
+	],
+		"06-20": [ 
+		{
+		    name: "Panagia Hodegetria",
+		    title: "El Santo Icono de la «Directora» y su Historia en Constantinopla y el Monte Athos",
+		    images: [	
+            	        "Img/PanagiaHodegetria.webp",
+            	        "Img/PanagiaHodegetria2.webp",
+            	        "Img/PanagiaHodegetria3.webp",
+            	        "Img/PanagiaHodegetria4.webp",
+            	        "Img/PanagiaHodegetria5.webp",
+            	        "Img/PanagiaHodegetria6.webp",
+		    ],
+			desc: `Hoy conmemoramos el santo icono de la Panagia Hodegetria. La Hodegetria (que significa «Directora» o «La que Muestra el Camino») es tradicionalmente considerada como el primer icono de la Iglesia.
+
+El icono de la Hodegetria fue pintado del natural por San Lucas el Evangelista, y la Theotokos lo recibió con gran alegría diciendo: «Que la gracia de Aquel que nació de mí esté con este Icono». El icono representa a la Theotokos haciendo un gesto hacia Cristo, guiando al espectador hacia el Salvador, Quien es «el camino, la verdad y la vida» (Juan 14:6).
+
+Originalmente conservado en Palestina, el icono fue llevado a Constantinopla durante el reinado del emperador Teodosio II el Joven por la emperatriz Eudocia como regalo a Santa Pulqueria (399-453), hermana de Teodosio. El icono obró muchos milagros a quienes acudían a venerarlo, y se creía que había salvado a la ciudad del asedio árabe en el año 717.
+
+El icono recibió su nombre del Monasterio de los Hodegos (Hodegon) en Constantinopla, donde se conservaba. Según la tradición, este monasterio, construido por el emperador Miguel III (842-867), albergaba un manantial sagrado de agua conocido por curar a los ciegos. Muchos ciegos eran conducidos al manantial por los monjes para lavarse los ojos y ser curados, de ahí el nombre «Hodegon», que significa «el lugar de los guiados» o «el lugar a donde son conducidas las personas».
+
+En una ocasión, la Theotokos misma se apareció a dos ciegos y, tomándolos de la mano, los guio hacia el pozo milagroso donde recobraron la vista.
+
+Para el siglo XII, la Hodegetria se había convertido en el icono más conocido de Constantinopla, y muchos peregrinos se congregaban cada martes para presenciar la procesión del icono por las calles para bendecir la ciudad. Es probable que el icono fuera destruido cuando Constantinopla cayó ante los otomanos en 1453.
+
+Una copia del icono de la Hodegetria se conservó durante mucho tiempo en el Monasterio de Vatopedi en el Monte Athos hasta 1730, cuando apareció milagrosamente en el Monasterio de Jenofonte (Xenophontos). Los monjes devolvieron el icono a su lugar de origen, pero nuevamente fue encontrado de manera misteriosa en el Monasterio de Jenofonte.
+
+Respetando la voluntad de la Panagia, los monjes dejaron el icono de la Hodegetria en el Monasterio de Jenofonte, donde puede ser venerado hasta el día de hoy.`,
+		}
+	],						
 };
