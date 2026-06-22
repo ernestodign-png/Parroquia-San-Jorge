@@ -4868,5 +4868,32 @@ Una copia del icono de la Hodegetria se conservó durante mucho tiempo en el Mon
 
 Respetando la voluntad de la Panagia, los monjes dejaron el icono de la Hodegetria en el Monasterio de Jenofonte, donde puede ser venerado hasta el día de hoy.`,
 		}
+	],
+		"06-22": [ 
+		{
+		    name: "San Albano",
+		    title: "El Santo Protomártir de Gran Bretaña",
+		    images: [	
+            	        "Img/SanAlbano.webp",
+            	        "Img/SanAlbano2.webp",
+            	        "Img/SanAlbano3.webp",
+            	        "Img/SanAlbano4.webp",
+		    ],
+			desc: `Hoy también conmemoramos a San Albano, el Santo Protomártir de Gran Bretaña.
+
+San Albano fue un ciudadano romano que vivió en Verulamium (hoy Saint Albans, Hertfordshire, Inglaterra), en una época en la que la Iglesia enfrentaba una intensa persecución en el Imperio Romano pagano. No se registran datos sobre su familia o su ocupación.
+
+Cuando el magistrado principal de la ciudad ordenó el arresto de todo el clero cristiano, un sacerdote llamado Anfíbalo huyó a la casa de Albano para esconderse de los soldados. Albano quedó impresionado por la constante oración y vigilia del sacerdote, y después de ser instruido en la fe, creyó en Cristo y pidió ser bautizado.
+
+Finalmente, Anfíbalo se vio obligado a marcharse, y Albano intercambió vestimentas con él para que pudiera escapar. Los soldados, al enterarse de que un sacerdote se ocultaba en la morada de Albano, acudieron a registrarla. Al ver a Albano vestido con las ropas del presbítero, lo arrestaron y lo llevaron ante el juez.
+
+Tras el interrogatorio, el magistrado descubrió el intercambio de ropas. Furioso por la fuga del sacerdote, amenazó a Albano con la muerte a menos que retornara al paganismo y revelara el paradero de Anfíbalo. San Albano respondió con firmeza: «También soy cristiano y adoro al Dios verdadero».
+
+El santo fue golpeado y torturado. Posteriormente, el magistrado ordenó a los soldados que lo llevaran a la colina de Holmhurst para ser decapitado. Al llegar al río Ver, encontraron el puente obstruido por la multitud que había acudido a presenciar el martirio, impidiéndoles el paso. Con el deseo de consumar su martirio, San Albano oró y trazó la Señal de la Cruz sobre el río. De inmediato, las aguas se separaron, permitiéndoles cruzar a la otra orilla.
+
+El verdugo quedó tan asombrado por el milagro que arrojó su espada y se negó a decapitar al santo. Fue arrestado, y se convocó a otro ejecutor para decapitarlos a ambos. Al perpetrar la ejecución, los ojos de este segundo verdugo cayeron de sus órbitas. De este modo, San Albano, el primer mártir cristiano británico del que se tiene registro, entregó su alma al Señor durante el siglo III.
+
+La Catedral de Saint Albans, en Inglaterra, se erige en el lugar donde el santo fue martirizado. Allí se encuentra un gran santuario que custodia una reliquia de su escápula.`,
+		}
 	],						
 };
