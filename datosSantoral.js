@@ -4895,5 +4895,55 @@ El verdugo quedó tan asombrado por el milagro que arrojó su espada y se negó 
 
 La Catedral de Saint Albans, en Inglaterra, se erige en el lugar donde el santo fue martirizado. Allí se encuentra un gran santuario que custodia una reliquia de su escápula.`,
 		}
+	],
+		"06-26": [ 
+		{
+		    name: "San David el Dendrita",
+		    title: "El Asceta del Almendro y Defensor de Tesalónica",
+		    images: [	
+            	        "Img/DavidDendrita.webp",
+            	        "Img/DavidDendrita2.webp",
+		    ],
+			desc: `Hoy conmemoramos a San David de Tesalónica, también conocido como David el Dendrita («el que habita en los árboles»). Un bendito loco por Cristo, es reconocido por haber llevado una vida ascética en la copa de un almendro durante 3 años.
+
+San David nació en el año 450 d.C. en Oriente (probablemente en Mesopotamia). Viajó a Tesalónica, donde vivió como monje en el monasterio de los Kukuliates entre los años 465 y 470.
+
+Inspirado por los santos estilitas y los santos profetas, en particular por su homónimo el rey David, el Venerable David deseó dedicarse a Dios viviendo una vida ascética apartado del mundo. Por ello, subió a un almendro cerca del monasterio y habitó allí en profunda oración y contemplación.
+
+En lo alto de este árbol, David soportó inviernos de frío extremo y veranos abrasadores. Después de 3 años, un ángel se apareció a San David asegurándole que sus oraciones habían sido escuchadas, y le instruyó descender del árbol para continuar su vida ascética en una celda.
+
+Una gran multitud, incluyendo al arzobispo Doroteo de Tesalónica, se reunió para ver al renombrado asceta descender finalmente de su árbol. Dotado por Dios con la capacidad de sanar a los endemoniados y enfermos mediante sus oraciones, muchas personas visitaban su celda.
+
+La vida de recluso de San David fue interrumpida poco después del año 520, cuando el arzobispo Arístides acudió a su celda, suplicándole que viajara a Constantinopla para disuadir al emperador Justiniano de su intención de trasladar la capital de la región administrativa bizantina de Ilírico desde Tesalónica a una nueva ciudad.
+
+Viendo la luz del día por primera vez en años, David viajó a Constantinopla, donde fue recibido con reverencia, especialmente por la emperatriz Teodora. David asombró entonces al emperador Justiniano al tomar un carbón encendido con incienso en sus manos desnudas, e incensar al emperador sin sufrir quemaduras.
+
+Después de que David expusiera su petición en nombre del pueblo de Tesalónica, Justiniano accedió a sus deseos, de modo que el estatus de la ciudad como capital permaneció inalterado. San David reposó en el año 540 durante su viaje de regreso a Tesalónica.
+
+En su pergamino está escrito: «El verdadero monje es aquel que en esta vida no tiene nada más que a Cristo».`,
+		},
+		{
+		    name: "San Médico el Anárgiro",
+		    title: "El Santo Mártir de Otricoli y Médico Sin Dinero",
+		    img:"Img/MédicoAnárgiro.webp",
+
+			desc: `Hoy también conmemoramos al Santo Mártir y Anárgiro San Médico de Otricoli.
+
+San Médico era médico tanto de nombre como de profesión. Nacido en la ciudad de Otricoli en Italia, se sintió atraído por la fe cristiana debido a los numerosos milagros que ocurrían en el templo que albergaba las reliquias de otro antiguo mártir, San Víctor.
+
+Médico fue acusado de ser cristiano en la provincia de Otricoli ante el prefecto Terenziano durante el reinado del emperador Marco Aurelio (161-180). El prefecto Terenziano, viendo la firmeza de la fe de Médico y escuchándole decir que los ídolos son demonios, lo encarceló y prohibió que nadie le llevara comida o agua, con la esperanza de obligarlo a renunciar a Cristo.
+
+Después de 12 días, dándolo por muerto, el prefecto se asombró al enterarse de que Médico estaba vivo, sano y aún inquebrantable. Intentó persuadir al Santo con honores e incluso con la amistad del emperador si sacrificaba a los dioses paganos, pero Médico declaró que no adoraría a ídolos sordos, mudos y ciegos hechos por hombres, ni desearía ninguna amistad aparte de la de Dios y Sus siervos.
+
+Terenziano entonces lo ató a un árbol con afiladas cuerdas de hierro. En agonía, y sin temor a las amenazas y torturas del prefecto, el Santo agradeció a Dios por considerarlo digno de sufrir por Su causa diciendo: «Espero en mi Dios y no temo a nada».
+
+Después de que Médico fuera golpeado nuevamente con gruesos garrotes, proclamó valientemente: «Mi Dios es el Emperador de emperadores. Quien sacrifique a dioses falsos morirá eternamente». Furioso, el prefecto lo colocó en el potro de tortura, lo quemó y desgarró su carne con garfios. Médico oró pidiendo fuerzas y dijo a sus verdugos: «Su crueldad me acerca a Dios».
+
+El prefecto, enfurecido, arrojó entonces a San Médico a un fuego. Cuando el santo salió ileso, fue golpeado, encadenado y arrojado a prisión. Cinco días después, fue hallado nuevamente vivo y orando.
+
+El prefecto preguntó: «¿Dónde aprendiste magia?». Médico respondió: «No es magia. Creo en Cristo, el Hijo de Dios, quien me da fuerzas para soportar».
+
+Finalmente, el prefecto ordenó que fuera decapitado a las afueras de la ciudad. Y así, San Médico recibió su corona de martirio en este día del año 172 d.C.`,
+		}
 	],						
 };
