@@ -4945,5 +4945,25 @@ El prefecto preguntó: «¿Dónde aprendiste magia?». Médico respondió: «No 
 
 Finalmente, el prefecto ordenó que fuera decapitado a las afueras de la ciudad. Y así, San Médico recibió su corona de martirio en este día del año 172 d.C.`,
 		}
+	],
+		"06-30": [ 
+		{
+		    name: "Los Santos Doce Apóstoles",
+		    title: "Los Fundamentos de la Iglesia y Testigos de la Resurrección",
+		    img:"Img/DoceApóstoles.webp",
+			desc: `Hoy conmemoramos la Fiesta de los Gloriosos y Todaloables Doce Apóstoles. Elegidos por Cristo mismo durante Su ministerio terrenal, los Doce Apóstoles fueron comisionados para predicar el Evangelio del Reino de Dios y proclamar la Buena Nueva de la Resurrección de Cristo.
+
+«Eligió a doce, a quienes también llamó apóstoles: a Simón, a quien también llamó Pedro, y a Andrés su hermano; a Jacobo y a Juan; a Felipe y a Bartolomé; a Mateo y a Tomás; a Jacobo hijo de Alfeo, y a Simón llamado Zelote; a Judas hermano de Jacobo, y a Judas Iscariote, que llegó a ser el traidor» (Lucas 6:13-16).
+
+Los doce hijos de Jacob se convirtieron en los patriarcas de las doce tribus de Israel, el fundamento del pueblo elegido de Dios bajo la Antigua Alianza. Del mismo modo, los Santos Doce Apóstoles se convirtieron en el fundamento de la Iglesia, el Nuevo Israel, a través de los cuales todas las naciones son llamadas a la Nueva Alianza de Cristo.
+
+En Su Ascensión, Cristo mandó a los Apóstoles: «Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo» (Mateo 28:19). También les dijo: «me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra» (Hechos 1:8).
+
+Los Apóstoles sentaron las bases de la Iglesia primitiva, ordenando obispos, presbíteros y diáconos. Celebraban la Eucaristía y recibieron de Cristo la autoridad para sanar a los enfermos y expulsar demonios. Por encima de todo, fueron testigos presenciales de los milagros, la muerte y la Resurrección de Cristo, testificando sin temor incluso hasta el martirio.
+
+Habiendo recibido el don de hablar en lenguas cuando el Espíritu Santo descendió sobre ellos en Pentecostés, los Apóstoles viajaron a tierras lejanas, predicando el Evangelio con audacia tanto a judíos como a gentiles. A excepción de San Juan el Evangelista, quien reposó pacíficamente en la vejez, todos los demás Apóstoles sufrieron una muerte de mártires.
+
+En este icono, los Jefes y Principales Apóstoles Pedro y Pablo se sitúan en el centro sosteniendo la Iglesia de Cristo. Aunque San Matías reemplazó a Judas, San Pablo ocupa tradicionalmente su lugar en la iconografía debido a su papel preeminente entre los Apóstoles.`,
+		}
 	],						
 };
