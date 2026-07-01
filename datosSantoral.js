@@ -4965,5 +4965,35 @@ Habiendo recibido el don de hablar en lenguas cuando el Espíritu Santo descendi
 
 En este icono, los Jefes y Principales Apóstoles Pedro y Pablo se sitúan en el centro sosteniendo la Iglesia de Cristo. Aunque San Matías reemplazó a Judas, San Pablo ocupa tradicionalmente su lugar en la iconografía debido a su papel preeminente entre los Apóstoles.`,
 		}
+	],
+		"07-01": [ 
+		{
+		    name: "Santos Cosme y Damián de Roma",
+		    title: "Los Santos Médicos Anárgiros y Mártires",
+		    images: [	
+            	        "Img/CosmeDamián.webp",
+            	        "Img/CosmeDamián2.webp",
+            	        "Img/CosmeDamián3.webp",
+		    ],
+			desc: `Hoy conmemoramos a los Santos Cosme y Damián, los Santos Médicos Anárgiros de Roma, que no deben confundirse con Cosme y Damián de Arabia (17 de octubre) o Cosme y Damián de Asia Menor (1 de noviembre).
+
+Los hermanos Cosme y Damián nacieron en Roma en el siglo III y ambos eran médicos de profesión. Criados en la piedad, llevaron vidas castas y Dios les concedió el don de sanar a los enfermos.
+
+Mediante su generosidad, los hermanos trataron a muchos ciudadanos de Roma enfermos y afligidos, diciéndoles: «No es por nuestro propio poder que los tratamos, sino por el poder de Cristo, el Dios verdadero. Crean en Él y sean sanados».
+
+Los hermanos rechazaban el pago de aquellos a quienes sanaban, de acuerdo con el mandato del Señor a Sus discípulos: «De gracia recibisteis, dad de gracia» (Mateo 10:8). Por esta razón, Cosme y Damián fueron conocidos como los «médicos anárgiros».
+
+A través de su servicio médico filantrópico, los hermanos convirtieron a muchos a Cristo. Esto eventualmente llamó la atención de las autoridades romanas, quienes arrestaron a Cosme y Damián y los llevaron a juicio ante el emperador Carino.
+
+Ellos confesaron audazmente su fe en Cristo ante el emperador y se negaron a ofrecer sacrificios a los dioses paganos. El emperador continuó con sus amenazas, pero por la oración de los santos hermanos, Carino quedó repentinamente ciego.
+
+Al contemplar este milagro, el pueblo clamó: «¡Grande es el Dios cristiano!». El emperador entonces suplicó a los santos hermanos que lo sanaran, prometiendo que se convertiría al Dios Verdadero.
+
+Después de que restauraron la vista del emperador mediante sus oraciones, Cosme y Damián fueron liberados, y una vez más se dedicaron a tratar a los enfermos.
+
+Un médico mayor, bajo el cual los santos hermanos habían estudiado, sintió envidia de su fama y, movido por el resentimiento, convocó a los hermanos —antiguamente sus alumnos más amados— proponiéndoles que fueran juntos a recolectar hierbas medicinales.
+
+Adentrándose en las montañas, asesinó a los santos hermanos y arrojó sus cuerpos a un río. Así, los Santos Médicos Anárgiros terminaron sus vidas como mártires, no por el poder de la espada romana, sino por la envidia de su antiguo maestro.`,
+		}
 	],						
 };
