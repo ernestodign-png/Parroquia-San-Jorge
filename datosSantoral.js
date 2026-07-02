@@ -4995,5 +4995,37 @@ Un médico mayor, bajo el cual los santos hermanos habían estudiado, sintió en
 
 Adentrándose en las montañas, asesinó a los santos hermanos y arrojó sus cuerpos a un río. Así, los Santos Médicos Anárgiros terminaron sus vidas como mártires, no por el poder de la espada romana, sino por la envidia de su antiguo maestro.`,
 		}
+	],
+		"07-02": [ 
+		{
+		    name: "La Deposición del Manto de la Theotokos",
+		    title: "El Traslado de la Sagrada Reliquia a Blanquernas y la Protección de Constantinopla",
+		    images: [	
+            	        "Img/MantoTheotokos.webp",
+            	        "Img/MantoTheotokos2.webp",
+            	        "Img/MantoTheotokos3.webp",
+		    ],
+			desc: `Hoy conmemoramos la Deposición del Venerable Manto de nuestra Santísima Theotokos en Blanquernas, Constantinopla (actual Ayvansaray, Fatih, Turquía).
+
+Durante el reinado del emperador bizantino León el Grande (457-474), dos hermanos, Galbio y Cándido, asociados del emperador, emprendieron un viaje a Jerusalén para venerar los lugares santos.
+
+En un pequeño asentamiento cerca de Nazaret, se alojaron en la casa de una anciana hebrea. En su morada, los hermanos notaron una habitación donde ardían numerosas lámparas, se quemaba incienso y se reunían personas enfermas para ser sanadas.
+
+Los hermanos indagaron persistentemente acerca de esta habitación, y la reticente anciana finalmente explicó que guardaba allí un objeto muy sagrado y milagroso: el Manto que había usado la Madre de Dios.
+
+Antes de su Dormición, la Santísima Virgen legó una de sus vestiduras, que ella misma había tejido, a una piadosa doncella hebrea, antepasada de esta anciana, a quien la prenda le había sido transmitida generaciones después.
+
+El cofre enjoyado que contenía el sagrado Manto fue trasladado a Constantinopla. El emperador León se regocijó con esta noticia, y en el año 458, San Genadio, Patriarca de Constantinopla, trasladó el sagrado Manto a una iglesia recién construida y dedicada a la Madre de Dios en Blanquernas.
+
+Este Santo Manto de la Theotokos fue considerado una reliquia milagrosa de Constantinopla que, en más de una ocasión, protegió a la ciudad de invasiones.
+
+Durante la invasión de la Rus en el año 860, el Santo Manto fue sacado de la Iglesia de Blanquernas, llevado en procesión alrededor de las murallas de la ciudad y sumergido en las aguas del Bósforo, donde navegaban los barcos invasores.
+
+La Theotokos sofocó la invasión, y se concluyó una tregua honorable mientras el ejército ruso abandonaba la ciudad pacíficamente, llevándose consigo el pago de un gran tributo.
+
+Una semana después, el 2 de julio, el Santo Manto fue devuelto a la Iglesia de Blanquernas, y el Patriarca Focio (quien aparece sosteniendo la sagrada vestidura en el icono) estableció una fiesta anual para conmemorar este evento.
+
+En la actualidad, el Santo Manto de la Theotokos se conserva en el museo de Zugdidi en Georgia (imagen 3).`,
+		}
 	],						
 };
