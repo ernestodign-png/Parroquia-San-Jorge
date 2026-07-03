@@ -5027,5 +5027,86 @@ Una semana después, el 2 de julio, el Santo Manto fue devuelto a la Iglesia de 
 
 En la actualidad, el Santo Manto de la Theotokos se conserva en el museo de Zugdidi en Georgia (imagen 3).`,
 		}
+	],
+		"07-03": [ 
+		{
+		    name: "Panagia Galaktotrophousa",
+		    title: "La «Alimentadora de Leche» y el Misterio de la Encarnación",
+		    images: [	
+            	        "Img/PanagiaGalaktotrophousa.webp",
+            	        "Img/PanagiaGalaktotrophousa2.webp",
+            	        "Img/PanagiaGalaktotrophousa3.webp",
+		    ],
+			desc: `Hoy conmemoramos el singular icono de la Panagia Galaktotrophousa («La Santísima Alimentadora de Leche» o «La Santísima que Nutre con Leche»). El icono original, que representa a la Madre de Dios amamantando a su Hijo infante, data del siglo VI.
+
+Este icono antiguo y excepcional, inusual porque expone el pecho de la Theotokos, enfatiza la dimensión humana de la Santa Encarnación. Dios asumió la naturaleza humana y, como infante, tuvo hambre y fue amamantado como todos los bebés.
+
+Muestra a nuestro Señor Jesucristo en uno de sus momentos de mayor vulnerabilidad, sostenido y nutrido por su madre en un vínculo especial, tal como lo confesó la mujer entre la multitud en el Evangelio de Lucas: «Bienaventurado el vientre que te trajo, y los senos que mamaste» (Lucas 11:27).
+
+Este icono se encontraba originalmente en la Laura de San Sabas el Santificado, cerca de Jerusalén. Antes de su muerte en el año 532, San Sabas profetizó que un peregrino de sangre real con su mismo nombre visitaría la Laura algún día, e instruyó a los hermanos para que le entregaran el icono milagroso a ese peregrino como bendición.
+
+Unos 700 años después, en el siglo XIII, San Sava de Serbia, príncipe real y primer Arzobispo de la Iglesia Ortodoxa Serbia, visitó la Laura de su homónimo. Al acercarse al relicario de San Sabas el Santificado, el báculo del Santo cayó a sus pies.
+
+Los hermanos preguntaron al visitante su nombre, y él respondió que era el Arzobispo Sava de Serbia. Obedeciendo los deseos de su fundador, los monjes entregaron el báculo de San Sabas el Santificado, el icono de la Alimentadora de Leche y el icono de las Tres Manos (Tricherousa) al Arzobispo Sava de Serbia.
+
+El Arzobispo Sava llevó el icono al monasterio de Hilandar en el Monte Athos. En una sutil variación de la costumbre ortodoxa, colocó el icono a la derecha de las Puertas Reales dentro de la iglesia, una posición generalmente reservada para el icono de Cristo Pantocrátor. El icono de la Panagia Galaktotrophousa permanece allí hasta el día de hoy y es visitado por numerosos peregrinos (imagen 3).`,
+		},
+		{
+		    name: "El Descubrimiento de las Reliquias de San Rafael de Lesbos",
+		    title: "La Revelación de los Mártires y las Excavaciones en Thermi",
+		    images: [	
+            	        "Img/RafaelLesbos.webp",
+            	        "Img/RafaelLesbos2.webp",
+            	        "Img/RafaelLesbos3.webp",
+            	        "Img/RafaelLesbos4.webp",
+            	        "Img/RafaelLesbos5.webp",
+            	        "Img/RafaelLesbos6.webp",
+            	        "Img/RafaelLesbos7.webp",
+            	        "Img/RafaelLesbos8.webp",
+		    ],
+			desc: `Hoy también conmemoramos el descubrimiento milagroso de las reliquias de San Rafael de Lesbos en 1959. Esto ocurrió casi 500 años después de que fuera martirizado por los turcos junto con los santos Nicolás e Irene.
+
+San Rafael nació alrededor del año 1410 y fue abad del Monasterio de Karyes, cerca de Thermi en Lesbos, donde vivió junto al diácono San Nicolás.
+
+El Jueves Santo de 1463, los turcos asaltaron el monasterio y capturaron a los monjes, junto con la joven Irene y otras personas que buscaban refugio allí. Soportaron horribles torturas hasta el Martes Luminoso, cuando San Rafael fue atado a un árbol y martirizado tras serle aserrada la mandíbula.
+
+En 1959, un matrimonio cristiano piadoso, Angelos y Vasiliki Rallis, adquirió la colina de Karyes en Lesbos. Habían oído hablar de una mansión frecuentada por la aparición de un monje, a quien los pastores y el anterior propietario turco veían a menudo caminando y encendiendo incienso, especialmente en la víspera de los días santos.
+
+También había un olivar en Karyes, cerca del pueblo de Thermi. En este lugar se encontraba un gran mármol roto que servía como Santo Altar, y cerca de él se erguía un enorme roble. Se hablaba de este lugar como la capilla de la Panagia.
+
+Durante siglos, los habitantes de Thermi peregrinaron a este lugar para celebrar la Divina Liturgia el Martes Luminoso. Sin embargo, con el paso del tiempo, nadie recordaba el motivo de esta tradición.
+
+A principios de julio de 1959, Angelos Rallis, yerno de Vasiliki, comenzó a excavar los cimientos para construir una capilla en este sitio, tal como lo había acordado la familia.
+
+El 3 de julio, el obrero Doukas Solakis encontró una tumba mientras cavaba. Al levantar las losas de piedra, vio un esqueleto, y junto a su cabeza había una teja roja con una cruz inscrita, indicando que los huesos pertenecían a un cristiano.
+
+Los habitantes comprendieron que se trataba del monje visto a menudo en la mansión de Thermi, pero aún no conocían su nombre ni su historia, ya que no se había revelado.
+
+Poco después, los tres santos comenzaron a aparecerse a los habitantes de Lesbos en sueños, revelando los detalles de sus vidas y su martirio. También guiaron la excavación de sus tumbas, las cuales habían permanecido ocultas durante casi 500 años.`,
+		},
+		{
+		    name: "San Jacinto de Cesarea",
+		    title: "El Santo Mártir, Chambelán del Palacio Imperial y Confesor de la Fe",
+		    images: [	
+            	        "Img/JacintoCesarea.webp",
+            	        "Img/JacintoCesarea2.webp",
+            	        "Img/JacintoCesarea3.webp",
+		    ],
+			desc: `Hoy también conmemoramos al Santo Mártir San Jacinto de Cesarea. Fue sirviente del emperador Trajano (98-117 d.C.) y sufrió el martirio por su negativa a participar en sacrificios ceremoniales a los dioses paganos.
+
+San Jacinto era natural de Cesarea en Capadocia (hoy Kayseri, Turquía) y fue criado en una familia cristiana piadosa. A una edad temprana, fue nombrado cubicularius, sirviendo como chambelán del palacio imperial, específicamente en el comedor del emperador Trajano.
+
+Un día, durante un festival pagano, el emperador estaba festejando con comida ofrecida a los ídolos en un templo pagano junto a sus compañeros. Sin embargo, el joven Jacinto, habiendo permanecido en el palacio, se encerró en una pequeña habitación y oró fervientemente al Señor Jesucristo.
+
+Uno de los sirvientes escuchó sus palabras de oración y alertó al emperador de que su sirviente de confianza, Jacinto, no honraba a los dioses romanos, sino que oraba en secreto a Cristo.
+
+Tras ser denunciado, el emperador instó a Jacinto a comer de la carne contaminada ofrecida como sacrificio a los ídolos. Al no poder ser persuadido por el emperador, Jacinto confesó su fe en Cristo y su cuerpo fue flagelado. Posteriormente fue arrojado a prisión, y se le colocaron delante carnes sacrificadas a los ídolos para que las comiera.
+
+El consumo de alimentos utilizados como sacrificio a los ídolos paganos estaba prohibido en el cristianismo, y el joven Jacinto consideraba que ingerir tales alimentos era una negación de su fe. El emperador había ordenado a los guardias de la prisión que ni siquiera le permitieran tener un solo trozo de pan puro, para obligarlo a comer la comida sacrificada a los ídolos.
+
+Pero el valiente Jacinto no cedió, y permaneció en su celda durante 40 días sin comer. El trigésimo octavo día, uno de los guardias, al llevar más carne ofrecida a los ídolos, vio ángeles junto al Mártir, vistiéndolo con ropajes resplandecientes y colocando una corona sobre su cabeza.
+
+Finalmente, en el cuadragésimo día, San Jacinto fue vencido por el hambre y entregó su alma a Cristo en el año 108 d.C. Los relatos sitúan su edad entre los 12 y los 20 años. Sus reliquias se conservan en la Iglesia Católica de la Asunción en Baviera, Alemania (imagen 3).`,
+		}
 	],						
 };
