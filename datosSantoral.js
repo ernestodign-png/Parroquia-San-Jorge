@@ -5108,5 +5108,62 @@ Pero el valiente Jacinto no cedió, y permaneció en su celda durante 40 días s
 
 Finalmente, en el cuadragésimo día, San Jacinto fue vencido por el hambre y entregó su alma a Cristo en el año 108 d.C. Los relatos sitúan su edad entre los 12 y los 20 años. Sus reliquias se conservan en la Iglesia Católica de la Asunción en Baviera, Alemania (imagen 3).`,
 		}
+	],
+		"07-04": [ 
+		{
+		    name: "San Andrés de Creta",
+		    title: "El Himnógrafo, Arzobispo de Creta y Autor del Gran Canon",
+		    images: [	
+            	        "Img/AndrésCreta.webp",
+            	        "Img/AndrésCreta2.webp",
+		    ],
+			desc: `Hoy conmemoramos a San Andrés el Himnógrafo y Arzobispo de Creta.
+
+San Andrés nació alrededor del año 660 en Damasco, de padres piadosos. Hasta los siete años, fue mudo y no podía hablar. Esto angustiaba enormemente a sus padres, pero tras recibir los Santos Misterios, milagrosamente recibió el don del habla.
+
+Andrés rogó a sus padres que lo dedicaran a Dios, por lo que lo llevaron a la Iglesia del Santo Sepulcro en Jerusalén, donde fue recibido por el Patriarca Teodoro. Bajo la guía del Patriarca, fue instituido Lector y Subdiácono, recibiendo más tarde la tonsura monástica en la Laura de San Sabas el Santificado. Sobresaliendo en la vida ascética, finalmente fue ordenado diácono y posteriormente archidiácono.
+
+Siendo uno de los más grandes himnógrafos en la historia de la Iglesia, San Andrés fue el primero en componer cánones, una nueva forma de himnografía para los oficios litúrgicos. Expandiendo los estribillos simples de los cánticos bíblicos en Odas poéticas, estos revelan el misterio de cada fiesta, ya sea del Señor, de la Theotokos, de un Santo o de otro evento sagrado.
+
+Su obra maestra, el Gran Canon, es el canon más extenso jamás compuesto. Escrito principalmente en primera persona, recorre el Antiguo y el Nuevo Testamento, extrayendo ejemplos que revelan la necesidad del alma pecadora de arrepentimiento y un retorno humilde a Dios.
+
+Tras el reposo del Patriarca Teodoro, San Andrés fue elegido para representar a la Iglesia de Jerusalén en el Sexto Concilio Ecuménico en Constantinopla, el cual condenó la herejía del monotelismo. Reconocido por su sabiduría, fue nombrado Archidiácono de Santa Sofía y se le confió el cuidado de un orfanato y un hospicio para ancianos.
+
+Alrededor del año 700, San Andrés fue ordenado Arzobispo de Gortina en Creta. Allí pastoreó diligentemente a su rebaño, estableció reglas para la vida monástica, restauró iglesias y fundó hospicios para ancianos y huérfanos.
+
+También realizó numerosos milagros, entre ellos traer lluvia mediante sus oraciones para poner fin a una sequía, detener una epidemia y repeler una invasión bárbara.
+
+Habiendo viajado a Constantinopla por deberes eclesiásticos, San Andrés reposó en el viaje de regreso a Creta, en Mitilene, en la isla de Lesbos, en el año 740.`,
+		},
+		{
+		    name: "San Andréi Rubliov",
+		    title: "El Monje, Iconógrafo y Creador del Icono de la Santa Trinidad",
+		    images: [	
+            	        "Img/AndréiRubliov.webp",
+            	        "Img/AndréiRubliov2.webp",
+            	        "Img/AndréiRubliov3.webp",
+            	        "Img/AndréiRubliov4.webp",
+            	        "Img/AndréiRubliov5.webp",
+            	        "Img/AndréiRubliov6.webp",
+            	        "Img/AndréiRubliov7.webp",
+            	        "Img/AndréiRubliov8.webp",
+            	        "Img/AndréiRubliov9.webp",
+            	        "Img/AndréiRubliov10.webp",
+            	        "Img/AndréiRubliov11.webp",
+		    ],
+			desc: `Hoy también conmemoramos a San Andréi Rubliov, considerado por muchos como el más grande iconógrafo de Rusia.
+
+Poco se sabe de los primeros años de vida de San Andréi Rubliov. Se cree que nació alrededor del año 1360. En su juventud, ingresó al Monasterio de la Santa Trinidad cerca de Moscú, donde se formó espiritualmente bajo su fundador, San Sergio de Radonezh (el monasterio fue posteriormente rebautizado como Laura de la Trinidad y San Sergio en su honor).
+
+Tras el reposo de San Sergio, y con la bendición del nuevo abad, San Nikon de Radonezh, Andréi se dirigió al Monasterio de Andrónikov, donde recibió la tonsura monástica. También aprendió el arte sagrado de la iconografía de Teófanes el Griego y del monje Daniel Chorny.
+
+Después de que el Monasterio de la Santa Trinidad fuera destruido por los tártaros en 1408, San Andréi y su compañero asceta Daniel fueron invitados por San Nikon para adornar la iglesia reconstruida con iconos y frescos.
+
+Fue en esta época cuando San Andréi pintó su icono más famoso, la Santa Trinidad. Aunque representa el relato del Antiguo Testamento sobre la Hospitalidad de Abraham, Rubliov omitió las figuras de Abraham y Sara, y a través de un profundo uso de la composición y el simbolismo dirigió la atención del espectador hacia el misterio de la Santísima Trinidad, representado por los tres ángeles.
+
+Considerada una de las obras de iconografía más grandes en la historia de la Iglesia, el icono de la Santa Trinidad se conservó en la Galería Tretiakov de Moscú hasta 2023, cuando fue trasladado a la Catedral de Cristo Salvador. También se le atribuyen muchas otras obras notables (algunas de las cuales se muestran en las imágenes 08 a 11). Su estilo se convirtió en el referente de la iconografía rusa, distinguiéndose las figuras de sus iconos por su paz, armonía y serenidad espiritual.
+
+Habiendo alcanzado aproximadamente los 70 años de edad, San Andréi Rubliov durmió en el Señor en 1430 y fue enterrado en el Monasterio de Andrónikov.`,
+		}
 	],						
 };
