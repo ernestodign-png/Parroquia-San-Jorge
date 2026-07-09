@@ -5225,3 +5225,4 @@ Imagen 4: Tomada en 1935, muestra la casa donde vivió San Miguel cerca de la Ac
 Imagen 6: Muestra la Iglesia de la Ascensión del Señor en Neos Kosmos, Atenas. Dentro de esta iglesia se encuentra la única capilla dedicada a San Miguel. Esta capilla es, según la tradición, el sitio exacto donde se encontraba su jardín.`,
 		}
 	],
+};
