@@ -5165,5 +5165,63 @@ Considerada una de las obras de iconografía más grandes en la historia de la I
 
 Habiendo alcanzado aproximadamente los 70 años de edad, San Andréi Rubliov durmió en el Señor en 1430 y fue enterrado en el Monasterio de Andrónikov.`,
 		}
-	],						
-};
+	],
+		"07-09": [ 
+		{
+		    name: "San Pancracio de Taormina",
+		    title: "El Hieromártir, Obispo de Taormina y Testigo de Cristo",
+		    images: [	
+            	        "Img/PancracioTaormina.webp",
+            	        "Img/PancracioTaormina2.webp",
+            	        "Img/PancracioTaormina3.webp",
+		    ],
+			desc: `Hoy conmemoramos al Hieromártir San Pancracio, Obispo de Taormina en Sicilia, Italia. Habiendo contemplado al Señor en Jerusalén, fue ordenado Obispo de Taormina por el Apóstol Pablo antes de ser martirizado por los paganos.
+
+San Pancracio nació en Antioquía mientras el Señor vivía sobre la tierra. Habiendo escuchado sobre los milagros de Cristo, los padres de Pancracio viajaron con su hijo a Jerusalén, donde contemplaron al Señor en la carne, escucharon Sus palabras y fueron testigos de Sus milagros.
+
+Fue en Jerusalén donde Pancracio conoció al Apóstol Pedro. Tras la Ascensión del Señor, Pancracio y sus padres regresaron a Antioquía, donde fueron bautizados.
+
+Después de la muerte de sus padres, Pancracio abandonó todas las cosas mundanas y, buscando vivir en oración solitaria, se dirigió a la zona del Mar Negro, donde se retiró a una cueva en el Ponto. Allí fue encontrado por el Apóstol Pedro, y juntos viajaron a Sicilia.
+
+Allí se encontraron con el Apóstol Pablo, quien ordenó a Pancracio como Obispo de Taormina. Como obispo, Pancracio obró muchos milagros, destruyó los falsos ídolos, fortaleció a su rebaño para confesar a Cristo, bautizó a muchos paganos y mandó construir una iglesia dentro de los 30 días posteriores a su consagración.
+
+Un comandante romano llamado Aquilino se enteró de que Taormina se había vuelto cristiana y partió con un ejército para destruir la ciudad. El obispo Pancracio animó a los fieles a no temer, y salió solo de la ciudad, llevando en sus manos el arma invencible de la Honorable Cruz.
+
+Cuando el ejército se acercó a la ciudad, la oscuridad cayó sobre ellos y los soldados fueron invadidos por un gran temor. Se desató entonces una gran confusión entre ellos, y los atacantes se volvieron unos contra otros, matándose mutuamente con sus espadas. Así, Pancracio salvó a la ciudad y a su rebaño por el poder de sus oraciones.
+
+San Pancracio continuó gobernando a su rebaño con gran celo; sin embargo, los paganos conspiraron contra él. Aprovechando un momento oportuno, un general llamado Artágalo capturó al Santo y lo sometió a torturas antes de ser finalmente decapitado alrededor del año 40 d.C.`,
+		},
+		{
+		    name: "San Miguel Paknanas el Jardinero",
+		    title: "El Santo Nuevo Mártir y Jardinero de Atenas",
+		    images: [	
+            	        "Img/MiguelPaknanas.webp",
+            	        "Img/MiguelPaknanas2.webp",
+            	        "Img/MiguelPaknanas3.webp",
+            	        "Img/MiguelPaknanas4.webp",
+            	        "Img/MiguelPaknanas5.webp",
+            	        "Img/MiguelPaknanas6.webp",
+		    ],
+			desc: `Hoy también conmemoramos al Santo Nuevo Mártir San Miguel Paknanas, el Jardinero de Atenas.
+
+San Miguel nació de padres muy pobres, pero piadosos y fieles, en la ciudad de Atenas, Grecia, en 1753, cerca de Tiseo. En consecuencia, no asistió a la escuela, sino que aprendió jardinería. Como devoto cristiano ortodoxo, Miguel asistía a la iglesia de Panagia Vlassarou, que hoy se encuentra en ruinas en el Ágora Antigua, cerca de Tiseo.
+
+Un día, durante la temporada de cosecha, mientras Miguel, de 18 años, transportaba productos en su burro por los pueblos de Atenas, fue capturado por unos musulmanes que lo acusaron falsamente de transportar pólvora para algunos rebeldes griegos (kleftes) que se habían aliado con los rusos durante la Guerra Ruso-Otomana de 1768-1774.
+
+Los musulmanes lo golpearon y lo llevaron ante el cadí, quien ordenó su encarcelamiento. Allí, fue visitado por otros musulmanes que lo amenazaron para que se convirtiera al islam. Temiendo que el joven Miguel pudiera negar su fe para salvar su vida, un piadoso cristiano llamado Jorge sobornó a los guardias y acudió a su celda, animándolo a mantener firme su fe para el martirio.
+
+Después de 30 días en prisión, Miguel fue llevado nuevamente ante el cadí, quien comenzó a adularlo y a prometerle recompensas si abrazaba el islam. Sin embargo, Miguel se negó diciendo: «¡No me haré musulmán! ¡No me haré turco!». Luego fue enviado ante el llamado «kalopasha» (buen bajá) de Ioánina para que decidiera su destino.
+
+Rechazando nuevamente todas las amenazas y promesas del bajá, San Miguel se negó a negar su fe en Cristo y finalmente fue condenado a ser ejecutado en el Templo de Zeus Olímpico en Atenas. En el lugar de su ejecución, Miguel se arrodilló e inclinó la cabeza, siendo atado a uno de los pilares del Templo.
+
+El verdugo, para amenazarlo y hacer que el santo flaqueara en el último minuto, lo golpeó con el lado sin filo de la espada pidiéndole que lo reconsiderara, pero el mártir respondió: «Te lo dije, soy cristiano. Me niego a convertirme en musulmán». El verdugo entonces decapitó a San Miguel con un solo golpe fatal de la espada.
+
+Así, San Miguel el Jardinero de Atenas entregó su alma el 9 de julio de 1771.
+
+Imagen 2: Muestra el templo de Zeus Olímpico en Atenas, donde San Miguel Paknanas fue decapitado
+
+Imagen 4: Tomada en 1935, muestra la casa donde vivió San Miguel cerca de la Acrópolis de Atenas, en Vlassarou, lugar que hoy se conoce como el Ágora Antigua
+
+Imagen 6: Muestra la Iglesia de la Ascensión del Señor en Neos Kosmos, Atenas. Dentro de esta iglesia se encuentra la única capilla dedicada a San Miguel. Esta capilla es, según la tradición, el sitio exacto donde se encontraba su jardín.`,
+		}
+	],
