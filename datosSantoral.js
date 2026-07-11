@@ -5225,4 +5225,79 @@ Imagen 4: Tomada en 1935, muestra la casa donde vivió San Miguel cerca de la Ac
 Imagen 6: Muestra la Iglesia de la Ascensión del Señor en Neos Kosmos, Atenas. Dentro de esta iglesia se encuentra la única capilla dedicada a San Miguel. Esta capilla es, según la tradición, el sitio exacto donde se encontraba su jardín.`,
 		}
 	],
+		"07-11": [ 
+		{
+		    name: "El Milagro de Santa Eufemia",
+		    title: "La Confirmación de la Confesión Ortodoxa en el Cuarto Concilio Ecuménico",
+		    images: [	
+            	        "Img/MilagroEufemia.webp",
+            	        "Img/MilagroEufemia2.webp",
+            	        "Img/MilagroEufemia3.webp",
+		    ],
+			desc: `Hoy conmemoramos el Milagro de Santa Eufemia en el Cuarto Concilio Ecuménico en el año 451, un milagro que ocurrió mucho después de su martirio en Calcedonia en el año 304, durante las persecuciones del emperador Diocleciano.
+
+En el siglo V, un archimandrita llamado Eutiques lideró una herejía que enseñaba que, después de la Encarnación, la naturaleza humana de nuestro Señor Jesucristo fue absorbida por Su naturaleza divina, dejándolo con una sola naturaleza. Esta herejía, conocida como monofisismo, entraba en conflicto con la confesión ortodoxa de que Cristo es una sola Persona en dos naturalezas —plenamente Dios y plenamente hombre—, permaneciendo Su divinidad y humanidad unidas sin confusión ni cambio.
+
+Para abordar esta cuestión, el emperador Marciano, junto con su esposa Santa Pulqueria, convocó un Sínodo que tendría lugar en Calcedonia en el año 451.
+
+Los 630 delegados del concilio se reunieron en la iglesia de Santa Eufemia, donde se conservaban sus santas reliquias. Tanto la facción monofisita como la ortodoxa estaban bien representadas en el concilio, y no se logró alcanzar un consenso decisivo durante las tensas sesiones.
+
+Para resolver el asunto, el Patriarca San Anatolio de Constantinopla propuso que el Concilio sometiera la decisión al Espíritu Santo a través de la Santa Mártir Eufemia de la siguiente manera:
+
+Tanto los jerarcas ortodoxos como sus oponentes monofisitas escribieron sus confesiones de fe en pergaminos separados y los colocaron en la tumba de Santa Eufemia, sobre su pecho. Luego, en presencia del emperador Marciano, la tumba fue sellada y se dispuso una guardia para vigilarla durante tres días.
+
+Durante esos días, ambas partes se impusieron un estricto ayuno y oración. Transcurridos los tres días, el patriarca y el emperador, en presencia del Concilio, abrieron la tumba y encontraron que el pergamino con la confesión ortodoxa era sostenido por Santa Eufemia en su mano, mientras que la confesión de los herejes yacía a sus pies (como se muestra en el icono).
+
+Como resultado de este milagro, muchos de los herejes aceptaron la confesión ortodoxa respecto a las dos naturalezas de Cristo, mientras que los monofisitas que persistieron en su herejía fueron consignados a la condena y excomunión por parte del Concilio.`,
+		},
+		{
+		    name: "Santa Olga, Gran Princesa de Kiev",
+		    title: "Primera Gobernante Cristiana de la Rus de Kiev e Igual a los Apóstoles",
+		    images: [	
+            	        "Img/OlgaPrincesa.webp",
+            	        "Img/OlgaPrincesa2.webp",
+            	        "Img/OlgaPrincesa3.webp",
+		    ],
+			desc: `Hoy también conmemoramos a Santa Olga, Gran Princesa de Kiev y primera gobernante de la Rus de Kiev en aceptar a Cristo. Junto a su nieto San Vladimir, es recordada por sentar las bases del Bautismo de la Rus y la cristianización de su pueblo, siendo por ello honrada con el título de «Igual a los Apóstoles».
+
+Santa Olga nació alrededor del año 890 en Pskov y fue criada según las costumbres del paganismo eslavo. Alrededor del año 903, se casó con el príncipe Ígor, hijo de Rúrik, el príncipe fundador de la dinastía ruríkida. Tras el asesinato del príncipe Ígor a manos de los drevlianos en 945, la princesa Olga gobernó como regente en nombre de su joven hijo Sviatoslav hasta que este alcanzó la mayoría de edad en 964.
+
+Gobernante sabia pero formidable, Santa Olga es recordada por ejecutar su venganza contra los drevlianos que traicionaron y asesinaron a su marido. Un relato cuenta cómo atrajo a sus enviados a una casa de baños y la incendió con ellos en su interior (imágen 3).
+
+No se sabe con precisión cuándo su corazón se volvió por primera vez a Cristo, pero en 957 Olga viajó a Constantinopla, donde fue recibida con honores por el emperador Constantino VII. Después de ser instruida en la fe ortodoxa por el Patriarca Polieucto, recibió el santo bautismo, adoptando el nombre de Elena.
+
+Antes de su bautismo, el emperador Constantino pidió la mano de Olga en matrimonio. La astuta Olga, sin embargo, al no desear volver a casarse tras la muerte de su esposo el príncipe Ígor, solicitó hábilmente que Constantino fuera su padrino de bautismo, haciendo así que su unión matrimonial quedara estrictamente prohibida por la Iglesia.
+
+A su regreso a Kiev, Olga instó a su hijo Sviatoslav a aceptar el bautismo, pero él se negó. A pesar de ello, no impidió que otros abrazaran el cristianismo. Aunque el corazón de su hijo permaneció endurecido, su santo ejemplo dio frutos en su nieto San Vladimir, quien en 988 lideró el bautismo masivo del pueblo de Kiev en el río Dniéper.
+
+En el año 968, mientras Sviatoslav libraba una guerra contra los búlgaros, Olga defendió Kiev durante un asedio de los pechenegos, protegiendo a sus nietos Yaropolk, Oleg y Vladimir, y exhortando al pueblo a mantenerse firme. Poco después, la santa princesa reposó en el Señor el 11 de julio de 969.`,
+		},
+		{
+		    name: "San Sofronio de Essex",
+		    title: "El Santo Monje Athonita, Padre Espiritual y Fundador del Monasterio de San Juan el Bautista",
+		    images: [	
+            	        "Img/SofronioEssex.webp",
+            	        "Img/SofronioEssex2.webp",
+            	        "Img/SofronioEssex3.webp",
+            	        "Img/SofronioEssex4.webp",
+            	        "Img/SofronioEssex5.webp",
+            	        "Img/SofronioEssex6.webp",
+		    ],
+			desc: `Hoy también conmemoramos a San Sofronio de Essex.
+
+San Sofronio nació como Serguéi Simeónovich Sájarov en Moscú en 1896. Dotado de talento artístico, estudió en la Academia de Artes entre 1915 y 1917, y luego en la Escuela de Pintura, Escultura y Arquitectura de Moscú.
+
+Fue durante esta época que Serguéi comenzó a alejarse del cristianismo. Durante varios años, exploró el hinduismo, el budismo y el misticismo oriental. Más tarde reflexionó en sus propios escritos que este período marcó una gran caída respecto al verdadero conocimiento de Dios.
+
+En 1921, Serguéi abandonó Rusia: en parte para continuar su carrera artística en Europa Occidental, y en parte por su oposición a los bolcheviques. Se mudó a Francia en 1922, y allí llegó a la conclusión de que el conocimiento racional no podía responder a la pregunta más grande de la humanidad: el misterio de la muerte.
+
+Por la gracia de Dios, Serguéi regresó con un profundo anhelo de estudiar a los Santos Padres de la Iglesia, y comenzó a estudiar teología en el Instituto de San Sergio en París. Viviendo allí en profundo arrepentimiento, decidió trasladarse al Monte Athos.
+
+En 1925 llegó al Monte Athos, al Monasterio de San Pantaleón, donde recibió la tonsura monástica con el nombre de Sofronio. Allí se convirtió en discípulo de San Siluán el Athonita, quien resultaría ser su mayor influencia espiritual. Sofronio publicó más tarde las enseñanzas de su anciano y escribió el primer icono de él, dando a conocer a San Siluán en todo el mundo.
+
+Tras el reposo de San Siluán en 1938, Sofronio abandonó el monasterio para emprender la lucha ascética en el desierto athonita: primero en Karoulia, luego en una cueva cerca del Monasterio de San Pablo. Oró incesantemente y con gran dolor de corazón por el mundo durante toda la Segunda Guerra Mundial. En 1941, fue ordenado al sacerdocio y se convirtió en padre espiritual de muchos monjes athonitas.
+
+Deseando establecer una comunidad monástica en Occidente, San Sofronio se mudó a Inglaterra y fundó el Monasterio de San Juan el Bautista en Essex. Continuando su labor de paternidad espiritual, guio a innumerables almas y publicó escritos sobre la oración, el arrepentimiento, el hesicasmo, la Luz Increada y el conocimiento de Dios a través de la comunión con Cristo. Reposó allí el 11 de julio de 1993.`,
+		}
+	],
 };
