@@ -5300,4 +5300,144 @@ Tras el reposo de San Siluán en 1938, Sofronio abandonó el monasterio para emp
 Deseando establecer una comunidad monástica en Occidente, San Sofronio se mudó a Inglaterra y fundó el Monasterio de San Juan el Bautista en Essex. Continuando su labor de paternidad espiritual, guio a innumerables almas y publicó escritos sobre la oración, el arrepentimiento, el hesicasmo, la Luz Increada y el conocimiento de Dios a través de la comunión con Cristo. Reposó allí el 11 de julio de 1993.`,
 		}
 	],
+		"07-12": [ 
+		{
+		    name: "San Paisio el Athonita",
+		    title: "El Santo Anciano del Monte Athos y Guía Espiritual",
+		    images: [	
+            	        "Img/PaisioAthonita.webp",
+            	        "Img/PaisioAthonita2.webp",
+            	        "Img/PaisioAthonita3.webp",
+            	        "Img/PaisioAthonita4.webp",
+            	        "Img/PaisioAthonita5.webp",
+            	        "Img/PaisioAthonita6.webp",
+            	        "Img/PaisioAthonita7.webp",
+            	        "Img/PaisioAthonita8.webp",
+            	        "Img/PaisioAthonita9.webp",
+            	        "Img/PaisioAthonita10.webp",
+            	        "Img/PaisioAthonita11.webp",
+
+		    ],
+			desc: `Hoy conmemoramos a uno de los santos modernos más amados de la Iglesia Ortodoxa, San Paisio del Monte Athos.
+
+San Paisio nació en 1924 en el pueblo de Farasa, Capadocia (hoy Çamlıca, Kayseri). Recibió el nombre de Arsenio por San Arsenio de Capadocia, quien bautizó al niño y profetizó su futuro monástico. En medio del intercambio de poblaciones greco-turcas, el joven Arsenio y su familia se vieron obligados a abandonar Asia Menor en 1924, estableciéndose finalmente en Konitsa en 1926.
+
+Desde una edad temprana, Arsenio se deleitaba leyendo las vidas de los santos y tenía una devoción especial por Santa Águeda de Palermo. A menudo iba al bosque a orar en silencio. Buscando imitar a Cristo, se dedicó a la carpintería y cultivó las virtudes de la humildad y el amor. Lleno de celo por la vida ascética, declaró que algún día se convertiría en monje.
+
+Arsenio sirvió en el ejército griego durante la Segunda Guerra Mundial, siendo reconocido por su valentía, abnegación y disposición para arriesgar su propia vida y así salvar a soldados que tenían esposas e hijos. Durante la Guerra Civil Griega, oró a la Santísima Theotokos para que no se le exigiera quitar la vida a otro hombre. Su oración fue escuchada y, en su lugar, fue asignado como operador de radio.
+
+Terminada la guerra, y tras asegurarse de que sus hermanas estuvieran provistas, Arsenio quedó libre para seguir su vocación monástica. Llegó al Monte Athos en 1950 y pasó 4 años como novicio en el Monasterio de Esfigmenu. En 1954, recibió la tonsura monástica con el nombre de Averkios. Luego se trasladó al Monasterio de Filoteo, donde su tío era monje, y en 1956 recibió la tonsura del Pequeño Esquema con el nombre de Paisio.
+
+San Paisio cumplió diligentemente sus obediencias manteniendo el silencio y la oración. Aceptó con paciencia cada tarea difícil y reprensión de sus hermanos, recibiendo con gratitud cada oportunidad para adquirir humildad. Siempre fue desinteresado al ayudar a la hermandad y era incapaz de descansar mientras otros trabajaban. Con profunda humildad, consideraba sus propias fallas espirituales como la causa de las deficiencias de su prójimo e incluso de los sufrimientos del mundo.
+
+De 1962 a 1964, Paisio vivió en el Monasterio de Santa Catalina en el Monte Sinaí, donde se dedicó a intensas labores ascéticas. Aunque amaba enormemente la soledad del desierto, la gran altitud y la humedad agravaron su afección respiratoria, obligándolo a regresar al Monte Athos. Allí se convirtió en hijo espiritual del anciano athonita ruso San Tijón, cuya guía moldeó profundamente su vida espiritual (imagen 11).
+
+En 1966, Paisio fue revestido con el Gran Esquema. Durante este mismo período, fue llevado a Tesalónica para una cirugía en la que se le extirpó parte de un pulmón. Un grupo de novicias donó sangre para la intervención. Profundamente agradecido por su amor sacrificial, Paisio formó una amistad de por vida con las hermanas y las ayudó a establecer el Monasterio de San Juan el Teólogo en Souroti.
+
+En 1979 se trasladó a su última morada en la Santa Montaña, la Ermita de Panaguda. Allí su reputación como un anciano portador de Dios se extendió por todo el mundo ortodoxo, atrayendo a innumerables personas que buscaban su guía. Recibía visitantes durante todo el día y dedicaba sus noches a la oración, las vigilias y la lucha ascética, permitiéndose solo dos o tres horas de sueño.
+
+Las exigencias físicas de sus labores, sumadas a una enfermedad respiratoria crónica y una hernia, le causaban gran dolor. Sin embargo, soportó todo con entereza, afirmando con frecuencia que Dios se conmueve especialmente cuando quienes sufren no se quejan, sino que oran por los demás.
+
+En 1993, el deterioro de la salud del santo anciano lo obligó a abandonar su amada Santa Montaña. Aunque tenía la intención de regresar, se le diagnosticó cáncer en Tesalónica y requirió tratamiento inmediato. Esto ocurrió luego de su oración para que Dios le permitiera padecer el cáncer de un hombre que había acudido en busca de su ayuda.
+
+Tras su operación, fue trasladado al Monasterio de San Juan el Teólogo en Souroti. A pesar de su estado crítico, continuó recibiendo visitantes, escuchando con paciencia sus aflicciones y ofreciendo consejo espiritual.
+
+San Paisio reposó en este día en el año 1994. Fue sepultado en el Santo Hesicasterio de San Juan el Teólogo en Souroti, junto a San Arsenio de Capadocia, cuya biografía él mismo había escrito.`,
+		},
+		{
+		    name: "La Conversación entre San Paisio y Santa Eufemia",
+		    title: "El Encuentro Milagroso y la Intercesión por la Iglesia",
+		    images: [	
+            	        "Img/ConversaciónPaisioEufemia.webp",
+            	        "Img/ConversaciónPaisioEufemia2.webp",
+            	        "Img/ConversaciónPaisioEufemia3.webp",
+		    ],
+			desc: `San Paisio atravesó en una ocasión un momento muy difícil. Había surgido un problema en la Iglesia y muchos obispos habían acudido a pedirle ayuda. Sin embargo, era un asunto muy complejo y él no podía asistirles.
+
+Ante este callejón sin salida espiritual, el anciano Paisio oró a Santa Eufemia, ya que ella había resuelto la disputa en la Iglesia mediante su milagro en el Cuarto Concilio Ecuménico de Calcedonia en el año 451: «Santa Eufemia, tú que resolviste milagrosamente el grave problema que la Iglesia enfrentaba entonces, ¡saca a la Iglesia del actual estancamiento!».
+
+Una mañana a las 9:00 a.m., mientras el anciano Paisio leía el oficio de la hora tercia, escuchó que alguien llamaba a su puerta. El anciano preguntó quién era, y una voz de mujer respondió: «Soy yo, Eufemia, padre».
+
+«¿Qué Eufemia?», preguntó Paisio. No hubo respuesta. Llamaron de nuevo a la puerta y volvió a preguntar: «¿Quién es?». La misma voz respondió: «Soy Eufemia, padre».
+
+Hubo un tercer llamado y el anciano sintió que alguien entraba en su celda. Se dirigió a la puerta y allí vio a Santa Eufemia, quien había entrado milagrosamente a través de la puerta cerrada y estaba venerando el icono de la Santa Trinidad que el anciano había colocado en la pared de su pasillo.
+
+El anciano le dijo a la Santa: «Di: Gloria al Padre, al Hijo y al Espíritu Santo». Santa Eufemia repitió claramente esas palabras, y San Paisio se arrodilló y veneró a la Santa.
+
+Posteriormente, compartieron una conversación cuya duración Paisio no pudo precisar, ya que había perdido toda noción del tiempo.
+
+Durante su diálogo, Santa Eufemia dio la solución a todos los asuntos por los que San Paisio había estado orando. Al final de la conversación, el anciano preguntó a Santa Eufemia cómo había soportado su martirio.
+
+La Santa respondió: «Padre, si hubiera sabido entonces cómo sería la vida eterna y la belleza celestial de la que disfrutan las almas al estar junto a Dios, honestamente habría pedido que mi martirio durara para siempre, ¡ya que no fue absolutamente nada en comparación con los dones de la gracia de Dios!».
+
+San Paisio instruyó entonces a las monjas del Monasterio de San Juan el Teólogo en Souroti que pintaran un icono de Santa Eufemia llamando a la puerta (imagen 3).`,
+		},
+		{
+		    name: "Olet, el Ave Amada de San Paisio",
+		    title: "La Carta al Monasterio de San Juan el Teólogo",
+		    images: [	
+            	        "Img/OletPaisio.webp",
+            	        "Img/OletPaisio2.webp",
+            	        "Img/OletPaisio3.webp",
+		    ],
+			desc: `San Paisio escribió esta carta a las monjas del Monasterio de San Juan el Teólogo en Souroti en 1975:
+
+«En su última carta me enviaron un icono de Adán y los animales en el Paraíso. Así que pensé en enviar a mi vez el dibujo de un ave, mi amigo más cercano... Lo he llamado Olet, que en árabe significa 'niño'... Cada tarde le llevo golosinas y bocadillos. Tan pronto como le doy algo de comer, toma un poco y se va... Cuando me dispongo a partir, camina detrás de mí a una distancia de unos 100 metros y yo, para que no siga viniendo detrás de mí y se canse, le dejo una migaja para que se ocupe, y me voy rápido para que me pierda de vista.
+
+¡Últimamente ha abandonado su ascetismo y busca pasarla bien! Ya no come arroz quebrado ni pan seco remojado, sino solo lombrices, las cuales quiere que ponga en un "plato" —la palma de mis manos— y él se sube allí y come. ¡Vaya progreso!
+
+Alguien podría decir: "¿Por qué hace excepciones con Olet? ¿Por qué no hace lo mismo con otras aves?". Yo respondo: "Cuando llamo a Olet para que venga, trae consigo a otras aves, amigos suyos, que corren directamente a la comida, pero Olet viene por obediencia y amor"... Y ahora que el clima se ha vuelto hermoso y encuentra insectos para comer, cuando lo llamo sigue viniendo por obediencia, aunque esté lleno y no le moleste el hambre. Entonces, ¿cómo no alegrarse más por esta ave con filotimo que por las demás?
+
+Muchas veces me conmueve un amor tan grande que quiero apretarlo entre mis manos, pero temo ser como el mono que por amor aprieta a su cría y al final la asfixia. Así que contengo mi corazón y me alegro por él desde lejos, para no hacerle daño.
+
+Un día llegué tarde a la colina y Olet, debido a que había estado piando mucho, había descansado temprano. Dejé su comida y me fui sin verlo. Al día siguiente fui muy temprano, porque me preocupaba que un halcón se lo hubiera comido... Cuando me vio, parecía enloquecido de alegría. Le di de comer, pero quería compañía más que comida. Me maravillo de su ascetismo y del amor que tiene, así como de su gratitud. Oren para que yo pueda imitar sus virtudes».`,
+		},
+		{
+		    name: "Panagia Tricherousa",
+		    title: "El Milagro de San Juan Damasceno y el Icono de las Tres Manos",
+		    images: [	
+            	        "Img/PanagiaTricherousa.webp",
+            	        "Img/PanagiaTricherousa2.webp",
+            	        "Img/PanagiaTricherousa3.webp",
+            	        "Img/PanagiaTricherousa4.webp",
+            	        "Img/PanagiaTricherousa5.webp",
+		    ],
+			desc: `Hoy también conmemoramos la Sinaxis del milagroso icono de la Panagia Tricherousa («La Santísima Madre de las Tres Manos»).
+
+Durante la Primera Iconoclasia Bizantina (726-787), el uso de santos iconos en iglesias y hogares fue prohibido por las autoridades imperiales. Estas políticas iconoclastas fueron acompañadas por la destrucción de imágenes religiosas y la persecución de quienes apoyaban la veneración de los iconos.
+
+En aquel tiempo, San Juan Damasceno, uno de los más grandes defensores de los santos iconos frente a los iconoclastas, pudo escribir sus tratados apologéticos libre de la persecución de las autoridades bizantinas, ya que residía en Damasco, bajo control musulmán.
+
+Incapaz de impedir que Juan escribiera sus defensas de los iconos, el astuto emperador iconoclasta León III el Isaurio (717-740) informó falsamente al califa musulmán de Damasco que Juan había estado cometiendo actos de traición en su contra.
+
+El califa ordenó que le cortaran la mano a Juan y que esta fuera expuesta en la plaza pública. Por la noche, San Juan, habiendo pedido al califa que le devolviera su mano amputada, la unió a su muñeca y se postró en tierra ante el icono de la Madre de Dios. Rogó a la Panagia que sanara esta mano, la cual había utilizado para escribir su defensa de la fe.
+
+Tras una larga oración, se quedó dormido y vio en sueños a la Madre de Dios, quien le prometió una pronta curación. Al despertar, San Juan vio que su mano había sido restaurada milagrosamente. Para mostrar su gratitud por este milagro, San Juan mandó forjar una mano de plata y la colocó en el icono, debajo de la mano de la Panagia que sostenía al Cristo infante. Por esta razón, el icono recibió el nombre de «Las Tres Manos» (como se observa en la imagen 3).
+
+San Juan Damasceno aceptó la vida monástica en el Monasterio de San Sabas el Santificado (hoy conocido como Mar Saba, en Cisjordania) y allí donó su icono milagroso. Cuando San Sava, el primer Arzobispo de Serbia, visitó la Laura en el siglo XIII, los monjes le entregaron el icono de «Las Tres Manos» como obsequio.
+
+San Sava llevó este milagroso icono al Monasterio Serbio de Hilandar en el Monte Athos, donde permanece hasta el día de hoy (imágenes 4 y 5).`,
+		},
+		{
+		    name: "Santa Verónica la Hemorroísa",
+		    title: "La Mujer del Flujo de Sangre y la Distinción Ortodoxa sobre el Velo",
+		    images: [	
+            	        "Img/VerónicaHemorroísa.webp",
+            	        "Img/VerónicaHemorroísa2.webp",
+		    ],
+			desc: `Hoy también conmemoramos a Santa Verónica la Hemorroísa. Es identificada como la mujer anónima en los Evangelios que tocó el manto de Cristo y fue sanada de su flujo de sangre (Marcos 5:21-43, Mateo 9:18-26, Lucas 8:40-56).
+
+Por el Evangelio, sabemos que ella «padecía de flujo de sangre desde hacía doce años, y había sufrido mucho a manos de muchos médicos. Había gastado todo lo que tenía y no había mejorado, sino que le iba peor» (Marcos 5:25-26).
+
+Al escuchar sobre nuestro Señor Jesucristo, se acercó por detrás de Él entre la multitud y tocó Su manto, con la esperanza de ser sanada. Inmediatamente, su hemorragia se detuvo y sintió en su cuerpo que estaba sana de aquel azote.
+
+Al instante, Jesús se dio cuenta de que había salido poder de Él, por lo que se volvió a la multitud y preguntó: «¿Quién ha tocado mis vestidos?». La mujer se postró a Sus pies y, temblando de miedo, le confesó que había sido ella. Cristo entonces le dijo: «Hija, tu fe te ha sanado. Ve en paz y queda sana de tu aflicción».
+
+La «Historia Eclesiástica» de Eusebio, del siglo IV, señala que, en señal de gratitud, Santa Verónica erigió una estatua de Cristo y la colocó frente a su casa, donde todos podían venerarla. Habiendo llevado una vida santa como miembro de la Iglesia primitiva, Santa Verónica entregó su alma a Dios.
+
+La vida de Santa Verónica ha estado sujeta a tradiciones populares, especialmente en la cristiandad occidental, lo que dio origen a la leyenda medieval del Velo de Verónica. Esta narrativa, no mencionada en los Evangelios, sostiene que Verónica vio a Cristo llevar Su Cruz al Gólgota y se conmovió tanto que le ofreció su velo para que pudiera secarse la frente. Jesús lo aceptó, y cuando se lo devolvió, la imagen de Su rostro quedó milagrosamente impresa en él (como se muestra en el icono). Esta reliquia se hizo conocida como el Velo de Verónica, con el cual la tradición sostiene que curó más tarde al emperador Tiberio.
+
+Es importante destacar que la leyenda del Velo de Verónica no es aceptada en la Tradición Ortodoxa, la cual conmemora, en cambio, la tradición de la «Imagen No Hecha por Manos» (Mandylion) el 16 de agosto (sin relación con Santa Verónica). Sin embargo, debido a la confusión histórica, algunos iconógrafos todavía representan a Verónica sosteniendo el velo en sus iconos.`,
+		}
+	],
 };
