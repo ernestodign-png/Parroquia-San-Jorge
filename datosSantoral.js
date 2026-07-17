@@ -5440,4 +5440,31 @@ La vida de Santa Verónica ha estado sujeta a tradiciones populares, especialmen
 Es importante destacar que la leyenda del Velo de Verónica no es aceptada en la Tradición Ortodoxa, la cual conmemora, en cambio, la tradición de la «Imagen No Hecha por Manos» (Mandylion) el 16 de agosto (sin relación con Santa Verónica). Sin embargo, debido a la confusión histórica, algunos iconógrafos todavía representan a Verónica sosteniendo el velo en sus iconos.`,
 		}
 	],
+		"07-17": [ 
+		{
+		    name: "Santa Marina de Antioquía",
+		    title: "La Gran Mártir y Vencedora del Maligno",
+		    images: [	
+            	        "Img/MarinaAntioquía.webp",
+            	        "Img/MarinaAntioquía2.webp",
+            	        "Img/MarinaAntioquía3.webp",
+            	        "Img/MarinaAntioquía4.webp",
+		    ],
+			desc: `Hoy conmemoramos a la Gran Mártir Santa Marina de Antioquía. Sufrió por Cristo a principios del siglo IV, a la edad de 15 años, durante las persecuciones del emperador Diocleciano.
+
+Santa Marina era oriunda de la ciudad de Antioquía, en la provincia romana de Pisidia (en la actual Turquía). Su padre era sacerdote pagano y su madre falleció durante el parto. Dado que su padre estaba demasiado ocupado para cuidarla, la entregó al cuidado de una nodriza que resultó ser cristiana.
+
+Lejos de los ídolos y las prácticas blasfemas de su padre, Marina fue instruida en la fe cristiana por su nodriza. A medida que Marina crecía, su conocimiento y fe en el Dios Verdadero se hicieron tan profundos que, siendo adolescente, hizo un voto de castidad, desposándose con Cristo. Al enterarse de este voto, su propio padre la repudió.
+
+Olimbrio, el gobernador de la región, quedó cautivado por la belleza de la joven y deseó casarse con ella. Cuando Marina le confesó que era cristiana, él intentó persuadirla de renunciar a Cristo mediante halagos y promesas de fama y fortuna. Sin embargo, Marina rechazó todas estas tentaciones de gloria terrenal.
+
+Incluso ante la amenaza de tortura, Marina permaneció firme en su fe. Soportó valientemente crueles tormentos, incluyendo ser golpeada con varas, flagelada con tridentes, atravesada con clavos, quemada con fuego y sumergida tres veces en un caldero de agua hirviendo, en un acto por el cual ella misma se sumergió voluntariamente, sellando así su bautismo.
+
+Una hazaña que distingue a Santa Marina de otros santos mártires es su resistencia física contra Satanás mismo. Un demonio malicioso, al ver que su servidor Olimbrio no podía doblegar la fe de la joven, se desesperó y deseó ponerla a prueba él mismo.
+
+Adoptando una oscura forma de dragón, el demonio se apareció a Marina en su celda. Sin temor, Marina lo agarró por el cuerno y, encontrando un martillo, lo golpeó hasta reducirlo al suelo, humillándolo por completo. Una gran luz iluminó entonces toda la prisión y Marina fue sanada de todas sus heridas.
+
+Al ver que ninguna tortura podía vencer a la Santa, el perverso gobernador ordenó que fuera decapitada. Así, la joven mártir de 15 años recibió su corona eterna en el año 304 d.C.`,
+		}
+	],
 };
