@@ -5467,4 +5467,29 @@ Adoptando una oscura forma de dragón, el demonio se apareció a Marina en su ce
 Al ver que ninguna tortura podía vencer a la Santa, el perverso gobernador ordenó que fuera decapitada. Así, la joven mártir de 15 años recibió su corona eterna en el año 304 d.C.`,
 		}
 	],
+		"07-18": [ 
+		{
+		    name: "San Emiliano de Silistra",
+		    title: "El Santo Mártir y Destructor de Ídolos bajo el Apostasía de Juliano",
+		    images: [	
+            	        "Img/EmilianoSilistra.webp",
+            	        "Img/EmilianoSilistra2.webp",
+		    ],
+			desc: `Hoy conmemoramos al Santo Mártir San Emiliano de Silistra, en Bulgaria. Fue un eslavo que sufrió por Cristo en el siglo IV, durante el reinado del emperador Juliano el Apóstata (361-363).
+
+Aunque el Gran Emperador San Constantino había legalizado previamente el cristianismo en el Imperio Romano tras siglos de brutal persecución, su sucesor, Juliano el Apóstata, un ferviente pagano, buscó restaurar el politeísmo helenístico y revivir la persecución contra los cristianos.
+
+San Emiliano era oriundo de la ciudad tracia de Durostorum (la actual Silistra, en el lado oriental de la frontera entre Bulgaria y Rumania). Vivía como cristiano en secreto y era esclavo de un amo cruel y fanático idólatra pagano.
+
+En una ocasión, el emperador Juliano envió a uno de sus comandantes a Durostorum para ejecutar a los cristianos, pero el oficial no encontró ni uno solo en la ciudad. Regocijándose por ello, el comandante organizó un gran banquete para los ciudadanos y ordenó que se ofrecieran sacrificios a los ídolos.
+
+Esa noche, Emiliano se dirigió a los templos paganos, a los mercados y recorrió las calles de la ciudad, destruyendo todos los ídolos con un martillo de gran tamaño. Al día siguiente, el terror se apoderó de la ciudad, mientras los enfurecidos ciudadanos buscaban al destructor de sus dioses.
+
+La multitud iracunda capturó a un campesino que pasaba por el templo pagano aquella mañana, creyendo que él era el culpable. Mientras la turba comenzaba a golpear al hombre inocente, Emiliano se reveló como el verdadero autor de la destrucción de los ídolos.
+
+Emiliano fue arrestado por las autoridades y llevado a juicio ante el gobernador Capitolino. El enfurecido gobernador preguntó a Emiliano: «¿Quién te impulsó a hacer esto?». El Mártir de Cristo respondió: «Dios y mi alma me ordenaron destruir esos pilares sin vida a los que ustedes llaman dioses». Fue entonces condenado a ser golpeado y quemado vivo.
+
+San Emiliano, sin embargo, no pereció al ser arrojado al fuego. Cuando las llamas finalmente se extinguieron, San Emiliano se recostó sobre las brasas ardientes y entregó voluntariamente su alma al Señor en el año 362 d.C.`,
+		}
+	],
 };
