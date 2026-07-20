@@ -5492,4 +5492,59 @@ Emiliano fue arrestado por las autoridades y llevado a juicio ante el gobernador
 San Emiliano, sin embargo, no pereció al ser arrojado al fuego. Cuando las llamas finalmente se extinguieron, San Emiliano se recostó sobre las brasas ardientes y entregó voluntariamente su alma al Señor en el año 362 d.C.`,
 		}
 	],
+		"07-20": [ 
+		{
+		    name: "El Santo Profeta Elías",
+		    title: "El Celasor de la Ley de Dios, el Taumaturgo y Ascuas de Fuego",
+		    images: [	
+            	        "Img/ProfetaElías.webp",
+            	        "Img/ProfetaElías2.webp",
+            	        "Img/ProfetaElías3.webp",
+		    ],
+			desc: `Hoy conmemoramos al Santo Profeta Elías. Nacido alrededor de 900 años antes de Cristo, fue llamado al ministerio profético en una época en que el pueblo de Israel se había apartado de la fe de sus padres y se había entregado a la adoración de los ídolos paganos.
+
+El Profeta Elías aparece durante el reinado del impío rey Acab quien, influenciado por su esposa Jezabel, promovió el culto al dios cananeo Baal.
+
+Durante este tiempo, Elías se mantuvo como un defensor ferviente del Dios Verdadero, y proclamó ante el rey Acab que una severa sequía caería sobre la tierra como castigo por la apostasía de la nación. Dicha sequía se cumplió, y Elías fue guiado por el Señor a la seguridad de una cueva al otro lado del Jordán. Allí fue alimentado milagrosamente con comida llevada por cuervos.
+
+Tras tres años y medio de sequía, Elías indicó al rey Acab que congregara a todo Israel en el monte Carmelo. Allí, Elías propuso que se prepararan dos altares de sacrificio: uno para él y otro para los profetas de Baal. Insistió en que tanto él como los profetas de Baal ofrecieran un sacrificio de animales en sus respectivos altares, y que el Dios verdadero sería revelado por aquel cuyo sacrificio fuera consumido por el fuego.
+
+Los cielos permanecieron en silencio cuando los profetas de Baal ofrecieron su sacrificio. Entonces Elías construyó su altar con doce piedras, representando a las tribus de Israel, y tras orar a Dios, su sacrificio fue consumido por el fuego. Al presenciar esto, el pueblo cayó al suelo exclamando: «¡El Señor es Dios!», y el rey Acab se arrepintió.
+
+A continuación, Elías ordenó ejecutar a los profetas de Baal y, mediante su oración, cayó abundante lluvia sobre la tierra. La enfurecida reina Jezabel intentó entonces dar muerte a Elías, por lo que este huyó al desierto. Mientras lamentaba la persistente idolatría de Israel y suplicaba a Dios que le quitara la vida, el Señor se apareció a Elías y lo fortaleció para continuar su camino.
+
+Viajó durante cuarenta días hasta el monte Horeb, donde habitó en una cueva. Allí, Dios le mandó ungir al Profeta Eliseo como su sucesor. Más tarde, Elías fue llevado al cielo en un carro de fuego con caballos de fuego, y su manto cayó sobre el Profeta Eliseo.`,
+		},
+		{
+		    name: "Santa María de París",
+		    title: "La Monja, Mártir y Refugio de los Perseguidos en el Holocausto",
+		    images: [	
+            	        "Img/MaríaParís.webp",
+            	        "Img/MaríaParís2.webp",
+            	        "Img/MaríaParís3.webp",
+            	        "Img/MaríaParís4.webp",
+            	        "Img/MaríaParís5.webp",
+            	        "Img/MaríaParís6.webp",
+            	        "Img/MaríaParís7.webp",
+            	        "Img/MaríaParís8.webp",
+		    ],
+			desc: `Hoy también conmemoramos a Santa María Skobtsova, conocida como Santa María de París. Fue una monja ortodoxa que sufrió el martirio en un campo de concentración nazi tras ayudar a dar refugio a judíos durante la Segunda Guerra Mundial.
+
+Santa María (nacida como Elizaveta Yurievna Pilenko en Letonia en 1891) se crió en una familia de la nobleza rusa. Tras casarse dos veces y huir de la revolución rusa junto con sus hijos y su madre, se estableció en París a principios de la década de 1920.
+
+Movida por el llamado del Evangelio a servir a los demás, obtuvo un divorcio eclesiástico y, en 1932, tomó los votos monásticos con el nombre de María, recibiendo la bendición de permanecer activa en el mundo en lugar de vivir en un ascetismo recluido.
+
+En París estableció una «casa de hospitalidad» en la calle Lourmel, un refugio de estilo conventual para pobres, personas sin hogar, emigrados rusos y cualquier persona en necesidad espiritual o material. La casa también se convirtió en un animado centro de reflexión y debate teológico.
+
+Cuando la Alemania nazi ocupó Francia en 1940, María se negó a huir. A partir de 1942, ella y su capellán, el padre Dimitri Klepinin, albergaron a judíos en su casa y emitieron certificados de bautismo falsos para ayudar a salvarlos.
+
+Incluso sacaron de contrabando a niños judíos de la redada del Vel d'Hiv ocultándolos en cubos de basura, mientras María pasó tres días introduciendo comida en el estadio de detención vestida con su hábito monástico.
+
+En febrero de 1943, María, junto con su hijo Yuri y el padre Dimitri, fueron arrestados por la Gestapo tras descubrirse documentos incriminatorios. Yuri y el padre Dimitri murieron más tarde en el campo de concentración de Mittelbau-Dora, mientras que María fue deportada al campo de concentración de Ravensbrück en Alemania (imagen 4).
+
+En Ravensbrück, continuó sirviendo a los demás a pesar de su propio sufrimiento, dirigiendo debates sobre teología y literatura, distribuyendo comida y ofreciendo aliento espiritual a sus compañeras de prisión, todo ello mientras soportaba trabajos forzados, enfermedades, piojos y hambre.
+
+El Sábado Santo de 1945, días antes de que el avance del Ejército Rojo liberara Ravensbrück, Santa María fue llevada a la cámara de gas, donde entregó su alma. Los testigos afirmaron que ocupó voluntariamente el lugar de otra prisionera judía que había sido seleccionada para la ejecución.`,
+		}
+	],
 };
