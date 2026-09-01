@@ -5547,4 +5547,72 @@ En Ravensbrück, continuó sirviendo a los demás a pesar de su propio sufrimien
 El Sábado Santo de 1945, días antes de que el avance del Ejército Rojo liberara Ravensbrück, Santa María fue llevada a la cámara de gas, donde entregó su alma. Los testigos afirmaron que ocupó voluntariamente el lugar de otra prisionera judía que había sido seleccionada para la ejecución.`,
 		}
 	],
+		"09-01": [ 
+		{
+		    name: "El Año Nuevo Eclesiástico",
+		    title: "El Comienzo de la Indicción y la Bendición del Tiempo",
+		    img:"Img/AñoNuevo.webp",
+			desc: `Hoy celebramos el comienzo de la Indicción: el inicio del año litúrgico de la Iglesia. Antes de que los años se numeraran a partir del Nacimiento de Cristo, el Imperio Romano marcaba el 1 de septiembre como el Año Nuevo, y la Iglesia adoptó esta fecha como el principio de su propio ciclo.
+
+Para el mantenimiento de sus ejércitos, los emperadores romanos decretaban que sus súbditos en cada distrito debían pagar impuestos cada año. Cada 15 años, este decreto se renovaba en lo que se conoció como el ciclo de la Indicción (del latín indictio, que significa «proclamación» u «orden»). Al cierre de cada ciclo de 15 años, el Imperio evaluaba los cambios económicos y ajustaba los impuestos en consecuencia.
+
+El 1 de septiembre fue elegido como el inicio del año de la Indicción porque coincidía con la finalización de la cosecha de verano, momento en el cual el Imperio podía evaluar con precisión la producción agrícola y los cambios económicos. La Iglesia adoptó la misma fecha para señalar el comienzo del Año Nuevo Eclesiástico.
+
+Con el tiempo, el enfoque del inicio del año de la Indicción se desplazó de los impuestos hacia la acción de gracias a Dios por la cosecha del año pasado. Para los cristianos, sigue siendo un tiempo para dar gracias por las bendiciones del año transcurrido y para orar por el buen tiempo, las lluvias oportunas y la abundancia de los frutos de la tierra.
+
+También es en este día cuando conmemoramos la entrada de Cristo en la sinagoga para anunciar Su misión a la humanidad (Lucas 4:16–22). Citando Isaías 61:1–2, el Salvador proclamó: «El Espíritu del Señor está sobre mí, por cuanto me ha ungido para dar buenas nuevas a los pobres; me ha enviado a sanar a los quebrantados de corazón, a pregonar libertad a los cautivos, y vista a los ciegos; a poner en libertad a los oprimidos; a predicar el año agradable del Señor...».
+
+El Año Nuevo Eclesiástico nos recuerda que el ritmo perfecto de las estaciones y el paso del tiempo son dones de Dios. Como declara el Génesis, el tiempo y la creación están bajo Su providencia: «En el principio creó Dios los cielos y la tierra» (Génesis 1:1). El himno de la Indicción hace eco de esta verdad: «Oh Señor de todo, que con Tu poder has establecido los tiempos y las estaciones, bendice la corona de este año con Tu bondad...».`,
+		},
+		{
+		    name: "Las Santas Cuarenta Vírgenes Mártires y San Ammón",
+		    title: "El Triunfo de la Fe y la Pureza en Tracia",
+		    img: "Img/CuarentaVírgenes.webp",
+			desc: `Hoy también conmemoramos a las Santas Cuarenta Vírgenes Mártires y a su maestro, el santo diácono Ammón. Sufrieron por Cristo a principios del siglo IV, durante el reinado del emperador Licinio.
+
+Estas santas mujeres vivían como ascetas en Adrianópolis, Tracia, bajo la guía espiritual de San Ammón el Diácono. Babdos, el gobernante de la región, las arrestó e intentó obligarlas a adorar a los ídolos paganos.
+
+De pie ante los ídolos, las mujeres fieles y el diácono Ammón oraron fervientemente a Dios. Inmediatamente, los ídolos se destrozaron y el malvado sacerdote pagano fue levantado y suspendido en el aire por una fuerza invisible. Permaneció allí durante muchas horas hasta que finalmente cayó y murió.
+
+Babdos ordenó entonces que San Ammón fuera suspendido para desgarrar sus costados y quemar sus heridas con velas encendidas; luego le colocaron un casco de bronce al rojo vivo en la cabeza, pero milagrosamente fue librado de estas torturas. Las santas mártires fueron llevadas entonces ante el gobernante Licinio en Heraclea.
+
+Allí fueron arrojadas por Licinio a las fieras, pero mientras las santas mujeres y su maestro oraban, los animales se durmieron y no las tocaron. Mientras los soldados encendían fuego para arrojar a los mártires, ellas le predijeron al impío Licinio la victoria de su coemperador San Constantino el Grande, el triunfo del cristianismo y la erradicación de la idolatría.
+
+Diez de las santas vírgenes fueron arrojadas al fuego, donde entregaron sus almas; ocho fueron decapitadas junto con el diácono Ammón; diez fueron ejecutadas tras ser apuñaladas en el corazón con una espada, o después de que se les introdujeran hierros al rojo vivo en la boca. De las últimas doce, seis murieron tras colocarles bolas de metal caliente en la boca, y seis fueron apuñaladas con cuchillos.
+
+Los nombres de estas Cuarenta Santas Vírgenes son: Adamantina, Atenea, Akrive, Antígona, Arivea, Aspasia, Afrodita, Dione, Dodone, Elpinike, Erasmia, Erato, Ermeneia, Evterpe, Thaleia, Theanoe, Theano, Theonymphe, Theophane, Kalliroe, Kalliste, Kleio, Kleonike, Kleopatra, Koralia, Lambro, Margarita, Marianthe, Melpomene, Moscho, Ourania, Pandora, Penélope, Polymnia, Polynike, Sapfo, Terpsícore, Troada, Haido y Harikleia.`,
+		},
+		{
+		    name: "San Simeón el Estilita",
+		    title: "El Asceta del Pilar, Padre del Estilitismo y Testigo de la Fe",
+		    images: [	
+            	        "Img/SimeónEstilita.webp",
+            	        "Img/SimeónEstilita2.webp",
+            	        "Img/SimeónEstilita3.webp",
+            	        "Img/SimeónEstilita4.webp",
+            	        "Img/SimeónEstilita5.webp",
+		    ],
+			desc: `Hoy también conmemoramos a San Simeón el Estilita. Fue un monje del siglo V que llevó una vida de intenso ascetismo en la cúspide de un pilar de ochenta pies de altura.
+
+San Simeón nació en el año 390 en la aldea capadocia de Sisán, de padres cristianos. A los trece años, su primera obediencia consistió en cuidar el rebaño de ovejas de su padre.
+
+En su juventud, se sintió profundamente conmovido tras escuchar las Bienaventuranzas en la iglesia y decidió ingresar a un monasterio. A los dieciocho años, recibió la tonsura monástica y se entregó a la abstinencia estricta y a la oración incesante.
+
+Su celo superó al de sus hermanos hasta tal punto que el abad le indicó a Simeón que moderara sus obras ascéticas o abandonara el monasterio. Por lo tanto, se retiró a una cueva durante tres años, donde pudo llevar a cabo sus grandes luchas ascéticas.
+
+A medida que su santa reputación crecía, las multitudes comenzaron a congregarse alrededor del monje. Huir de la gloria mundana y buscar recuperar su soledad lo llevó a encontrar un pilar de ocho pies de altura entre las ruinas de Taladá, en Siria, y habitó en una pequeña plataforma que instaló en la cima.
+
+Para comprobar si sus extremas proezas ascéticas provenían de la humildad o del orgullo, los ancianos monjes le enviaron un mensaje ordenándole, en nombre de los padres del desierto, que descendiera de su pilar.
+
+Si desobedecía por soberbia, lo arrastrarían por la fuerza hasta el suelo, pero si estaba dispuesto a someterse, lo dejarían en paz. San Simeón demostró una total obediencia y humildad, por lo que los monjes lo dejaron en su pilar.
+
+San Simeón incrementó gradualmente la altura del pilar hasta alcanzar los ochenta pies, y recibía sus alimentos mediante un cubo que izaba con una cuerda. Fue tan admirado por el emperador Teodosio II y por los jerarcas de la Iglesia que mandaron a construir un muro protector alrededor para evitar que las ruidosas multitudes perturbaran su silencio de oración.
+
+El santo ni siquiera hizo una excepción para permitir que su propia madre cruzara los muros para verlo, y le decía: «Si somos dignos, nos veremos en la vida venidera».
+
+Muchos paganos aceptaron el bautismo, impresionados por la firmeza fiel y la fortaleza que el Señor otorgaba a Su siervo. San Simeón reposó en el 459, habiendo pasado cuarenta y siete años de ascetismo sobre su pilar.
+
+En el siglo V, se erigió una iglesia en el sitio del pilar de San Simeón, al noroeste de Alepo, en Siria. En la actualidad, sin embargo, solo se conservan algunos restos del pilar (imagen 5).`,
+		}
+	],
 };
