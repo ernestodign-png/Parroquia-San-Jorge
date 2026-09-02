@@ -5615,4 +5615,35 @@ Muchos paganos aceptaron el bautismo, impresionados por la firmeza fiel y la for
 En el siglo V, se erigió una iglesia en el sitio del pilar de San Simeón, al noroeste de Alepo, en Siria. En la actualidad, sin embargo, solo se conservan algunos restos del pilar (imagen 5).`,
 		}
 	],
+		"09-02": [ 
+		{
+		    name: "San Mamés de Cesarea",
+		    title: "El Mártir Joven, Pastor de Fieras y Testigo de Cristo",
+		    images: [	
+            	        "Img/MamésCesarea.webp",
+            	        "Img/MamésCesarea2.webp",
+            	        "Img/MamésCesarea3.webp",
+            	        "Img/MamésCesarea4.webp",
+            	        "Img/MamésCesarea5.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos al Santo Mártir San Mamés de Cesarea. Sufrió por Cristo en el año 275 d.C., a la edad de tan solo quince años.
+
+San Mamés era oriundo de la ciudad de Gangra, en Paflagonia (la actual Çankırı, Turquía), y fue hijo de padres piadosos que habían confesado su fe en Cristo. Nació en una celda de prisión en el año 260 d.C., ya que sus padres habían sido arrestados por los paganos a causa de su fe.
+
+Después de que sus padres entregaron sus almas al Señor en prisión, el huérfano Mamés fue confiado al cuidado de una mujer cristiana adinerada llamada Ammia. Como él llamaba continuamente «mamá» a su madre adoptiva, esta lo llamó Mamés.
+
+Criado en la piedad, San Mamés se distinguió desde la infancia por su celo y elocuencia. Mediante conversaciones prudentes y su fiel ejemplo, el joven Mamés convirtió a muchos de sus propios compañeros al cristianismo.
+
+El gobernador pagano Demócrito fue informado de esto, y el joven Mamés, de quince años, fue arrestado y enviado para ser torturado por el emperador romano Aureliano. El emperador intentó la bondad y las amenazas para convertir a Mamés de regreso a la fe pagana, pero el santo continuó confesando a Cristo.
+
+Tras ser azotado con varas, San Mamés fue arrojado al mar para ser ahogado, pero fue salvado por un ángel del Señor. El santo se retiró entonces a una cueva, donde el bienaventurado fue alimentado con leche de cierva. También recibió de Dios la capacidad de domar bestias salvajes, llegando incluso a entablar amistad con un león.
+
+El gobernador romano envió soldados para arrestar a San Mamés, pero cuando lo encontraron en la montaña, no lo reconocieron y lo tomaron por un simple pastor. El santo invitó entonces a los soldados a su morada, les dio leche y les reveló su nombre, sabiendo que esto lo conduciría a su muerte.
+
+Mamés indicó a los soldados que se adelantaran a Cesarea, prometiendo que él los seguiría pronto. Los soldados lo esperaron a las puertas de la ciudad, y San Mamés, montado sobre su compañero león, se encontró con ellos allí.
+
+Entregándose a sus verdugos, San Mamés fue arrojado a un horno ardiente y echado para ser devorado por fieras. Ileso de estas torturas, finalmente entregó su alma tras ser atravesado con una lanza de hierro.`,
+		}
+	],
 };
