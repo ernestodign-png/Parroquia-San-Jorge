@@ -5646,4 +5646,28 @@ Mamés indicó a los soldados que se adelantaran a Cesarea, prometiendo que él 
 Entregándose a sus verdugos, San Mamés fue arrojado a un horno ardiente y echado para ser devorado por fieras. Ileso de estas torturas, finalmente entregó su alma tras ser atravesado con una lanza de hierro.`,
 		}
 	],
+		"09-06": [ 
+		{
+		    name: "El Milagro del Arcángel Miguel en Chonae",
+		    title: "La Protección Celestial y la Salvación de las Aguas",
+		    img:"Img/MilagroArcángel.webp",
+			desc: `Hoy conmemoramos el milagro obrado por el santo Arcángel Miguel en Chonae (la actual Honaz, Turquía), el cual tuvo lugar en el siglo II.
+
+Los Santos Apóstoles Felipe y Bartolomé predicaron el Evangelio en Colosas. Tras convertir a muchos paganos al cristianismo, profetizaron que este lugar sería visitado por el comandante de las huestes celestiales, el santo Arcángel Miguel.
+
+Poco después, por providencia del Señor, un manantial de sanación brotó milagrosamente en Chonae. Todos los días, personas enfermas y aquejadas de dolencias visitaban la fuente para ser sanadas, y muchas, tras recibir la salud, eran bautizadas en el nombre de la Santísima Trinidad.
+
+Un hombre pagano de origen griego, que se encontraba en gran dolor debido a que su hija había nacido muda, recibió un sueño en el que se le anunciaba que ella sanaría en el manantial del Arcángel Miguel. El hombre pagano se despertó temblando y llevó a su hija hasta allí.
+
+Al ver a las numerosas personas afligidas que se sanaban en el manantial, el hombre preguntó qué nombre invocaban al beber el agua y verterla sobre sus heridas. Los cristianos le respondieron que invocaban el nombre de la Santísima Trinidad, y sin dudarlo, el pagano creyó.
+
+Suplicando al Señor mientras bebían de la fuente, el hombre fue sanado de sus padecimientos y su hija recuperó el habla. En agradecimiento, construyó una iglesia en honor al Arcángel Miguel junto al manantial.
+
+Transcurridos varios años, un hombre piadoso llamado Arquipo fue designado guardián de la iglesia y se dedicó al ayuno y la oración. Envidiosos de los milagros que ocurrían en el lugar y de la piedad de Arquipo, los paganos intentaron destruir el templo y el manantial.
+
+Los paganos conspiraron para inundar el lugar sagrado uniendo los ríos Likocastos y Kufós, que rodeaban la iglesia, y desviando su caudal conjunto directamente hacia ella.
+
+Arquipo reconoció la maldad de sus intenciones y, a través de su oración, se apareció el Arcángel Miguel, quien con su báculo abrió una fisura en una roca y ordenó que los torrentes de agua desbordados fluyeran hacia ella. La iglesia fue salvada, y el lugar fue llamado «Chonae», que significa «precipicio» o «hundimiento», debido a que las aguas del río se precipitaron en la hendidura.`,
+		}
+	],
 };
