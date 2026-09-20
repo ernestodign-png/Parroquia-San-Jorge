@@ -5670,4 +5670,38 @@ Los paganos conspiraron para inundar el lugar sagrado uniendo los ríos Likocast
 Arquipo reconoció la maldad de sus intenciones y, a través de su oración, se apareció el Arcángel Miguel, quien con su báculo abrió una fisura en una roca y ordenó que los torrentes de agua desbordados fluyeran hacia ella. La iglesia fue salvada, y el lugar fue llamado «Chonae», que significa «precipicio» o «hundimiento», debido a que las aguas del río se precipitaron en la hendidura.`,
 		}
 	],
+		"09-20": [ 
+		{
+		    name: "San Eustaquio el Plácido",
+		    title: "El Gran Mártir, General Romano y Confesor Inquebrantable",
+		    images: [	
+            	        "Img/EustaquioPlácido.webp",
+            	        "Img/EustaquioPlácido2.webp",
+            	        "Img/EustaquioPlácido3.webp",
+            	        "Img/EustaquioPlácido4.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos al Gran Mártir San Eustaquio, junto con su esposa Teopisti y sus hijos Agapio y Teopisto.
+
+San Eustaquio nació con el nombre de Plácido y fue un ilustre general militar de Roma durante el reinado del emperador Trajano (98-117). Incluso antes de conocer a Cristo, era conocido por su virtud y su caridad hacia los pobres.
+
+Un día, mientras cazaba en el bosque, Plácido persiguió a un ciervo y advirtió una Cruz radiante entre sus astas. Una voz divina le habló entonces desde la Cruz diciendo: «Yo soy Jesucristo, a quien no conoces, pero mediante tus buenas obras, me honras».
+
+La voz llamó a Plácido y a su familia al bautismo, y profetizó que sufriría muchas desgracias semejantes a las de Job, pero que vencería al diablo. Plácido fue bautizado con el nombre de Eustaquio («Constante» o «Firme»).
+
+Pronto, Eustaquio se vio sumergido en la desgracia: todos sus criados murieron a causa de la peste y su ganado pereció, por lo que él y su familia abordaron un barco con destino a Egipto.
+
+El dueño del barco, cautivado por la belleza de Teopisti, arrojó a Eustaquio y a sus dos hijos fuera de la embarcación, reteniendo a la esposa del santo para sí mismo. Con profundo dolor, Eustaquio continuó su camino con sus hijos.
+
+Mientras intentaba cruzar con sus hijos un río peligroso de uno en uno, un león arrebató a uno de ellos, y un lobo se llevó al otro hacia el bosque.
+
+Habiendo perdido a toda su familia, Eustaquio lloró amargamente. Sin embargo, no sabía que el propietario del barco que se había llevado a su esposa había muerto de una enfermedad manteniéndola intacta, ni que unos pastores habían rescatado a sus hijos de las bestias.
+
+Eustaquio regresó a Roma y fue restituido en su rango militar anterior. Por divina providencia, dos jóvenes soldados reclutados para servir bajo su mando eran sus hijos, y su esposa era cuidadora de los soldados. Así, durante una campaña militar romana contra los bárbaros, la familia se reunió milagrosamente.
+
+Tras derrotar a los bárbaros, el nuevo emperador Adriano (117-138) ordenó a los soldados que ofrecieran sacrificios a los ídolos. Fiel a su nombre, Eustaquio se negó con firmeza, declarando que solo glorificaría a Cristo.
+
+El enfurecido emperador ordenó que San Eustaquio y su familia fueran quemados vivos dentro de un toro de bronce.`,
+		}
+	],
 };
