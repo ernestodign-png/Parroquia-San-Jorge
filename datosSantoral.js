@@ -5704,4 +5704,96 @@ Tras derrotar a los bárbaros, el nuevo emperador Adriano (117-138) ordenó a lo
 El enfurecido emperador ordenó que San Eustaquio y su familia fueran quemados vivos dentro de un toro de bronce.`,
 		}
 	],
+		"09-25": [ 
+		{
+		    name: "Panagia Engymonousa",
+		    title: "La Madre de Dios Embarazada y Protectora de la Vida",
+		    images: [	
+            	        "Img/PanagiaEngymonousa.webp",
+            	        "Img/PanagiaEngymonousa2.webp",
+            	        "Img/PanagiaEngymonousa3.webp",
+            	        "Img/PanagiaEngymonousa4.webp",
+            	        "Img/PanagiaEngymonousa5.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a la Panagia Engymonousa («la que está encinta»), protectora y guardiana de todas las mujeres embarazadas y de las familias que anhelan tener hijos. El icono de la Panagia Engymonousa representa a la Santísima Virgen con seis meses de embarazo del Señor en su vientre, un milagro y un misterio tan sublime que es cubierta con un velo por los Santos Arcángeles.
+
+El motivo por el cual se conmemora su embarazo de seis meses en este día es porque exactamente hace medio año, el 25 de marzo, celebramos su Anunciación por el Arcángel Gabriel, la cual dio lugar a la concepción; y en exactamente tres meses, el 25 de diciembre, celebraremos el nacimiento de nuestro Señor.
+
+Aunque son muy raras, las representaciones de la Madre de Dios embarazada se remontan al siglo XI, siendo la más famosa la de la Theotokos de Blanquerna (imagen 3), donde la figura de Cristo realiza el gesto de bendición dentro de un medallón en su vientre, mientras ella permanece de pie con ambas manos alzadas en oración, significando que lleva en su seno a Dios el Verbo.
+
+En 2018, el icono de la Panagia Engymonousa (imagen 4) fue presentado en la Iglesia de San Estiliano, en el pueblo de Kallithea, en Katerini, Grecia (imagen 5). Este constituye un hogar apropiado para el icono, pues así como la Panagia Engymonousa es la protectora de las mujeres encintas, San Estiliano es el protector de los infantes y los niños.`,
+		},
+		{
+		    name: "Santa Eufrosina de Alejandría",
+		    title: "La Asceta Disfrazada y el Reencuentro con el Padre",
+		    images: [	
+            	        "Img/EufrosinaAlejandría.webp",
+            	        "Img/EufrosinaAlejandría2.webp",
+		    ],
+			
+			desc: `Hoy también conmemoramos a Santa Eufrosina de Alejandría. Fue una santa asceta que se disfrazó de hombre para poder ingresar a un monasterio, donde vivió durante treinta y ocho años.
+
+Santa Eufrosina nació en la ciudad egipcia de Alejandría en el año 410 d.C., en el seno de una familia adinerada y piadosa. Su madre falleció cuando ella tenía doce años, y al cumplir los dieciocho, su padre Pafnuncio quiso que contrajera matrimonio.
+
+Pafnuncio llevó a su hija a un monasterio cercano para recibir la bendición del abad de cara a sus nupcias. Estando allí, Eufrosina quedó cautivada por la piedad y la humildad de los monjes.
+
+Anhelando la vida monástica, Eufrosina repartió sus bienes entre los pobres y abandonó su hogar en secreto. Temiendo que su padre la encontrara en un convento femenino, optó por ocultar su identidad ingresando en un monasterio masculino.
+
+Tras cortarse el cabello y disfrazarse de hombre bajo el nombre de Esmaragdo, fue aceptada en el monasterio. Allí luchó en el ascetismo durante treinta y ocho años.
+
+Pafnuncio envió emisarios a tierras lejanas en busca de su hija, pero no pudo ser hallada, y él quedó sumido en la tristeza y el luto.
+
+Mas por divina providencia, en el año 470 d.C., hacia el final de la vida terrenal de Santa Eufrosina, su acongojado padre llegó al mismo monasterio donde ella se ocultaba para buscar la guía espiritual de los monjes. Los religiosos le presentaron a su «hermano» más ejemplar, el sabio anciano Esmaragdo.
+
+Cuando Pafnuncio entró en la celda del anciano, los ojos de Eufrosina se llenaron de lágrimas al ver cuánto había sufrido su padre por la pérdida de su hija. Pafnuncio lloró ante el monje sin reconocer que se trataba en realidad de su propia hija.
+
+Santa Eufrosina le dirigió únicamente las palabras «Oh, padre», y con ello entregó su alma al Señor. Habiendo anhelado durante treinta y ocho años ver a su hija, Pafnuncio cayó al suelo con asombro al comprender que aquel radiante monje era su hija Eufrosina.
+
+Después de que Santa Eufrosina fue sepultada, su padre, Pafnuncio, se hizo monje en el mismo monasterio y heredó la celda donde su hija había laborado. Permaneció allí durante diez años, y más tarde fue sepultado en la misma tumba junto a Santa Eufrosina.`,
+		},
+		{
+		    name: "San Sergio de Rádonezh",
+		    title: "El Abanderado de Rusia, Forjador de Almas y Fundador de la Trinidad",
+		    images: [	
+            	        "Img/SergioRádonezh.webp",
+            	        "Img/SergioRádonezh2.webp",
+            	        "Img/SergioRádonezh3.webp",
+            	        "Img/SergioRádonezh4.webp",
+            	        "Img/SergioRádonezh5.webp",
+            	        "Img/SergioRádonezh6.webp",
+            	        "Img/SergioRádonezh7.webp",
+            	        "Img/SergioRádonezh8.webp",
+            	        "Img/SergioRádonezh9.webp",
+            	        "Img/SergioRádonezh10.webp",
+            	        "Img/SergioRádonezh11.webp",
+            	        "Img/SergioRádonezh12.webp",
+            	        "Img/SergioRádonezh13.webp",
+            	        "Img/SergioRádonezh14.webp",
+            	        "Img/SergioRádonezh15.webp",
+            	        "Img/SergioRádonezh16.webp",
+            	        "Img/SergioRádonezh17.webp",
+            	        "Img/SergioRádonezh18.webp",
+
+		    ],
+			
+			desc: `San Sergio nació con el nombre de Bartolomé en la aldea de Varnitsa, cerca de Rostov, en el año 1314. El bendito niño ayunaba incluso desde su infancia, negándose a mamar los miércoles y viernes.
+
+Burlado por sus compañeros de clase, Bartolomé oró con lágrimas para que el Señor le concediera la capacidad de leer. Mientras caminaba por un campo un día, el niño vio a un ángel que se apareció como un monje bajo un roble. Tras comer un trozo de prosfora entregado por este monje, el niño pudo leer sin dificultad y comenzó a estudiar las Sagradas Escrituras.
+
+Tras la muerte de sus padres, Bartolomé se retiró a vivir como ermitaño en el bosque cercano a Rádonezh. Debido a su gran humildad y mansedumbre, animales salvajes y bandadas de aves visitaban a menudo al santo, domesticándose ante su presencia. También construyó una pequeña iglesia dedicada a la Santísima Trinidad, conocida hoy como la famosa Laura de la Trinidad y San Sergio.
+
+En 1337, Bartolomé recibió la tonsura monástica con el nombre de Sergio. Habiendo adquirido numerosos dones espirituales, muchos monjes acudían a él en busca de su sabio consejo. Pronto se formó una pequeña hermandad monástica en el monasterio.
+
+Distinguido por su amor extraordinario al trabajo, San Sergio construyó varias celdas para los monjes con sus propias manos. Combinando este trabajo con la oración, la vigilia y el ayuno, también acarreaba agua, cortaba leña, horneaba pan, cosía ropa y preparaba alimentos para los hermanos.
+
+A petición de los monjes, San Sergio fue ordenado abad del monasterio en 1354. Su santa reputación llegó incluso a Constantinopla, y el Patriarca Filoteo le envió un hábito de esquema confeccionado especialmente para él.
+
+San Sergio obró muchos milagros a través de sus oraciones, incluyendo hacer brotar un manantial de agua, resucitar a un niño difunto ante su afligido padre y sanar a muchas personas enfermas que acudían a él desde aldeas circundantes y lugares remotos.
+
+En 1380, antes de una batalla contra los mongoles-tártaros, el príncipe Demetrio Ioánnovich acudió a recibir la bendición de San Sergio, quien profetizó con exactitud la victoria rusa.
+
+Cierta vez, mientras San Sergio oraba en su celda, la Theotokos se le apareció junto a los apóstoles Pedro y Juan, prometiendo ser la Protectora de su monasterio. Reposó en este día en el año 1392.`,
+		}
+	],
 };
