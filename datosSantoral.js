@@ -5796,4 +5796,25 @@ En 1380, antes de una batalla contra los mongoles-tártaros, el príncipe Demetr
 Cierta vez, mientras San Sergio oraba en su celda, la Theotokos se le apareció junto a los apóstoles Pedro y Juan, prometiendo ser la Protectora de su monasterio. Reposó en este día en el año 1392.`,
 		}
 	],
+		"10-04": [ 
+		{
+		    name: "Sinaxis de Todos los Santos de Chipre",
+		    title: "La Isla de los Santos, la Fundación Apostólica y el Legado de la Cruz",
+		    img:"Img/SinaxisChipre.webp",
+			
+			desc: `Hoy, el primer domingo de octubre, conmemoramos la Sinaxis de todos los santos que han resplandecido en Chipre, la «Isla de los Santos».
+
+Desde los tiempos apostólicos hasta el día de hoy, conocemos a doscientos cuarenta santos de Chipre, y muchos más permanecen en el anonimato. Existen asimismo numerosos santos conocidos únicamente por el pueblo chipriota, preservados por la tradición local, que no figuran en el sinaxario oficial. Por esta razón, el primer domingo de octubre se conmemora a todos los santos de la isla de Chipre, tanto los conocidos como los desconocidos.
+
+En la base del icono observamos a los santos apóstoles Bernabé y Pablo sosteniendo la Iglesia de Chipre. San Bernabé era oriundo de la isla y es considerado el primer obispo y fundador de la Iglesia chipriota. Ambos predicaron allí juntos durante el primer viaje misionero de san Pablo.
+
+Detrás de ellos vemos a los santos Constantino y Elena, quienes fundaron el Monasterio de Stavrovouni (representado directamente a sus espaldas) en el año 327 d.C. Este monasterio se alza en la cumbre de una colina llamada Stavrovouni («la montaña de la Cruz») y debe su nombre a que es uno de los pocos lugares que conserva hasta el día de hoy un fragmento de la Santa Cruz en la que Cristo fue crucificado. La tradición sostiene que, tras hallar la Vera Cruz en Jerusalén, santa Elena se detuvo en Chipre en su viaje de regreso a Constantinopla y dejó allí esta porción.
+
+Entre los apóstoles y santos padres que predicaron en la isla, también vemos a Lázaro de Betania quien, después de ser resucitado de entre los muertos por Cristo, predicó el Evangelio en Chipre y se convirtió en el primer obispo de Kitión (la actual Lárnaca). Una gran iglesia en Lárnaca dedicada a san Lázaro resguarda su tumba y sus reliquias.
+
+Este icono del coro de santos que laboraron en la isla incluye además a: san Marcos el Evangelista, san Espiridón de Trimitunte, san Neófito el Recluso, san Juan Lampadista, san Juan el Misericordioso, santa Fotina de Chipre, san Epifanio de Salamina y san Filúmeno del Pozo de Jacob.
+
+En la parte superior del icono se aprecia a la Panagia encerrada en un halo que porta varios de sus nombres y títulos asociados con Chipre: «Machairiotissa», «Kykkotissa» y «Trooditissa».`,
+		}
+	],
 };
