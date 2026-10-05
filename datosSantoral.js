@@ -5817,4 +5817,35 @@ Este icono del coro de santos que laboraron en la isla incluye además a: san Ma
 En la parte superior del icono se aprecia a la Panagia encerrada en un halo que porta varios de sus nombres y títulos asociados con Chipre: «Machairiotissa», «Kykkotissa» y «Trooditissa».`,
 		}
 	],
+		"10-05": [ 
+		{
+		    name: "Santa Caritina de Amisos",
+		    title: "La Virgen Mártir y Testigo Incorruptible de Cristo",
+		    images: [	
+            	        "Img/CaritinaAmisos.webp",
+            	        "Img/CaritinaAmisos2.webp",
+            	        "Img/CaritinaAmisos3.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a la Santa Virgen Mártir Caritina de Amisos. Sufrió por Cristo en el año 304 d.C., durante las persecuciones del emperador romano Diocleciano.
+
+Santa Caritina nació en Amisos del Ponto (actual Samsun, Turquía) en el año 287 d.C. Huerfana desde muy joven, se convirtió en criada de un hombre cristiano eminente llamado Claudio, quien la crió como si fuera su propia hija.
+
+La joven Caritina era muy hermosa, humilde, bondadosa y mansa. Estudiaba la ley de Dios día y noche y prometió vivir en virginidad como esposa de Cristo. Aunque aún no estaba bautizada, transmitía su amor por Cristo a los demás, convirtiendo a muchos paganos al camino de la salvación.
+
+Esto llamó la atención del gobernador pagano Domicio, quien envió una carta a Claudio exigiéndole que le entregara a Caritina.
+
+Claudio se afligió ante la perspectiva de perder a Caritina, pero la joven mártir lo consoló diciendo: «No te entristezcas, maestro mío, sino regocíjate, porque he de ser considerada cercana a Dios, como un sacrificio aceptable por mis pecados y por los tuyos».
+
+Caritina fue llevada a juicio y el juez le preguntó si había estado engañando a la gente al conducirla al cristianismo. A esto respondió con valentía: «Es verdad que soy cristiana, y mentira que engañe a otros. Guío a los que están en el error hacia el camino de la verdad, llevándolos a mi Cristo».
+
+El juez condenó a la joven santa a los tormentos más crueles: le colocaron carbones encendidos sobre la cabeza, le atravesaron los pechos con varas llameantes y le rociaron vinagre sobre las heridas.
+
+Luego le cortaron el cabello a Caritina, la ataron a una piedra y la arrojaron al mar. La santa aceptó este tormento con alegría como su bautismo y, milagrosamente, salió del mar ilesa.
+
+A continuación, fue atada a una rueda que comenzó a girar sobre carbones ardientes, pero un ángel de Dios detuvo la rueda y Caritina volvió a quedar indemne. A esto le siguió la extracción de los clavos de sus manos y pies.
+
+El perverso juez envió entonces a unos jóvenes licenciosos para violar a Caritina. La santa oró para que el Señor la recibiera en Su Reino eterno y, en ese instante, entregó su alma antes de que aquellos hombres pudieran mancillar su cuerpo virginal.`,
+		}
+	],
 };
