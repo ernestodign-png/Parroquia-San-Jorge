@@ -5848,4 +5848,38 @@ A continuación, fue atada a una rueda que comenzó a girar sobre carbones ardie
 El perverso juez envió entonces a unos jóvenes licenciosos para violar a Caritina. La santa oró para que el Señor la recibiera en Su Reino eterno y, en ese instante, entregó su alma antes de que aquellos hombres pudieran mancillar su cuerpo virginal.`,
 		}
 	],
+		"10-06": [ 
+		{
+		    name: "El Santo Apóstol Tomás",
+		    title: "El Mellizo, Confesor de la Resurrección y Evangelizador de la India",
+		    images: [	
+            	        "Img/ApóstolTomás.webp",
+            	        "Img/ApóstolTomás2.webp",
+            	        "Img/ApóstolTomás3.webp",
+            	        "Img/ApóstolTomás4.webp",
+            	        "Img/ApóstolTomás5.webp",
+            	        "Img/ApóstolTomás6.webp",
+            	        "Img/ApóstolTomás7.webp",
+
+		    ],
+			
+			desc: `Hoy conmemoramos al Santo Apóstol Tomás. Originario de la ciudad galilea de Betsaida, era pescador de profesión y respondió al llamado de Cristo para convertirse en uno de sus Doce Apóstoles originales.
+
+En un principio, Tomás no creyó en los testimonios de los demás discípulos acerca de la Resurrección. Declaró que no creería a menos que viera las marcas de los clavos en las manos de Cristo y pusiera su dedo en el lugar de los clavos, y su mano en el costado del Señor (Juan 20:25).
+
+Al octavo día de la Resurrección, Cristo se apareció a Tomás y le invitó a examinar Sus llagas. Al tocar la carne del Señor resucitado, Tomás proclamó su fe con una de las confesiones más profundas de las Escrituras: «¡Señor mío y Dios mío!» (Juan 20:28).
+
+Después de la venida del Espíritu Santo en Pentecostés, le tocó en suerte a Tomás predicar el Evangelio en la India. Allí, debido a sus habilidades en la construcción, fue comisionado por el rey Gundofer para edificarle un gran palacio real.
+
+El rey le entregó una gran cantidad de oro para el proyecto, el cual Tomás repartió íntegramente entre los pobres y necesitados. Cuando el rey le pidió cuentas y más oro para terminar el techo, el apóstol volvió a distribuirlo, explicando que su verdadera intención era edificar moradas espirituales y cimentar la Iglesia mediante la conversión de las almas al Dios Verdadero.
+
+Al enterarse de lo ocurrido, el enfurecido monarca lo arrestó y le exigió ver la obra. Tomás respondió: «En esta vida no puedes ver este palacio, pero cuando partas de este mundo, lo contemplarás y gozarás de él por los siglos de los siglos».
+
+Sintiéndose burlado, el rey ordenó encarcelarlo. Esa misma noche, el hermano del rey tuvo una visión en la que un ángel lo transportó al cielo y le mostró un palacio de indescriptible belleza, explicándole que Tomás lo había construido para el rey mediante sus obras de misericordia. Al despertar, el monje y soberano liberó al apóstol y ambos recibieron el bautismo.
+
+Dado que Tomás llegó tres días tarde a la dormición de la Santísima Madre de Dios (la Dormición de la Theotokos), deseaba venerar su cuerpo purísimo. Cuando los apóstoles abrieron su tumba, la encontraron vacía. La Tradición sostiene que el cuerpo de la Theotokos fue elevado al cielo en cuerpo y alma, y durante su asunción, ella misma desató y entregó su Sagrado Cinturón a Tomás para fortalecer su fe, del mismo modo que Cristo le había mostrado Sus llagas.
+
+De regreso en su labor misional en la India, san Tomás convirtió a la esposa y al hijo del gobernador de la ciudad de Meliapur. Por causa de la fe, fue encarcelado, sometido a crueles tormentos y finalmente atravesado por lanzas, entregando así su alma al Señor para recibir la corona eterna.`,
+		}
+	],
 };
