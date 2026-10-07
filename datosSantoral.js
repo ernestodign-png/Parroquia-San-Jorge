@@ -5882,4 +5882,41 @@ Dado que Tomás llegó tres días tarde a la dormición de la Santísima Madre d
 De regreso en su labor misional en la India, san Tomás convirtió a la esposa y al hijo del gobernador de la ciudad de Meliapur. Por causa de la fe, fue encarcelado, sometido a crueles tormentos y finalmente atravesado por lanzas, entregando así su alma al Señor para recibir la corona eterna.`,
 		}
 	],
+		"10-07": [ 
+		{
+		    name: "Santos Sergio y Baco",
+		    title: "Los Mártires Militares, Confesores Inquebrantables y Protectores de Bizancio",
+		    images: [	
+            	        "Img/SergioBaco.webp",
+            	        "Img/SergioBaco2.webp",
+            	        "Img/SergioBaco3.webp",
+            	        "Img/SergioBaco4.webp",
+            	        "Img/SergioBaco5.webp",
+            	        "Img/SergioBaco6.webp",
+            	        "Img/SergioBaco7.webp",
+            	        "Img/SergioBaco8.webp",
+
+		    ],
+			
+			desc: `Hoy conmemoramos a los Santos Mártires Baco y Sergio. Estos santos militares sufrieron por Cristo durante las persecuciones de finales del siglo III.
+
+Los santos Baco y Sergio vivieron durante el reinado del emperador Maximiano en el año 296, y ambos eran oriundos de Roma. Al gozar del favor del emperador —a pesar de vivir como cristianos en secreto—, fueron designados para ocupar altos cargos militares.
+
+Cuando personas envidiosas informaron al emperador que sus dos consejeros de confianza no honraban a los dioses paganos, Maximiano los convocó para comprobar la veracidad de dicha acusación.
+
+Ordenó a Baco y a Sergio que ofrecieran sacrificios a los ídolos, pero ellos confesaron con valentía que solo adoraban al Dios Verdadero, Jesucristo.
+
+El enfurecido Maximiano mandó que los mártires fueran despojados de sus insignias militares y, para humillarlos aún más, hizo que los vistieran con ropas femeninas, les colocó cadenas en el cuello y los hizo desfilar por la plaza pública.
+
+El emperador ordenó entonces que fueran enviados al gobernador de la región oriental de Siria, Antíoco, un feroz detractor y torturador de cristianos. Cuando los santos comparecieron ante él, no se dejaron vencer ni por los halagos ni por las amenazas del tirano.
+
+Por esta razón, san Sergio fue confinado en una celda de prisión, mientras san Baco fue azotado sin piedad con correas de cuero de buey. Tras sufrir horas de brutales golpes, san Baco finalmente entregó su alma al Señor.
+
+San Sergio fue sacado de su celda para ser torturado a continuación. Le clavaron zapatos de hierro en los pies y, calzado con ellos, fue obligado a recorrer grandes distancias mientras sus pies sangraban profusamente. Finalmente, san Sergio recibió su corona de martirio al ser decapitado.
+
+No mucho tiempo después de su martirio, el cristianismo fue legalizado y promulgado en el Imperio Romano por el emperador san Constantino el Grande. Ya en el siglo V, los santos Baco y Sergio eran venerados como protectores del ejército bizantino.
+
+En el año 527 d.C., el emperador san Justiniano el Grande les dedicó una iglesia en Constantinopla. Dicho templo fue convertido en mezquita tras la caída de Constantinopla y hoy se le conoce como la «Pequeña Santa Sofía».`,
+		}
+	],
 };
