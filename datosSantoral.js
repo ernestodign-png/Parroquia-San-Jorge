@@ -5919,4 +5919,35 @@ No mucho tiempo después de su martirio, el cristianismo fue legalizado y promul
 En el año 527 d.C., el emperador san Justiniano el Grande les dedicó una iglesia en Constantinopla. Dicho templo fue convertido en mezquita tras la caída de Constantinopla y hoy se le conoce como la «Pequeña Santa Sofía».`,
 		}
 	],
+		"10-13": [ 
+		{
+		    name: "Santa Crisa la Nueva Mártir de Meglen",
+		    title: "La Virgen Inquebrantable, Dorada en Nombre y en Fe",
+		    images: [	
+            	        "Img/CrisaMeglen.webp",
+            	        "Img/CrisaMeglen2.webp",
+            	        "Img/CrisaMeglen3.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a la Santa Nueva Virgen Mártir Crisa de Meglen. Su nombre significa «dorada» en griego, al igual que su nombre de nacimiento eslavo «Zlata». Sufrió por Cristo a finales del siglo XVIII durante la ocupación otomana de los Balcanes.
+
+Santa Crisa nació en el seno de una familia pobre en la aldea de Slatena, en Meglen (actualmente llamada Chrysi, en el norte de Grecia). La joven mansa y devota, sabia más allá de su edad y dorada tanto por su nombre como por su corazón temeroso de Dios, era también sumamente hermosa.
+
+Por aquel entonces, un turco quedó prendado de una concupiscencia satánica por Crisa. Cuando ella salió a recoger leña, el turco la interceptó y la llevó a la fuerza a su casa.
+
+Tras no lograr seducir a Crisa con sus halagos, el turco la amenazó con que, si no aceptaba el islam y se convertía en su esposa, la sometería a crueles torturas. La valiente Crisa respondió: «Jamás negaré a Cristo, aunque me sometas a mil tormentos y me cortes en pedazos».
+
+Cuando el turco comunicó sus amenazas a la familia de Crisa, sus padres y hermanas le suplicaron que negara a Cristo para salvarse, diciéndole que el Señor misericordioso le perdonaría tal pecado.
+
+Crisa replicó categóricamente a su familia: «Ustedes, que me incitan a negar a Cristo, el Dios verdadero, ya no son mis padres ni mis hermanas. En su lugar, tengo a mi Señor Jesucristo por padre, a mi Señora la Theotokos por madre, y a los santos por hermanos y hermanas».
+
+Comprendiendo que su fe no podía ser quebrantada ni siquiera por sus propios progenitores, los turcos la torturaron durante meses. La azotaron, arrancaron su carne con ganchos e introdujeron espetones incandescentes por sus oídos. Santa Crisa soportó estos brutales tormentos impulsada por su amor sincero a Cristo.
+
+El padre espiritual de Santa Crisa, Timoteo, hieromonje del Monasterio de Stavronikita en el monte Atos —quien posteriormente registró su martirio—, se encontraba cerca mientras ella era torturada. Ella le envió un mensaje a través de un cristiano, pidiéndole que orara para que pudiera completar con éxito su carrera martirial.
+
+El 13 de octubre de 1795, enfurecidos por haber sido vencidos por la santa de nombre dorado, los turcos la colgaron de un árbol y despedazaron su cuerpo.
+
+En un notable descubrimiento, reliquias que se cree pertenecen a Santa Crisa han sido desenterradas recientemente en su aldea natal de Chrysi, en el norte de Grecia. Los exámenes de laboratorio realizados en Alemania revelaron que correspondían a una joven de unos 17 años que falleció alrededor de 1795, coincidiendo con el año del martirio de la santa. Las reliquias también fueron descritas como emanantes de una hermosa fragancia y serán llevadas para su veneración en su pueblo natal.`,
+		}
+	],
 };
