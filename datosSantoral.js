@@ -5950,4 +5950,39 @@ El 13 de octubre de 1795, enfurecidos por haber sido vencidos por la santa de no
 En un notable descubrimiento, reliquias que se cree pertenecen a Santa Crisa han sido desenterradas recientemente en su aldea natal de Chrysi, en el norte de Grecia. Los exámenes de laboratorio realizados en Alemania revelaron que correspondían a una joven de unos 17 años que falleció alrededor de 1795, coincidiendo con el año del martirio de la santa. Las reliquias también fueron descritas como emanantes de una hermosa fragancia y serán llevadas para su veneración en su pueblo natal.`,
 		}
 	],
+		"10-16": [ 
+		{
+		    name: "San Longinos el Centurión",
+		    title: "El Testigo de la Cruz, Confesor de la Resurrección y Mártir de Capadocia",
+		    images: [	
+            	        "Img/LonginosCenturión.webp",
+            	        "Img/LonginosCenturión2.webp",
+            	        "Img/LonginosCenturión3.webp",
+            	        "Img/LonginosCenturión4.webp",
+            	        "Img/LonginosCenturión5.webp",
+            	        "Img/LonginosCenturión6.webp",
+            	        "Img/LonginosCenturión7.webp",
+            	        "Img/LonginosCenturión8.webp",
+            	        "Img/LonginosCenturión9.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos al Santo Mártir San Longinos el Centurión. Fue un soldado romano originario de Capadocia que vivió durante el reinado del emperador Tiberio César (14-37 d.C.) y prestó servicio durante la Pasión salvífica del Señor.
+
+Por orden de Poncio Pilato, gobernador de Judea, Longinos y su destacamento de soldados montaron guardia en el Gólgota durante la crucifixión de nuestro Señor. Longinos (ubicado en el extremo derecho de la imagen 2) fue el soldado que traspasó el costado de Cristo con su lanza, momento en el cual fluyeron sangre y agua de la herida (Juan 19:34).
+
+Longinos fue testigo directo de los prodigios ocurridos en los instantes finales de la vida terrenal del Señor (Mateo 27:51-53): el rasgado del velo del Templo, el violento terremoto, la partición de las rocas y la apertura de los sepulcros de los cuales resucitaron muchos santos que se aparecieron a numerosos testigos. El centurión quedó tan profundamente conmovido por estos acontecimientos que confesó su fe ante todos, exclamando: «¡Verdaderamente este era el Hijo de Dios!» (Mateo 27:54).
+
+Habiendo sido también testigo de la resurrección de Cristo mientras custodiaba Su tumba, las autoridades judías intentaron sobornar a Longinos para que difundiera la falsa versión de que el cuerpo había sido robado por los discípulos. Incorruptible ante el oro ofrecido, Longinos se negó rotundamente a guardar silencio acerca del milagro de la Resurrección.
+
+Tras recibir el bautismo de manos de uno de los apóstoles, Longinos abandonó su rango militar y regresó a su tierra natal en Capadocia, donde se dedicó a predicar la palabra del Salvador y a convertir a numerosos paganos.
+
+Al enterarse de esto, los ancianos judíos informaron a Poncio Pilato y le suplicaron que enviara soldados para ajusticiar a Longinos. Los emisarios llegaron a Capadocia y se encontraron con Longinos, sin llegar a reconocerlo en un principio. Tras recibir una cálida hospitalidad por parte del santo, los soldados le revelaron el propósito de su misión.
+
+El santo recibió esta noticia con gran gozo y, anhelando sufrir por causa de Cristo, se reveló a sí mismos como el hombre que buscaban. Junto a otros dos soldados que habían huido con él, san Longinos fue decapitado.
+
+La cabeza de san Longinos fue llevada ante Poncio Pilato, quien ordenó arrojarla a un vertedero de basura situado fuera de los muros de Jerusalén.
+
+Una viuda ciega de Capadocia recibió una visión del santo que la guió para encontrar su cabeza, recuperando la vista de forma milagrosa en el instante en que tocó la santa reliquia. Una porción del brazo derecho de san Longinos se conserva actualmente en la Basílica de San Nicolás en Bari, Italia (imagen 09).`,
+		}
+	],
 };
