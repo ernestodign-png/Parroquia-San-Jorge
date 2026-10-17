@@ -6005,6 +6005,29 @@ Fila superior: San Eutropio, San Damián de Arabia, San Antimo, San Leoncio, San
 Fila central: San Ciro, San Trifón, San Talaleo, San Mocio, San Aniceto, San Julián, San Juan.
 
 Fila inferior: San Cosme de Asia Menor, San Ermolaos, San Cosme de Roma, San Pantaleón, San Damián de Roma, San Sansón el Hospitalario, San Damián de Asia Menor.`,
+		},
+		{
+		    name: "San Cosme y San Damián de Arabia",
+		    title: "Los Médicos Anárgiros, Confesores y Mártires de Cilicia",
+		    images: [	
+            	        "Img/CosmeDamiánArabia.webp",
+            	        "Img/CosmeDamiánArabia2.webp",
+            	        "Img/CosmeDamiánArabia3.webp",
+            	        "Img/CosmeDamiánArabia4.webp",
+            	        "Img/CosmeDamiánArabia5.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a los santos Cosme y Damián, santos mártires y médicos desinteresados (anárgiros) de Arabia; no deben ser confundidos con Cosme y Damián de Roma, quienes murieron lapidados por su maestro envidioso (1 de julio), ni con Cosme y Damián de Asia Menor, hijos de Teodota, que reposaron en paz (1 de noviembre).
+
+Los santos Cosme y Damián que hoy conmemoramos eran oriundos de Arabia. En su calidad de médicos, recorrieron diversas ciudades y tierras y, conforme al mandato de Cristo, brindaron sanación a innumerables personas de forma gratuita: «Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia» (Mateo 10:8).
+
+Dondequiera que viajaban los santos Cosme y Damián, sanaban toda clase de dolencias físicas y espirituales, todo en el nombre de Cristo. Asimismo, predicaban incansablemente el mensaje del Dios Verdadero a los incrédulos y convirtieron a muchos al camino de la salvación.
+
+Durante los reinados de los emperadores Diocleciano y Maximiano, en el año 292, los santos acudieron a la ciudad de Egas, en Cilicia, Asia Menor (la actual Yumurtalık, en Turquía), junto con sus tres hermanos: Leoncio, Antimo y Euprepio.
+
+Tras ser arrestados y conducidos ante el gobernador pagano de Licicia, confesaron su fe en Cristo, por lo cual fueron azotados sin piedad y arrojados a las profundidades del mar. Como no se ahogaron, sino que por gracia divina aparecieron sanos y salvos en la orilla, los incrédulos los tomaron y los echaron en un horno encendido.
+
+Habiendo permanecido indemnes ante las llamas del horno, fueron suspendidos en una cruz. Tras estos tormentos, los cinco hermanos bienaventurados fueron decapitados y recibieron las coronas del martirio.`,
 		}
 	],
 };
