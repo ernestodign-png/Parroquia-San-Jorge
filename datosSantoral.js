@@ -5950,7 +5950,7 @@ El 13 de octubre de 1795, enfurecidos por haber sido vencidos por la santa de no
 En un notable descubrimiento, reliquias que se cree pertenecen a Santa Crisa han sido desenterradas recientemente en su aldea natal de Chrysi, en el norte de Grecia. Los exámenes de laboratorio realizados en Alemania revelaron que correspondían a una joven de unos 17 años que falleció alrededor de 1795, coincidiendo con el año del martirio de la santa. Las reliquias también fueron descritas como emanantes de una hermosa fragancia y serán llevadas para su veneración en su pueblo natal.`,
 		}
 	],
-		"10-16": [ 
+		"10-14": [ 
 		{
 		    name: "San Longinos el Centurión",
 		    title: "El Testigo de la Cruz, Confesor de la Resurrección y Mártir de Capadocia",
