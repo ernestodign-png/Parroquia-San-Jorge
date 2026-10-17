@@ -5985,4 +5985,26 @@ La cabeza de san Longinos fue llevada ante Poncio Pilato, quien ordenó arrojarl
 Una viuda ciega de Capadocia recibió una visión del santo que la guió para encontrar su cabeza, recuperando la vista de forma milagrosa en el instante en que tocó la santa reliquia. Una porción del brazo derecho de san Longinos se conserva actualmente en la Basílica de San Nicolás en Bari, Italia (imagen 09).`,
 		}
 	],
+		"10-17": [ 
+		{
+		    name: "Sinaxis de Todos los Santos y Taumaturgos Desinteresados",
+		    title: "Los Médicos Sin Plata, Ministros de la Gracia y Sanadores de Almas",
+		    img:"Img/SinaxisDesinteresados.webp",
+			desc: `Hoy conmemoramos la Sinaxis de Todos los Santos y Taumaturgos Desinteresados (Anárgiros). Esta festividad honra a aquellos médicos bienaventurados que sirvieron desinteresadamente a los dolientes, ofreciendo la curación no solo del cuerpo sino también del alma, y brindando consuelo tanto a través de su pericia técnica como de su fe en Cristo.
+
+Los «Desinteresados», conocidos en griego como Anárgiros (que significa «sin plata»), ponen de relieve que estos santos se negaban a aceptar remuneración alguna por sus servicios, dado que la plata era la moneda de curso legal ampliamente utilizada durante los primeros años de la Iglesia.
+
+Los Santos Anárgiros encarnaron el espíritu del mandato de Cristo a sus Apóstoles: «Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia» (Mateo 10:8). Al dar testimonio de los milagros de sanación obrados por los Desinteresados en el nombre de Cristo, miles de almas se convirtieron a la Fe Verdadera.
+
+Estos milagros atraían con frecuencia la atención de las autoridades paganas del Imperio Romano, y muchos de los Santos Anárgiros fueron llevados a juicio acusados de ser cristianos. Al negarse a abjurar de Cristo ante los gobernantes paganos, muchos de los Desinteresados sufrieron el martirio.
+
+En la parte superior del icono, Cristo bendice al coro de médicos desinteresados. De izquierda a derecha, los Santos Anárgiros representados son:
+
+Fila superior: San Eutropio, San Damián de Arabia, San Antimo, San Leoncio, San Cosme de Arabia, San Diomedes.
+
+Fila central: San Ciro, San Trifón, San Talaleo, San Mocio, San Aniceto, San Julián, San Juan.
+
+Fila inferior: San Cosme de Asia Menor, San Ermolaos, San Cosme de Roma, San Pantaleón, San Damián de Roma, San Sansón el Hospitalario, San Damián de Asia Menor.`,
+		}
+	],
 };
