@@ -6030,4 +6030,72 @@ Tras ser arrestados y conducidos ante el gobernador pagano de Licicia, confesaro
 Habiendo permanecido indemnes ante las llamas del horno, fueron suspendidos en una cruz. Tras estos tormentos, los cinco hermanos bienaventurados fueron decapitados y recibieron las coronas del martirio.`,
 		}
 	],
+		"10-18": [ 
+
+		{
+		    name: "El Santo Apóstol y Evangelista Lucas",
+		    title: "El Médico, Pintor Sagrado e Historizador de la Redención",
+		    images: [	
+            	        "Img/ApóstolLucas.webp",
+            	        "Img/ApóstolLucas2.webp",
+            	        "Img/ApóstolLucas3.webp",
+            	        "Img/ApóstolLucas4.webp",
+            	        "Img/ApóstolLucas5.webp",
+            	        "Img/ApóstolLucas6.webp",
+            	        "Img/ApóstolLucas7.webp",
+            	        "Img/ApóstolLucas8.webp",
+            	        "Img/ApóstolLucas9.webp",
+            	        "Img/ApóstolLucas10.webp",
+
+		    ],
+			
+			desc: `Hoy conmemoramos al Santo Apóstol y Evangelista Lucas, autor del Evangelio que lleva su nombre y de los Hechos de los Apóstoles. Asimismo, es honrado por la Iglesia como el primer iconógrafo de la historia cristiana.
+
+San Lucas era un hábil médico y pintor originario de la ciudad de Antioquía. Dotado de una sólida formación en medicina, filosofía griega y artes plásticas, dominaba también los dialectos hebreo y siriaco.
+
+Habiéndose desplazado a Tebas de Beocia en el año 42 d.C., durante el reinado del emperador Claudio, san Lucas conoció al apóstol Pablo y se convirtió en su devoto compañero en la predicación del Evangelio.
+
+Aunque no pertenecía al grupo de los Doce Apóstoles, la Iglesia lo venera entre los Setenta Apóstoles, por haber participado plenamente en la misión apostólica de proclamar el Reino de Dios (Lucas 10:1–3).
+
+Lucas acompañó a Pablo en Roma, donde convirtió a muchos paganos y judíos a la fe en Cristo, además de sanar numerosas aflicciones físicas y espirituales. A petición de las comunidades cristianas, compuso su Evangelio y los Hechos de los Apóstoles alrededor del año 60 d.C.
+
+Tras el martirio de Pablo en Roma, Lucas prosiguió su labor de predicación apostólica por Acaya, Libia, Egipto y Grecia.
+
+La Tradición le atribuye haber pintado del natural el primer icono de la Theotokos, conocido como la Hodegetria («La que muestra el camino»), junto con muchas otras representaciones sagradas. Al contemplar estas imágenes, la Madre de Dios exclamó: «La gracia de Aquel que nació de mí y mi misericordia estén con estos iconos».
+
+A la edad de ochenta y cuatro años, Lucas fue capturado y torturado por impíos idólatras paganos. La Tradición relata que sufrió el martirio al ser colgado de un olivo en la ciudad de Tebas, en Grecia.
+
+Sus reliquias fueron trasladadas a Constantinopla en el siglo IV; sin embargo, en 1204, las fuerzas de las cruzadas las llevaron a Padua, en Italia.
+
+En 1992, el metropolita Jerónimo de Tebas solicitó la restitución de una parte significativa de los restos del santo. El obispo católico de Padua entregó la costilla de san Lucas, la cual se resguarda actualmente junto a su tumba en Tebas (imágenes 09 y 10).
+
+El símbolo que representa a san Lucas es el buey (imagen 2), el tercer ser viviente mencionado en la visión del profeta Ezequiel (1:10). Esta criatura, tradicionalmente asociada con el sacrificio ritual, refleja el énfasis particular que el evangelista pone en el culto del Templo y en la ofrenda sacerdotal, prefigurando el sacrificio supremo de Cristo en la Cruz.`,
+		},
+		{
+		    name: "Panagia Machairiotissa",
+		    title: "La Madre de Dios del Cuchillo, Guardiana de Chipre y Protectora de la Tradición",
+		    images: [	
+            	        "Img/PanagiaMachairiotissa.webp",
+            	        "Img/PanagiaMachairiotissa2.webp",
+            	        "Img/PanagiaMachairiotissa3.webp",
+            	        "Img/PanagiaMachairiotissa4.webp",
+            	        "Img/PanagiaMachairiotissa5.webp",
+            	        "Img/PanagiaMachairiotissa6.webp",
+            	        "Img/PanagiaMachairiotissa7.webp",
+		    ],
+			desc: `Hoy también conmemoramos el icono de la Panagia Machairiotissa («del cuchillo»). Este icono se resguarda en el Monasterio de la Panagia de Machairas, situado en las montañas de Troodos, y constituye el segundo monasterio en importancia de Chipre después del Monasterio de Kykkos. La tradición sostiene que este icono taumatúrgico fue pintado por el evangelista Lucas.
+
+Según la tradición, durante el período de la Iconoclasia (716-843 d.C.), un ermitaño llevó el icono de la Panagia Agiosoritissa (posteriormente llamada Machairiotissa) desde Constantinopla hasta Chipre, y se estableció en una cueva en el lugar donde hoy se levanta el monasterio.
+
+Tras el fallecimiento del asceta, el icono quedó en el olvido y la maleza cubrió la entrada de la cueva. En el siglo XII, la Virgen María se apareció a los santos ascetas Neófito e Ignacio, entregándoles un cuchillo para cortar los matorrales y así descubrir el icono (de ahí proviene el nombre Machairas, que significa «del cuchillo»).
+
+Una vez que san Neófito reposó en el Señor, otro monje vino a vivir con Ignacio: un anciano llamado Procopio. Al crecer la comunidad, los dos padres decidieron construir un monasterio que operara bajo el modelo cenobítico seguido por los grandes centros monásticos de la época.
+
+Los dos monjes recibieron el patrocinio financiero del emperador Manuel I Comneno (1143-1180) y, en un inicio, levantaron una pequeña capilla y unas pocas celdas. Los monasterios de Machairas, Kykkos y San Neófito habían obtenido privilegios especiales desde la época de los emperadores bizantinos.
+
+En otra tradición milagrosa, el monasterio fue visitado en 1337 por Alix d'Ibelin, esposa del rey lusignan Enrique IV. Ella mostró falta de respeto hacia los monjes y hacia la fe ortodoxa, desatendiendo las súplicas de no ingresar al monasterio, cuya regla prohibía estrictamente la entrada a mujeres. Tan pronto como cruzó el umbral del Santo Santuario, fue golpeada por la Panagia de Machairas y permaneció muda durante tres años.
+
+Milagrosamente, el icono también sobrevivió a dos grandes incendios que arrasaron el monasterio: uno en 1530 y otro en 1892.`,
+		}
+	],
 };
