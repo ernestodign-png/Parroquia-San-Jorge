@@ -6098,4 +6098,33 @@ En otra tradición milagrosa, el monasterio fue visitado en 1337 por Alix d'Ibel
 Milagrosamente, el icono también sobrevivió a dos grandes incendios que arrasaron el monasterio: uno en 1530 y otro en 1892.`,
 		}
 	],
+		"10-20": [ 
+		{
+		    name: "San Artemio el Gran Mártir",
+		    title: "El Comandante Valeroso, Defensor de la Fe y Testigo Incorruptible",
+		    images: [	
+            	        "Img/ArtemioMártir.webp",
+            	        "Img/ArtemioMártir2.webp",
+            	        "Img/ArtemioMártir3.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos al Gran Mártir San Artemio de Antioquía. Fue un comandante militar que, tras servir bajo el mandato del emperador san Constantino el Grande, sufrió el martirio por Cristo en el año 362 durante las persecuciones de Juliano el Apóstata.
+
+San Artemio provenía de una familia cristiana noble y se distinguió por su valeroso servicio en el ejército. Era muy estimado por el emperador san Constantino el Grande, quien lo nombró gobernador militar de Alejandría.
+
+Tras el reposo de san Constantino, su sucesor Constancio II envió a Artemio a Constantinopla para trasladar las santas reliquias del apóstol Andrés desde Patras y las de san Lucas desde Tebas. Una vez completada esta misión, fue designado gobernante de todo Egipto, posición desde la cual fortaleció notablemente la fe de los cristianos.
+
+Cuando Juliano el Apóstata sucedió a Constancio II en el trono imperial en el año 361, intentó restaurar el paganismo ancestral en todo el imperio e inició una nueva ola de persecuciones contra los cristianos.
+
+En aquella época, el emperador Juliano estableció su cuartel general en Antioquía para dirigir una campaña militar contra los persas, y convocó allí a todos los gobernantes provinciales, incluido Artemio.
+
+Estando en Antioquía, Juliano ordenó azotar con varas a dos sacerdotes cristianos quinientas veces por negarse a rendir culto a los ídolos paganos. Al presenciar esto, Artemio reprendió públicamente al emperador por su extrema crueldad. Enfurecido, Juliano lo despojó de su rango militar y lo mandó a prisión.
+
+El santo fue conducido ante el emperador, quien le ofreció un alto cargo militar si renunciaba a Cristo. Artemio se negó rotundamente, por lo que Juliano ordenó que fuera torturado introduciéndole espetones al rojo vivo a través del cuerpo. Mientras Artemio oraba en su celda, Cristo se le apareció y sanó milagrosamente todas sus heridas.
+
+Aún más encolerizado, Juliano ordenó que Artemio fuera aplastado bajo una enorme piedra. Todos los presentes escucharon cómo los huesos del santo se rompían al caer el pesado bloque, tras lo cual fue abandonado a su suerte. Sin embargo, al levantar la piedra al día siguiente, el tirano quedó atónito al hallar al santo —con los huesos fracturados, el abdomen abierto y sin ojos— con vida, burlándose de los ídolos y glorificando a Cristo.
+
+Finalmente, el valeroso san Artemio recibió su corona de martirio al ser decapitado por orden del emperador.`,
+		}
+	],
 };
