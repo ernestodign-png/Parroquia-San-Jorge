@@ -6127,4 +6127,31 @@ Aún más encolerizado, Juliano ordenó que Artemio fuera aplastado bajo una eno
 Finalmente, el valeroso san Artemio recibió su corona de martirio al ser decapitado por orden del emperador.`,
 		}
 	],
+		"10-22": [ 
+		{
+		    name: "San Abercio de Hierápolis",
+		    title: "El Obispo Igual a los Apóstoles, Destructor de Ídolos y Taumaturgo",
+		    images: [	
+            	        "Img/AbercioHierápolis.webp",
+            	        "Img/AbercioHierápolis2.webp",
+            	        "Img/AbercioHierápolis3.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a san Abercio, obispo de Hierápolis e «Igual a los Apóstoles».
+
+Sucesor del Padre Apostólico san Papías, san Abercio ejerció como obispo de Hierápolis (la actual Pamukkale, en Turquía), en la provincia de Frigia Salutaris, durante el reinado del emperador Marco Aurelio (161-180), quien, a pesar de su fama de filósofo, fue un feroz perseguidor de los cristianos.
+
+Durante una festividad en honor a las divinidades paganas, Abercio entró solo en su casa y oró con lágrimas para que Dios tuviera misericordia de aquel pueblo ignorante. Entonces se le apareció un ángel del Señor, ordenándole que derribara los altares de Apolo y de los demás dioses paganos.
+
+En plena noche, Abercio derribó los ídolos con su báculo y los hizo añicos. A la mañana siguiente, al ver los idólatras la destrucción, corrieron a su casa para ajusticiarlo. Lejos de huir, Abercio se dirigió a la plaza pública, confesó su fe en Cristo y reprendió la necedad de someterse a ídolos mudos.
+
+Al ver entonces a tres hombres poseídos por espíritus inmundos, los tocó con su báculo y recuperaron la lucidez mental. Esto calmó a la multitud enfurecida, que pasó a escucharlo. Inspirados por sus palabras divinas, quinientos de ellos abrazaron la fe en Cristo y fueron bautizados.
+
+Tras esto, san Abercio recorrió las ciudades y aldeas vecinas, sanando a los enfermos y predicando el Reino de Dios. Con su predicación recorrió Siria, Cilicia y Mesopotamia, y también visitó Roma. A dondequiera que iba, convertía a multitudes a Cristo.
+
+Durante muchos años protegió a la Iglesia frente a los herejes, confirmó a los cristianos en la fe y encaminó a los descarriados por la senda de la justicia. Asimismo, sanó a los enfermos y proclamó la gloria de Cristo. Habiendo recorrido una distancia tan vasta en la proclamación del Evangelio, san Abercio es llamado «Igual a los Apóstoles».
+
+San Abercio regresó a su hogar en Hierápolis, donde continuó iluminando a muchos con sus palabras, obras y milagros. Tras recibir una revelación de que su muerte se acercaba, escribió su propio epitafio sobre su lápida, el cual puede contemplarse hoy en los Museos Vaticanos.`,
+		}
+	],
 };
