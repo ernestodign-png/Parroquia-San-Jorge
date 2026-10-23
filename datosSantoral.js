@@ -6154,4 +6154,33 @@ Durante muchos años protegió a la Iglesia frente a los herejes, confirmó a lo
 San Abercio regresó a su hogar en Hierápolis, donde continuó iluminando a muchos con sus palabras, obras y milagros. Tras recibir una revelación de que su muerte se acercaba, escribió su propio epitafio sobre su lápida, el cual puede contemplarse hoy en los Museos Vaticanos.`,
 		}
 	],
+		"10-23": [ 
+		{
+		    name: "San Santiago, el Hermano de Dios",
+		    title: "El Justo, Primer Obispo de Jerusalén y Apóstol del Señor",
+		    images: [	
+            	        "Img/SantiagoHermanoDios.webp",
+            	        "Img/SantiagoHermanoDios2.webp",
+            	        "Img/SantiagoHermanoDios3.webp",
+            	        "Img/SantiagoHermanoDios4.webp",
+            	        "Img/SantiagoHermanoDios5.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos al Santo Apóstol Santiago, el Hermano de Dios y autor de la Epístola de Santiago en el Nuevo Testamento.
+
+La Tradición sostiene que san José el Desposado tuvo hijos de un matrimonio anterior antes de enviudar y ser desposado con la Theotokos. San Santiago se encontraba entre estos hijos, quienes eran hermanastros de Cristo: «¿No es este el hijo del carpintero? ¿No se llama su madre María, y sus hermanos Santiago, José, Simón y Judas?» (Mateo 13:55).
+
+Otra tradición sostiene que Santiago acompañó a su padre José, a la Theotokos y al niño Jesús durante su huida a Egipto.
+
+Santiago se consagró a Dios tomando los votos de ascetismo nazareo. Por su estricta adhesión a la Ley, fue conocido como «Santiago el Justo», un título que lo distinguía de los muchos otros que llevaban el nombre de Santiago. Las virtudes que le valieron este título son descritas por san Jerónimo de Estridón, quien cita al erudito del siglo II san Hegesipo el Nazareno:
+
+«Este fue santo desde el vientre de su madre. No bebía vino ni bebida fermentada, no comía carne, nunca se afeitaba ni se ungía con ungüento ni se bañaba. Él solo tenía el privilegio de entrar en el Lugar Santísimo, ya que no usaba vestimentas de lana sino de lino, y entraba solo al templo y oraba en favor del pueblo, hasta el punto de que se decía que sus rodillas habían adquirido la dureza de las rodillas de los camellos».
+
+Cuando el Salvador predicó el Reino de Dios, Santiago creyó en Cristo, se convirtió en Su apóstol y fue ordenado por Él como el primer obispo de Jerusalén. Instruido por el propio Cristo, san Santiago fue también el primero en redactar la Divina Liturgia, la cual fue abreviada posteriormente por san Basilio el Grande y, más tarde, por san Juan Crisóstomo.
+
+San Santiago presidió el Concilio de Jerusalén, y su juicio fue adoptado en el Decreto Apostólico (Hechos 15). En sus treinta años como obispo, pastoreó la Iglesia de Jerusalén y convirtió a muchos judíos y griegos paganos a Cristo.
+
+Unos líderes judíos enfurecidos llevaron a san Santiago al pináculo del Templo de Jerusalén y lo arrojaron desde lo alto. No murió en el acto, sino que, reuniendo fuerzas, oró por sus enemigos mientras lo golpeaban hasta matarlo, alrededor del año 63 d.C.`,
+		}
+	],
 };
