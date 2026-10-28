@@ -6183,4 +6183,55 @@ San Santiago presidió el Concilio de Jerusalén, y su juicio fue adoptado en el
 Unos líderes judíos enfurecidos llevaron a san Santiago al pináculo del Templo de Jerusalén y lo arrojaron desde lo alto. No murió en el acto, sino que, reuniendo fuerzas, oró por sus enemigos mientras lo golpeaban hasta matarlo, alrededor del año 63 d.C.`,
 		}
 	],
+		"10-28": [ 
+		{
+		    name: "La Santa Protección de la Madre de Dios",
+		    title: "El Manto Celestial, la Visión de Blanquerna y la Resistencia Helénica",
+		    images: [	
+            	        "Img/ProtecciónMadre.webp",
+            	        "Img/ProtecciónMadre2.webp",
+            	        "Img/ProtecciónMadre3.webp",
+            	        "Img/ProtecciónMadre4.webp",
+            	        "Img/ProtecciónMadre5.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos la Santa Protección de la Theotokos. Mientras que la mayoría de los cristianos ortodoxos celebran esta festividad el 1 de octubre, la tradición griega conmemora la Santa Protección el 28 de octubre para hacerla coincidir con el Día del Oji («No»), una fiesta nacional que conmemora la resistencia griega frente a las fuerzas fascistas italianas durante la Segunda Guerra Mundial.
+
+La festividad de la Santa Protección se instituyó tras una aparición milagrosa de la Theotokos en el siglo X. El 1 de octubre, san Andrés el Loco por Cristo y su discípulo Epifanio asistieron a una vigilia nocturna en la Iglesia de Blanquerna, en Constantinopla, donde se conservaban varias reliquias de la Madre de Dios, entre ellas su sagrado manto y una parte de su cinturón.
+
+Durante la vigilia, vieron a la Theotokos entrar a la iglesia a través de la cúpula, resplandeciente y rodeada por un coro de ángeles y santos. En el centro del templo, se arrodilló y oró durante largo tiempo, regando su rostro inmaculado con lágrimas. Retirándose el velo, lo extendió sobre todas las personas congregadas en la iglesia como signo de su protección. Desde entonces, la Santa Protección comenzó a celebrarse el 1 de octubre.
+
+Mil años después, el 28 de octubre de 1940, a las tres de la madrugada, el dictador italiano Benito Mussolini presentó un ultimátum al primer ministro griego Ioannis Metaxas: permitir que las fuerzas italianas ocuparan territorio griego o enfrentarse a la guerra. Aún en pijama, Metaxas respondió con un rotundo «¡No!».
+
+Pocas horas después, Mussolini ordenó a sus tropas atacar la frontera griega, dando inicio a la guerra greco-italiana y marcando la entrada de Grecia en la Segunda Guerra Mundial. Numerosos soldados griegos en las líneas del frente informaron haber visto visiones de la Theotokos sobre ellos, cubriéndolos con su velo y guiándolos para hacer frente al enemigo.
+
+Contra todo pronóstico, el ejército griego, muy inferior en número, lanzó un contraataque exitoso desde las montañas del Pindo, haciendo retroceder a los italianos hacia Albania. Este supuso el primer revés significativo para las fuerzas del Eje en el conflicto.
+
+En 1952, para honrar la Santa Protección de la Theotokos sobre la nación griega a lo largo de su historia, y de manera especial durante la resistencia de Grecia frente a las potencias del Eje, la Iglesia griega trasladó la celebración de esta festividad al 28 de octubre, haciéndola coincidir con tan importante fecha nacional.`,
+		},
+		{
+		    name: "Los Cuatro Santos Nuevos Mártires de Rétimno",
+		    title: "Los Confesores de Creta, Criptocristianos y Mártires de la Fe",
+		    images: [	
+            	        "Img/CuatroSantos.webp",
+            	        "Img/CuatroSantos2.webp",
+            	        "Img/CuatroSantos3.webp",
+            	        "Img/CuatroSantos4.webp",
+		    ],
+			
+			desc: `Hoy también conmemoramos a los cuatro santos nuevos mártires de Rétimno, en la isla de Creta. Sufrieron por su fe en el año 1824, durante la ocupación otomana de Creta.
+
+Ángel y su hermano Manuel eran primos de los hermanos Jorge y Nicolás. Todos ellos nacieron alrededor del inicio del siglo XIX; eran agricultores acomodados, casados y con hijos, y residían en la localidad de Melampes, cerca de Rétimno, en Creta.
+
+Debido a que la isla se encontraba bajo el yugo turco, estos jóvenes vivían como criptocristianos, practicando su fe ortodoxa en secreto. Aunque en público adoptaban nombres turcos y fingían someterse a las costumbres islámicas, permanecieron inquebrantablemente fieles a la Iglesia.
+
+Los cuatro combatieron con valor en la Guerra de Independencia de Grecia entre 1821 y 1824. Cuando los turcos reconquistaron Creta con el apoyo de tropas egipcias, los jóvenes decidieron dejar de ocultar su condición y declararon abiertamente su fe.
+
+Poco después de que los turcos recuperaran el poder, enviaron recaudadores a las aldeas para cobrar el impuesto discriminatorio impuesto a los cristianos. Los cuatro jóvenes, a quienes todos consideraban musulmanes, se presentaron a pagar el tributo junto con los demás cristianos y proclamaron con júbilo que habían sido cristianos desde su juventud.
+
+Fueron inmediatamente encarcelados y, tras los infructuosos intentos de Mehmet Pachá por persuadirlos para que abrazaran el islam, este ordenó su ejecución pública. De este modo, los cuatro santos mártires de Rétimno recibieron las coronas del martirio al ser decapitados en este día del año 1824.
+
+Sus sagradas reliquias resplandecieron con la luz incandescente durante tres días tras su martirio. Antonio Papadakis, intérprete del Pachá, obtuvo el permiso para que los cristianos dieran sepultura a los cuerpos. En la actualidad, las santas cabezas de los mártires se conservan y veneran en la Iglesia de los Cuatro Mártires de Rétimno, en Creta.`,
+		}
+	],
 };
