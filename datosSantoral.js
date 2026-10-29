@@ -6234,4 +6234,37 @@ Fueron inmediatamente encarcelados y, tras los infructuosos intentos de Mehmet P
 Sus sagradas reliquias resplandecieron con la luz incandescente durante tres días tras su martirio. Antonio Papadakis, intérprete del Pachá, obtuvo el permiso para que los cristianos dieran sepultura a los cuerpos. En la actualidad, las santas cabezas de los mártires se conservan y veneran en la Iglesia de los Cuatro Mártires de Rétimno, en Creta.`,
 		}
 	],
+		"10-29": [ 
+		{
+		    name: "Santa Anastasia la Romana",
+		    title: "La Virgen Asceta, Confesora Incorruptible y Mártir bajo Decio",
+		    images: [	
+            	        "Img/AnastasiaRomana.webp",
+            	        "Img/AnastasiaRomana2.webp",
+            	        "Img/AnastasiaRomana3.webp",
+            	        "Img/AnastasiaRomana4.webp",
+            	        "Img/AnastasiaRomana5.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a la Santa Mártir Anastasia la Romana, quien sufrió por Cristo durante el reinado del emperador Decio (249-251).
+
+Santa Anastasia nació en Roma y quedó huérfana a la edad de tres años. Como huérfana, fue llevada a un monasterio femenino donde fue criada por la abadesa Sofía, quien poseía una gran sabiduría espiritual y santidad.
+
+Sofía crio a Anastasia en una fe ferviente, el temor de Dios y la obediencia humilde. Tras diecisiete años, Anastasia era conocida en toda la comarca: por los cristianos, como una gran asceta; y por los paganos, como una mujer de rara belleza.
+
+El administrador pagano de la ciudad, Probo, oyó hablar de Anastasia y envió soldados para llevarla ante su presencia. Antes de ser arrestada, Anastasia le dijo a su abadesa: «Mi corazón está listo para sufrir por Cristo; mi alma está lista para morir por mi amado Jesús».
+
+Probo intentó primero halagar a Anastasia diciéndole: «¿Por qué desperdiciar tu juventud privada de placeres? ¿Qué se gana soportando torturas y muerte por el Crucificado? ¡Adora a nuestros dioses, cásate con un esposo apuesto y vive en la gloria y en el honor!». Anastasia replicó: «¡Mi esposo, mis riquezas, mi vida y mi felicidad son mi Señor Jesucristo, y no podrás apartarme de Él con tus engaños!».
+
+Cuando Probo mandó despojar a Anastasia de sus ropas, ella le dijo: «Puedes hacer que me azoten, me golpeen y me corten en pedazos; entonces mi desnudez quedará oculta por mis heridas, y mi sangre cubrirá mi vergüenza».
+
+La mártir fue golpeada y quemada sobre el fuego, pero a través de sus oraciones logró mitigar la agonía del dolor. Cuando despreció a los dioses paganos calificándolos de demoníacos, los tiranos le cortaron la lengua.
+
+También le seccionaron los pechos y le arrancaron las uñas y los dientes. Anastasia desvaneció a causa del dolor, y un cristiano llamado Cirilo le dio agua, por lo cual fue decapitado.
+
+El pueblo, al presenciar el trato inhumano dado a la santa, comenzó a indignarse, y el gobernante se vio obligado a poner fin a las torturas. De este modo, santa Anastasia fue finalmente decapitada con la espada.
+
+Su cuerpo fue arrojado fuera de la ciudad para que sirviera de alimento a las fieras, pero el Señor la preservó. Un ángel guio a la abadesa Sofía hasta su cuerpo mutilado para que pudiera recibir cristiana sepultura.`,
+		}
+	],
 };
