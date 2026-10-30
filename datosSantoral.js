@@ -6291,7 +6291,7 @@ Por esta firme declaración de fe, el obispo fue condenado a sufrir crueles torm
 
 El juez ordenó que ambos hermanos fueran extendidos sobre un lecho de hierro y cubiertos con carbones encendidos, tras lo cual los arrojaron a pez hirviendo. En ese preciso instante, los cielos se abrieron y los mártires fueron refrescados por una lluvia milagrosa.
 
-Finalmente, el santo hermano y su hermana fueron decapitados, recibiendo de este modo sus coronas de gloria eterna.`,
+Finalmente, el santo Hermano y su Hermana fueron decapitados, recibiendo de este modo sus coronas de gloria eterna.`,
 		}
 	],
 };
