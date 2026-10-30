@@ -6267,4 +6267,31 @@ El pueblo, al presenciar el trato inhumano dado a la santa, comenzó a indignars
 Su cuerpo fue arrojado fuera de la ciudad para que sirviera de alimento a las fieras, pero el Señor la preservó. Un ángel guio a la abadesa Sofía hasta su cuerpo mutilado para que pudiera recibir cristiana sepultura.`,
 		}
 	],
+		"10-30": [ 
+		{
+		    name: "San Zenobio y Santa Zenobia",
+		    title: "Los Santos Hermanos, Mártires de Cilicia y Confesores de la Fe",
+		    images: [	
+            	        "Img/ZenobioZenobia.webp",
+            	        "Img/ZenobioZenobia2.webp",
+            	        "Img/ZenobioZenobia3.webp",
+		    ],
+			
+			desc: `Hoy conmemoramos a los santos mártires y hermanos Zenobio y Zenobia. Sufrieron por Cristo en el año 290 d.C., durante las persecuciones del emperador romano Diocleciano.
+
+Los santos Zenobio y Zenobia eran hermanos originarios de la localidad de Egas, en la región de Cilicia (la actual Yumurtalık, en la provincia de Adana, Turquía). Heredaron de sus padres la fe verdadera y una considerable riqueza material.
+
+Tras el fallecimiento de sus progenitores, trabajaron incansablemente por la fe y distribuyeron con gran amor todos sus bienes entre los pobres. A causa de su generosidad, la mano de Dios los protegió de toda malicia de los hombres y de los demonios.
+
+Zenobio fue dotado por Dios con el don de hacer milagros, sanando a los enfermos de toda dolencia con el mero contacto de sus manos. Debido a su celo espiritual y a su gran entrega al pueblo, fue nombrado obispo de Egas.
+
+En el año 290, durante las persecuciones de Diocleciano, el prefecto Lisias arrestó al obispo Zenobio y le dijo: «Te ofrezco dos opciones: vida o muerte; vida si adoras a los dioses, o muerte si no lo haces». El obispo Zenobio respondió: «La vida sin Cristo no es vida sino muerte, mientras que la muerte por amor a Cristo no es muerte sino vida».
+
+Por esta firme declaración de fe, el obispo fue condenado a sufrir crueles tormentos, entre ellos ser suspendido de un caballete mientras su cuerpo era desmembrado. Su fiel hermana Zenobia se presentó ante el juez indignada y exclamó: «Yo también quiero beber de esta copa de sufrimiento y ser coronada con esa misma guirnalda».
+
+El juez ordenó que ambos hermanos fueran extendidos sobre un lecho de hierro y cubiertos con carbones encendidos, tras lo cual los arrojaron a pez hirviendo. En ese preciso instante, los cielos se abrieron y los mártires fueron refrescados por una lluvia milagrosa.
+
+Finalmente, el santo hermano y su hermana fueron decapitados, recibiendo de este modo sus coronas de gloria eterna.`,
+		}
+	],
 };
