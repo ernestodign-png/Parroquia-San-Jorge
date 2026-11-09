@@ -6294,4 +6294,89 @@ El juez ordenó que ambos hermanos fueran extendidos sobre un lecho de hierro y 
 Finalmente, el santo Hermano y su Hermana fueron decapitados, recibiendo de este modo sus coronas de gloria eterna.`,
 		}
 	],
+		"11-09": [ 
+		{
+		    name: "San Nectario el Taumaturgo de Egina",
+		    title: "El Obispo Calumniado, Maestro de Humildad y Manantial de Milagros",
+		    images: [	
+            	        "Img/NectarioEgina.webp",
+            	        "Img/NectarioEgina2.webp",
+            	        "Img/NectarioEgina3.webp",
+            	        "Img/NectarioEgina4.webp",
+            	        "Img/NectarioEgina5.webp",
+            	        "Img/NectarioEgina6.webp",
+            	        "Img/NectarioEgina7.webp",
+            	        "Img/NectarioEgina8.webp",
+            	        "Img/NectarioEgina9.webp",
+            	        "Img/NectarioEgina10.webp",
+		    ],
+			
+			desc: `San Nectario nació con el nombre de Anastasio en 1846 en Tracia, en el seno de una familia de escasos recursos. Tras estudiar en Constantinopla durante su juventud, ingresó a la vida monástica en la isla de Quíos en 1876, adoptando el nombre de Nectario al ser ordenado diácono en 1877.
+
+Luego de completar sus estudios teológicos, se trasladó a Alejandría, donde recibió la ordenación sacerdotal en 1886. Habiendo demostrado un gran celo en la predicación de la Palabra de Dios, fue consagrado metropolita de la Pentápolis, en Libia, en 1889.
+
+Movidos por la envidia ante su popularidad y su rápido ascenso en la jerarquía eclesiástica, ciertos clérigos comenzaron a difundir falsos rumores ante el patriarca Sofronio, insinuando que Nectario ambicionaba ocupar su puesto. Perturbado por estas calumnias, Sofronio le ordenó abandonar Egipto en 1890.
+
+Sin defenderse a sí mismo, Nectario partió hacia Atenas. Debido a que su reputación había sido empañada, le resultó imposible hallar un cargo episcopal. En 1894, fue nombrado director de la Escuela Eclesiástica Rizarión en Atenas. Durante su gestión en dicho cargo, compuso su célebre himno Agni Parthene («Oh, Virgen Pura»).
+
+Mediante sus elocuentes sermones, su dedicación a la formación de los futuros sacerdotes, su generosidad a pesar de su propia pobreza, su gran mansedumbre y su amor paternal, se convirtió en una luz resplandeciente y en guía espiritual para multitudes.
+
+El profundamente humilde san Nectario es ampliamente conocido por haber realizado personalmente las tareas más menudas, tales como barrer los pisos y limpiar los sanitarios.
+
+En 1904, a petición de un grupo de piadosas monjas, comenzó la construcción de un convento consagrado a la Santísima Trinidad en la isla de Egina (actualmente conocido como el Monasterio de San Nectario), lugar donde residió desde 1908 hasta el final de su vida terrenal.
+
+A través de sus oraciones, libró a la isla de una severa sequía, sanó a los enfermos y liberó almas de la posesión demoníaca. Asimismo, soportó con absoluta paciencia cada infundia y calumnia, perdonando a sus acusadores y sin buscar jamás la revancha.
+
+San Nectario reposó en el Señor en el año 1920 en el Hospital Aretaieion de Atenas, a causa de un cáncer de próstata. Tras su deceso, las enfermeras colocaron su camiseta interior sobre la cama de un hombre paralítico, el cual sanó de forma instantánea. Sus funerales fueron oficiados por su más íntimo amigo, san Sabvas de Kálimnos, quien pintó su primer icono.`,
+		},
+		{
+		    name: "La Vida de San Nectario en Iconos",
+		    title: "El Icono Panorámico, los Años de Prueba y el Triunfo de la Mansedumbre",
+		    images: [	
+            	        "Img/VidaNectario.webp",
+            	        "Img/VidaNectario2.webp",
+            	        "Img/VidaNectario3.webp",
+            	        "Img/VidaNectario4.webp",
+            	        "Img/VidaNectario5.webp",
+            	        "Img/VidaNectario6.webp",
+            	        "Img/VidaNectario7.webp",
+            	        "Img/VidaNectario8.webp",
+            	        "Img/VidaNectario9.webp",
+            	        "Img/VidaNectario10.webp",
+            	        "Img/VidaNectario11.webp",
+            	        "Img/VidaNectario12.webp",
+            	        "Img/VidaNectario13.webp",
+            	        "Img/VidaNectario14.webp",
+            	        "Img/VidaNectario15.webp",
+		    ],
+			
+			desc: `Este panel de iconos (con crédito a johnsanidopoulos.com) representa diversas escenas de la vida de san Nectario.
+
+Imagen 2: Su nacimiento en Selimbria, Tracia, en 1846.
+
+Imagen 3: Recibiendo la enseñanza de las letras sagradas de manos de su abuela.
+
+Imagen 4: En la basílica de Santa Sofía, en Constantinopla, a donde se trasladó para estudiar a la edad de catorce años.
+
+Imagen 5: Recibiendo guía espiritual de san Pacomio en la isla de Quíos, donde ingresó a la vida monástica en 1876.
+
+Imagen 6: Su consagración en 1889 como metropolita de la Pentápolis, en Libia, jurisdicción dependiente del Patriarcado de Alejandría.
+
+Imagen 7: Su destierro de Alejandría, después de que algunos colegas envidiosos convencieran al Patriarca de que Nectario albergaba ambiciones de desplazarlo.
+
+Imagen 8: Al no poder hallar un cargo como obispo debido a que su reputación había sido empañada, fue nombrado predicador en Ftiótide, en la Grecia central.
+
+Imagen 9: En oración en la Escuela Eclesiástica Rizarión de Atenas, donde fue nombrado director en 1894.
+
+Imagen 10: San Nectario se dirigió a la isla de Egina en 1904, invitado por monjas piadosas para ayudarles a fundar un convento. A su llegada, sanó a un hombre poseído por demonios.
+
+Imagen 11: Mientras oraba en el monasterio, contempló en una ocasión una visión de las santas Teodosia, Parasquevi y Ciriaca.
+
+Imagen 12: Impartiendo instrucción a las monjas en el monasterio fundado por él en Egina.
+
+Imagen 13: A medida que su santidad despertaba nuevos celos, el santo volvió a ser calumniado, acusado en esta ocasión de cometer actos de depravación en el monasterio. Algunos llegaron a difundir el infundio de que las religiosas daban a luz a sus hijos ilegítimos y que él los arrojaba a un pozo. Al recibir estas denuncias, un fiscal se presentó en el monasterio acompañado de dos agentes y le espetó al santo: «Viejo sucio, ¿dónde están los niños que andas engendrando? ¿Es a esto a lo que te dedicas aquí?». Acto seguido, lo agarró de la sotana y lo amenazó: «¡Te arrancaré la barba pelo a pelo!». San Nectario, con absoluta serenidad, señaló al cielo y respondió: «¡Dios ve! ¡Dios sabe!». Poco después, el fiscal enfermó gravemente y la misma mano con la que había agredido al santo debió ser amputada.
+
+Imágenes 14 y 15: La dormición de san Nectario.`,
+		}
+	],
 };
