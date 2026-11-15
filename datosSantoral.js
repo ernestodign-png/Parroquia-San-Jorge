@@ -6379,4 +6379,22 @@ Imagen 13: A medida que su santidad despertaba nuevos celos, el santo volvió a 
 Imágenes 14 y 15: La dormición de san Nectario.`,
 		}
 	],
+		"11-15": [ 
+		{
+		    name: "El Ayuno de la Natividad",
+		    title: "El Tiempo de Preparación, el Misterio de la Encarnación y el Camino hacia Belén",
+		    img: "Img/AyunoNatividad.webp",
+			desc: `Hoy, cuarenta días antes de la Gran Fiesta de la Natividad de nuestro Señor, marca el inicio del Ayuno de la Natividad. Este es un período de ayuno y preparación reflexiva donde la atención se centra en el gran misterio de la Encarnación de nuestro Señor, mientras aguardamos la gozosa celebración de Su nacimiento el 25 de diciembre.
+
+La Fiesta de la Natividad es la segunda Gran Fiesta Déspota del calendario ortodoxo después de la Santa y Gran Pascua. En preparación, la Iglesia pide a los fieles que se abstengan de ciertos alimentos y bebidas, particularmente de carne, pescado, productos lácteos, aceite de oliva y vino, y que se centren con mayor profundidad en la oración y la limosna.
+
+Según san Simeón de Tesalónica:
+
+«El ayuno de cuarenta días de la Natividad representa el ayuno realizado por Moisés, quien, habiendo ayunado durante cuarenta días y cuarenta noches, recibió los Mandamientos de Dios escritos en tablas de piedra. Y nosotros, ayunando durante cuarenta días, meditaremos y recibiremos de la Virgen el Verbo viviente —no escrito sobre piedra, sino nacido, encarnado—, y comulgaremos de Su Cuerpo Divino».
+
+Este ayuno de la Natividad fue establecido para permitirnos —a través del arrepentimiento, la oración y la abstinencia— purificarnos en preparación para la Gran Fiesta de la Natividad de Cristo. Así como Cristo vino al mundo para traernos Sus gloriosos dones y Su sacrificio, debemos prepararnos para llevarle nuestro corazón, alma y cuerpo limpios, junto con el deseo firme de seguir Sus enseñanzas.
+
+Al comenzar nuestro camino hacia esta Gran Fiesta, debemos recordar tres verdades fundamentales: Dios nos hizo a Su imagen y semejanza, perdimos la comunión con Él a través del pecado, y a través de la Encarnación (la cual marca el inicio de la obra redentora de Cristo y culmina en Su Pasión y Resurrección), nos reunimos con el Creador que viene a habitar entre Su creación y a redimirnos de nuestros pecados.`,
+		}
+	],
 };
