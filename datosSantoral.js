@@ -6397,4 +6397,34 @@ Este ayuno de la Natividad fue establecido para permitirnos —a través del arr
 Al comenzar nuestro camino hacia esta Gran Fiesta, debemos recordar tres verdades fundamentales: Dios nos hizo a Su imagen y semejanza, perdimos la comunión con Él a través del pecado, y a través de la Encarnación (la cual marca el inicio de la obra redentora de Cristo y culmina en Su Pasión y Resurrección), nos reunimos con el Creador que viene a habitar entre Su creación y a redimirnos de nuestros pecados.`,
 		}
 	],
+		"11-16": [ 
+		{
+		    name: "San Mateo el Apóstol y Evangelista",
+		    title: "El Publicano Llamado por el Señor, Testigo del Verbo y Mártir de Etiopía",
+		    images: [	
+            	        "Img/MateoApóstol.webp",
+            	        "Img/MateoApóstol2.webp",
+            	        "Img/MateoApóstol3.webp",
+            	        "Img/MateoApóstol4.webp",
+            	        "Img/MateoApóstol5.webp",
+            	        "Img/MateoApóstol6.webp",
+            	        "Img/MateoApóstol7.webp",
+		    ],
+			desc: `Hoy conmemoramos al Santo Apóstol y Evangelista Mateo. Vivía en la ciudad galilea de Cafarnaúm y era un rico recaudador de impuestos, motivo por el cual era despreciado por muchos de los judíos.
+
+Un día, mientras Mateo se encontraba en su puesto de cobro, Cristo le dijo: «¡Sígueme!» (Mateo 9:9). Al abandonar su caseta de tributos, el publicano devolvió cuadruplicado a cualquiera a quien hubiera defraudado y repartió el resto de sus posesiones entre los necesitados.
+
+Se convirtió en uno de los Doce Apóstoles del Señor y fue testigo presencial de Su pasión, muerte, resurrección y gloriosa ascensión. Después de Pentecostés, Mateo predicó en Palestina y, a petición de los cristianos recién iluminados en Jerusalén, escribió su Evangelio describiendo la vida terrenal del Salvador.
+
+Llevó el Evangelio a Siria, Media, Persia, Partia y, finalmente, a Etiopía, tierra habitada por pueblos bárbaros. Mateo convirtió a muchos idólatras a Cristo y fundó una iglesia en la ciudad de Mirmena, nombrando obispo a su amigo Platón.
+
+El Señor se apareció a Mateo en forma de joven y le entregó un báculo, ordenándole que lo plantara en la iglesia para que creciera y diera fruto, y para que de sus raíces brotara un manantial de agua. Cuando los etíopes se lavaron con aquella agua y comieron del fruto, abandonaron sus costumbres salvajes y se volvieron mansos y piadosos.
+
+Mientras llevaba el báculo hacia la iglesia, Mateo fue abordado por la esposa y el hijo del gobernante pagano Fulvio, quienes estaban afligidos por espíritus inmundos. Mediante sus oraciones, el santo apóstol los sanó. Este milagro convirtió a muchos paganos, lo que desató la furia de Fulvio, quien ordenó la ejecución de Mateo.
+
+Mateo fue colocado en un foso de fuego rodeado de doce ídolos de oro, pero las llamas no lo dañaron; por el contrario, se expandieron hacia Fulvio mientras los ídolos se derretían como cera. El aterrorizado Fulvio suplicó perdón a Mateo y, por las oraciones del mártir, el fuego se extinguió. Con su cuerpo intacto, san Mateo entregó su alma al Señor.
+
+Fulvio se arrepintió profundamente de su acto y, con un sincero deseo de transformación, fue bautizado voluntariamente por el obispo Platón, adoptando el nuevo nombre de Mateo. Poco después, san Fulvio-Mateo abdicó de su gobierno y se hizo sacerdote.`,
+		}
+	],
 };
